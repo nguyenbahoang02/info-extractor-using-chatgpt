@@ -1,0 +1,103 @@
+[
+  { "name": "Nguyễn Thân", "chức vụ": "Võ quan" },
+  { "name": "Nguyễn Thần Hiến", "chức vụ": "Nhà cách mạng" },
+  { "name": "Nguyễn Thị Thủy", "chức vụ": "Đại biểu quốc hội" },
+  { "name": "Nguyễn Thị Xuyên", "chức vụ": "Cung phi" },
+  { "name": "Nguyễn Triệu Luật", "chức vụ": "Nhà giáo" },
+  { "name": "Nguyễn Trọng Quản", "chức vụ": "Nhà giáo" },
+  { "name": "Nguyễn Trọng Thuật", "chức vụ": null },
+  { "name": "Nguyễn Trọng Trí", "chức vụ": null },
+  { "name": "Nguyễn Văn Bá", "chức vụ": "Huyện đội trưởng" },
+  { "name": "Nguyễn Văn Cẩm", "chức vụ": null },
+  { "name": "Nguyễn Văn Vinh", "chức vụ": "Huấn luyện viên" },
+  { "name": "Ông Ích Khiêm", "chức vụ": "Danh tướng" },
+  { "name": "Phạm Hồng Thái", "chức vụ": null },
+  { "name": "Phạm Hữu Chí", "chức vụ": "Bác sĩ" },
+  { "name": "Phạm Liệu", "chức vụ": "Thượng thư Bộ binh" },
+  { "name": "Phạm Văn Ngôn", "chức vụ": null },
+  {
+    "name": "Phan Đăng Lưu",
+    "chức vụ": "Ủy viên Ban Thường vụ Trung ương Đảng"
+  },
+  { "name": "Phan Điện", "chức vụ": null },
+  { "name": "Phan Đình Phùng", "chức vụ": null },
+  { "name": "Phan Ngọc Hiển", "chức vụ": null },
+  { "name": "Phan Phát Sanh", "chức vụ": null },
+  { "name": "Quách Đàm", "chức vụ": null },
+  { "name": "Tạ Thu Thâu", "chức vụ": "Lãnh tụ Cộng sản Đệ Tứ" },
+  { "name": "Tạ Uyên", "chức vụ": "Bí thư xứ ủy" },
+  { "name": "Thái Thị Huyên", "chức vụ": null },
+  { "name": "Thân Trọng Huề", "chức vụ": null },
+  { "name": "Tống Văn Trân", "chức vụ": null },
+  { "name": "Trần Bình", "chức vụ": "Thừa tướng" },
+  { "name": "Trần Chánh Chiếu", "chức vụ": null },
+  { "name": "Trần Phong Sắc", "chức vụ": null },
+  { "name": "Trần Tế Xương", "chức vụ": null },
+  { "name": "Trịnh Khắc Lập", "chức vụ": null },
+  { "name": "Trịnh Văn Cấn", "chức vụ": null },
+  { "name": "Trương Gia Mô", "chức vụ": null },
+  { "name": "Từ Diễn Đồng", "chức vụ": null },
+  { "name": "Từ Đạm", "chức vụ": null },
+  { "name": "Viên Thành", "chức vụ": null },
+  { "name": "Võ Chuẩn", "chức vụ": "Tổng đốc" },
+  {
+    "name": "Võ Văn Tần",
+    "chức vụ": "Lãnh đạo cấp cao của Đảng Cộng sản Đông Dương"
+  },
+  {
+    "name": "Vũ Ngọc Ánh",
+    "chức vụ": "Bộ trưởng Y tế trong Nội các Trần Trọng Kim"
+  },
+  { "name": "Vũ Phạm Hàm", "chức vụ": "Nhất giáp Tam nguyên" },
+  { "name": "Vũ Trọng Phụng", "chức vụ": "Nhà văn, nhà báo" },
+  { "name": "Bàng Bá Lân", "chức vụ": "Nhà thơ, nhà giáo, nhà nhiếp ảnh" },
+  {
+    "name": "Bùi Giáng",
+    "chức vụ": "Nhà thơ, dịch giả, nhà nghiên cứu văn học"
+  },
+  { "name": "Bùi Huy Phồn", "chức vụ": "Nhà thơ, nhà văn, nhà báo" },
+  {
+    "name": "Bùi Kỷ",
+    "chức vụ": "Nhà giáo, nhà Nho học, nhà nghiên cứu văn hóa"
+  },
+  {
+    "name": "Bùi Lâm",
+    "chức vụ": "Uỷ viên thường vụ xứ uỷ Nam Kỳ, Chánh án Toà án Quân sự đặc biệt, Viện trưởng Viện Công tố Trung ương, Đại sứ đặc mệnh toàn quyền tại Bungari và Cộng hòa Dân chủ Đức, Đại biểu Quốc hội"
+  },
+  { "name": "Bùi Xuân Phái", "chức vụ": "Họa sĩ" },
+  { "name": "Ca Văn Thỉnh", "chức vụ": "Giáo sư" },
+  { "name": "Cao Triều Phát", "chức vụ": "Đại biểu quốc hội" },
+  { "name": "Cao Văn Lầu", "chức vụ": "Nhạc sĩ" },
+  { "name": "Chu Văn Tấn", "chức vụ": "Thượng tướng" },
+  { "name": "Cung Giũ Nguyên", "chức vụ": null },
+  { "name": "Dương Bạch Mai", "chức vụ": null },
+  { "name": "Dương Đức Hiền", "chức vụ": "Tổng bí thư" },
+  {
+    "name": "Dương Quảng Hàm",
+    "chức vụ": "Nhà nghiên cứu văn học, nhà giáo dục"
+  },
+  { "name": "Dương Tụ Quán", "chức vụ": "Nhà văn, nhà báo" },
+  { "name": "Đái Đức Tuấn", "chức vụ": "Kí giả, văn sĩ, thi sĩ" },
+  {
+    "name": "Đặng Phúc Thông",
+    "chức vụ": "Thứ trưởng Bộ Giao thông công chính"
+  },
+  { "name": "Đặng Văn Ngữ", "chức vụ": "Bác sĩ y khoa" },
+  { "name": "Đặng Vũ Hỷ", "chức vụ": "Giáo sư, Bác sĩ chuyên khoa da liễu" },
+  {
+    "name": "Đặng Xuân Viện",
+    "chức vụ": "Nhà văn, nhà nghiên cứu văn học và sử học"
+  },
+  { "name": "Đào Trinh Nhất", "chức vụ": "Nhà văn, nhà báo" },
+  { "name": "Đoàn Như Khuê", "chức vụ": "Nhà báo, nhà thơ" },
+  { "name": "Đoàn Phú Tứ", "chức vụ": "Nhà soạn kịch, nhà thơ, dịch giả" },
+  { "name": "Đoàn Văn Cừ", "chức vụ": "Nhà thơ" },
+  { "name": "Hạ Bá Cang", "chức vụ": "Chính khách" },
+  { "name": "Hà Huy Giáp", "chức vụ": "Nhà hoạt động cách mạng và chính trị" },
+  { "name": "Hồ Đắc Di", "chức vụ": "Bác sĩ và hiệu trưởng" },
+  { "name": "Hồ Liên", "chức vụ": "Tướng" },
+  { "name": "Hồ Tá Khanh", "chức vụ": "Bộ trưởng Bộ Kinh tế" },
+  { "name": "Hồ Thị Hạnh", "chức vụ": "Quận chúa" },
+  { "name": "Hồ Trọng Hiếu", "chức vụ": null },
+  { "name": "Hồ Tùng Mậu", "chức vụ": null }
+]
