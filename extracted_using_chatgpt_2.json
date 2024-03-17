@@ -1,0 +1,107 @@
+[
+  { "name": "Lê Nguyên Khang", "chức vụ": "Trung tướng" },
+  { "name": "Nguyễn Đức Mậu", "chức vụ": "Không có" },
+  { "name": "Mạc Thiên Tứ", "chức vụ": "Danh thần" },
+  { "name": "Lý Tự Trọng", "chức vụ": "Không có" },
+  { "name": "Khúc Thừa Mỹ", "chức vụ": "Tiết độ sứ" },
+  { "name": "Lê Đạt", "chức vụ": "Không có" },
+  { "name": "Nguyễn Phan Long", "chức vụ": "Thủ tướng và Tổng trưởng Nội vụ" },
+  { "name": "Nguyễn Phúc Nguyên", "chức vụ": "Chúa Nguyễn" },
+  { "name": "Lê Quý Đôn", "chức vụ": "Quan thời Lê trung hưng" },
+  { "name": "Phan Huy Quát", "chức vụ": "Thủ tướng và Tổng trưởng Quốc phòng" },
+  { "name": "Trần Trọng Kim", "chức vụ": "Thủ tướng" },
+  { "name": "Lê Khả Phiêu", "chức vụ": "Thống đốc" },
+  { "name": "Mạc Thái Tổ", "chức vụ": "Hoàng đế" },
+  { "name": "Nguyễn Phúc Lan", "chức vụ": "Chúa Nguyễn" },
+  { "name": "Lý Nhân Tông", "chức vụ": "Hoàng đế" },
+  { "name": "Trần Hữu Dực", "chức vụ": "Phó Thủ tướng và Bộ trưởng" },
+  {
+    "name": "Trần Bửu Kiếm",
+    "chức vụ": "Đảng viên và thành viên Chính phủ Cách mạng lâm thời"
+  },
+  {
+    "name": "Trần Quỳnh",
+    "chức vụ": "Phó Chủ tịch Hội đồng Bộ trưởng và Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước"
+  },
+  {
+    "name": "Trần Văn Giàu",
+    "chức vụ": "Bí thư Xứ ủy và Chủ tịch Ủy ban kháng chiến"
+  },
+  { "name": "Trương Văn Sáu", "chức vụ": "Chủ tịch HĐND tỉnh" },
+  { "name": "Phạm Văn Phú", "chức vụ": "Thiếu tướng" },
+  { "name": "Nguyễn Sáng", "chức vụ": "Không có" },
+  { "name": "Phạm Tuyên", "chức vụ": "Chủ tịch Hội Âm nhạc" },
+  { "name": "Nguyễn Văn Tỵ", "chức vụ": "Tổng thư ký" },
+  { "name": "Phùng Hưng", "chức vụ": "Lãnh tụ nổi dậy" },
+  { "name": "Nguyễn Gia Thiều", "chức vụ": "Không có" },
+  { "name": "Nguyễn Thị Doan", "chức vụ": "Phó Chủ tịch nước" },
+  { "name": "Nguyễn Đình Chiểu", "chức vụ": "Nhà thơ" },
+  {
+    "name": "Nguyễn Phúc Tần",
+    "chức vụ": "Chúa Nguyễn (địa vị lãnh đạo chính quyền Đàng Trong)"
+  },
+  { "name": "Lê Thanh Nghị", "chức vụ": "Phó Thủ tướng" },
+  {
+    "name": "Lê Văn Lương",
+    "chức vụ": "Ủy viên Bộ Chính trị, Bí thư Thành ủy Hà Nội"
+  },
+  {
+    "name": "Nguyễn Khuyến",
+    "chức vụ": "Không có thông tin về chức vụ cụ thể"
+  },
+  {
+    "name": "Nguyễn Trường Tộ",
+    "chức vụ": "Không có thông tin về chức vụ cụ thể"
+  },
+  { "name": "Lê Thanh Long", "chức vụ": "Đại biểu Quốc hội" },
+  { "name": "Lê Văn Lan", "chức vụ": "Phó chủ tịch Hội đồng khoa học" },
+  { "name": "Nguyễn Văn Lập", "chức vụ": "Chiến sĩ" },
+  { "name": "Trịnh Văn Bô", "chức vụ": "Thương nhân" },
+  { "name": "Trần Đình Túc", "chức vụ": "Quan đại thần" },
+  { "name": "Trần Tử Bình", "chức vụ": "Tướng" },
+  { "name": "Trần Văn Hữu", "chức vụ": "Thủ tướng" },
+  { "name": "Trương Mỹ Hoa", "chức vụ": "Phó Chủ tịch nước" },
+  { "name": "Nguyễn Văn Được", "chức vụ": "Thượng tướng" },
+  { "name": "Đặng Thị Ngọc Thịnh", "chức vụ": "Quốc hội Việt Nam" },
+  {
+    "name": "Đặng Phúc Thông",
+    "chức vụ": "Thứ trưởng Bộ Giao thông công chính"
+  },
+  { "name": "Hoàng Văn Đức", "chức vụ": "Đại biểu Quốc hội" },
+  { "name": "Đỗ Bá Tỵ", "chức vụ": "Đại tướng" },
+  { "name": "Lê Mã Lương", "chức vụ": "Thiếu tướng" },
+  { "name": "Trưng Trắc", "chức vụ": "Nữ vương của vương quốc Lĩnh Nam" },
+  { "name": "Trưng Nhị", "chức vụ": "Nữ phó vương của vương quốc Lĩnh Nam" },
+  {
+    "name": "Trần Văn Giang",
+    "chức vụ": "Chính ủy Quân chủng Hải quân Việt Nam"
+  },
+  { "name": "Nguyễn Như Hoạt", "chức vụ": "Tư lệnh Quân khu Thủ đô" },
+  { "name": "Nguyễn Quyết", "chức vụ": "Nguyên Phó Chủ tịch nước" },
+  {
+    "name": "Nguyễn Hữu Hạnh",
+    "chức vụ": "Cựu Tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa"
+  },
+  { "name": "Nguyễn Lương Bằng", "chức vụ": "Phó Chủ tịch nước Việt Nam" },
+  { "name": "Nguyễn Mạnh Cầm", "chức vụ": "Phó Thủ tướng Chính phủ" },
+  { "name": "Bùi Nam Hà", "chức vụ": "Phó Tổng thanh tra Quân đội" },
+  { "name": "Nguyễn Ngọc Trân", "chức vụ": null },
+  { "name": "Phạm Xuân Thệ", "chức vụ": "Đại tá" },
+  { "name": "Nguyễn Văn Tình", "chức vụ": "Phó Đô đốc" },
+  { "name": "Trần Đức Anh Sơn", "chức vụ": "Nhà nghiên cứu" },
+  {
+    "name": "Nguyễn Thị Mai Hoa",
+    "chức vụ": "Phó Chủ nhiệm Ủy ban Văn hóa, giáo dục của Quốc hội"
+  },
+  { "name": "Nguyễn Thái Bình", "chức vụ": "Sinh viên phản chiến" },
+  { "name": "Nguyễn Thanh Hồng", "chức vụ": "Thiếu tướng" },
+  { "name": "Vũ Kỳ", "chức vụ": "Đại biểu Quốc hội" },
+  { "name": "Vũ Đức Đam", "chức vụ": "Phó Thủ tướng Chính phủ" },
+  { "name": "Vũ Đại", "chức vụ": "Không có thông tin về chức vụ" },
+  { "name": "Nguyễn Tiến Hưng", "chức vụ": "Không có thông tin về chức vụ" },
+  { "name": "Trần Thừa", "chức vụ": "Thái Thượng hoàng" },
+  { "name": "Trần Thuận Tông", "chức vụ": "Hoàng đế" },
+  { "name": "Trần Nhật Duật", "chức vụ": "Danh tướng" },
+  { "name": "Triệu Việt Vương", "chức vụ": "Nhà lãnh đạo khởi nghĩa" },
+  { "name": "Trần Duệ Tông", "chức vụ": "Hoàng đế" }
+]
