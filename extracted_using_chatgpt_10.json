@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Hồ Tùng Mậu",
+    "chức vụ": "Tổng Thanh tra Ban Thanh tra Chính phủ"
+  },
+  { "name": "Hoàng Đạo Thúy", "chức vụ": "Đại tá Quân đội nhân dân Việt Nam" },
+  { "name": "Hoàng Phạm Trân", "chức vụ": "Nhà văn, nhà báo, dịch giả" },
+  { "name": "Hoàng Tích Trí", "chức vụ": "Bộ trưởng Bộ Y tế Việt Nam" },
+  {
+    "name": "Hoàng Xuân Hãn",
+    "chức vụ": "Nhà sử học, nhà ngôn ngữ học, nhà nghiên cứu văn hóa, giáo dục Việt Nam"
+  },
+  { "name": "Huỳnh Ngọc Huệ", "chức vụ": "Bí thư Thành ủy Đà Nẵng" },
+  {
+    "name": "Huỳnh Tấn Phát",
+    "chức vụ": "Thủ tướng Cộng hòa miền Nam Việt Nam"
+  },
+  { "name": "Huỳnh Thị Bảo Hòa", "chức vụ": null },
+  { "name": "Huỳnh Văn Trí", "chức vụ": null },
+  {
+    "name": "Kha Vạng Cân",
+    "chức vụ": "Bộ trưởng Công nghiệp nhẹ Việt Nam Dân chủ Cộng hòa"
+  },
+  { "name": "Khương Hữu Dụng", "chức vụ": null },
+  { "name": "Lâm Quang Thự", "chức vụ": null },
+  { "name": "Lâm Thế Nhơn", "chức vụ": null },
+  {
+    "name": "Lê Duẩn",
+    "chức vụ": "Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam"
+  },
+  { "name": "Lê Hiến Mai", "chức vụ": "Trung tướng" },
+  {
+    "name": "Lê Khắc",
+    "chức vụ": "Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước"
+  },
+  { "name": "Lê Phổ", "chức vụ": null },
+  { "name": "Lê Quảng Ba", "chức vụ": "Tư lệnh đầu tiên Quân khu Việt Bắc" },
+  {
+    "name": "Lê Quang Vinh",
+    "chức vụ": "Tư lệnh một đội quân biệt lập của Giáo phái Hòa Hảo"
+  },
+  { "name": "Lê Tất Đắc", "chức vụ": null },
+  { "name": "Lê Thị Lựu", "chức vụ": null },
+  {
+    "name": "Lê Thị Xuyến",
+    "chức vụ": "Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam"
+  },
+  { "name": "Lê Thiết Hùng", "chức vụ": "Thiếu tướng" },
+  { "name": "Lê Thước", "chức vụ": null },
+  { "name": "Lê Trọng Tấn", "chức vụ": "Đại tướng" },
+  { "name": "Lê Văn Hiến", "chức vụ": "Bộ trưởng" },
+  { "name": "Lê Văn Sĩ", "chức vụ": "Bí thư Thành ủy" },
+  { "name": "Lê Văn Thới", "chức vụ": "Giáo sư" },
+  { "name": "Lê Văn Trương", "chức vụ": "Nhà báo, nhà văn" },
+  { "name": "Lưu Hữu Phước", "chức vụ": "Nhạc sĩ" },
+  { "name": "Lưu Quang Thuận", "chức vụ": "Nhà thơ và nhà soạn kịch" },
+  { "name": "Lưu Trọng Lư", "chức vụ": "Nhà thơ, nhà văn, nhà soạn kịch" },
+  { "name": "Lưu Văn Lang", "chức vụ": "Kỹ sư" },
+  { "name": "Nghiêm Thẩm", "chức vụ": "Giáo sư" },
+  { "name": "Ngô Gia Hy", "chức vụ": "Bác sĩ, nhà giáo" },
+  {
+    "name": "Ngô Gia Khảm",
+    "chức vụ": "Trưởng ban Ban Thanh tra Bộ Giao thông Vận tải, Giám đốc Nhà máy Toa Xe lửa"
+  },
+  { "name": "Ngô Tất Tố", "chức vụ": null },
+  { "name": "Ngô Tử Hạ", "chức vụ": null },
+  { "name": "Ngô Xuân Diệu", "chức vụ": null },
+  { "name": "Ngụy Như Kontum", "chức vụ": null },
+  { "name": "Nguyễn Cao Luyện", "chức vụ": null },
+  { "name": "Nguyễn Chánh Sắt", "chức vụ": null },
+  { "name": "Nguyễn Chí Thanh", "chức vụ": "Đại tướng" },
+  { "name": "Nguyễn Côn", "chức vụ": "Phó Thủ tướng" },
+  { "name": "Nguyễn Công Hoan", "chức vụ": null },
+  { "name": "Nguyễn Công Tiễu", "chức vụ": null },
+  { "name": "Nguyễn Đăng Thục", "chức vụ": null },
+  { "name": "Nguyễn Đình Hòa", "chức vụ": null },
+  { "name": "Nguyễn Đình Lạp", "chức vụ": null },
+  { "name": "Nguyễn Đỗ Cung", "chức vụ": null },
+  { "name": "Nguyễn Đỗ Mục", "chức vụ": null },
+  {
+    "name": "Nguyễn Đóa",
+    "chức vụ": "Phó Chủ tịch Chính phủ Cách Mạng Lâm thời Cộng Hòa Miền Nam Việt Nam"
+  },
+  {
+    "name": "Nguyễn Đổng Chi",
+    "chức vụ": "Quyền Viện trưởng Viện Nghiên cứu Hán Nôm"
+  },
+  {
+    "name": "Nguyễn Đức Long",
+    "chức vụ": "Chủ tịch Ủy ban nhân dân tỉnh Quảng Ninh"
+  },
+  { "name": "Nguyễn Giang", "chức vụ": null },
+  { "name": "Nguyễn Hiến Lê", "chức vụ": null },
+  { "name": "Nguyễn Hoàng", "chức vụ": "Chúa Nguyễn đầu tiên" },
+  { "name": "Nguyễn Hữu Kha", "chức vụ": "Bộ trưởng Bộ Cứu tế xã hội" },
+  { "name": "Nguyễn Huy Tưởng", "chức vụ": null },
+  { "name": "Nguyễn Lân", "chức vụ": null },
+  { "name": "Nguyễn Lương Bằng", "chức vụ": "Phó Chủ tịch nước Việt Nam" },
+  { "name": "Nguyễn Mạnh Phác", "chức vụ": "Nhà viết kịch" },
+  { "name": "Nguyễn Ngọc Nhựt", "chức vụ": "Không có" },
+  { "name": "Nguyễn Ngọc Tương", "chức vụ": "Giáo tông Cao Đài" },
+  {
+    "name": "Nguyễn Nho Túy",
+    "chức vụ": "Trưởng Ban nghiên cứu tuồng thuộc Vụ Nghệ thuật sân khấu Bộ Văn hóa"
+  },
+  {
+    "name": "Nguyễn Phan Long",
+    "chức vụ": "Thủ tướng và Tổng trưởng Nội vụ của chính phủ Quốc gia Việt Nam"
+  },
+  {
+    "name": "Nguyễn Phúc Bửu Hội",
+    "chức vụ": "Nhà khoa học chuyên ngành hóa học, chuyên về tổng hợp hữu cơ và dược phẩm"
+  },
+  { "name": "Nguyễn Phúc Bửu Lân", "chức vụ": "Hoàng đế" },
+  { "name": "Nguyễn Phúc Ưng Úy", "chức vụ": "Hoàng thân" },
+  { "name": "Nguyễn Sáng", "chức vụ": "Danh họa" },
+  { "name": "Nguyễn Thành Tâm", "chức vụ": "Bí thư Tỉnh ủy" },
+  { "name": "Nguyễn Thứ Lễ", "chức vụ": "Nhà thơ, nhà văn, nhà soạn kịch" },
+  { "name": "Nguyễn Thức Canh", "chức vụ": "Chiến sĩ cách mạng, bác sĩ" },
+  { "name": "Nguyễn Tiến Chung", "chức vụ": "Họa sĩ" }
+]
