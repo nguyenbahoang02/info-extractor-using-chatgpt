@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Lê Thanh Long",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Lê Văn Hòa" },
+      { "loại": "con", "tên": "Lê Thanh Hòa" },
+      { "loại": "con", "tên": "Lê Thanh Tâm" }
+    ]
+  },
+  { "name": "Lê Văn Lan", "liên hệ": null },
+  { "name": "Nguyễn Văn Lập", "liên hệ": null },
+  { "name": "Trịnh Văn Bô", "liên hệ": null },
+  { "name": "Trần Đình Túc", "liên hệ": null },
+  { "name": "Trần Tử Bình", "liên hệ": null },
+  { "name": "Trần Văn Hữu", "liên hệ": null },
+  { "name": "Trương Mỹ Hoa", "liên hệ": null },
+  { "name": "Nguyễn Văn Được", "liên hệ": null },
+  { "name": "Đặng Phúc Thông", "liên hệ": null },
+  { "name": "Hoàng Văn Đức", "liên hệ": null },
+  { "name": "Đỗ Bá Tỵ", "liên hệ": null },
+  { "name": "Lê Mã Lương", "liên hệ": null },
+  { "name": "Trưng Trắc", "liên hệ": null },
+  { "name": "Trưng Nhị", "liên hệ": null },
+  { "name": "Trần Văn Giang", "liên hệ": null },
+  { "name": "Nguyễn Như Hoạt", "liên hệ": null },
+  { "name": "Nguyễn Quyết", "liên hệ": null },
+  { "name": "Nguyễn Hữu Hạnh", "liên hệ": null },
+  { "name": "Nguyễn Lương Bằng", "liên hệ": null },
+  { "name": "Nguyễn Mạnh Cầm", "liên hệ": null },
+  { "name": "Bùi Nam Hà", "liên hệ": null },
+  { "name": "Nguyễn Ngọc Trân", "liên hệ": null },
+  { "name": "Phạm Xuân Thệ", "liên hệ": null },
+  { "name": "Nguyễn Văn Tình", "liên hệ": null },
+  { "name": "Trần Đức Anh Sơn", "liên hệ": null },
+  { "name": "Nguyễn Thị Mai Hoa", "liên hệ": null },
+  { "name": "Nguyễn Thái Bình", "liên hệ": null },
+  { "name": "Nguyễn Thanh Hồng", "liên hệ": null },
+  { "name": "Vũ Kỳ", "liên hệ": null },
+  { "name": "Vũ Đức Đam", "liên hệ": null },
+  { "name": "Đinh Xuân Lâm", "liên hệ": null },
+  { "name": "Vũ Đại", "liên hệ": null },
+  { "name": "Nguyễn Tiến Hưng", "liên hệ": null },
+  { "name": "Trần Thừa", "liên hệ": null },
+  { "name": "Trần Thuận Tông", "liên hệ": null },
+  {
+    "name": "Trần Nhật Duật",
+    "liên hệ": { "loại": "cha", "tên": "Trần Thái Tông" }
+  },
+  { "name": "Triệu Việt Vương", "liên hệ": null },
+  { "name": "Trần Duệ Tông", "liên hệ": null },
+  { "name": "Lý Cao Tông", "liên hệ": null },
+  { "name": "Trịnh Doanh", "liên hệ": null },
+  { "name": "Bùi Trang Chước", "liên hệ": null },
+  { "name": "Lý Huệ Tông", "liên hệ": null },
+  { "name": "Trần Văn Đôn", "liên hệ": null },
+  { "name": "Dương Tam Kha", "liên hệ": null },
+  {
+    "name": "Trần Liễu",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Trần Thái Tổ" },
+      { "loại": "mẹ", "tên": "Chưa có thông tin" }
+    ]
+  },
+  {
+    "name": "Trịnh Kiểm",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Chưa có thông tin" },
+      { "loại": "mẹ", "tên": "Chưa có thông tin" }
+    ]
+  },
+  {
+    "name": "Dương Nhật Lễ",
+    "liên hệ": [
+      { "loại": "cha nuôi", "tên": "Trần Dụ Tông" },
+      { "loại": "mẹ", "tên": "Chưa có thông tin" }
+    ]
+  },
+  {
+    "name": "Nguyễn Khoa Nam",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Chưa có thông tin" },
+      { "loại": "mẹ", "tên": "Chưa có thông tin" }
+    ]
+  },
+  { "name": "Mạc Toàn", "liên hệ": null },
+  { "name": "Trịnh Tùng", "liên hệ": null },
+  { "name": "Trịnh Giang", "liên hệ": null },
+  { "name": "Trần Tự Khánh", "liên hệ": null },
+  { "name": "Nguyễn Châu", "liên hệ": null },
+  { "name": "Lý Thánh Tông", "liên hệ": null },
+  { "name": "Nguyễn Chích", "liên hệ": null },
+  { "name": "Lý Anh Tông", "liên hệ": null },
+  { "name": "Nguyễn Phúc Luân", "liên hệ": null },
+  { "name": "Trần Quốc Khang", "liên hệ": null },
+  { "name": "Ngô Du", "liên hệ": null },
+  { "name": "Trịnh Tráng", "liên hệ": null },
+  { "name": "Lương Văn Can", "liên hệ": null },
+  { "name": "Ngô Xuân Lịch", "liên hệ": null },
+  { "name": "Lý Tòng Bá", "liên hệ": null },
+  { "name": "Trương Tấn Sang", "liên hệ": null }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Đào Tiêu",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Trần Thánh Tông" },
+      { "loại": "mẹ", "tên": "Không có thông tin" },
+      { "loại": "anh/em", "tên": "Trần Hưng Đạo" }
+    ]
+  },
+  {
+    "name": "Đinh Liệt",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Đinh Lễ" },
+      { "loại": "mẹ", "tên": "Không có thông tin" }
+    ]
+  },
+  { "name": "Khâm Đức", "liên hệ": null },
+  { "name": "Lại Kim Bảng", "liên hệ": null },
+  { "name": "Lê Bảng", "liên hệ": null },
+  { "name": "Lê Đức Toản", "liên hệ": null },
+  { "name": "Lê Hiếu Trung", "liên hệ": null },
+  { "name": "Lê Ích Mộc", "liên hệ": null },
+  {
+    "name": "Lê Khôi",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Lê Trừ" },
+      { "loại": "anh/em", "tên": "Lê Lợi" }
+    ]
+  },
+  {
+    "name": "Lê Nại",
+    "liên hệ": [
+      { "loại": "em", "tên": "Lê Tư" },
+      { "loại": "con", "tên": "Lê Quang Bí" }
+    ]
+  },
+  { "name": "Lê Niệm", "liên hệ": null },
+  { "name": "Lê Sạn", "liên hệ": null },
+  { "name": "Lê Sát", "liên hệ": null },
+  { "name": "Lê Tân", "liên hệ": null },
+  { "name": "Lê Thạch", "liên hệ": [{ "loại": "chú", "tên": "Lê Lợi" }] },
+  {
+    "name": "Lê Thiếu Dĩnh",
+    "liên hệ": [{ "loại": "cha", "tên": "Lê Cảnh Tuân" }]
+  },
+  { "name": "Lê Tư Thành", "liên hệ": null },
+  { "name": "Lê Tuấn Mậu", "liên hệ": null },
+  { "name": "Lê Tung", "liên hệ": null },
+  { "name": "Lê Văn Linh", "liên hệ": null },
+  { "name": "Lương Đắc Bằng", "liên hệ": null },
+  { "name": "Lương Thế Vinh", "liên hệ": null },
+  { "name": "Lưu Nhân Chú", "liên hệ": null },
+  { "name": "Ngô Chi Lan", "liên hệ": null },
+  { "name": "Ngô Sĩ Liên", "liên hệ": null },
+  { "name": "Ngô Thị Ngọc Dao", "liên hệ": null },
+  { "name": "Ngô Từ", "liên hệ": [{ "loại": "cha", "tên": "Ngô Kinh" }] },
+  {
+    "name": "Nguyễn Giản Thanh",
+    "liên hệ": [{ "loại": "thân phụ", "tên": "Nguyễn Giản Liêm" }]
+  },
+  {
+    "name": "Nguyễn Thị Anh",
+    "liên hệ": [{ "loại": "con", "tên": "Lê Nhân Tông" }]
+  },
+  {
+    "name": "Nguyễn Thị Lộ",
+    "liên hệ": [{ "loại": "vợ", "tên": "Nguyễn Trãi" }]
+  },
+  { "name": "Quách Đình Bảo", "liên hệ": null },
+  { "name": "Trịnh Khả", "liên hệ": null },
+  { "name": "Lê Tuấn Kiệt", "liên hệ": null },
+  { "name": "Bùi Văn Khuê", "liên hệ": null },
+  { "name": "Bùi Vịnh", "liên hệ": null },
+  { "name": "Đổng Hiền", "liên hệ": null },
+  { "name": "Hoàng Sầm", "liên hệ": null },
+  { "name": "Hoàng Sĩ Khải", "liên hệ": null },
+  { "name": "Lê Vô Cương", "liên hệ": null },
+  { "name": "Mạc Chính Trung", "liên hệ": null },
+  { "name": "Mạc Đăng Doanh", "liên hệ": null },
+  { "name": "Mạc Đăng Dung", "liên hệ": null },
+  { "name": "Mạc Đôn Nhượng", "liên hệ": null },
+  { "name": "Mạc Kính Chỉ", "liên hệ": null },
+  { "name": "Mạc Kính Cung", "liên hệ": null },
+  { "name": "Mạc Kính Khoan", "liên hệ": null },
+  { "name": "Mạc Mậu Hợp", "liên hệ": null },
+  { "name": "Mạc Ngọc Liễn", "liên hệ": null },
+  { "name": "Mạc Phúc Hải", "liên hệ": null },
+  { "name": "Mạc Phúc Nguyên", "liên hệ": null },
+  { "name": "Nguyễn Bỉnh Khiêm", "liên hệ": null },
+  { "name": "Bùi Trụ", "liên hệ": null },
+  { "name": "Trịnh Kiểm", "liên hệ": null },
+  {
+    "name": "Bùi Bỉnh Quân",
+    "liên hệ": { "loại": "ông nội", "tên": "Bùi Xương Trạch" }
+  },
+  { "name": "Bùi Huy Bích", "liên hệ": null },
+  {
+    "name": "Đặng Đình Lân",
+    "liên hệ": { "loại": "cháu", "tên": "Trịnh Tạc" }
+  },
+  { "name": "Đinh Tích Nhưỡng", "liên hệ": null },
+  { "name": "Đoàn Thị Điểm", "liên hệ": null },
+  { "name": "Giang Văn Minh", "liên hệ": null },
+  { "name": "Hoàng Nghĩa Phú", "liên hệ": null },
+  { "name": "Hoàng Ngũ Phúc", "liên hệ": null },
+  { "name": "Lê Duy Hợp", "liên hệ": null },
+  {
+    "name": "Lê Duy Mật",
+    "liên hệ": { "loại": "cha", "tên": "Vua Lê Dụ Tông" }
+  },
+  { "name": "Lê Hữu Trác", "liên hệ": null },
+  { "name": "Lê Quí Đôn", "liên hệ": null },
+  { "name": "Lê Quýnh", "liên hệ": null },
+  { "name": "Lê Trọng Thứ", "liên hệ": { "loại": "cha", "tên": "Lê Quý Đôn" } },
+  { "name": "Mạc Cửu", "liên hệ": null },
+  { "name": "Mạc Kính Vũ", "liên hệ": null },
+  { "name": "Mạc Thị Giai", "liên hệ": null },
+  { "name": "Ngô Cảnh Hoàn", "liên hệ": null },
+  { "name": "Ngô Thì Sĩ", "liên hệ": null },
+  { "name": "Nguyễn Bá Lân", "liên hệ": null },
+  { "name": "Nguyễn Công Hãng", "liên hệ": null }
+]

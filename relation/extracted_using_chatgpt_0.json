@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Trần Văn Trà",
+    "liên hệ": [
+      { "loại": "con trai", "tên": "Trần Văn Trà" },
+      { "loại": "cha", "tên": "Nguyễn Chấn" }
+    ]
+  },
+  { "name": "Phan Huy Lê", "liên hệ": null },
+  { "name": "Phạm Công Trứ", "liên hệ": null },
+  { "name": "Nguyễn Bặc", "liên hệ": null },
+  {
+    "name": "Nguyễn Hoàng",
+    "liên hệ": [
+      { "loại": "ông nội", "tên": "Nguyễn Hoằng Dụ" },
+      { "loại": "cha", "tên": "Nguyễn Kim" },
+      { "loại": "anh trai", "tên": "Nguyễn Uông" },
+      { "loại": "chị gái", "tên": "Nguyễn Thị Ngọc Bảo" }
+    ]
+  },
+  { "name": "Hoàng Minh Thảo", "liên hệ": null },
+  { "name": "Bùi Tín", "liên hệ": [{ "loại": "cha", "tên": "Bùi Bằng Đoàn" }] },
+  { "name": "Ngô Quang Trưởng", "liên hệ": null },
+  { "name": "Nguyễn Kim", "liên hệ": null },
+  { "name": "Nguyễn Phúc Khoát", "liên hệ": null },
+  { "name": "Mạc Mậu Hợp", "liên hệ": null },
+  { "name": "Mạc Tuyên Tông", "liên hệ": null },
+  { "name": "Phan Huy Ích", "liên hệ": null },
+  { "name": "Phạm Văn Trà", "liên hệ": null },
+  {
+    "name": "Nguyễn Phúc Thái",
+    "liên hệ": { "loại": "con", "tên": "Nguyễn Phúc Tần" }
+  },
+  { "name": "Phan Huy Chú", "liên hệ": null },
+  { "name": "Kiến Phúc", "liên hệ": null },
+  { "name": "Võ Chí Công", "liên hệ": null },
+  { "name": "Nguyễn Khánh", "liên hệ": null },
+  { "name": "Lê Đức Anh", "liên hệ": null },
+  { "name": "Tự Đức", "liên hệ": null },
+  { "name": "Minh Mạng", "liên hệ": null },
+  { "name": "Lê Duẩn", "liên hệ": null },
+  { "name": "Võ Nguyên Giáp", "liên hệ": null },
+  { "name": "Dương Thu Hương", "liên hệ": null },
+  { "name": "Trần Quang Diệu", "liên hệ": null },
+  { "name": "Nguyễn Hải Thần", "liên hệ": null },
+  { "name": "Huỳnh Tấn Phát", "liên hệ": null },
+  { "name": "Trương Định", "liên hệ": null },
+  { "name": "Nguyễn Huỳnh Đức", "liên hệ": null },
+  { "name": "Khúc Hạo", "liên hệ": { "loại": "cha", "tên": "Khúc Thừa Dụ" } },
+  { "name": "Mạc Cửu", "liên hệ": null },
+  { "name": "Phạm Hồng Thái", "liên hệ": null },
+  { "name": "Hoàng Cầm", "liên hệ": null },
+  { "name": "Trần Thiện Khiêm", "liên hệ": null },
+  { "name": "Nguyễn Chí Thanh", "liên hệ": null },
+  { "name": "Phạm Văn Sơn", "liên hệ": null },
+  { "name": "Nguyễn Phúc Dương", "liên hệ": null }
+]

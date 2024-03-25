@@ -28,30 +28,29 @@ chatgpt = ChatGPTAutomation(chrome_path, chrome_driver_path)
 for obj in json_objects:
     if 'description' not in obj:
         continue
-    if obj['name'] == "Nguyễn Tiến Chung":
+    if obj['name'] == "Ngô Thế Vinh":
         start_iteration = True
     if start_iteration:
         try: 
             print(obj['name'])
             description = obj['description']
             # Retrieve the last response from chatGPT
-            prompt = "Nhân vật có mô tả như sau có chức vụ gì ?" + description.replace("'"," ") +"Hãy trả lời dưới dạng 1 json object ví dụ: {chức vụ: Thượng tướng}" +"Bạn không cần phải giải thích 1 điều gì chỉ cần trả về 1 json object là được"
+            prompt = "Nhân vật có mô tả như sau có liên hệ gì với các nhân vật trong phần mô tả dưới đây(chỉ cần quan hệ trong gia đình như cha con chị em không cần đồng nghiệp hay đối thủ, không có hãy trả về null, không được bịa thông tin) ?" + description.replace("'"," ") +"Hãy trả lời dưới dạng 1 json object ví dụ: {liên hệ: [{loại: cha,tên: Trần Quốc Toản},{loại:mẹ,{tên: trưng trắc}]}" +"Bạn không cần phải giải thích 1 điều gì chỉ cần trả về 1 json object là được, 1 số nhân vật có thể có nhiều liên hệ"
             chatgpt.send_prompt_to_chatgpt(prompt)
             response = chatgpt.return_last_response()
             print(response)
-            pattern = r'\{[^{}]*\}'
-            match = re.search(pattern, response)
-            if match:
-                json_string = match.group(0)
-                modified_string = json_string.replace("'", '"').replace("'","\'").replace("ChatGPT\n","")
-                json_object = json.loads(modified_string)
-                historical_figures.append({
-                    'name': obj['name'],                    
-                    'chức vụ': json_object['chức vụ']
-                })
+            json_string = response[response.index('{'):response.rindex('}')+1]
+            modified_string = json_string.replace("'", '"').replace("'","\'").replace("ChatGPT\n","")
+            print(modified_string)
+            json_object = json.loads(modified_string)
+            print(json_object)
+            historical_figures.append({
+                'name': obj['name'],                    
+                'liên hệ': json_object['liên hệ']
+            })
         except Exception as e:
             print(e)
             print('\n')
 
-with open('extracted_using_chatgpt_11.json', 'w', encoding='utf-8') as file:
+with open('relation/extracted_using_chatgpt_11.json', 'w', encoding='utf-8') as file:
     json.dump(historical_figures, file, ensure_ascii=False)

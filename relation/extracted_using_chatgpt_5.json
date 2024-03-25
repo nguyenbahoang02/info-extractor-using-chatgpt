@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Nguyễn Bỉnh Khiêm",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Nguyễn Anh" },
+      { "loại": "em trai", "tên": "Nguyễn Bỉnh Khiêm (tên khác)" }
+    ]
+  },
+  {
+    "name": "Lê Thánh Tông",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Lê Thái Tổ" },
+      { "loại": "mẹ", "tên": "Huyền Trân công chúa" }
+    ]
+  },
+  { "name": "Trần Huy Liệu", "liên hệ": null },
+  { "name": "Phan Đình Giót", "liên hệ": null },
+  { "name": "Hoàng Vân", "liên hệ": null },
+  { "name": "Hoàng Xuân Lãm", "liên hệ": null },
+  { "name": "Lê Trọng Tấn", "liên hệ": null },
+  { "name": "Đỗ Mười", "liên hệ": null },
+  { "name": "Vũ Trọng Phụng", "liên hệ": null },
+  { "name": "Phan Văn Khải", "liên hệ": null },
+  { "name": "Dương Đức Hiền", "liên hệ": null },
+  { "name": "Phạm Văn Đồng", "liên hệ": null },
+  { "name": "Hoàng Quốc Việt", "liên hệ": null },
+  { "name": "Nguyễn Lộc", "liên hệ": null },
+  { "name": "Nguyễn Bá Cẩn", "liên hệ": null },
+  { "name": "Đặng Nhật Minh", "liên hệ": null },
+  { "name": "Phạm Huy Thông", "liên hệ": null },
+  { "name": "Nguyễn Thiện Thuật", "liên hệ": null },
+  { "name": "Bùi Diễm", "liên hệ": null },
+  { "name": "Trần Văn Lắm", "liên hệ": null },
+  { "name": "Hoàng Xuân Hãn", "liên hệ": null },
+  { "name": "Dương Bạch Mai", "liên hệ": null },
+  { "name": "Văn Tiến Dũng", "liên hệ": null },
+  { "name": "Mạc Thái Tông", "liên hệ": null },
+  { "name": "Nguyễn Văn Tường", "liên hệ": null },
+  {
+    "name": "Nguyễn Lữ",
+    "liên hệ": { "loại": "em trai", "tên": "Nguyễn Nhạc" }
+  },
+  { "name": "Ngô Sĩ Liên", "liên hệ": null },
+  { "name": "Trần Nghệ Tông", "liên hệ": null },
+  { "name": "Tôn Đức Thắng", "liên hệ": null },
+  { "name": "Phan Liêm", "liên hệ": null },
+  { "name": "Chu Huy Mân", "liên hệ": null },
+  { "name": "Nguyễn Sinh Hùng", "liên hệ": null },
+  { "name": "Lê Đạt", "liên hệ": null },
+  { "name": "Nguyễn Phan Long", "liên hệ": null },
+  { "name": "Nguyễn Phúc Nguyên", "liên hệ": null },
+  { "name": "Lê Quý Đôn", "liên hệ": null },
+  { "name": "Phan Huy Quát", "liên hệ": null },
+  { "name": "Trần Trọng Kim", "liên hệ": null },
+  { "name": "Lê Khả Phiêu", "liên hệ": null },
+  { "name": "Mạc Thái Tổ", "liên hệ": null },
+  { "name": "Lý Nhân Tông", "liên hệ": null },
+  { "name": "Trần Hữu Dực", "liên hệ": null },
+  { "name": "Trần Bửu Kiếm", "liên hệ": null },
+  { "name": "Trần Quỳnh", "liên hệ": null },
+  { "name": "Trần Văn Giàu", "liên hệ": null },
+  { "name": "Phạm Văn Phú", "liên hệ": null },
+  { "name": "Nguyễn Sáng", "liên hệ": null },
+  { "name": "Phạm Tuyên", "liên hệ": null },
+  { "name": "Nguyễn Văn Tỵ", "liên hệ": null },
+  { "name": "Phùng Hưng", "liên hệ": null },
+  { "name": "Nguyễn Gia Thiều", "liên hệ": null },
+  { "name": "Mạc Đĩnh Chi", "liên hệ": null },
+  { "name": "Nguyễn Phúc Tần", "liên hệ": null },
+  { "name": "Lê Thanh Nghị", "liên hệ": null },
+  { "name": "Lê Văn Lương", "liên hệ": null },
+  { "name": "Lê Thanh Long", "liên hệ": null }
+]

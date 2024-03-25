@@ -1,0 +1,79 @@
+[
+  { "name": "Trưng Nhị", "liên hệ": [{ "loại": "chị", "tên": "Trưng Trắc" }] },
+  {
+    "name": "Trần Thừa",
+    "liên hệ": [{ "loại": "con", "tên": "Trần Thái Tông" }]
+  },
+  {
+    "name": "Trần Thuận Tông",
+    "liên hệ": [{ "loại": "cha", "tên": "Trần Nghệ Tông" }]
+  },
+  {
+    "name": "Trần Nhật Duật",
+    "liên hệ": [{ "loại": "cha", "tên": "Trần Thái Tông" }]
+  },
+  { "name": "Triệu Việt Vương", "liên hệ": null },
+  { "name": "Trần Duệ Tông", "liên hệ": null },
+  { "name": "Lý Cao Tông", "liên hệ": null },
+  { "name": "Trịnh Doanh", "liên hệ": null },
+  { "name": "Bùi Trang Chước", "liên hệ": null },
+  {
+    "name": "Ngô Xương Xí",
+    "liên hệ": { "loại": "cha", "tên": "Thiên Sách Vương Ngô Xương Ngập" }
+  },
+  { "name": "Lý Huệ Tông", "liên hệ": null },
+  { "name": "Trần Văn Đôn", "liên hệ": null },
+  { "name": "Dương Tam Kha", "liên hệ": null },
+  {
+    "name": "Trần Quốc Tảng",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Hưng Đạo đại vương Trần Quốc Tuấn" },
+      { "loại": "mẹ", "tên": "Thiên Thành công chúa" }
+    ]
+  },
+  {
+    "name": "Trần Dụ Tông",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Trần Hiến Tông" },
+      { "loại": "mẹ", "tên": "Hoàng hậu Thuận Thiên" }
+    ]
+  },
+  {
+    "name": "Trần Liễu",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Trần Thái Tổ" },
+      { "loại": "mẹ", "tên": "Hoàng hậu Thuận Thiên" }
+    ]
+  },
+  {
+    "name": "Trịnh Kiểm",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Trịnh Doanh" },
+      { "loại": "mẹ", "tên": "Hoàng thái hậu" }
+    ]
+  },
+  {
+    "name": "Dương Nhật Lễ",
+    "liên hệ": [{ "loại": "cha nuôi", "tên": "Trần Dụ Tông" }]
+  },
+  { "name": "Trịnh Sâm", "liên hệ": null },
+  { "name": "Nguyễn Khoa Nam", "liên hệ": null },
+  { "name": "Trần Quốc Toản", "liên hệ": null },
+  { "name": "Mạc Toàn", "liên hệ": null },
+  { "name": "Trịnh Tùng", "liên hệ": null },
+  { "name": "Lê Văn Thịnh", "liên hệ": null },
+  { "name": "Trịnh Giang", "liên hệ": null },
+  { "name": "Trần Tự Khánh", "liên hệ": null },
+  { "name": "Nguyễn Châu", "liên hệ": null },
+  { "name": "Lý Thánh Tông", "liên hệ": null },
+  { "name": "Nguyễn Chích", "liên hệ": null },
+  { "name": "Lý Anh Tông", "liên hệ": null },
+  { "name": "Nguyễn Phúc Luân", "liên hệ": null },
+  { "name": "Trần Quốc Khang", "liên hệ": null },
+  { "name": "Ngô Du", "liên hệ": null },
+  { "name": "Trịnh Tráng", "liên hệ": null },
+  { "name": "Phạm Gia Khiêm", "liên hệ": null },
+  { "name": "Lương Văn Can", "liên hệ": null },
+  { "name": "Phan Đình Phùng", "liên hệ": null },
+  { "name": "Ngô Xuân Lịch", "liên hệ": null }
+]

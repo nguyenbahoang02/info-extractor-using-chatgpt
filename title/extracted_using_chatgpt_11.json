@@ -1,0 +1,94 @@
+[
+  { "name": "Nguyễn Tiến Chung", "chức vụ": "Họa sĩ" },
+  { "name": "Nguyễn Tường Long", "chức vụ": "Nhà văn" },
+  { "name": "Nguyễn Văn Đồi", "chức vụ": "Trung tướng" },
+  { "name": "Nguyễn Văn Hiền", "chức vụ": "Doanh nhân" },
+  { "name": "Nguyễn Văn Hòa", "chức vụ": "Không rõ" },
+  { "name": "Nguyễn Văn Hoài", "chức vụ": "Nghệ sĩ cải lương" },
+  {
+    "name": "Nguyễn Văn Huyên",
+    "chức vụ": "Bộ trưởng Bộ Quốc gia Giáo dục Việt Nam"
+  },
+  { "name": "Nguyễn Văn Khiết", "chức vụ": "Nhà sư Phật giáo" },
+  { "name": "Nguyễn Văn Khương", "chức vụ": "Chuẩn tướng" },
+  {
+    "name": "Nguyễn Văn Kỉnh",
+    "chức vụ": "Bí thư Thành ủy Sài Gòn, Phó bí thư Xứ ủy Nam Bộ, Phó Ban Tuyên huấn Trung ương, Đại sứ Việt Nam tại Liên Xô"
+  },
+  {
+    "name": "Nguyễn Văn Luyện",
+    "chức vụ": "Bác sĩ, Đại biểu Quốc hội Việt Nam"
+  },
+  { "name": "Nguyễn Văn Nguyễn", "chức vụ": "Nhà báo, nhà cách mạng" },
+  { "name": "Nguyễn Văn Sâm", "chức vụ": "Khâm sai Nam Kỳ" },
+  { "name": "Nguyễn Văn Tạo", "chức vụ": "Nhà báo, nhà cách mạng" },
+  { "name": "Nguyễn Văn Thinh", "chức vụ": "Thủ tướng" },
+  { "name": "Nguyễn Xuân Khoát", "chức vụ": "Chủ tịch Hội Nhạc sĩ Việt Nam" },
+  { "name": "Phan Đức", "chức vụ": "Chỉ huy quân sự" },
+  { "name": "Phan Kế Toại", "chức vụ": "Phó Thủ tướng" },
+  { "name": "Phan Khôi", "chức vụ": null },
+  { "name": "Phan Văn Giáo", "chức vụ": null },
+  { "name": "Phan Văn Hùm", "chức vụ": null },
+  { "name": "Phan Văn Khỏe", "chức vụ": null },
+  { "name": "Phùng Thị Cúc", "chức vụ": null },
+  { "name": "Quách Tấn", "chức vụ": null },
+  {
+    "name": "Tạ Quang Bửu",
+    "chức vụ": "Bộ trưởng Bộ Quốc phòng và Bộ Đại học và Trung học Chuyên nghiệp của Việt Nam Dân chủ Cộng hòa"
+  },
+  {
+    "name": "Thái Lập Thành",
+    "chức vụ": "Đốc phủ sứ, Tổng trấn Nam phần kiêm Đô trưởng Sài Gòn"
+  },
+  {
+    "name": "Thích Trí Độ",
+    "chức vụ": "Hội trưởng Hội Phật giáo thống nhất Việt Nam"
+  },
+  { "name": "Tô Ký", "chức vụ": null },
+  { "name": "Tô Ngọc Vân", "chức vụ": null },
+  { "name": "Tôn Đức Thắng", "chức vụ": "Chủ tịch nước" },
+  { "name": "Tôn Quang Phiệt", "chức vụ": null },
+  { "name": "Tôn Thất Tùng", "chức vụ": null },
+  { "name": "Trần Đình Đàn", "chức vụ": "Bí thư Tỉnh ủy" },
+  { "name": "Trần Đình Nam", "chức vụ": "Bộ trưởng Bộ Nội vụ" },
+  {
+    "name": "Trần Đình Xu",
+    "chức vụ": "Phó Tư lệnh kiêm Tham mưu trưởng Miền, Tư lệnh Quân khu Sài Gòn-Gia Định"
+  },
+  { "name": "Trần Hữu Thung", "chức vụ": null },
+  { "name": "Trần Hữu Trang", "chức vụ": null },
+  { "name": "Trần Huy Liệu", "chức vụ": null },
+  {
+    "name": "Trần Kim Tuyến",
+    "chức vụ": "Giám đốc Sở Nghiên cứu Chính trị và xã hội Phủ tổng thống"
+  },
+  { "name": "Trần Mai Ninh", "chức vụ": null },
+  { "name": "Trần Minh Tiết", "chức vụ": null },
+  { "name": "Trần Tấn", "chức vụ": null },
+  { "name": "Trần Thanh Mại", "chức vụ": null },
+  { "name": "Trần Trọng Kim", "chức vụ": "Thủ tướng" },
+  { "name": "Trần Tuấn Khải", "chức vụ": null },
+  { "name": "Trần Văn Đôn", "chức vụ": "Trung tướng" },
+  { "name": "Trần Văn Giàu", "chức vụ": "Bí thư Xứ ủy" },
+  { "name": "Trần Văn Hương", "chức vụ": "Thủ tướng" },
+  { "name": "Trần Văn Lắm", "chức vụ": "Ngoại Trưởng" },
+  { "name": "Trần Văn Ơn", "chức vụ": "Học sinh" },
+  { "name": "Trịnh Đình Cửu", "chức vụ": "Nhà cách mạng và chính khách" },
+  { "name": "Trịnh Đình Trọng", "chức vụ": "Nhà cách mạng" },
+  {
+    "name": "Trương Duy Toản",
+    "chức vụ": "Nhà văn, nhà báo, nhà soạn tuồng, nhà cách mạng"
+  },
+  {
+    "name": "Trương Tửu",
+    "chức vụ": "Nhà giáo, nhà văn, nhà nghiên cứu văn học"
+  },
+  {
+    "name": "Trương Văn Thoại",
+    "chức vụ": "Chủ tịch Ủy ban hành chính Côn Đảo"
+  },
+  { "name": "Văn Tiến Dũng", "chức vụ": "Đại tướng" },
+  { "name": "Vi Huyền Đắc", "chức vụ": null },
+  { "name": "Vi Văn Định", "chức vụ": null },
+  { "name": "Võ Bá Hạp", "chức vụ": null }
+]

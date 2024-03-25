@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Nguyễn Công Hãng",
+    "liên hệ": [{ "loại": "con", "tên": "Trịnh Giang" }]
+  },
+  { "name": "Nguyễn Cư Trinh", "liên hệ": null },
+  { "name": "Nguyễn Cửu Đàm", "liên hệ": null },
+  { "name": "Nguyễn Đình Sách", "liên hệ": null },
+  { "name": "Nguyễn Đình Trụ", "liên hệ": null },
+  { "name": "Nguyễn Gia Thiều", "liên hệ": null },
+  {
+    "name": "Nguyễn Hoàng",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Nguyễn Kim" },
+      { "loại": "anh trai", "tên": "Nguyễn Uông" }
+    ]
+  },
+  {
+    "name": "Nguyễn Khoa Toàn",
+    "liên hệ": [{ "loại": "tổ tiên", "tên": "Nguyễn Đình Thân" }]
+  },
+  { "name": "Nguyễn Kiều", "liên hệ": null },
+  { "name": "Nguyễn Kim", "liên hệ": null },
+  { "name": "Nguyễn Nghiễm", "liên hệ": null },
+  {
+    "name": "Nguyễn Phúc Chu",
+    "liên hệ": [{ "loại": "cha", "tên": "Nguyễn Phúc Thái" }]
+  },
+  { "name": "Nguyễn Phúc Khoát", "liên hệ": null },
+  {
+    "name": "Nguyễn Phúc Lan",
+    "liên hệ": [{ "loại": "cha", "tên": "Nguyễn Phúc Nguyên" }]
+  },
+  { "name": "Nguyễn Phúc Nguyên", "liên hệ": null },
+  { "name": "Nguyễn Phúc Tần", "liên hệ": null },
+  {
+    "name": "Nguyễn Phúc Trăn",
+    "liên hệ": [{ "loại": "anh trai", "tên": "Nguyễn Phúc Tần" }]
+  },
+  { "name": "Nguyễn Quán Nho", "liên hệ": null },
+  { "name": "Nguyễn Quang Nhuận", "liên hệ": null },
+  { "name": "Nguyễn Quí Đức", "liên hệ": null },
+  { "name": "Phạm Công Trứ", "liên hệ": null },
+  { "name": "Phạm Thái", "liên hệ": null },
+  { "name": "Quách Giai", "liên hệ": null },
+  { "name": "Trịnh Bồng", "liên hệ": null },
+  { "name": "Trịnh Căn", "liên hệ": null },
+  { "name": "Trịnh Cương", "liên hệ": null },
+  { "name": "Trịnh Doanh", "liên hệ": null },
+  { "name": "Trịnh Giang", "liên hệ": null },
+  { "name": "Trịnh Sâm", "liên hệ": null },
+  { "name": "Trịnh Tạc", "liên hệ": null },
+  { "name": "Trịnh Tông", "liên hệ": null },
+  { "name": "Trịnh Tráng", "liên hệ": null },
+  { "name": "Trịnh Tùng", "liên hệ": null },
+  { "name": "Võ Miên", "liên hệ": null },
+  { "name": "Đoàn Nguyễn Tuấn", "liên hệ": null },
+  { "name": "Ngô Thì Nhậm", "liên hệ": null },
+  { "name": "Nguyễn Hữu Chỉnh", "liên hệ": null },
+  { "name": "Nguyễn Thiếp", "liên hệ": null },
+  { "name": "Trần Quang Diệu", "liên hệ": null },
+  { "name": "Võ Di Nguy", "liên hệ": null },
+  { "name": "Nguyễn Huỳnh Đức", "liên hệ": null },
+  {
+    "name": "Phan Huy Ích",
+    "liên hệ": { "loại": "anh em", "tên": "Ngô Thì Nhậm" }
+  },
+  { "name": "Trịnh Hoài Đức", "liên hệ": null },
+  { "name": "Vũ Trinh", "liên hệ": null },
+  { "name": "Nguyễn Lữ", "liên hệ": { "loại": "em", "tên": "Nguyễn Nhạc" } },
+  {
+    "name": "Nguyễn Phúc Cảnh",
+    "liên hệ": { "loại": "anh trai", "tên": "Nguyễn Phúc Miên Trinh" }
+  },
+  { "name": "Trần Văn Kỉ", "liên hệ": null },
+  { "name": "Lê Chất", "liên hệ": null },
+  { "name": "Bạch Đông Ôn", "liên hệ": null },
+  { "name": "Bạch Xuân Nguyên", "liên hệ": null },
+  { "name": "Bùi Hữu Nghĩa", "liên hệ": null },
+  { "name": "Bùi Văn Tây", "liên hệ": null },
+  { "name": "Bùi Viện", "liên hệ": null },
+  { "name": "Cao Bá Quát", "liên hệ": null },
+  { "name": "Châu Thị Tế", "liên hệ": null },
+  { "name": "Đặng Huy Trứ", "liên hệ": null },
+  { "name": "Đặng Thị Huệ", "liên hệ": { "loại": "con", "tên": "Trịnh Cán" } },
+  { "name": "Đặng Xuân Bảng", "liên hệ": null },
+  { "name": "Đào Tấn", "liên hệ": null },
+  { "name": "Đào Trí", "liên hệ": null },
+  { "name": "Đỗ Công Tường", "liên hệ": null },
+  { "name": "Đỗ Đăng Đệ", "liên hệ": { "loại": "cha", "tên": "Đỗ Đăng Phú" } },
+  { "name": "Đội Cung", "liên hệ": null },
+  { "name": "Hồ Bá Ôn", "liên hệ": null },
+  { "name": "Hoàng Hữu Xứng", "liên hệ": null },
+  { "name": "Huỳnh Mẫn Đạt", "liên hệ": null },
+  { "name": "Khánh Long", "liên hệ": null },
+  { "name": "Lê Bá Phẩm", "liên hệ": null },
+  { "name": "Lê Bảo Tịnh", "liên hệ": null },
+  { "name": "Lê Cẩn", "liên hệ": null },
+  { "name": "Lê Trung Đình", "liên hệ": null },
+  { "name": "Lê Văn Duyệt", "liên hệ": null },
+  { "name": "Ngô Lợi", "liên hệ": null },
+  { "name": "Ngô Thế Vinh", "liên hệ": null }
+]

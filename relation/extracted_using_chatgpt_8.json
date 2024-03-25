@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Trương Hán Siêu",
+    "liên hệ": [{ "loại": "ông nội", "tên": "Trần Quốc Toản" }]
+  },
+  {
+    "name": "Trương Xán",
+    "liên hệ": [{ "loại": "ông nội", "tên": "Trần Quốc Toản" }]
+  },
+  { "name": "Yết Kiêu", "liên hệ": null },
+  {
+    "name": "Hồ Nguyên Trừng",
+    "liên hệ": [
+      { "loại": "cha", "tên": "Hồ Quý Ly" },
+      { "loại": "em trai", "tên": "Hồ Hán Thương" }
+    ]
+  },
+  {
+    "name": "Nguyễn Phi Khanh",
+    "liên hệ": [{ "loại": "con", "tên": "Nguyễn Trãi" }]
+  },
+  {
+    "name": "Hồ Hán Thương",
+    "liên hệ": [{ "loại": "em trai", "tên": "Hồ Nguyên Trừng" }]
+  },
+  { "name": "Lý Tử Cấu", "liên hệ": null },
+  { "name": "Ngô Miễn", "liên hệ": null },
+  { "name": "Đặng Tất", "liên hệ": null },
+  { "name": "Lê Lai", "liên hệ": null },
+  { "name": "Lê Ngân", "liên hệ": null },
+  { "name": "Nguyễn Chích", "liên hệ": null },
+  { "name": "Phạm Vấn", "liên hệ": null },
+  { "name": "Đàm Thận Huy", "liên hệ": null },
+  { "name": "Đặng Chiêm", "liên hệ": null },
+  { "name": "Đặng Tiến Vinh", "liên hệ": null },
+  { "name": "Đào Tiêu", "liên hệ": null }
+]
