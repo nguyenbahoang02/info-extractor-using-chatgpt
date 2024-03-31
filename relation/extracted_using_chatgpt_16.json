@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Đinh Hùng",
+    "liên hệ": [
+      { "loại": "anh", "tên": "Đinh Hạo" },
+      { "loại": "em", "tên": "Đinh Hữu" }
+    ]
+  },
+  { "name": "Đinh Núp", "liên hệ": null },
+  { "name": "Đoàn Khuê", "liên hệ": null },
+  { "name": "Hoàng Kiện", "liên hệ": null },
+  { "name": "Hoàng Trung Thông", "liên hệ": null },
+  { "name": "Huỳnh Văn Bánh", "liên hệ": null },
+  { "name": "Huỳnh Văn Gấm", "liên hệ": null },
+  { "name": "Lê Minh Xuân", "liên hệ": null },
+  { "name": "Lê Thị Riêng", "liên hệ": null },
+  { "name": "Lưu Quang Vũ", "liên hệ": null },
+  { "name": "Nguyễn Công Thành", "liên hệ": null },
+  { "name": "Nguyễn Đình Tứ", "liên hệ": null },
+  { "name": "Nguyễn Thái Bình", "liên hệ": null },
+  {
+    "name": "Phạm Thị Thanh Vân",
+    "liên hệ": [{ "loại": "chồng", "tên": "Ngô Bá Thành" }]
+  },
+  { "name": "Phạm Trọng Cầu", "liên hệ": null },
+  { "name": "Phan Đình Giót", "liên hệ": null },
+  { "name": "Thái Bá Vân", "liên hệ": null },
+  { "name": "Trần Thị Nhâm", "liên hệ": null }
+]
