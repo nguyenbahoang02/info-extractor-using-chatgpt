@@ -28,7 +28,7 @@ chatgpt = ChatGPTAutomation(chrome_path, chrome_driver_path)
 for obj in json_objects:
     if 'description' not in obj:
         continue
-    if obj['name'] == "Hội Trò Trám tại Phú Thọ" :
+    if obj['name'] == "Hội làng Bằng Cả tại Quảng Ninh" :
         start_iteration = True
     if start_iteration:
         try: 
@@ -52,5 +52,5 @@ for obj in json_objects:
             print(e)
             print('\n')
 
-with open('festival_historical_figure/extracted_using_chatgpt_11.json', 'w', encoding='utf-8') as file:
+with open('festival_historical_figure/extracted_using_chatgpt_12.json', 'w', encoding='utf-8') as file:
     json.dump(festivals, file, ensure_ascii=False)
