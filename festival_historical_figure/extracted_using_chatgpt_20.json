@@ -1,0 +1,194 @@
+[
+  { "name": "Hội trám rụng tại Bắc Giang", "thờ": null },
+  {
+    "name": "Đầu xuân vui hội Tiên Lục tại Bắc Giang",
+    "thờ": ["Cao Sơn", "Quý Minh"]
+  },
+  { "name": "Hội làng Hựu tỉnh Bắc Giang", "thờ": ["Cao Sơn", "Quý Minh"] },
+  {
+    "name": "Lễ hội kỷ niệm Chiến thắng Xương Giang ở Bắc Giang",
+    "thờ": ["Lam Sơn"]
+  },
+  { "name": "Lễ hội đền Phủ - Bắc Giang", "thờ": ["Bà Chúa Kho"] },
+  {
+    "name": "Lễ hội đền Đa Mai - Bắc Giang",
+    "thờ": ["Bảo Nương", "Ngọc Nương"]
+  },
+  {
+    "name": "Lễ hội Yên Thế tháng 3 dương lịch hàng năm tại tỉnh Bắc Giang",
+    "thờ": null
+  },
+  { "name": "Lễ hội Bồ Đà tại Bắc Giang", "thờ": null },
+  { "name": "Lễ hội Y Sơn tại Bắc Giang", "thờ": "đức thánh Hùng Linh" },
+  {
+    "name": "Hội làng Đại Phú tại Bắc Giang",
+    "thờ": "Thành hoàng Cao Sơn - Quý Minh"
+  },
+  { "name": "Hội Liên Xương tại Bắc Giang", "thờ": null },
+  {
+    "name": "Lễ hội làng Thành tại thành phố Bắc Giang",
+    "thờ": "Cao Sơn - Quý Minh"
+  },
+  { "name": "Lễ hội cúng rừng của người Nùng tại Bắc Giang", "thờ": null },
+  { "name": "Hội Đả cầu Lương Phong tại Bắc Giang", "thờ": "Trần Đình Ngọc" },
+  {
+    "name": "Khôi phục những giá trị truyền thống trong lễ hội tại Bắc Giang",
+    "thờ": null
+  },
+  {
+    "name": "Lễ hội Yên Thế, Bắc Giang đã có nhiều khởi sắc",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Tổ chức lễ hội kỷ niệm 130 năm khởi nghĩa Yên Thế tại Bắc Giang",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  { "name": "Tưng bừng Lễ hội Xương Giang tại Bắc Giang", "thờ": null },
+  {
+    "name": "Bắc Giang xây dựng đề án nâng cấp Lễ hội Yên Thế lên tầm quốc gia",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  { "name": "Lễ hội cướp cầu vùng Yên Thế tại Bắc Giang", "thờ": null },
+  { "name": "Lễ hội đền Suối Mỡ tại Bắc Giang", "thờ": "Quế Mỵ Nương" },
+  { "name": "Lễ hội Đình Vồng tại Bắc Giang", "thờ": null },
+  { "name": "Đền Phủ mở hội tại Bắc Giang", "thờ": "Lý Thị Châu" },
+  { "name": "Lễ hội Làng Vẽ tại Bắc Giang", "thờ": null },
+  {
+    "name": "Hội Chùa Thú tại Tân Yên tỉnh Bắc Giang",
+    "thờ": "Thái Bảo và Phán Thú"
+  },
+  { "name": "Lễ hội Thổ Hà tại Bắc Giang", "thờ": null },
+  {
+    "name": "Không khí tưng bừng của Lễ hội Yên Thế 2010 tại Bắc Giang",
+    "thờ": "Lương Văn Nắm"
+  },
+  {
+    "name": "Nhộn nhịp Lễ hội Suối Mỡ 2010 tại Bắc Giang",
+    "thờ": "Quế Mỵ Nương"
+  },
+  {
+    "name": "Trang nghiêm Lễ hội kỷ niệm chiến thắng Xương Giang, Bắc Giang",
+    "thờ": "Nguyễn Trãi"
+  },
+  { "name": "Phát huy nét đẹp văn hoá lễ hội tại Bắc Giang", "thờ": null },
+  {
+    "name": "Tưng bừng Lễ hội đền suối Mỡ năm 2011 tại Bắc Giang",
+    "thờ": null
+  },
+  {
+    "name": "Lễ hội kỷ niệm 585 năm Chiến thắng Xương Giang",
+    "thờ": ["Lê Lợi", "Nguyễn Trãi"]
+  },
+  {
+    "name": "Lễ hội Yên Thế hướng tới lễ hội cấp quốc gia",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Lễ hội Thổ Hà đón nhận Bằng công nhận Di sản văn hóa phi vật thể cấp quốc gia.",
+    "thờ": null
+  },
+  {
+    "name": "Lễ công nhận Lễ hội Yên Thế là di sản văn hóa phi vật thể quốc gia",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Nhiều nét mới trong Lễ hội Đền Suối Mỡ - Bắc Giang 2013",
+    "thờ": null
+  },
+  {
+    "name": "Hoàn tất công tác chuẩn bị Lễ hội kỷ niệm 130 năm khởi nghĩa Yên Thế tại Bắc Giang",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Tưng bừng tham dự lễ khai mạc Lễ hội Yên Thế tại Bắc Giang",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Lễ hội Đền Đa Mai tưởng niệm công chúa Bảo Nương, Ngọc Nương",
+    "thờ": "Bảo Nương và Ngọc Nương"
+  },
+  {
+    "name": "Độc đáo lễ hội thui trâu, rước cỗ làng Chiền tỉnh Bắc Giang",
+    "thờ": null
+  },
+  { "name": "Hội đình Thái Đào tại Bắc Giang", "thờ": null },
+  { "name": "Lễ hội Dĩnh Kế tại Bắc Giang", "thờ": null },
+  {
+    "name": "Lễ hội đền Dành ở xã Liên Chung, tỉnh Bắc Giang",
+    "thờ": "Cao Sơn - Quý Minh"
+  },
+  { "name": "Lễ hội đình Hả tại Bắc Giang", "thờ": "Lương Văn Nắm" },
+  { "name": "Lễ hội Từ Hả tại tỉnh Bắc Giang", "thờ": "Thân Cảnh Phúc" },
+  { "name": "Lễ hội chùa Vĩnh Nghiêm tại Bắc Giang", "thờ": null },
+  {
+    "name": "Lễ hội Giáng sinh nhà thờ Phát Diệm tại Ninh Bình",
+    "thờ": "Chúa Jesu"
+  },
+  { "name": "Lễ hội động Thiên Tôn ở Ninh Bình", "thờ": "Thần Thiên Tôn" },
+  { "name": "Lễ hội làng Yên Vệ ở Ninh Bình", "thờ": null },
+  { "name": "Lễ hội Yên Cư ở Ninh Bình", "thờ": "Đức Thánh Trần Hưng Đạo" },
+  { "name": "Lễ Hội Chùa Địch Lộng ở Ninh Bình", "thờ": null },
+  { "name": "Lễ Hội Chùa Nhất Trụ tại Ninh Bình", "thờ": "Vua Lê Đại Hành" },
+  { "name": "Lễ Hội Đền Áp Lãng tại Ninh Bình", "thờ": "Vua Lý Thái Tông" },
+  { "name": "Lễ hội đền Thái Vi Ninh Bình", "thờ": "Vua Trần Thái Tông" },
+  { "name": "Khai mạc Lễ hội truyền thống Cố đô Hoa Lư năm 2012", "thờ": null },
+  {
+    "name": "Lễ hội cố đô Hoa Lư tại Ninh Bình",
+    "thờ": ["Đinh Tiên Hoàng", "Lê Đại Hành"]
+  },
+  { "name": "Lễ hội đền Thái Vi tại Ninh Bình", "thờ": ["Trần Thái Tông"] },
+  {
+    "name": "Lễ hội chùa Bái Đính tại Ninh Bình",
+    "thờ": ["Lý Quốc Sư", "Quang Trung", "Đinh Bộ Lĩnh"]
+  },
+  {
+    "name": "Tổ chức Lễ hội cố đô Hoa Lư quy mô lớn tại Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Độc đáo lễ rước Thánh Quý Minh Đại Vương ở Ninh Bình",
+    "thờ": "Đức Thánh Quý Minh Đại Vương"
+  },
+  { "name": "Sẵn sàng cho Lễ hội Hoa Lư 2011 tại Ninh Bình", "thờ": null },
+  {
+    "name": "Mở cửa đền khai hội truyền thống Cố đô Hoa Lư, Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Du khách nô nức trẩy hội Hoa Lư, Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Sôi động lễ hội Thánh Quý Minh Đại Vương tại Ninh Bình",
+    "thờ": "Đức Thánh Quý Minh Đại Vương"
+  },
+  {
+    "name": "Lễ hội chùa Bái Đính năm 2012",
+    "thờ": "Đức Thánh Nguyễn Minh Không"
+  },
+  {
+    "name": "Náo nức khai hội chùa Bái Đính 2012",
+    "thờ": "Vua Đinh Tiên Hoàng"
+  },
+  {
+    "name": "Tưng bừng Lễ hội thánh Cao Sơn ở Tràng An-Bái Đính",
+    "thờ": "Thánh Quý Minh Đại Vương"
+  },
+  { "name": "Khai hội chùa Bái Đính 2013 tại Ninh Bình", "thờ": null },
+  {
+    "name": "Bộ trưởng Bộ VHTTDL Hoàng Tuấn Anh về kiểm tra công tác tổ chức lễ hội tại Ninh Bình",
+    "thờ": null
+  },
+  {
+    "name": "Kế hoạch tổ chức Lễ hội Cố đô Hoa Lư năm 2013 tại Ninh Bình",
+    "thờ": null
+  },
+  {
+    "name": "Lễ hội truyền thống Cố đô Hoa Lư năm 2013 tại Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Hàng ngàn du khách tham dự lễ hội Quý Minh Đại Vương 2013",
+    "thờ": "Đức Thánh Quý Minh Đại Vương"
+  }
+]
