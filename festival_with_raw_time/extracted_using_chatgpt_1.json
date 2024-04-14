@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tưng bừng hội vật truyền thống chùa Cao xã Hạ Bằng - Thạch Thất",
+    "chatgptName": "Hội vật truyền thống chùa Cao",
+    "start": "13/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Nét văn hóa độc đáo trong lễ hội thổi cơm thi tại Thạch Thất - Hà Nội",
+    "chatgptName": "Lễ hội thổi cơm thi",
+    "start": "4/1",
+    "end": "4/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Giằng bông cầu quý tử ở Sơn Đồng - Hà Nội",
+    "chatgptName": "Hội Giằng bông",
+    "start": "6/2",
+    "end": "6/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Dàn nghệ sĩ siêu khủng biểu diễn tại Nhạc hội NEX Music Festival 2018",
+    "chatgptName": "Nhạc hội EDM NEX Music Festival 2018",
+    "start": "5/5",
+    "end": "5/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Ẩm thực và Văn hóa châu Á (MAFF) 2018 tại Hà Nội và Hạ Long",
+    "chatgptName": "Lễ hội Ẩm thực và Văn hóa châu Á 2018 (MAFF 2018)",
+    "start": "20/4",
+    "end": "29/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều ưu đãi hấp dẫn trong lễ hội sách mùa hạ 2018 tại Hà Nội",
+    "chatgptName": "Lễ hội sách mùa hạ 2018",
+    "start": "12/4",
+    "end": "15/4",
+    "lunarCalendar": false
+  }
+]

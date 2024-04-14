@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Nhiều ưu đãi hấp dẫn trong lễ hội sách mùa hạ 2018 tại Hà Nội",
+    "chatgptName": "Lễ hội sách mùa hạ",
+    "start": "12/4",
+    "end": "15/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Giã La",
+    "chatgptName": "Lễ hội Giã La",
+    "start": "6/1",
+    "end": "14/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đình và đền Kim Liên",
+    "chatgptName": "Lễ hội đình và đền Kim Liên",
+    "start": "15/3",
+    "end": "16/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng lễ hội sắc màu Holi Ấn Độ 2018 tại Hà Nội",
+    "chatgptName": "Lễ hội sắc màu Holi",
+    "start": "1/4",
+    "end": "1/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đình - đền Chèm tại Hà Nội",
+    "chatgptName": "Lễ hội đình - đền Chèm",
+    "start": "14/5",
+    "end": "16/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Những điểm hấp dẫn của Hội chợ Du lịch quốc tế Việt Nam năm 2018",
+    "chatgptName": "Hội chợ Du lịch quốc tế Việt Nam",
+    "start": "29/3",
+    "end": "1/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội hoa anh đào Nhật Bản tại Hà Nội năm 2018",
+    "chatgptName": "Lễ hội hoa anh đào",
+    "start": "23/3",
+    "end": "26/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội hoa hồng Bulgaria và bạn bè năm 2018 ở Hà Nội",
+    "chatgptName": "Lễ hội hoa hồng Bulgaria và bạn bè",
+    "start": "8/3",
+    "end": "11/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Ý nghĩa lễ cúng Tất niên",
+    "chatgptName": "Tất niên",
+    "start": "30/12",
+    "end": "30/12",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội chợ từ thiện Chợ Tết xưa tại Hà Nội",
+    "chatgptName": "Hội chợ từ thiện Chợ Tết xưa",
+    "start": "4/2",
+    "end": "4/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội chợ Giáng sinh Đức lần đầu tổ chức tại nhà thờ Cửa Bắc - Hà Nội",
+    "chatgptName": "Hội chợ Giáng sinh Đức",
+    "start": "14/12",
+    "end": "16/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đèn lồng Gamuda - Hội An thu nhỏ ngay giữa lòng Hà Nội",
+    "chatgptName": "Lễ hội đèn lồng Gamuda",
+    "start": "30/9",
+    "end": "30/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Âm nhạc Quốc tế Gió mùa Monsoon Music Festival 2017 tại Hà Nội",
+    "chatgptName": "Lễ hội Âm nhạc Quốc tế Gió mùa",
+    "start": "10/11",
+    "end": "12/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội âm nhạc độc lập Quest Festival 2017 tại Hà Nội",
+    "chatgptName": "Lễ hội âm nhạc Quest Festival",
+    "start": "10/11",
+    "end": "12/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Ngày hội Đại đoàn kết - Tinh hoa văn hóa các dân tộc Việt Nam tháng 11",
+    "chatgptName": "Làng Văn hóa – Du lịch các dân tộc Việt Nam",
+    "start": "1/11",
+    "end": "30/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội đền Quán Thánh tại Hà Nội",
+    "chatgptName": "Hội đền Quán Thánh",
+    "start": "3/3",
+    "end": "3/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Lư Giang tại Hà Nội",
+    "chatgptName": "Hội đền Lư Giang",
+    "start": "18/8",
+    "end": "20/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội làng Thọ Am tại Hà Nội",
+    "chatgptName": "Hội làng Thọ Am",
+    "start": "7/2",
+    "end": "9/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Sủi tại Hà Nội",
+    "chatgptName": "Hội làng Sủi",
+    "start": "1/3",
+    "end": "3/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Hạ Thái tại Hà Nội",
+    "chatgptName": "Hội làng Hạ Thái",
+    "start": "9/11",
+    "end": "11/11",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Chàng Sơn tại Hà Nội",
+    "chatgptName": "Lễ hội Chàng Sơn",
+    "start": "17/8",
+    "end": "18/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội truyền thống làng Bắc Biên tại Hà Nội",
+    "chatgptName": "Lễ hội Bắc Biên",
+    "start": "5/3",
+    "end": "6/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng Đăm tại Hà Nội",
+    "chatgptName": "Lễ hội Đăm",
+    "start": "9/3",
+    "end": "11/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội chùa Thầy tại Hà Nội",
+    "chatgptName": "Hội chùa Thầy",
+    "start": "5/3",
+    "end": "7/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội chùa Thánh Chúa tại Hà Nội",
+    "chatgptName": "Lễ hội chùa Thánh Chúa",
+    "start": "25/1",
+    "end": "25/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chùa Nành tại Ninh Hiệp - Hà Nội",
+    "chatgptName": "Lễ hội chùa Nành",
+    "start": "4/2",
+    "end": "6/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội truyền thống chùa Duệ Tú",
+    "chatgptName": "Lễ hội chùa Duệ Tú",
+    "start": "6/3",
+    "end": "7/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Voi Phục tại Hà Nội",
+    "chatgptName": "Hội đền Voi Phục",
+    "start": "9/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Bạch Mã tại Hà Nội",
+    "chatgptName": "Hội đền Bạch Mã",
+    "start": "12/2",
+    "end": "13/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Bích Câu tại Hà Nội",
+    "chatgptName": "Hội đền Bích Câu",
+    "start": "12/8",
+    "end": "12/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Bà Chúa tại Hà Nội",
+    "chatgptName": "Hội đền Bà Chúa",
+    "start": "30/7",
+    "end": "2/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội truyền thống đình Tứ Liên (đình Ngọc Xuyên) tại Hà Nội",
+    "chatgptName": "Hội đình Tứ Liên",
+    "start": "16/3",
+    "end": "16/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình Nhật Tân tại Hà Nội",
+    "chatgptName": "Hội đình Nhật Tân",
+    "start": "8/2",
+    "end": "11/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình Ngũ Giáp tại Hà Nội",
+    "chatgptName": "Hội đình Ngũ Giáp",
+    "start": "1/2",
+    "end": "3/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình làng Trung Kính Thượng tại Hà Nội",
+    "chatgptName": "Hội đình Trung Kính Thượng",
+    "start": "10/2",
+    "end": "16/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình La Dương tại Hà Nội",
+    "chatgptName": "Lễ hội đình La Dương",
+    "start": "10/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình Giảng Võ tại Hà Nội",
+    "chatgptName": "Hội đình Giảng Võ",
+    "start": "11/2",
+    "end": "12/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình Giàn tại Hà Nội",
+    "chatgptName": "Hội đình Giàn",
+    "start": "9/2",
+    "end": "11/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình An Hòa tại Hà Nội",
+    "chatgptName": "Hội đình Yên Hòa",
+    "start": "11/2",
+    "end": "13/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đình Đông Phù tại Hà Nội",
+    "chatgptName": "Hội đình Đông Phù",
+    "start": "7/2",
+    "end": "9/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội xã Tự Nhiên huyện Thường Tín - Hà Nội",
+    "chatgptName": "Hội xã Tự Nhiên",
+    "start": "1/4",
+    "end": "1/4",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Võng Thị tại Hà Nội",
+    "chatgptName": "Hội Võng Thị",
+    "start": "14/2",
+    "end": "14/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội thờ Thủy thần tại Hà Nội",
+    "chatgptName": "Hội thờ Thủy Thần",
+    "start": "10/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội thổi cơm thi Đồng Vân tại Hà Nội",
+    "chatgptName": "Hội thổi cơm thi Đồng Vân",
+    "start": "15/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội thả chim làng Dục Tú huyện Đông Anh - Hà Nội",
+    "chatgptName": "Hội thả chim làng Dục Tú",
+    "start": "cuối xuân",
+    "end": "sang hè",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đình Sài Đồng tại Hà Nội",
+    "chatgptName": "Lễ hội đình Sài Đồng",
+    "start": "8/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội rước Thành hoàng tổng Hà Hồi tại Hà Nội",
+    "chatgptName": "Hội rước Thành hoàng tổng Hà Hồi",
+    "start": "14/3",
+    "end": "17/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội phủ Tây Hồ tại Hà Nội",
+    "chatgptName": "Hội phủ Tây Hồ",
+    "start": "3/3",
+    "end": "7/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội chọi gà Ngũ Xã tại Hà Nội",
+    "chatgptName": "Hội chọi gà Ngũ Xã",
+    "start": "17/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Miếu Vũ tại Xuân Đỉnh - Hà Nội",
+    "chatgptName": "Hội miếu Vũ",
+    "start": "10/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội miếu Mèn tại Hà Nội",
+    "chatgptName": "Hội miếu Mèn",
+    "start": "12/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Lỗ Khê tại Đông Anh - Hà Nội",
+    "chatgptName": "Lễ hội ca trù Lỗ Khê",
+    "start": "13/1",
+    "end": "13/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội vật truyền thống làng Yên Nội tại Hà Nội",
+    "chatgptName": "Hội vật truyền thống làng Yên Nội",
+    "start": "12/2",
+    "end": "12/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Xuân Nộn tại Hà Nội",
+    "chatgptName": "Lễ hội truyền thống làng Xuân Nội",
+    "start": "10/10",
+    "end": "11/10",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Thượng Phúc tại Hà Nội",
+    "chatgptName": "Hội làng Thượng Phúc",
+    "start": "14/4",
+    "end": "14/4",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ rước kiệu xoay làng Thổ Khối tại Hà Nội",
+    "chatgptName": "Hội làng Thổ Khối",
+    "start": "9/2",
+    "end": "9/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội vật cầu truyền thống làng Thúy Lĩnh tại Hà Nội",
+    "chatgptName": "Hội vật cầu Thúy Lĩnh",
+    "start": "4/1",
+    "end": "7/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Tả Thanh Oai tại Hà Nội",
+    "chatgptName": "Hội làng Tả Thanh Oai",
+    "start": "13/1",
+    "end": "16/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Hữu Thanh Oai tại Hà Nội",
+    "chatgptName": "Hội làng Hữu Thanh Oai",
+    "start": "8/3",
+    "end": "8/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Ruộng tại Đông Anh - Hà Nội",
+    "chatgptName": "Hội làng Ruộng",
+    "start": "6/1",
+    "end": "16/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Quậy tại Hà Nội",
+    "chatgptName": "Lễ hội làng Quậy",
+    "start": "12/1",
+    "end": "14/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Phú Mỹ - Kiều Mai tại Hà Nội",
+    "chatgptName": "Lễ hội làng Phú Mỹ - Kiều Mai",
+    "start": "7/1",
+    "end": "7/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Nghi Tàm tại Hà Nội",
+    "chatgptName": "Lễ hội làng Nghi Tàm",
+    "start": "9/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Ngọc Trì tại Hà Nội",
+    "chatgptName": "Hội làng Ngọc Trì",
+    "start": "3/3",
+    "end": "9/9",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Mạnh Tân tại Đông Anh - Hà Nội",
+    "chatgptName": "Lễ hội làng Mạnh Tân",
+    "start": "10/11",
+    "end": "10/11",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội truyền thống làng Liên Bạt tại Hà Nội",
+    "chatgptName": "Lễ hội làng Liên Bạt",
+    "start": "14/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội truyền thống làng Khê Hồi",
+    "chatgptName": "Lễ hội làng Khê Hồi",
+    "start": "14/3",
+    "end": "17/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Hồ Khẩu tại Hà Nội",
+    "chatgptName": "Lễ hội làng Hồ Khẩu",
+    "start": "13/2",
+    "end": "13/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Hậu tại Cầu Giấy - Hà Nội",
+    "chatgptName": "Lễ hội làng Hậu",
+    "start": "9/2",
+    "end": "11/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng Hậu Ái tại Hà Nội",
+    "chatgptName": "Hội làng Hậu Ái",
+    "start": "28/5",
+    "end": "28/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Hải Bối tại Hà Nội",
+    "chatgptName": "Hội làng Hải Bối",
+    "start": "4/1",
+    "end": "4/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội truyền thống làng Hạ Mỗ tại Hà Nội",
+    "chatgptName": "Lễ hội làng Hạ Mỗ",
+    "start": "11/1",
+    "end": "13/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Giáp Lục tại Hà Nội",
+    "chatgptName": "Hội làng Giáp Lục",
+    "start": "14/8",
+    "end": "14/8",
+    "lunarCalendar": true
+  }
+]

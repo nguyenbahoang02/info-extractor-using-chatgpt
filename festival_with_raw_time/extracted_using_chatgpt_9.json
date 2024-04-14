@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Lễ hội nghề truyền thống Huế: Tôn vinh tinh hoa Việt",
+    "chatgptName": "Festival Nghề truyền thống Huế",
+    "start": "27/4",
+    "end": "1/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng khai hội vật làng Sình ở Thừa Thiên Huế",
+    "chatgptName": "Lễ hội đấu Vật làng Sình",
+    "start": "19/2",
+    "end": "19/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tái hiện một số hoạt động lễ hội trong cung vua tại Thừa Thiên Huế",
+    "chatgptName": "Phiên lễ đổi gác dưới cung vua",
+    "start": "26/3",
+    "end": "26/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng ngày hội của các dân tộc miền núi tỉnh Thừa Thiên - Huế lần thứ X- 2013",
+    "chatgptName": "Ngày hội VHTTDL các dân tộc miền núi tỉnh Thừa Thiên-Huế",
+    "start": "15/5",
+    "end": "17/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Festival Huế 2014: Di sản văn hoá với hội nhập và phát triển",
+    "chatgptName": "Festival Huế",
+    "start": "12/4/2014",
+    "end": "20/4/2014",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Quán Thế Âm 2013 tại Thừa Thiên - Huế",
+    "chatgptName": "Lễ hội Quán Thế Âm",
+    "start": "26/7",
+    "end": "26/7",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Điện Huệ Nam năm 2013 tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội Điện Huệ Nam",
+    "start": "14/8",
+    "end": "16/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội cầu ngư năm 2013 tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội cầu ngư",
+    "start": "22/8",
+    "end": "23/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Nhật Bản tại Huế năm 2013",
+    "chatgptName": "Lễ hội Nhật Bản tại Huế",
+    "start": "9/9",
+    "end": "13/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng tổ chức lễ hội Cầu Ngư tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội Cầu Ngư",
+    "start": "9/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Linh thiêng Lễ tế Xã Tắc năm 2014",
+    "chatgptName": "Lễ tế Xã Tắc",
+    "start": "18/2",
+    "end": "18/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Rực rỡ lễ hội tưởng nhớ công chúa Huyền Trân tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội đền Huyền Trân",
+    "start": "21/2/2010",
+    "end": "21/2/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Cầu ngư ở Cửa Hội tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội Cầu Ngư",
+    "start": "3/1",
+    "end": "3/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Festival Huế 2010 - Nơi gặp gỡ ấn tượng của các lễ hội ở Việt Nam",
+    "chatgptName": "Festival Huế",
+    "start": "5/6",
+    "end": "13/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ Hội Điện Hòn Chén tại Thừa Thiên Huế",
+    "chatgptName": "Lễ Hội Điện Hòn Chén",
+    "start": "2/3",
+    "end": "3/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Hội Cầu Ngư ở Thái Dương Hạ tại Thừa Thiên Huế",
+    "chatgptName": "Lễ Hội Cầu Ngư",
+    "start": "12/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ cầu mùa của dân tộc Tà Ôi tại Thừa Thiên Huế",
+    "chatgptName": "Lễ cầu mùa của người dân tộc Tà Ôi",
+    "start": "Tết âm lịch",
+    "end": "Tết âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đua ghe truyền thống tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội đua ghe truyền thống",
+    "start": "2/9 Dương lịch",
+    "end": "2/9 Dương lịch",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội vật làng Sình tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội đấu Vật làng Sình",
+    "start": "10/1 Âm lịch",
+    "end": "10/1 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tết Cơm Mới ( Lễ Aza ) tại Thừa Thiên Huế",
+    "chatgptName": "Tết Cơm Mới (Lễ Aza)",
+    "start": "1/10 Âm lịch",
+    "end": "30/10 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng bún Phú Đô tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội làng bún Phú Đô",
+    "start": "22/1 Âm lịch",
+    "end": "22/1 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Rước Hến tại Thừa Thiên Huế",
+    "chatgptName": "Lễ rước hến",
+    "start": "24/6 Âm lịch",
+    "end": "24/6 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Huyền Trân tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội đền Huyền Trân công chúa",
+    "start": "9/1 Âm lịch",
+    "end": "9/1 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng Chuồn tại Thừa Thiên Huế",
+    "chatgptName": "Lễ hội Làng Chuồn",
+    "start": "15/7 Âm lịch",
+    "end": "17/7 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Tịch Điền tại Thừa Thiên Huế",
+    "chatgptName": "Lễ Tịch Điền",
+    "start": "1/5 Âm lịch",
+    "end": "30/5 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Sẽ có gần 50 nghìn lượt du khách trẩy hội Huyền Trân mỗi ngày",
+    "chatgptName": "Lễ hội Huyền Trân",
+    "start": "10/2",
+    "end": "17/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Bày bán 30 triệu bản sách tại Hội sách TP HCM lần thứ X",
+    "chatgptName": "Hội sách TP HCM",
+    "start": "19/3",
+    "end": "25/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Phượng hoàng mùa xuân khu đô thị mới Kenton Node Hotel Complex",
+    "chatgptName": "Lễ hội Phượng hoàng mùa xuân",
+    "start": "26/12",
+    "end": "10/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Đậm đà bản sắc hội hoa xuân Phú Mỹ Hưng 2018",
+    "chatgptName": "Hội hoa xuân Phú Mỹ Hưng",
+    "start": "23/12",
+    "end": "30/12",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ trao giải Keeng Young Awards năm 2017",
+    "chatgptName": "Keeng Young Awards 2017",
+    "start": "16/1",
+    "end": "16/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội chào đón năm mới 2018 tại Công viên Văn hóa Đầm Sen",
+    "chatgptName": "Lễ hội chào đón năm mới tại công viên Văn hóa Đầm Sen",
+    "start": "16/12",
+    "end": "31/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội âm nhạc Tiger Remix - Đánh thức bản lĩnh đếm ngược chào năm mới 2018",
+    "chatgptName": "Lễ hội âm nhạc Tiger Remix - Đếm ngược chào đón năm mới",
+    "start": "31/12",
+    "end": "31/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đèn lồng lớn nhất Việt Nam Allunee – Kết nối cộng đồng",
+    "chatgptName": "Sự kiện Allunee – Kết nối cộng đồng",
+    "start": "8/12",
+    "end": "21/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ trao giải âm nhạc MAMA (Mnet Asian Music Awards)",
+    "chatgptName": "MAMA (Mnet Asian Music Awards)",
+    "start": "25/11",
+    "end": "25/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Văn hóa Thế giới TP HCM - Gyeogju năm 2017",
+    "chatgptName": "Lễ hội Văn hóa Thế giới TP HCM - Gyeogju",
+    "start": "11/11",
+    "end": "3/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ kỳ yên đình Trường Thọ tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ Kỳ Yên Đình Trường Thọ",
+    "start": "17/2",
+    "end": "17/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền thờ Phan Công Hớn tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ giỗ Phan Công Hớn",
+    "start": "25/2",
+    "end": "25/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội chùa Ông tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ cúng Quan Đế tại chùa Ông",
+    "start": "24/6",
+    "end": "24/6",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ khai hạ",
+    "chatgptName": "Lễ khai hạ",
+    "start": "7/1",
+    "end": "7/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Xá tội vong nhân",
+    "chatgptName": "Lễ xá tội vong nhân",
+    "start": "15/7",
+    "end": "15/7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội lăng Lê Văn Duyệt (Lăng ông bà Chiểu) TP HCM",
+    "chatgptName": "Hội lăng Lê Văn Duyệt",
+    "start": "30/7",
+    "end": "3/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Đại lễ Phật đản tại Việt Nam",
+    "chatgptName": "Đại lễ Phật đản",
+    "start": "15/4",
+    "end": "15/4",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chùa Bà Thiên Hậu",
+    "chatgptName": "Lễ hội chùa Bà Thiên Hậu",
+    "start": "23/3",
+    "end": "23/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội trái cây Nam Bộ tại Suối Tiên",
+    "chatgptName": "Lễ hội Trái Cây Nam Bộ",
+    "start": "1/6",
+    "end": "30/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Xác lập 2 kỷ lục tại lễ hội trái cây Nam Bộ 2011",
+    "chatgptName": "Lễ hội trái cây Nam Bộ 2011",
+    "start": "6/6",
+    "end": "6/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "TP.HCM tưng bừng lễ hội mừng năm mới 2013",
+    "chatgptName": "Lễ hội đón chào năm mới 2013",
+    "start": "26/12",
+    "end": "1/1/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội chùa Ông Bổn tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội tại Chùa Ông Bổn",
+    "start": "rằm tháng Giêng",
+    "end": "rằm tháng Tám",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Kỳ Yên đình Bình Đông tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ Kỳ Yên tại Đình Bình Đông",
+    "start": "12/2",
+    "end": "13/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chùa bà Thiên Hậu tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội chùa Bà Thiên Hậu",
+    "start": "23/3",
+    "end": "23/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Vu Lan báo hiếu dự kiến sẽ tổ chức vào giữa tháng 8 năm 2010",
+    "chatgptName": "Lễ hội Vu Lan - Báo hiếu",
+    "start": "14/7",
+    "end": "15/7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tổ chức Lễ hội ẩm thực chay trong mùa Vu Lan – Báo Hiếu 2010 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội ẩm thực chay trong mùa Vu Lan - Báo Hiếu",
+    "start": "14/7",
+    "end": "15/7",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Vu Lan tại khu du lịch Suối Tiên",
+    "chatgptName": "Lễ hội Vu Lan tại khu du lịch Suối Tiên",
+    "start": "22/8",
+    "end": "24/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Kết thúc Lễ hội ẩm thực Chay năm 2010 tổ chức tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội ẩm thực chay 2010",
+    "start": "26/8",
+    "end": "29/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Họp báo về việc tổ chức Lễ hội nghinh ông Cần Giờ năm 2010",
+    "chatgptName": "Lễ hội nghinh ông Cần Giờ",
+    "start": "21/9",
+    "end": "23/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Cần Giờ sôi động Lễ hội Nghinh Ông năm 2010",
+    "chatgptName": "Lễ hội Nghinh Ông Cần Giờ",
+    "start": "21/9",
+    "end": "23/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội bia lớn nhất trên thế giới về Việt Nam",
+    "chatgptName": "Oktoberfest",
+    "start": "22/10",
+    "end": "23/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ Hội Một ngày tới Pháp tổ chức tại TP HCM",
+    "chatgptName": "Lễ Hội “Một ngày tới Pháp”",
+    "start": "22/10",
+    "end": "23/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lên kế hoạch tổ chức chương trình Lễ hội Tết 2011 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội Tết Tân Mão",
+    "start": "31/1/2011",
+    "end": "6/2/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội hoa đăng Phật giáo lớn nhất ở Việt Nam",
+    "chatgptName": "Đêm hội hoa đăng mừng đức Phật Di Đà",
+    "start": "22/12",
+    "end": "23/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội đón năm mới 2011 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội và biểu diễn nghệ thuật đón chào năm mới 2011",
+    "start": "26/12",
+    "end": "2/1/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Bia Việt Nam 2011",
+    "chatgptName": "Lễ hội Bia Việt Nam",
+    "start": "21/1/2011",
+    "end": "23/1/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lần đầu tiên tổ chức Lễ hội Đường sách tại TP.HCM",
+    "chatgptName": "Lễ hội Đường sách",
+    "start": "31/1/2011",
+    "end": "6/2/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lần đầu tiên tổ chức Lễ hội Áo dài không biên giới tại Việt Nam",
+    "chatgptName": "Lễ hội Áo dài không biên giới",
+    "start": "21/1/2011",
+    "end": "21/1/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khám phá đất nước đảo trong lễ hội Indonesia tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội Indonesia - Khám phá muôn sắc",
+    "start": "17/4/2024",
+    "end": "17/4/2024",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều hoạt động được tổ chức trong Lễ hội Trái cây Nam Bộ năm 2011",
+    "chatgptName": "Lễ hội Trái cây Nam Bộ 2011",
+    "start": "01/6/2011",
+    "end": "06/6/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Họp báo giới thiệu Lễ hội Trái cây Nam bộ 2011 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội Trái Cây Nam Bộ 2011",
+    "start": "01/6/2011",
+    "end": "06/6/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội Rượu vang và Ẩm thực Úc lần thứ 4 tại TP HCM",
+    "chatgptName": "Lễ hội Rượu vang và Ẩm thực Úc 2011",
+    "start": "2/6/2011",
+    "end": "4/6/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhộn nhịp Lễ hội Trái cây Nam bộ năm 2011",
+    "chatgptName": "Lễ hội Trái cây Nam Bộ 2011",
+    "start": "1/6/2011",
+    "end": "31/8/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "TP HCM: Bế mạc Lễ hội trái cây Nam Bộ năm 2011",
+    "chatgptName": "Lễ hội trái cây Nam Bộ 2011",
+    "start": "6/6/2011",
+    "end": "6/6/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lần đầu tiên tổ chức Lễ hội Khi tôi 18 tại TP HCM",
+    "chatgptName": "Lễ hội ‘Khi tôi 18’",
+    "start": "12/6/2011",
+    "end": "12/6/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Xã hội hóa việc tổ chức các lễ hội Tết năm 2012 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội Tết Dương lịch và Tết Nguyên đán TP Hồ Chí Minh 2012",
+    "start": "30/12/2011",
+    "end": "5/2/2012",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Vu lan - mùa báo hiếu 2011",
+    "chatgptName": "Lễ hội Vu Lan báo hiếu 2011",
+    "start": "13/8",
+    "end": "15/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đồ uống Việt Nam 2011 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội Đồ uống Việt Nam 2011",
+    "start": "8/9",
+    "end": "11/9",
+    "lunarCalendar": false
+  }
+]

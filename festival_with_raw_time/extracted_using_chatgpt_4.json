@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Hình ảnh của những sự kiện nổi bật trong 10 ngày diễn ra Đại lễ 1000 năm Thăng Long",
+    "chatgptName": "Đại lễ kỷ niệm 1.000 năm Thăng Long - Hà Nội",
+    "start": "1/10",
+    "end": "10/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng tổ chức lễ hội truyền thống làng Quỳnh Đô, Thanh Trì, Hà Nội",
+    "chatgptName": "Lễ hội làng Quỳnh Đô",
+    "start": "5/2",
+    "end": "7/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Người Việt hân hoan tham gia Lễ hội Cờ hiệu thế giới 2012",
+    "chatgptName": "Lễ hội cờ hiệu thế giới",
+    "start": "9/6",
+    "end": "9/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo Lễ hội Ẩm thực và văn hóa Malaysia tại Hà Nội",
+    "chatgptName": "Lễ hội Ẩm thực và văn hóa Malaysia",
+    "start": "5/9",
+    "end": "9/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hoàn toàn có cơ sở để phục dựng lễ hội Đèn Quảng Chiếu",
+    "chatgptName": "Lễ hội Đèn Quảng Chiếu",
+    "start": "31/8",
+    "end": "31/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai hội chùa Hương 2014",
+    "chatgptName": "Lễ hội chùa Hương",
+    "start": "5/2",
+    "end": "5/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo ngày hội Sắc xuân trên mọi miền Tổ quốc 2014",
+    "chatgptName": "Ngày hội Sắc xuân trên mọi miền Tổ quốc",
+    "start": "15/2",
+    "end": "17/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lần đầu tiên tổ chức hội chọi trâu Phúc Thọ - Hà Nội",
+    "chatgptName": "Hội chọi trâu Phúc Thọ",
+    "start": "22/2",
+    "end": "23/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Giao lưu văn hóa Việt – Nhật tại Lễ hội hoa anh đào 2014",
+    "chatgptName": "Lễ hội hoa anh đào",
+    "start": "8/3",
+    "end": "9/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Triển khai tăng cường công tác quản lý hoạt động lễ hội năm 2014",
+    "chatgptName": "",
+    "start": "",
+    "end": "",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội thổi cơm thi làng Thị Cấm - Hà Nội",
+    "chatgptName": "Lễ hội thổi cơm thi làng Thị Cấm",
+    "start": "26/2",
+    "end": "26/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Sôi động Lễ hội Đức năm 2015",
+    "chatgptName": "Lễ hội Đức 2015",
+    "start": "28/3",
+    "end": "28/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lộng lẫy lễ giáng sinh ở Singapore",
+    "chatgptName": "Lễ hội Noel Singapore",
+    "start": "giữa tháng 12",
+    "end": "giữa tháng 12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Các lễ hội, sự kiện trong dịp Tết Nguyên Đán 2011 tại Singapore",
+    "chatgptName": "Tết Nguyên Đán Singapore",
+    "start": "trong dịp này",
+    "end": "trong dịp này",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội Đền Và 2014 ở Sơn Tây, Hà Nội",
+    "chatgptName": "Lễ hội Đền Và",
+    "start": "14/2",
+    "end": "14/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Văn hóa tín ngưỡng lễ hội Đền Hai Bà Trưng",
+    "chatgptName": "Lễ hội Đền Hai Bà Trưng",
+    "start": "8/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Cùng trải nghiệm lễ hội cà phê tại Hà Nội",
+    "chatgptName": "Lễ hội cà phê",
+    "start": "3/4/2015",
+    "end": "5/4/2015",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo màn thi đấu Cờ tướng trong Lễ hội chùa Vua 2010",
+    "chatgptName": "Lễ hội Chùa Vua",
+    "start": "19/2",
+    "end": "19/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Không khí tưng bừng của Lễ hội xuân Thăng Long-Hà Nội ngàn năm",
+    "chatgptName": "Lễ hội xuân Thăng Long-Hà Nội",
+    "start": "19/2",
+    "end": "19/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội truyền thống làng Liễu Giai tại Hà Nội",
+    "chatgptName": "Lễ hội truyền thống làng Liễu Giai",
+    "start": "25/2/2010",
+    "end": "25/2/2010",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Nét văn hoá của vùng đồng bằng Bắc Bộ tại Lễ hội Đình làng An Hạ",
+    "chatgptName": "Lễ hội truyền thống làng An Hạ",
+    "start": "25/2/2010",
+    "end": "25/2/2010",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng Đại lễ hội Doanh nhân Việt Nam với Hoa Lư – Thăng Long – Hà Nội tại Chùa Bái Đính",
+    "chatgptName": "Lễ hội Doanh nhân Việt Nam với Hoa Lư - Thăng Long - Hà Nội",
+    "start": "4/3/2010",
+    "end": "4/3/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động lễ hội Thập Tam Trại, Hà Nội",
+    "chatgptName": "Lễ hội Thập Tam Trại",
+    "start": "6/3",
+    "end": "6/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều nơi trên địa bàn thủ đô Hà Nội diễn ra Lễ hội truyền thống kỷ niệm 1970 năm khởi nghĩa Hai Bà Trưng",
+    "chatgptName": "Lễ hội kỷ niệm 1970 năm khởi nghĩa Hai Bà Trưng",
+    "start": "20/3",
+    "end": "22/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đông đảo người dân Hà Nội tham dự Lễ hội Đền Bạch Mã 2010",
+    "chatgptName": "Lễ hội Đền Bạch Mã",
+    "start": "27/3",
+    "end": "27/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động lễ hội Gióng làng Phù Đổng",
+    "chatgptName": "Lễ hội Gióng đền Phù Đổng",
+    "start": "22/5",
+    "end": "22/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Long trọng lễ hội kỷ niệm 582 năm Vua Lê Thái Tổ đăng quang tại Hà Nội",
+    "chatgptName": "Lễ hội kỷ niệm 582 năm Vua Lê Thái Tổ đăng quang",
+    "start": "28/5",
+    "end": "28/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội nghị đánh giá công tác, quản lý và tổ chức lễ hội trong 6 tháng đầu năm 2010",
+    "chatgptName": "Hội nghị đánh giá công tác, quản lý và tổ chức lễ hội",
+    "start": "15/6",
+    "end": "15/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "74% Du khách tham gia đóng góp công đức trong các lễ hội",
+    "chatgptName": "Hội nghị đánh giá công tác quản lý và tổ chức lễ hội năm 2010",
+    "start": "15/6",
+    "end": "15/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Chùa Hương 2010 và bài học kinh nghiệm trong công tác quản lý, tổ chức",
+    "chatgptName": "Lễ hội chùa Hương 2010",
+    "start": "Khóa hội Chùa Hương 2010",
+    "end": "Khóa hội Chùa Hương 2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Bao giờ thì có du lịch lễ hội?",
+    "chatgptName": "Lễ hội chùa Hương",
+    "start": "Lễ hội chùa Hương",
+    "end": "Lễ hội chùa Hương",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lung linh Lễ hội Hoa Đăng tại Hà Nội",
+    "chatgptName": "Lễ hội Hoa Đăng",
+    "start": "Đại lễ Phật giáo kỷ niệm 1.000 năm Thăng Long - Hà Nội",
+    "end": "Đại lễ Phật giáo kỷ niệm 1.000 năm Thăng Long - Hà Nội",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sẽ không thực hiện phương án 'bắn mây' trong Đại lễ 1000 năm Thăng Long – Hà Nội",
+    "chatgptName": "Đại lễ",
+    "start": "18/8",
+    "end": "18/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội rước đèn Thăng Long quy mô lớn tại Thủ đô Hà Nội",
+    "chatgptName": "Lễ hội rước đèn Thăng Long",
+    "start": "22/9/2010",
+    "end": "22/9/2010",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Dừng tổ chức hai lễ hội trong dịp Đại lễ 1000 Thăng Long",
+    "chatgptName": "Đại Lễ 1000 năm Thăng Long Hà Nội",
+    "start": "1/10/2010",
+    "end": "10/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo Lễ hội du lịch Thăng Long – Hà Nội, hội tụ ngàn năm",
+    "chatgptName": "Lễ hội du lịch Thăng Long - Hà Nội, hội tụ ngàn năm",
+    "start": "2/10/2010",
+    "end": "5/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tôn vinh ngành nghề truyền thống qua Lễ hội làng nghề, phố nghề Thăng Long – Hà Nội",
+    "chatgptName": "Lễ hội làng nghề, phố nghề Thăng Long - Hà Nội",
+    "start": "16/9/2022",
+    "end": "21/9/2022",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội hoa mừng Đại lễ 1.000 năm Thăng Long Hà Nội",
+    "chatgptName": "Lễ hội hoa",
+    "start": "1/10/2010",
+    "end": "1/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Bắn pháo hoa chào mừng ngày Quốc Khánh 2/9 và chào mừng Đại lễ 1000 năm Thăng Long",
+    "chatgptName": "Lễ hội bắn pháo hoa",
+    "start": "2/9/2023",
+    "end": "2/9/2023",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đặc sắc Lễ hội trống đồng - Hào khí Thăng Long",
+    "chatgptName": "Lễ hội trống đồng - Hào khí Thăng Long",
+    "start": "29/8/2010",
+    "end": "29/8/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Rồng chào đón 1000 năm Thăng Long – Hà Nội",
+    "chatgptName": "Lễ hội Rồng",
+    "start": "29/8/2022",
+    "end": "29/8/2022",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội giao lưu văn hóa vùng, miền của các dân tộc Việt Nam",
+    "chatgptName": "Lễ hội giao lưu văn hoá vùng, miền các dân tộc Việt Nam",
+    "start": "7/10/2010",
+    "end": "10/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Festival cầu Long Biên 2010 trong những ngày diễn ra Đại Lễ 1000 Thăng Long tại Hà Nội",
+    "chatgptName": "Festival cầu Long Biên 2010",
+    "start": "6/10/2010",
+    "end": "10/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội đình Yên Thái tại Hà Nội",
+    "chatgptName": "Lễ hội đình Yên Thái",
+    "start": "3/9/2023",
+    "end": "4/9/2023",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Lục bát Canh Dần với chủ đề Ngàn năm hồn Việt",
+    "chatgptName": "Lễ hội Lục bát Canh Dần",
+    "start": "11/9/2010",
+    "end": "11/9/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức các lễ hội kỷ niệm Đại lễ 1000 Thăng Long – Hà Nội",
+    "chatgptName": "Lễ hội Lam Kinh năm 2010",
+    "start": "28/9/2010",
+    "end": "28/9/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sẵn sàng các phương án bảo vệ Đại lễ 1000 năm",
+    "chatgptName": "Đại lễ 1000 năm Thăng Long - Hà Nội",
+    "start": "1/10/2010",
+    "end": "10/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đại lễ kỷ niệm 1000 năm Thăng Long – Hà Nội chỉ còn đếm từng ngày",
+    "chatgptName": "Đại lễ 1000 năm Thăng Long - Hà Nội",
+    "start": "1/10/2010",
+    "end": "1/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội In dấu rồng thiêng chào mừng Đại lễ kỷ niệm 1000 năm Thăng Long",
+    "chatgptName": "Lễ hội “In dấu rồng thiêng”",
+    "start": "2/10/2010",
+    "end": "2/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhân dịp Đại lễ 1000 năm, Hà Nội sẽ có lễ hội đường phố...",
+    "chatgptName": "Liên hoan du lịch quốc tế Thăng Long - Hà Nội năm 2010",
+    "start": "2/10/2010",
+    "end": "5/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hình ảnh Hà Nội quen thuộc qua Lễ hội ẩm thực trên Cao Nguyên",
+    "chatgptName": "Lễ hội ẩm thực \"Hương vị Hà Nội trên cao nguyên\"",
+    "start": "3/10/2010",
+    "end": "3/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổng duyệt Đêm hội văn hóa nghệ thuật đại lễ 1000 năm Thăng Long – Hà Nội",
+    "chatgptName": "Đêm hội văn hóa nghệ thuật kỷ niệm 1.000 năm Thăng Long - Hà Nội",
+    "start": "6/10/2022",
+    "end": "6/10/2022",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc Lễ hội ẩm thực tại Hà Thành",
+    "chatgptName": "Liên hoan ẩm thực Hà Thành",
+    "start": "7/10/2010",
+    "end": "11/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Đại lễ 1000 năm Thăng Long tại Hà Nội",
+    "chatgptName": "Đại lễ 1000 năm Thăng Long - Hà Nội",
+    "start": "10/10/2010",
+    "end": "10/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Halloween ấn tượng tại Hà Nội",
+    "chatgptName": "Lễ hội Halloween",
+    "start": null,
+    "end": null,
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hơn 1 triệu lượt du khách đã đến Hà Nội trong dịp Đại lễ 1000 Thăng Long",
+    "chatgptName": "Đại lễ 1000 năm Thăng Long - Hà Nội",
+    "start": "01/10",
+    "end": "10/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Kết thúc Lễ hội bia Oktoberfest năm 2010 tại Hà Nội",
+    "chatgptName": "Lễ hội Oktoberfest",
+    "start": "22/10",
+    "end": "23/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ rước áo cà sa của Phật tổ Ấn Độ về nước Việt Nam",
+    "chatgptName": "Lễ rước áo cà sa của Phật tổ Ấn Độ về Việt Nam",
+    "start": "9/11",
+    "end": "9/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội văn hóa giữa Việt Nam- Hàn Quốc",
+    "chatgptName": "Lễ hội văn hóa ẩm thực Việt Nam - Hàn Quốc",
+    "start": "27/11",
+    "end": "28/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "UNESCO đưa Lễ hội Gióng Việt Nam vào danh sách xem xét công nhận di sản phi vật thể",
+    "chatgptName": "Lễ hội Thánh Gióng",
+    "start": "4/8",
+    "end": "4/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "UNESCO công nhận Lễ hội Thánh Gióng là di sản phi vật thể đại diện nhân loại",
+    "chatgptName": "Lễ hội Thánh Gióng",
+    "start": "6/4",
+    "end": "12/4",
+    "lunarCalendar": true
+  },
+  {
+    "name": "An toàn cho việc lễ hội",
+    "chatgptName": "Lễ hội Đền Hùng",
+    "start": "22/11",
+    "end": "22/11",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Giảm tần suất tổ chức các ngày lễ kỷ niệm",
+    "chatgptName": "Lễ kỷ niệm 120 năm ngày sinh nhật Chủ tịch Hồ Chí Minh",
+    "start": "23/11",
+    "end": "23/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "17 đầu việc bảo tồn và phát huy giá trị Hội Gióng",
+    "chatgptName": "Hội Gióng",
+    "start": "30/11",
+    "end": "30/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Trình báo cáo tổng kết hoạt động kỷ niệm Đại lễ 1000 năm Thăng Long-Hà Nội",
+    "chatgptName": "Đại lễ 1000 năm Thăng Long-Hà Nội",
+    "start": "22/11",
+    "end": "10/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ tưởng niệm 702 năm ngày mất của Phật hoàng Trần Nhân Tông tại Hà Nội",
+    "chatgptName": "Đại lễ tưởng niệm Phật hoàng Trần Nhân Tông",
+    "start": "1/11",
+    "end": "5/12",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tổng kết việc tổ chức kỷ niệm các ngày lễ lớn trong năm 2009 và năm 2010",
+    "chatgptName": "Lễ kỷ niệm Thăng Long - Hà Nội",
+    "start": "1/1",
+    "end": "1/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Bộ VHTTDL ra chỉ thị về việc tổ chức Lễ hội trong dịp tết Tân Mão 2011",
+    "chatgptName": "Tết Nguyên đán Tân Mão",
+    "start": "1/2",
+    "end": "1/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội hoa năm 2011 sẽ tổ chức tại hồ Thiền Quang",
+    "chatgptName": "Lễ hội hoa",
+    "start": "Tết Nguyên Đán",
+    "end": "Tết Nguyên Đán",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Đón mùa lễ hội tại Hà Nội",
+    "chatgptName": "Lễ hội đền Và",
+    "start": "rằm tháng Giêng",
+    "end": "rằm tháng Giêng",
+    "lunarCalendar": true
+  }
+]

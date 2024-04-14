@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Lên kế hoạch tổ chức lễ hội Âm vang Hồ Thác tại Yên Bái",
+    "chatgptName": "Lễ hội Âm vang Hồ Thác Bà",
+    "start": "trung tuần tháng 11/2011",
+    "end": "trung tuần tháng 11/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Cầu cơm mới ở đền Đông Cuông, Yên Bái",
+    "chatgptName": "Lễ hội Cầu cơm mới",
+    "start": "ngày 14/10",
+    "end": "ngày 15/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Âm vang Hồ Thác Bà tại Yên Bái",
+    "chatgptName": "Lễ hội Âm vang Hồ Thác Bà",
+    "start": "ngày 18/11/2011",
+    "end": "ngày 20/11/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Linh thiêng và đặc sắc Lễ hội đền Đông Cuông (Yên Bái)",
+    "chatgptName": "Lễ hội Đền Đông Cuông",
+    "start": "ngày mão đầu năm",
+    "end": "ngày mão đầu năm",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai mạc Lễ hội chọi trâu Lục Yên năm 2011 tại Yên Bái",
+    "chatgptName": "Hội chọi trâu huyện Lục Yên",
+    "start": "ngày 5/2",
+    "end": "ngày 17/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Họp bàn tổ chức Những ngày lễ lớn tại Yên Bái",
+    "chatgptName": "Tuần văn hóa, thể thao, du lịch danh thắng ruộng bậc thang Mù Cang Chải",
+    "start": "ngày 14/9",
+    "end": "ngày 20/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lùi thời gian tổ chức Lễ hội Mù Cang Chải tại Yên Bái",
+    "chatgptName": "Tuần văn hóa, thể thao và du lịch danh thắng ruộng bậc thang Mù Cang Chải",
+    "start": "ngày 14/9",
+    "end": "ngày 20/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đề nghị xem xét đưa Lễ hội quá tang tại Yên Bái vào danh mục di sản văn hóa phi vật thể cấp quốc gia",
+    "chatgptName": "Lễ hội quá tang của người Dao",
+    "start": "không được cung cấp",
+    "end": "không được cung cấp",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khôi phục nghi lễ Khảm hải tại Yên Bái",
+    "chatgptName": "Lễ hội Khảm hải của người Tày",
+    "start": "không được cung cấp",
+    "end": "không được cung cấp",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội vùng Van Đờ Mác-nơ (Pháp) đến nước Việt Nam",
+    "chatgptName": "Lễ hội cầu mùa của người dân tộc Khơ Mú",
+    "start": "không được cung cấp",
+    "end": "không được cung cấp",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc lễ Hội sông Hồng năm 2013 tại Yên Bái",
+    "chatgptName": "Lễ hội Sông Hồng",
+    "start": "17/2",
+    "end": "19/2/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội cúng rừng của dân tộc Mông tại Yên Bái",
+    "chatgptName": "Lễ hội cúng rừng",
+    "start": "11/3",
+    "end": "11/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội cầu Cơm mới đền Đông Cuông Yên Bái năm 2013",
+    "chatgptName": "Lễ hội cầu Cơm mới đền Đông Cuông",
+    "start": "15/10",
+    "end": "16/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Già - ì - Xì - Mờ – Ra – Né (Lễ ăn mừng cơm mới của tộc người Xá Phó) tại Yên Bái",
+    "chatgptName": "Lễ hội Già - ì - xì - mờ - ra - né",
+    "start": "15/8",
+    "end": "15/9",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Đông Cuông tại Yên Bái",
+    "chatgptName": "Lễ hội Đền Đông Cuông",
+    "start": "1/1",
+    "end": "1/9",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Đám Sênh – Lễ chay người Cao Lan tại Yên Bái",
+    "chatgptName": "Lễ hội Đám Sênh",
+    "start": "17h chiều",
+    "end": "sáng ngày hôm sau",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Bung Lổ của người Dao Họ tại Yên Bái",
+    "chatgptName": "Lễ hội Bung Lổ",
+    "start": "5/5",
+    "end": "15/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Mẫu Nam Cường tại Yên Bái",
+    "chatgptName": "Lễ hội Đền Mẫu Nam Cường",
+    "start": "15/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Lồng Tồng của người Tày ở Kiến Thành tại Yên Bái",
+    "chatgptName": "Lễ hội Lồng Tồng",
+    "start": "25/12",
+    "end": "25/12",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Đại Cại tại Yên Bái",
+    "chatgptName": "Lễ hội đền Đại Cại",
+    "start": "15/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội cầu mưa của người Thái đen Mường Lò tại Yên Bái",
+    "chatgptName": "Lễ hội cầu mưa",
+    "start": "1/1",
+    "end": "30/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ A - ne - pạ - gờ - bá tại Yên Bái",
+    "chatgptName": "Lễ A - Ne - Pạ - Gờ - Bá",
+    "start": "1/1",
+    "end": "1/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hàng nghìn ngọn nến lung linh trong đêm hội hoa đăng Tây Thiên tỉnh Vĩnh Phúc",
+    "chatgptName": "Đêm hội hoa đăng Tây Thiên",
+    "start": "15/2",
+    "end": "15/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội chọi trâu Hải Lựu (Vĩnh Phúc) vỡ trận vì mở cửa miễn phí",
+    "chatgptName": "Lễ hội chọi trâu Hải Lựu",
+    "start": "15/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Ngô Tướng Công",
+    "chatgptName": "Lễ hội đền Ngô Tướng Công",
+    "start": "9/1",
+    "end": "11/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Thính ở Vĩnh Phúc",
+    "chatgptName": "Lễ hội đền Thính",
+    "start": "6/1",
+    "end": "20/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội kéo co truyền thống làng Hoà Loan ở Vĩnh Phúc",
+    "chatgptName": "Lễ hội kéo co truyền thống làng Hoà Loan",
+    "start": "4/1",
+    "end": "8/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội rước cây bông ở Vĩnh Phúc",
+    "chatgptName": "Lễ hội Rước cây bông",
+    "start": "8/1",
+    "end": "8/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Chen lấn, giẫm đạp cướp chiếu cói cầu quý tử ở lễ hội Đúc Bụt",
+    "chatgptName": "Lễ hội Đúc Bụt",
+    "start": "7/1",
+    "end": "9/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội khai xuân Khánh Hạ tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội khai xuân Khánh Hạ",
+    "start": "9/1",
+    "end": "9/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Xuân làng Thổ Tang ở Vĩnh Phúc",
+    "chatgptName": "Hội Xuân làng Thổ Tang",
+    "start": "14/1",
+    "end": "23/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Không gian văn hóa hội Rưng tại Vĩnh Phúc",
+    "chatgptName": "Hội Rưng",
+    "start": "6/1",
+    "end": "6/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng Bồ Sao tại Vĩnh Phúc",
+    "chatgptName": "Hội làng Bồ Sao",
+    "start": "14/5",
+    "end": "16/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội bơi trải trên sông Cánh tại Hương Canh - Vĩnh Phúc",
+    "chatgptName": "Hội bơi trải trên sông Cánh",
+    "start": "15/7",
+    "end": "15/7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội hát trống quân Đức Bác tại Vĩnh Phúc",
+    "chatgptName": "Hội hát trống quân Đức Bác",
+    "start": "1/1",
+    "end": "3/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đánh cờ tại Vĩnh Phúc",
+    "chatgptName": "Hội đánh cờ",
+    "start": "10/9",
+    "end": "14/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội chọi trâu Hải Lựu tỉnh Vĩnh Phúc",
+    "chatgptName": "Lễ hội chọi trâu Hải Lựu",
+    "start": "17/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng lễ hội chọi trâu xã Hải Lưu – Vĩnh Phúc năm 2012",
+    "chatgptName": "Lễ hội chọi trâu Hải Lựu",
+    "start": "16/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng lễ hội Chọi trâu Hải Lựu xuân Ất Mùi 2015 tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Chọi trâu Hải Lựu",
+    "start": "16/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chọi trâu Hải Lựu hấp dẫn hàng nghìn khách du lịch",
+    "chatgptName": "Lễ hội chọi trâu Hải Lựu",
+    "start": "01/03",
+    "end": "01/03",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội chọi trâu Hải Lựu tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội chọi trâu Hải Lựu",
+    "start": "16/2",
+    "end": "17/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Vui hội Lồng tông tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Lồng Tồng",
+    "start": "15/2",
+    "end": "16/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng lễ hội Tây Thiên xuân Ất Mùi tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "15/2",
+    "end": "17/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng khai hội Tây Thiên tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "7/3",
+    "end": "7/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc Lễ hội Tây Thiên năm 2010 tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "30/3",
+    "end": "1/4",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Không khí sôi động ở lễ hội chọi Trâu Hải Lựu, Vĩnh Phúc",
+    "chatgptName": "Lễ hội Chọi Trâu",
+    "start": "18/2",
+    "end": "19/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Để lễ hội trở về đúng bản sắc văn hóa truyền thống tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "rằm tháng 2",
+    "end": "rằm tháng 2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Gấp rút hoàn thành các công trình chuẩn bị phục vụ cho Lễ hội Tây Thiên 2011 tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "rằm tháng 2",
+    "end": "rằm tháng 2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Du khách nô nức trẩy hội Tây Thiên ở Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "19/3",
+    "end": "21/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đã sẵn sàng cho Lễ hội Tây Thiên 2012 tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "2/3",
+    "end": "2/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sẽ tổ chức Đại Lễ Uống nước nhớ nguồn tại Vĩnh Phúc",
+    "chatgptName": "Đại lễ Uống nước nhớ nguồn",
+    "start": "23/3/2013",
+    "end": "23/3/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Tây Thiên, Lễ hội đường phố tổ chức vào tháng 3/2013 tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "26/3/2013",
+    "end": "26/3/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Thống nhất kịch bản tổ chức Lễ hội Tây Thiên năm 2013",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "26/3/2013",
+    "end": "26/3/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Công tác tổ chức lễ hội Tây Thiên 2013 tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "26/3/2013",
+    "end": "26/3/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội chọi trâu lâu đời tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội chọi trâu Hải Lựu",
+    "start": "16/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Họp báo công bố kế hoạch tổ chức lễ hội Tây Thiên năm 2013",
+    "chatgptName": "Lễ hội Tây Thiên",
+    "start": "25/3",
+    "end": "28/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều hoạt động lễ hội trong Tuần Văn hóa - Du lịch Vĩnh Phúc năm 2013",
+    "chatgptName": "Tuần Văn hóa - Du lịch Vĩnh Phúc",
+    "start": "23/3",
+    "end": "26/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai hội Tây Thiên năm 2013",
+    "chatgptName": "Lễ khai hội Tây Thiên",
+    "start": "26/3/2013",
+    "end": "26/3/2013",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Náo nhiệt khai hội Tây Thiên 2014",
+    "chatgptName": "Lễ hội Tây Thiên 2014",
+    "start": "15/3/2014",
+    "end": "15/3/2014",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chọi trâu tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội chọi trâu Hải Lưu",
+    "start": "16/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội vật ở làng Hà tại Vĩnh Phúc",
+    "chatgptName": "Hội vật làng Hà",
+    "start": "7/1",
+    "end": "7/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền thờ Đức Ông tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Đền thờ Đức Ông",
+    "start": "6/1",
+    "end": "7/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội bơi trải Tứ Yên tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội bơi trải Tứ Yên",
+    "start": "24/5",
+    "end": "25/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Ngự Dội tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội đền Ngự Dội",
+    "start": "15/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Bắc Cung tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội đền Bắc Cung",
+    "start": "6/1",
+    "end": "9/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đình Cả của 5 làng Tích Sơn tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Đình Cả 5 làng Tích Sơn",
+    "start": "1/1",
+    "end": "3/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng Phù Liễn tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Phù Liễn",
+    "start": "8/1",
+    "end": "10/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Lồng Tồng (xuống đồng) của người Cao Lan tại Vĩnh Phúc",
+    "chatgptName": "Lễ hội Lồng Tồng",
+    "start": "15/1",
+    "end": "16/1",
+    "lunarCalendar": true
+  }
+]

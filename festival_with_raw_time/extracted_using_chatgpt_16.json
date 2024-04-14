@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Tổ chức Hội thảo Đền Vạn - Cửa Rào, di tích và Lễ hội tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Vạn - Cửa Rào",
+    "start": "20/2",
+    "end": "22/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng lễ hội đền Cuông tại Nghệ An",
+    "chatgptName": "Lễ hội đền Cuông",
+    "start": "12/2",
+    "end": "15/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng khai hội Cửa Lò – Tình sóng hát 2012",
+    "chatgptName": "Lễ hội du lịch Cửa Lò",
+    "start": "30/4",
+    "end": "1/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Long trọng khai mạc Lễ hội Làng Sen 2012",
+    "chatgptName": "Lễ hội Làng Sen",
+    "start": "17/5",
+    "end": "19/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổng kết Lễ hội Làng Sen - 2012 tại Nghệ An",
+    "chatgptName": "Lễ hội Làng Sen",
+    "start": "17/5",
+    "end": "19/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "kế hoạch tổ chức Lễ hội Hang Bua Xuân 2013 tại Nghệ An",
+    "chatgptName": "Lễ hội Hang Bua Xuân Quý Tỵ",
+    "start": "20/1",
+    "end": "22/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai hội Đền Vua Mai và lễ kỷ niệm 1.300 năm khởi nghĩa Hoan Châu tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Vua Mai",
+    "start": "22/2",
+    "end": "24/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai hội đền Vạn - Cửa Rào năm 2013 tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Vạn - Cửa Rào",
+    "start": "1/3",
+    "end": "3/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Về Nghệ An trẩy hội Làng Vạc 2013",
+    "chatgptName": "Lễ hội Làng Vạc",
+    "start": "18/3",
+    "end": "20/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai hội Đền Cuông 2013 tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Cuông",
+    "start": "12/2",
+    "end": "15/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ kỷ niệm 123 năm Ngày sinh Chủ tịch Hồ Chí Minh và Lễ hội Làng Sen 2013 tại TP Hồ Chí Minh",
+    "chatgptName": "Lễ hội Làng Sen",
+    "start": "17/5",
+    "end": "19/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều nét mới tại Lễ hội Đền Vua Mai - Nghệ An",
+    "chatgptName": "Lễ hội Đền Vua Mai",
+    "start": "13/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai hội đền Quả Sơn tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Quả Sơn",
+    "start": "18/1",
+    "end": "20/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Cuông tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Cuông",
+    "start": "12/2",
+    "end": "16/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Vua Mai Thúc Loan tại Nghệ An",
+    "chatgptName": "Lễ hội Vua Mai Thúc Loan",
+    "start": "13/1",
+    "end": "16/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Vật Cù ở Thanh Chương tại Nghệ An",
+    "chatgptName": "Hội vật cù ở Thanh Chương",
+    "start": "1/1",
+    "end": "1/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đền Vạn Lộc tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Vạn Lộc",
+    "start": "15/1",
+    "end": "16/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đền thờ Cương Quốc Công Nguyễn Xí tại Nghệ An",
+    "chatgptName": "Lễ hội Thái sư Cương quốc công Nguyễn Xí",
+    "start": "30/1",
+    "end": "1/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Du lịch Cửa Lò tại Nghệ An",
+    "chatgptName": "Lễ hội Du lịch Cửa Lò",
+    "start": "30/4",
+    "end": "1/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đền Cờn tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Cờn",
+    "start": "21/1",
+    "end": "21/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội đền Quả Sơn tại Nghệ An",
+    "chatgptName": "Lễ hội đền Quả Sơn",
+    "start": "19/1",
+    "end": "21/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Hang Bua tại Nghệ An",
+    "chatgptName": "Lễ hội Hang Bua",
+    "start": "17/1",
+    "end": "19/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Pasưm của người Khơ Mú tại Nghệ An",
+    "chatgptName": "Lễ Pa Sưm",
+    "start": "17/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đền Chín gian tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Chín Gian",
+    "start": "Tháng 2 đầu năm âm lịch",
+    "end": "Tháng 2 đầu năm âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Thanh Đàm tại Nghệ An",
+    "chatgptName": "Hội Thanh Đàm",
+    "start": "15/2",
+    "end": "18/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Cầu Ngư Sơn Hải tại Nghệ An",
+    "chatgptName": "Lễ hội Cầu Ngư",
+    "start": "12/1",
+    "end": "13/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Đức Hoàng tại Nghệ An",
+    "chatgptName": "Lễ hội đền Đức Hoàng",
+    "start": "30/1",
+    "end": "1/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đền Bạch Mã tại Nghệ An",
+    "chatgptName": "Lễ hội Đền Bạch Mã",
+    "start": "9/2",
+    "end": "10/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Vu Lan báo hiếu ở động Âm Phủ - Ngũ Hành Sơn năm 2018",
+    "chatgptName": "Lễ hội Vu Lan báo hiếu",
+    "start": "20/8",
+    "end": "21/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội khinh khí cầu quốc tế Đà Nẵng 2018",
+    "chatgptName": "Lễ hội khinh khí cầu quốc tế Đà Nẵng",
+    "start": "1/5",
+    "end": "26/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Pháo hoa Quốc tế Đà Nẵng 2018 sẽ diễn ra trong 2 tháng hè",
+    "chatgptName": "Lễ hội Pháo hoa Quốc tế Đà Nẵng 2018",
+    "start": "30/4",
+    "end": "30/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hoạt động văn hóa - lễ hội dọc bờ sông Hàn tại Đà Nẵng",
+    "chatgptName": "Hoạt động văn hóa - lễ hội dọc bờ sông Hàn năm 2018",
+    "start": "27/1",
+    "end": "24/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội hoa Sun World Ba Na Hills 2018 tại Đà Nẵng",
+    "chatgptName": "Lễ hội hoa Sun World Ba Na Hills 2018",
+    "start": "10/2",
+    "end": "9/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tuần lễ cấp cao APEC tại Đà Nẵng năm 2017",
+    "chatgptName": "Tuần lễ Cấp cao APEC 2017",
+    "start": "6/11",
+    "end": "11/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ vía Đức Quán Thế Âm Bồ Tát",
+    "chatgptName": "Lễ vía Đức Quán Thế Âm Bồ Tát",
+    "start": "19/9",
+    "end": "19/9",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Bia B’estival tại Đà Nẵng",
+    "chatgptName": "Lễ hội Bia B’estival",
+    "start": "1/8",
+    "end": "3/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hoành tráng lễ hội đếm ngược đón năm mới 2013 tại Đà Nẵng",
+    "chatgptName": "Countdown Party",
+    "start": "1/1",
+    "end": "1/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội Quán Thế Âm, Đà Nẵng 2012",
+    "chatgptName": "Lễ hội Quán Thế Âm",
+    "start": "9/3",
+    "end": "11/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Những lễ hội được mong chờ nhất tháng 4",
+    "chatgptName": "Lễ hội pháo hoa Đà Nẵng",
+    "start": "29/4",
+    "end": "30/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tập hợp ảnh đặc sắc đêm lễ hội pháo hoa Đà Nẵng",
+    "chatgptName": "Lễ hội pháo hoa Đà Nẵng",
+    "start": "29/4",
+    "end": "29/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Ngày hội đua thuyền chào mừng quốc khánh 2-9 tại Đà Nẵng",
+    "chatgptName": "Lễ hội đua thuyền truyền thống",
+    "start": "2/9",
+    "end": "2/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Trang nghiêm Lễ vía đức Phật Quán Thế Âm tại Đà Nẵng",
+    "chatgptName": "Lễ hội Quán Thế Âm - Ngũ Hành Sơn",
+    "start": "7/4",
+    "end": "7/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động Lễ hội đình làng Hoà Mỹ tại Đà Nẵng",
+    "chatgptName": "Lễ hội đình làng Hoà Mỹ",
+    "start": "Không rõ",
+    "end": "Không rõ",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Cá Ông 2010 tại Đà Nẵng",
+    "chatgptName": "Lễ hội Cá Ông",
+    "start": "28/2",
+    "end": "2/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đình làng Hải Châu vẫn cuốn hút kỳ lạ sau hơn 30 năm vắng bóng",
+    "chatgptName": "Lễ hội đình làng Hải Châu",
+    "start": "8/3",
+    "end": "10/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng Lễ hội Quán Thế Âm Ngũ Hành Sơn",
+    "chatgptName": "Lễ hội Quán Thế Âm - Ngũ Hành Sơn",
+    "start": "19/2",
+    "end": "21/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng Lễ hội 540 năm mở đất của người dân Trà Kiệu",
+    "chatgptName": "Lễ hội kỷ niệm 540 năm mở đất Trà Kiệu",
+    "start": "22/4",
+    "end": "24/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo Lễ hội văn hoá Hội An - Nhật Bản lần thứ 8",
+    "chatgptName": "Lễ hội giao lưu văn hóa Hội An - Nhật Bản",
+    "start": "21/8",
+    "end": "23/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Phục dựng lại Lễ hội mục đồng tại Đà Nẵng",
+    "chatgptName": "Lễ hội rước Mục Đồng",
+    "start": "27/11",
+    "end": "28/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động Lễ hội Cầu Ngư tại Đà Nẵng",
+    "chatgptName": "Lễ hội Cầu Ngư",
+    "start": "18/2",
+    "end": "19/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Quán Thế Âm Đà Nẵng hướng tới chào mừng kỷ niệm 36 năm Ngày giải phóng",
+    "chatgptName": "Lễ hội Quán Thế Âm - Ngũ Hành Sơn",
+    "start": "21/3",
+    "end": "23/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đình làng Thạc Gián và lễ đón bằng di tích",
+    "chatgptName": "Lễ hội đình làng Thạc Gián",
+    "start": "17/4",
+    "end": "17/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức triển lãm ảnh về lễ hội Chăm tại Đà Nẵng",
+    "chatgptName": "Triển lãm ảnh về lễ hội Chăm",
+    "start": "22/11",
+    "end": "31/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Thành lập Ban tổ chức Lễ hội Quán Thế Âm Đà Nẵng năm 2012",
+    "chatgptName": "Lễ hội Quán Thế Âm",
+    "start": "19/2",
+    "end": "21/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Đà Nẵng tham dự Lễ hội pháo hoa ánh sáng tại Vancouver, Canada",
+    "chatgptName": "Lễ hội pháo hoa ánh sáng",
+    "start": "28/7",
+    "end": "4/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Công tác chuẩn bị cho lễ hội Quán Thế Âm 2012 Đà Nẵng đã cơ bản hoàn tất",
+    "chatgptName": "Lễ hội Quán Thế Âm",
+    "start": "9/3",
+    "end": "11/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai mạc lễ hội Quán Thế Âm tại Đà Nẵng",
+    "chatgptName": "Lễ hội Quán Thế Âm",
+    "start": "9/3",
+    "end": "11/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Giấc mơ Đà Nẵng - điểm nhấn tại Lễ hội pháo hoa 2012",
+    "chatgptName": "Cuộc thi trình diễn pháo hoa quốc tế Đà Nẵng",
+    "start": "29/4",
+    "end": "30/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Thưởng thức lễ hội pháo hoa khi du lịch Đà Nẵng",
+    "chatgptName": "Lễ hội pháo hoa quốc tế Đà Nẵng",
+    "start": "29/4",
+    "end": "30/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội trình diễn ánh sáng quốc tế lần đầu tiên năm 2014 tại Đà Nẵng",
+    "chatgptName": "Lễ hội trình diễn ánh sáng và hình ảnh nghệ thuật quốc tế Đà Nẵng",
+    "start": "cuối tháng 4/2014",
+    "end": "cuối tháng 4/2014",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Kế hoạch tổ chức Lễ hội Chào đón năm mới 2013 tại Đà Nẵng",
+    "chatgptName": "Lễ hội Chào đón năm mới 2013",
+    "start": "20:00 ngày 31/12/2012",
+    "end": "01:00 ngày 01/01/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hàng vạn người tham dự Lễ hội đếm ngược chào năm mới 2013 tại Đà Nẵng",
+    "chatgptName": "Lễ hội đếm ngược chào năm mới 2013",
+    "start": "21:00 ngày 31/12/2012",
+    "end": "00:00 ngày 01/01/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo lễ hội Cầu ngư tại Đà Nẵng 2013",
+    "chatgptName": "Lễ hội Cầu ngư Đà Nẵng",
+    "start": "ngày 25/02",
+    "end": "ngày 25/02",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sẵn sàng cho Lễ hội Quán Thế Âm năm 2013 tại Đà Nẵng",
+    "chatgptName": "Lễ hội Quán Thế Âm 2013",
+    "start": "từ ngày 28/3",
+    "end": "đến ngày 30/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc lễ hội Quán Thế Âm 2013 tại Đà nẵng.",
+    "chatgptName": "Lễ hội Quán Thế Âm - Ngũ Hành Sơn 2013",
+    "start": "từ ngày 17/2",
+    "end": "đến ngày 19/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều hoạt động hấp dẫn trong dịp lễ hội pháo hoa Đà Nẵng năm 2013",
+    "chatgptName": "Lễ hội pháo hoa Đà Nẵng (DIFC 2013)",
+    "start": "từ ngày 29/4",
+    "end": "đến ngày 30/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lung linh lễ hội pháo hoa Đà Nẵng năm 2013",
+    "chatgptName": "Lễ hội pháo hoa Đà Nẵng 2013",
+    "start": "từ ngày 29/4",
+    "end": "đến ngày 30/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đà Nẵng Tổ chức Lễ hội mùa hè năm 2013",
+    "chatgptName": "Lễ hội mùa hè 2013",
+    "start": "từ ngày 28/6",
+    "end": "đến ngày 3/7",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội mùa hè Đà Nẵng 2013",
+    "chatgptName": "Lễ hội mùa hè 2013",
+    "start": "từ ngày 28/6",
+    "end": "đến ngày 3/7",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Quán Thế Âm – Ngũ Hành Sơn 2014",
+    "chatgptName": "Lễ hội Quán Thế Âm - Ngũ Hành Sơn 2014",
+    "start": "19/3",
+    "end": "19/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Quan Thế Âm tại Đà Nẵng",
+    "chatgptName": "Lễ hội Quán Thế Âm",
+    "start": "18/2",
+    "end": "19/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ rước Mục Đồng tại Đà Nẵng",
+    "chatgptName": "Lễ rước Mục Đồng",
+    "start": "29/3",
+    "end": "30/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng Hòa Mỹ tại Đà Nẵng",
+    "chatgptName": "Lễ hội làng Hòa Mỹ",
+    "start": "12/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Cầu ngư tại Đà Nẵng",
+    "chatgptName": "Lễ hội Cầu ngư",
+    "start": "trung tuần tháng Ba âm lịch",
+    "end": "trung tuần tháng Ba âm lịch",
+    "lunarCalendar": true
+  }
+]
