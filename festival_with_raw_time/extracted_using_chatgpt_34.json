@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Tưng bừng chuẩn bị cho Ngày hội VHTTDL dân tộc Khmer tỉnh Kiên Giang",
+    "chatgptName": "Ngày hội VHTTDL dân tộc Khmer",
+    "start": "14/11",
+    "end": "18/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc lễ hội Chị Sứ năm 2015 tại Kiên Giang",
+    "chatgptName": "Lễ hội Chị Sứ",
+    "start": "7/1",
+    "end": "9/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ giỗ Đức khai trấn Mạc Cửu tại Kiên Giang",
+    "chatgptName": "Lễ giỗ Đức khai trấn Mạc Cửu",
+    "start": "25/5",
+    "end": "27/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Nghinh Ông tại Kiên Giang",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "15/10",
+    "end": "16/10",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Ramưwan của người Chăm Bàni tại Ninh Thuận",
+    "chatgptName": "Lễ hội Ramưwan",
+    "start": "14/5",
+    "end": "16/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Katê truyền thống của người Chăm theo đạo Bàlamôn",
+    "chatgptName": "Lễ hội Katê",
+    "start": "đầu tháng 7 Chăm lịch",
+    "end": "đầu tháng 7 Chăm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Rộn ràng Lễ hội cầu mưa của người Chăm ở Ninh Thuận",
+    "chatgptName": "Lễ hội cầu mưa",
+    "start": "N/A",
+    "end": "N/A",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức lễ hội Katê tại Ninh Thuận",
+    "chatgptName": "Lễ hội Katê",
+    "start": "6/10/2010",
+    "end": "7/10/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội các làng biển Việt Nam tại Ninh Thuận",
+    "chatgptName": "Lễ hội các làng biển Việt Nam",
+    "start": "5/6",
+    "end": "8/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đã chọn được linh vật cho Lễ hội Khinh khí cầu Quốc tế Việt Nam lần thứ nhất năm 2012",
+    "chatgptName": "Lễ hội Khinh khí cầu Quốc tế Việt Nam - Bình Thuận",
+    "start": "29/8",
+    "end": "3/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Ramưwan 2012 của đồng bào Chăm ở Ninh Thuận",
+    "chatgptName": "Lễ hội Ramưwan của đồng bào Chăm",
+    "start": "18/7",
+    "end": "20/7",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo Ngày hội văn hóa, thể thao và du lịch vùng đồng bào Chăm – Ninh Thuận",
+    "chatgptName": "Ngày hội văn hóa, thể thao và du lịch vùng đồng bào Chăm - Ninh Thuận",
+    "start": "14/10",
+    "end": "16/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Bế mạc Ngày hội văn hóa, thể thao và du lịch vùng đồng bào dân tộc Chăm - Ninh Thuận 2012",
+    "chatgptName": "Ngày hội văn hóa, thể thao và du lịch vùng đồng bào dân tộc Chăm - Ninh Thuận 2012",
+    "start": "12/10",
+    "end": "16/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Ninh Thuận tổ chức Ngày hội Văn hóa dân tộc Raglai năm 2013",
+    "chatgptName": "Ngày hội Văn hóa dân tộc Raglai",
+    "start": "29/8",
+    "end": "31/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc Đêm hội Raglai – Ninh Thuận 2013",
+    "chatgptName": "Ngày hội Văn hóa Raglai",
+    "start": "30/8",
+    "end": "30/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Nho và Vang quốc tế năm 2014 tại Ninh Thuận",
+    "chatgptName": "Lễ hội Nho và Vang quốc tế",
+    "start": "29/4",
+    "end": "1/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Ninh Thuận háo hức chờ đón lễ hội Kate Chăm",
+    "chatgptName": "Lễ hội Kate",
+    "start": "3/10",
+    "end": "5/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Katê truyền thống của Đồng bào Chăm tại Ninh Thuận",
+    "chatgptName": "Lễ hội Katê",
+    "start": "4/10",
+    "end": "6/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo Lễ hội ăn đầu lúa mới của dân tộc Raglai",
+    "chatgptName": "Lễ hội ăn đầu lúa mới của dân tộc Raglai",
+    "start": "23/11",
+    "end": "23/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Quán âm Nam Hải tại Bạc Liêu",
+    "chatgptName": "Lễ hội Quán âm Nam Hải",
+    "start": "22/3",
+    "end": "24/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Dạ cổ hoài lang tại Bạc Liêu",
+    "chatgptName": "Lễ hội Dạ cổ hoài lang",
+    "start": "12/8",
+    "end": "12/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Kỳ Yên tại Bạc Liêu",
+    "chatgptName": "Lễ hội Kỳ Yên",
+    "start": "12/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tổ chức long trọng lễ hội Quán âm Nam Hải tại Bạc Liêu",
+    "chatgptName": "Lễ hội Quán Âm Nam Hải",
+    "start": "6/5",
+    "end": "7/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Không khí tưng bừng tại Lễ hội Nghinh Ông 2011, Bạc Liêu",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "11/4",
+    "end": "13/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức ''Lễ hội Dạ cổ hoài lang'' qui mô lớn tại Bạc Liêu",
+    "chatgptName": "Lễ hội Dạ cổ hoài lang",
+    "start": "9/9",
+    "end": "12/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hàng ngàn người tham dự Lễ Quán âm Phật đài Nam Hải - Bạc Lie",
+    "chatgptName": "Lễ Quán âm Phật đài Nam Hải",
+    "start": "4/8",
+    "end": "6/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội Nghinh Ông Duyên Hải 2013 tại Bạc Liêu",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "18/2",
+    "end": "20/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội Nghinh Ông Nam Hải, Bạc Liêu 2013",
+    "chatgptName": "Lễ hội Nghinh Ông Nam Hải",
+    "start": "18/4",
+    "end": "20/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức lễ hội Quan âm Nam Hải 2013 tại Bạc Liêu",
+    "chatgptName": "Lễ hội Quan âm Nam Hải",
+    "start": "1/5",
+    "end": "3/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Đồng Nọc Nạn của tỉnh Bạc Liêu",
+    "chatgptName": "Lễ hội Đồng Nọc Nạng",
+    "start": "15/2",
+    "end": "17/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội nghinh Ông ở Đông Hải tại Bạc Liêu",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "9/3",
+    "end": "10/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đản sinh thần Phước Đức tại Bạc Liêu",
+    "chatgptName": "Lễ hội Đản sinh thần Phước Đức",
+    "start": "29/3",
+    "end": "29/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Óoc-om bok tại Bạc Liêu",
+    "chatgptName": "Lễ hội Óoc-om bok",
+    "start": "15/10",
+    "end": "15/10",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai mạc Lễ hội dừa năm 2015 tại Bến Tre",
+    "chatgptName": "Lễ hội dừa",
+    "start": "7/4",
+    "end": "7/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động Lễ hội đường phố tại Festival Dừa Bến Tre lần III",
+    "chatgptName": "Ngày hội của xứ dừa Bến Tre",
+    "start": "7/4/2012",
+    "end": "7/4/2012",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đậm đà vị quê hương trong Lễ hội Dừa, Bến Tre lần II",
+    "chatgptName": "Lễ hội Dừa",
+    "start": "15/1/2010",
+    "end": "16/1/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Nguyễn Đình Chiểu tại Bến Tre",
+    "chatgptName": "Lễ hội Nguyễn Đình Chiểu",
+    "start": "1/7",
+    "end": "1/7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội tưởng nhớ nhà thơ yêu nước Nguyễn Đình Chiểu tại Bến Tre",
+    "chatgptName": "Lễ hội Nguyễn Đình Chiểu",
+    "start": "1/7/2010",
+    "end": "2/7/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Báo cáo tổ chức lễ hội do cấp huyện tổ chức tại Bến Tre",
+    "chatgptName": "Lễ hội Tế Thần Cá Ông",
+    "start": "Từ thứ hai đến thứ sáu hàng tuần",
+    "end": "",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ khai mạc Festival Dừa Bến Tre lần thứ III năm 2012",
+    "chatgptName": "Festival Dừa Bến Tre lần thứ III - 2012",
+    "start": "5/4",
+    "end": "10/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội Nghinh Ông Bình Thắng tại Bến Tre",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "2/8",
+    "end": "4/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội Nghinh Ông tại Bến Tre",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "22/7",
+    "end": "24/7",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Tuần lễ Văn hóa – Du lịch tỉnh Bến Tre lần 1 năm 2013",
+    "chatgptName": "Tuần lễ Văn hóa - Du lịch tỉnh Bến Tre lần 1 năm 2013",
+    "start": "6/9",
+    "end": "12/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Dừa tỉnh Bến Tre lần thứ IV: Cây dừa Việt Nam hội nhập và phát triển",
+    "chatgptName": "Lễ hội Dừa tỉnh Bến Tre lần thứ IV năm 2015",
+    "start": "7/4",
+    "end": "13/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội truyền thống cách mạng tại Bến Tre",
+    "chatgptName": "Lễ hội truyền thống cách mạng tại xã Định Thủy",
+    "start": "17/1",
+    "end": "17/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội đình Phú Lễ tại Bến Tre",
+    "chatgptName": "Lễ hội Đình Phú Lễ",
+    "start": "18/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Nghinh Ông tại Bến Tre",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "15/6",
+    "end": "16/6",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Hoa Ban năm 2018 tại thành phố Điện Biên Phủ",
+    "chatgptName": "Lễ hội Hoa Ban",
+    "start": "17/3",
+    "end": "19/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Hoa Ban vùng Tây Bắc",
+    "chatgptName": "Lễ hội Hoa Ban",
+    "start": "13/3",
+    "end": "15/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng khai mạc Lễ hội Hoa Ban 2015 tại Điện Biên",
+    "chatgptName": "Lễ hội Hoa Ban",
+    "start": "13/3",
+    "end": "15/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đền Hoàng Công Chất tại Điện Biên",
+    "chatgptName": "Lễ hội Đền Hoàng Công Chất",
+    "start": "24/2",
+    "end": "25/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Bổ sung Chiến thắng lịch sử Điện Biên Phủ 7/5/1954 vào danh mục các ngày lễ kỷ niệm",
+    "chatgptName": "Chiến thắng Điện Biên Phủ",
+    "start": "7/5",
+    "end": "7/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Phục dựng lễ hội Xên Bản tỉnh Điện Biên",
+    "chatgptName": "Lễ hội Xên Bản",
+    "start": "2/3",
+    "end": "2/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Phục dựng Lễ hội Xên Mường sau hơn 50 năm tại Điện Biên",
+    "chatgptName": "Lễ hội Xên Mường-Mường Thanh",
+    "start": "14/6",
+    "end": "15/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai hội Đền thờ Hoàng Công Chất - Thành Bản Phủ tại Điện Biên 2013",
+    "chatgptName": "Lễ hội Đền Hoàng Công Chất - Thành Bản Phủ",
+    "start": "4/4",
+    "end": "5/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội mừng mưa rơi của dân tộc Khơ Mú tại Điện Biên",
+    "chatgptName": "Lễ hội mừng mưa rơi của người Khơ Mú",
+    "start": "cuối tháng Ba",
+    "end": "đầu tháng Tư",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Hạn Khuống tại Điện Biên",
+    "chatgptName": "Lễ hội Hạn Khuống của người Thái",
+    "start": "sau vụ thu hoạch diễn ra vào tháng 11",
+    "end": null,
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Thành Bàn Phủ tại Điện Biên",
+    "chatgptName": "Lễ hội Thành Bàn Phủ của xã Noọng Hẹt",
+    "start": "24/2",
+    "end": "25/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ mừng cơm mới dân tộc Si La tại Điện Biên",
+    "chatgptName": "Lễ mừng cơm mới của người Si La",
+    "start": "cuối tháng Tám",
+    "end": "đầu tháng Chín",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ Bó khoăn khoai tại Điện Biên",
+    "chatgptName": "Lễ Bó khoăn khoai",
+    "start": "sau khi thu hoạch mùa màng xong",
+    "end": "",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ Tủ Cải của dân tộc Dao Quần chẹt tại Điện Biên",
+    "chatgptName": "Lễ Tủ Cải",
+    "start": "trước ngày tổ chức lễ từ 10 đến 15 ngày",
+    "end": "trong suốt từ 2 đến 4 ngày đêm",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Điều chỉnh kế hoạch phục dựng lễ hội truyền thống các dân tộc thiểu số tại Điện Biên",
+    "chatgptName": "Lễ hội Bun Huột nặm",
+    "start": "năm 2015",
+    "end": "năm 2015",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội đền Lương Văn Chánh tại Phú Yên",
+    "chatgptName": "Hội đền Lương Văn Chánh",
+    "start": "6/2 Âm lịch",
+    "end": "19/9 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Lê Thành Phương tại Phú Yên",
+    "chatgptName": "Lễ hội đền Lê Thành Phương",
+    "start": "27/1 Âm lịch",
+    "end": "28/1 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ bỏ mả của người Ê Đê ở Phú Yên",
+    "chatgptName": "Lễ bỏ mả của người Ê Đê",
+    "start": "ngày bỏ mả",
+    "end": "ngày dựng xong nhà mộ",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội chùa Từ Quang tại Phú Yên",
+    "chatgptName": "Lễ hội chùa Từ Quang",
+    "start": "10/1",
+    "end": "11/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Về Phú Yên tham dự lễ hội đâm trâu của người Bana",
+    "chatgptName": "Lễ hội đâm trâu của người Bana",
+    "start": "1/1",
+    "end": "3/1",
+    "lunarCalendar": true
+  }
+]

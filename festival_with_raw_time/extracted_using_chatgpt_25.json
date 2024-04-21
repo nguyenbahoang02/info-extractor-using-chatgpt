@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Lễ hội Ăn mừng lúa mới của người Raglai tại Khánh Hoà",
+    "chatgptName": "Lễ hội Ăn mừng lúa mới của người dân tộc Raglai",
+    "start": "Tháng 11",
+    "end": "Giữa tháng Giêng",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ cúng đình Kỳ an - Xuân tế tại Khánh Hoà",
+    "chatgptName": "Lễ cúng đình Kỳ an - Xuân tế",
+    "start": "15/2",
+    "end": "16/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Khu Cù Tê – Tết tháng bảy của người La Chí",
+    "chatgptName": "Lễ hội Khu Cù Tê",
+    "start": "1/7",
+    "end": "15/7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ cúng ma khô tại Hà Giang",
+    "chatgptName": "Lễ cúng ma khô",
+    "start": "12 days after the passing away",
+    "end": "12 days after the passing away",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ cấp sắc của người Dao tại Hà Giang",
+    "chatgptName": "Lễ cấp sắc",
+    "start": "Tháng 11, tháng 12 hoặc tháng Giêng âm lịch",
+    "end": "Tháng 11, tháng 12 hoặc tháng Giêng âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội cầu Trăng của người Tày ở Hà Giang",
+    "chatgptName": "Lễ hội cầu Trăng",
+    "start": "14/8 Âm lịch",
+    "end": "15/8 Âm lịch",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội hoa Tam giác mạch tại Hà Giang năm 2017",
+    "chatgptName": "Lễ hội hoa Tam giác mạch lần III",
+    "start": "4/10",
+    "end": "31/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội hoa Tam giác mạch tại Hà Giang",
+    "chatgptName": "Lễ hội hoa Tam giác mạch",
+    "start": "10/10",
+    "end": "31/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội kéo chày tỉnh Hà Giang",
+    "chatgptName": "Lễ hội kéo chày",
+    "start": "16/10",
+    "end": "16/10",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Khèn Mông",
+    "chatgptName": "Lễ hội Khèn Mông",
+    "start": "31/8",
+    "end": "2/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Chợ tình Khau Vai - Hà Giang",
+    "chatgptName": "Chợ tình Khau Vai",
+    "start": "27/3",
+    "end": "27/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội khèn Mông ở huyện Đồng Văn - Hà Giang",
+    "chatgptName": "Lễ hội khèn Mông",
+    "start": "31/8",
+    "end": "2/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sống động Lễ hội Chanh Menton ở Pháp",
+    "chatgptName": "Lễ hội chanh (Carnival chanh)",
+    "start": "17/2",
+    "end": "7/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động Lễ hội chọi bò chợ tình Khau Vai - Hà Giang",
+    "chatgptName": "Lễ hội chọi bò chợ tình Khau Vai",
+    "start": "14/4",
+    "end": "16/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Độc đáo Lễ hội chọi dê trên cao nguyên đá Đồng Văn tại Hà Giang",
+    "chatgptName": "Hội chọi dê",
+    "start": "null",
+    "end": "null",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Chung kết Lễ hội Chọi trâu xã Trung Thành, Hà Giang 2011",
+    "chatgptName": "Lễ hội chọi trâu",
+    "start": "13/1/2011",
+    "end": "14/1/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ cầu mùa của người Dao tại Hà Giang",
+    "chatgptName": "Lễ cầu mùa",
+    "start": "18/12",
+    "end": "18/12",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chợ tình Khâu Vai năm 2011",
+    "chatgptName": "Lễ hội chợ tình Khâu Vai",
+    "start": "28/4",
+    "end": "29/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Ngày hội Văn hóa thể thao các dân tộc Hà Giang lần thứ V năm 2011",
+    "chatgptName": "Ngày hội Văn hóa Thể thao các dân tộc lần thứ V",
+    "start": "17/8",
+    "end": "20/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng lễ hội chọi bò tại Hà Giang",
+    "chatgptName": "Lễ hội chọi bò Cao Nguyên đá Đồng Văn",
+    "start": "23/8",
+    "end": "24/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Náo nức chuẩn bị Lễ hội đường phố tại Hà Giang",
+    "chatgptName": "Lễ hội đường phố 2011",
+    "start": "10/9",
+    "end": "12/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Đặc sắc lễ hội chợ tình Khau Vai - Hà Giang",
+    "chatgptName": "Lễ hội Chợ tình Khau Vai 2012",
+    "start": "14/4",
+    "end": "17/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khôi phục Lễ hội Gầu Tào của người Mông tại Hà Giang",
+    "chatgptName": "Lễ hội Gầu Tào",
+    "start": "10/1",
+    "end": "10/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nô nức trảy hội Đền Hà Giang",
+    "chatgptName": "Lễ hội Đền Hà Giang",
+    "start": "16/3",
+    "end": "18/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tuần Văn hóa, du lịch Lễ hội Chợ tình Khâu Vai năm 2013",
+    "chatgptName": "Lễ hội Chợ tình Khâu Vai",
+    "start": "4/5",
+    "end": "6/5",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hội đấu ngựa truyền thống tỉnh Hà Giang sắp diễn ra",
+    "chatgptName": "Hội đấu ngựa truyền thống",
+    "start": "17/8",
+    "end": "18/8",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Nhiều hoạt động đặc sắc diễn ra tại Lễ hội khèn Mông Hà Giang",
+    "chatgptName": "Lễ hội khèn Mông",
+    "start": "31/8",
+    "end": "2/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc Lễ hội khèn Mông huyện Đồng Văn năm 2013",
+    "chatgptName": "Lễ hội khèn Mông",
+    "start": "31/8",
+    "end": "2/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Gầu Tào của dân tộc Mông tại Hà Giang",
+    "chatgptName": "Hội Gầu Tào",
+    "start": "2/9",
+    "end": "2/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội nhảy lửa cầu may của người Pà Thẻn tại Hà Giang",
+    "chatgptName": "Lễ hội nhảy lửa của dân tộc Pà Thẻn",
+    "start": "15/12",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội cầu mưa của người Lô Lô tại Hà Giang",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ cúng thần rừng của người Pu péo tại Hà Giang",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Nhảy lửa của người Dao đỏ ở Hồ Thầu tại Hà Giang",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Bến Than ở Thái Nguyên",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Võ Nhai nơi cội nguồn ở Thái Nguyên",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Rộn ràng Lễ hội Đuổm, Thái Nguyên",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai mạc lễ hội Hương sắc Trà Xuân tại Thái Nguyên",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội Lồng Tồng tại Thái Nguyên",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Nô nức Lễ hội xuân đền Đuổm, Thái Nguyên 2010",
+    "chatgptName": "Lễ hội cầu mưa của dân tộc Lô Lô",
+    "start": "15/3",
+    "end": "19/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Người dân Phổ Yên, Thái Nguyên với lễ hội xuống đồng đầu năm",
+    "chatgptName": "Lễ hội xuống đồng",
+    "start": "5/2",
+    "end": "5/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động lễ hội Núi Văn, Núi Võ tại Thái Nguyên",
+    "chatgptName": "Lễ hội Núi Văn, Núi Võ",
+    "start": "4/2",
+    "end": "4/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội xuân đền Bến Than - Thái Nguyên",
+    "chatgptName": "Lễ hội Đền Bến Than",
+    "start": "31/1",
+    "end": "31/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tuyên truyền Lễ hội Trà Đại Từ 2013 tại Thái Nguyên",
+    "chatgptName": "Lễ hội Trà Đại Từ",
+    "start": "17/1",
+    "end": "24/1/2013",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội văn hóa Trà Thái Nguyên",
+    "chatgptName": "Lễ hội Văn hóa Trà",
+    "start": "8/11",
+    "end": "11/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc lễ hội Võ Nhai nơi cội nguồn năm 2014 tại Thái Nguyên",
+    "chatgptName": "Lễ hội Võ Nhai nơi cội nguồn",
+    "start": "21/3",
+    "end": "22/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Rộn ràng tiếng khèn ngày hội văn hóa dân tộc Mông tại Thái Nguyên",
+    "chatgptName": "Ngày hội văn hóa dân tộc Mông tại Đồng Hỷ",
+    "start": "18/3",
+    "end": "18/3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đền Đuổm tại Thái Nguyên",
+    "chatgptName": "Lễ hội đền Đuổm",
+    "start": "6/1",
+    "end": "8/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Giá tại Thái Nguyên",
+    "chatgptName": "Lễ hội đền Giá",
+    "start": "5/1",
+    "end": "6/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội xuân Chùa Hang - Định Hoá tại Thái Nguyên",
+    "chatgptName": "Lễ hội xuân Chùa Hang",
+    "start": "14/1",
+    "end": "14/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội xuân Chùa Hang - Định Hóa đã được khôi phục",
+    "chatgptName": "Lễ hội xuân Chùa Hang - Định Hóa",
+    "start": "5/2",
+    "end": "5/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội bắt chồng của người Chu Ru ở Lâm Đồng",
+    "chatgptName": "Lễ hội bắt chồng người Chu Ru",
+    "start": "1/1",
+    "end": "31/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tuần lễ âm vang nhạc cụ dân tộc tại Đà Lạt",
+    "chatgptName": "Tuần lễ âm vang nhạc cụ dân tộc",
+    "start": "23/12",
+    "end": "27/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ cúng Thần Suối ở Lâm Đồng",
+    "chatgptName": "Lễ cúng Thần Suối",
+    "start": "tháng 3",
+    "end": "tháng 3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ cúng thần Bơmung tại Lâm Đồng",
+    "chatgptName": "Lễ cúng thần Bơmung",
+    "start": "tháng 2",
+    "end": "tháng 2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội văn hóa trà ở Lâm Đồng",
+    "chatgptName": "Lễ hội văn hóa trà",
+    "start": "không có thông tin cụ thể",
+    "end": "không có thông tin cụ thể",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội đâm châu ở Lâm Đồng",
+    "chatgptName": "Lễ hội đâm trâu",
+    "start": "không có thông tin cụ thể",
+    "end": "không có thông tin cụ thể",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ cúng cơm mới ở Lâm Đồng",
+    "chatgptName": "Lễ cúng cơm mới",
+    "start": "1/1",
+    "end": "2/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội thác Pongour ở Lâm Đồng",
+    "chatgptName": "Lễ hội thác Pongour",
+    "start": "15/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Đầu tư xây dựng Dự án Trung tâm giao lưu văn hóa lễ hội các dân tộc tại Lâm Đồng",
+    "chatgptName": "Trung tâm giao lưu văn hóa lễ hội các dân tộc",
+    "start": "2012",
+    "end": "2012",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Văn hóa trà Bảo Lộc (Lâm Đồng) 2010",
+    "chatgptName": "Lễ hội Văn hóa trà Bảo Lộc - Lâm Đồng",
+    "start": "25/12",
+    "end": "27/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Chương trình Lễ hội Văn hóa Trà Lâm Đồng lần III - 2010",
+    "chatgptName": "Lễ hội trà tỉnh Lâm Đồng lần thứ 3",
+    "start": "25/12",
+    "end": "27/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng trong đêm khai mạc Lễ hội trà B’Lao",
+    "chatgptName": "Lễ hội văn hóa trà tỉnh Lâm Đồng lần thứ III",
+    "start": "24/12",
+    "end": "27/12",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Ý tưởng cho Lễ hội Mai anh đào Đà Lạt",
+    "chatgptName": "Lễ hội mai anh đào Đà Lạt",
+    "start": "Tết Nguyên Đán",
+    "end": "Tết Nguyên Đán",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Rực rỡ Lễ hội đường phố Hoa và ánh sáng tại Lâm Đồng",
+    "chatgptName": "Lễ hội hoa và ánh sáng",
+    "start": "30/12/2011",
+    "end": "03/01/2012",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Thác Pongour trước ngày lễ hội mùa xuân",
+    "chatgptName": "Lễ hội thác Pongour",
+    "start": "rằm tháng giêng",
+    "end": "rằm tháng giêng",
+    "lunarCalendar": true
+  }
+]

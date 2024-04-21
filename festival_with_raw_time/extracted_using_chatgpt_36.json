@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Tổ chức trọng thể Lễ kỷ niệm 70 năm ngày Bác Hồ về nước tại Cao Bằng",
+    "chatgptName": "Lễ kỷ niệm 70 năm Ngày Bác Hồ về nước",
+    "start": "28/1/2011",
+    "end": "28/1/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Nàng Hai của dân tộc Tày tại Cao Bằng",
+    "chatgptName": "Hội Nàng Hai",
+    "start": "tháng 1",
+    "end": "trung tuần tháng 3",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Lồng Tồng tại Cao Bằng",
+    "chatgptName": "Lễ hội Lồng Tồng",
+    "start": "2/1",
+    "end": "30/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội mời Mẹ Trăng tại Cao Bằng",
+    "chatgptName": "Hội mời Mẹ Trăng",
+    "start": "10/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chùa Sùng Phúc tại Cao Bằng",
+    "chatgptName": "Hội Chùa Sùng Phúc",
+    "start": "15/1",
+    "end": "15/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội chọi bò Bảo Lâm tại Cao Bằng",
+    "chatgptName": "Lễ hội chọi bò Bảo Lâm",
+    "start": "20/1",
+    "end": "20/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội trái cây Long Khánh - Mùa trái chín 2018 tại Đồng Nai",
+    "chatgptName": "Lễ hội trái cây Long Khánh - Mùa trái chín",
+    "start": "22/6",
+    "end": "29/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội chùa Ông mừng xuân Quý Tỵ 2013 tại Đồng Nai",
+    "chatgptName": "Lễ hội chùa Ông (Thất phủ Cổ miếu)",
+    "start": "mở hội",
+    "end": "22/1",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ cúng Yang Koi của người Mạ tại Đồng Nai",
+    "chatgptName": "Lễ cúng Yang Koi của người Châu Mạ",
+    "start": "mồng 2 tháng 2",
+    "end": "mồng 2 tháng 2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội cúng bà ở Miễu tại Đồng Nai",
+    "chatgptName": "Lễ hội cúng Bà",
+    "start": "ngày vía",
+    "end": "ngày vía",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội dựng nêu tại làng dân tộc Châu Ro tại Đồng Nai",
+    "chatgptName": "Lễ hội dựng nêu của dân tộc Châu Ro",
+    "start": "cuối tháng Chạp",
+    "end": "cuối tháng Chạp",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Chôl Chnam Thmây tại Trà Vinh",
+    "chatgptName": "Chôl Chnam Thmây",
+    "start": "14/4",
+    "end": "16/4",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Về dự Lễ hội Nghinh Ông ở Mỹ Long (Trà Vinh)",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "10/5",
+    "end": "12/5",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hàng nghìn người tham dự lễ hội Nghinh Ông Trà Vinh năm 2012",
+    "chatgptName": "Lễ hội Nghinh Ông",
+    "start": "28/6",
+    "end": "30/6",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động giải đua ghe ngo mừng lễ hội Ok Om Bok 2012, Trà Vinh",
+    "chatgptName": "Lễ hội Ok Om Bok",
+    "start": "25/11",
+    "end": "27/11",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Ok Om Bok tại Trà Vinh",
+    "chatgptName": "Lễ hội Ok Om Bok",
+    "start": "15/10",
+    "end": "15/10",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Phục dựng 17 lễ hội truyền thống đặc sắc tại Kon Tum",
+    "chatgptName": "Lễ hội mừng năm mới của người Xê Đăng (Sơ Đrá)",
+    "start": "",
+    "end": "Sau khi mùa màng đã thu hoạch xong",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Kom Tum: Đêm hội Cồng chiêng Hội nhập và phát triển",
+    "chatgptName": "Lễ hội Cồng chiêng các dân tộc tỉnh Kon Tum",
+    "start": "22/11",
+    "end": "",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội mừng lúa mới của dân tộc Xê Đăng nhánh Xơ Teng tại Kon Tum",
+    "chatgptName": "Lễ hội mừng lúa mới của dân tộc Xê Đăng nhánh Xơ Teng",
+    "start": "1/10",
+    "end": "31/10",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ Lih của dân tộc Jơ Rai ở Gia Lai",
+    "chatgptName": "Lễ Lih của dân tộc Jơ Rai",
+    "start": "Tháng Ba",
+    "end": "Tháng Ba",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khẩn trương chuẩn bị chương trình Lễ hội Giao thừa tại Gia Lai",
+    "chatgptName": "Lễ hội Giao thừa",
+    "start": "31/1",
+    "end": "1/2",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Lễ hội Vía Bà Thiên Hậu tại Cà Mau",
+    "chatgptName": "Lễ hội vía Bà Thiên Hậu",
+    "start": "23/3",
+    "end": "23/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội miền núi và yếu tố thương mại",
+    "chatgptName": "Lễ hội miền núi và yếu tố thương mại",
+    "start": "Kết thúc",
+    "end": "Kết thúc",
+    "lunarCalendar": false
+  }
+]

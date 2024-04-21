@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Lễ hội Đền Tiên La",
+    "chatgptName": "Lễ hội Đền Tiên La",
+    "start": "20/3",
+    "end": "20/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đền Hét tại xã Thái Thượng - Thái Bình",
+    "chatgptName": "Lễ hội Đền Hét",
+    "start": "7/1",
+    "end": "9/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội miếu Ba Thôn tại Thái Thụy - Thái Bình",
+    "chatgptName": "Hội miếu Ba Thôn",
+    "start": "10/7",
+    "end": "12/7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng khai hội đền A Sào thờ Hưng Đạo Vương tại Thái Bình",
+    "chatgptName": "Lễ hội đền A Sào",
+    "start": "02/03",
+    "end": "04/03",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai hội đền Trần và đón nhận bằng xếp hạng di tích quốc gia đặc biệt tại Thái Bình",
+    "chatgptName": "Lễ hội Đền Trần Thái Bình",
+    "start": "13/03",
+    "end": "18/03",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai hội đền Trần 2011 tại Thái Bình",
+    "chatgptName": "Lễ hội đền Trần Thái Bình",
+    "start": "15/2",
+    "end": "16/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Thái Bình: Đền Đồng Bằng đã sẵn sàng cho ngày khai hội",
+    "chatgptName": "Lễ khai hội đền Đồng Bằng",
+    "start": "20/8",
+    "end": "21/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Thái Thụy gắn quản lý di tích với các hoạt động tổ chức lễ hội",
+    "chatgptName": "Lễ hội bơi chải ở Diêm Điền",
+    "start": "12/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Chuẩn bị mở hội Chùa Keo 2012 và đón bằng di tích quốc gia tại Thái Bình",
+    "chatgptName": "Lễ hội Chùa Keo",
+    "start": "24/10",
+    "end": "29/10",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Bộ VHTTDL trực tiếp kiểm tra công tác chuẩn bị lễ hội năm 2013 tại Thái Bình",
+    "chatgptName": "Lễ hội Đền Trần Thái Bình",
+    "start": "13/1",
+    "end": "17/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng Lễ hội mùa Xuân tại chùa Keo - Thái Bình",
+    "chatgptName": "Lễ hội mùa xuân Chùa Keo",
+    "start": "13/2",
+    "end": "13/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Tưng bừng trẩy hội đền Trần năm 2013 ở Thái Bình",
+    "chatgptName": "Lễ hội đền Trần Thái Bình",
+    "start": "22/2",
+    "end": "27/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội ông Đùng – bà Đà tại Thái Bình",
+    "chatgptName": "Lễ hội Đền thờ bà chúa Muối",
+    "start": "14/4",
+    "end": "14/4",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội làng La Vân tại Thái Bình",
+    "chatgptName": "Hội làng La Vân",
+    "start": "20/3",
+    "end": "26/3",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội bơi trải trên sông Diêm tại Thái Bình",
+    "chatgptName": "Lễ hội bơi trải trên sông Diêm",
+    "start": "12/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Thái Bình Khai hội Đền Trần và đón bằng chứng nhận Di sản Văn hóa phi vật thể Quốc gia",
+    "chatgptName": "Lễ hội Đền Trần",
+    "start": "13/1",
+    "end": "18/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Tịch Điền Đọi Sơn",
+    "chatgptName": "Lễ hội Tịch Điền Đọi Sơn",
+    "start": "Ngày mùng 5",
+    "end": "Ngày mùng 7",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Đền bà Vũ tưởng nhớ Người con gái Nam Xương",
+    "chatgptName": "Lễ hội Đền Bà Vũ",
+    "start": "Ngày 19",
+    "end": "Ngày 21",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Khai hội Tịch Điền tại Hà Nam năm 2015",
+    "chatgptName": "Lễ hội Tịch Điền",
+    "start": "Ngày 25",
+    "end": "Ngày 25",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội Phát lương Đức Thánh Trần tại Hà Nam",
+    "chatgptName": "Lễ hội Phát lương Đức Thánh Trần",
+    "start": "Từ 21h30",
+    "end": "Từ 21h30",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội chùa Long Đọi Sơn năm 2010",
+    "chatgptName": "Lễ hội chùa Long Đọi Sơn",
+    "start": "Từ ngày 30/4/2010",
+    "end": "Đến ngày 4/5/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Sôi động Lễ hội thả diều Hòa Hậu (Hà Nam)",
+    "chatgptName": "Lễ hội thả diều của người dân Hoà Hậu",
+    "start": "Ngày 26/6/2010",
+    "end": "Ngày 26/6/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tổ chức Lễ hội Đền Trần Thương chào mừng Đại lễ 1000 năm Thăng Long tại Hà Nam",
+    "chatgptName": "Lễ tưởng niệm 710 năm Ngày mất của Hưng Đạo Đại Vương Trần Quốc Tuấn và Lễ hội Đền Trần Thương năm 2010",
+    "start": "Ngày 25/9/2010",
+    "end": "Ngày 27/9/2010",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Hàng nghìn người tham dự Lễ hội Đền Trần Thương, Hà Nam",
+    "chatgptName": "Lễ hội Đền Trần Thương và Lễ kỷ niệm 710 năm ngày mất Hưng Đạo Đại vương Trần Quốc Tuấn",
+    "start": "Ngày 25/9",
+    "end": "Ngày 27/9",
+    "lunarCalendar": false
+  },
+  {
+    "name": "30.000 túi lương đã được phát trong lễ hội Phát lương đền Trần Thương tỉnh Hà nam",
+    "chatgptName": "Lễ hội Phát lương Đức Thánh Trần",
+    "start": "Ngày 14/2/2011",
+    "end": "Ngày 15/2/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Khai mạc lễ hội chùa Bà Đanh tại Hà Nam",
+    "chatgptName": "Lễ hội chùa Bà Đanh",
+    "start": "Ngày 26/3/2011",
+    "end": "Ngày 26/3/2011",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng hội Đền Bà Vũ 2012",
+    "chatgptName": "Lễ hội đền Bà Vũ",
+    "start": "Ngày 4/10/2012",
+    "end": "Ngày 4/10/2012",
+    "lunarCalendar": false
+  },
+  {
+    "name": "Tưng bừng Lễ hội phát lương Đền Trần Thương 2013 tại Hà Nam",
+    "chatgptName": "Lễ hội phát lương Đền Trần Thương",
+    "start": "Đêm 23/2/2013",
+    "end": "Rạng sáng ngày 15 tháng Giêng Âm lịch 2013",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Chủ tịch nước Nguyễn Minh Triết dự Lễ hội Tịch điền Đọi Sơn tỉnh Hà Nam",
+    "chatgptName": "Lễ hội Tịch Điền Đọi Sơn",
+    "start": "20/2",
+    "end": "20/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đền Lảnh Giang tại Hà Nam",
+    "chatgptName": "Lễ hội đền Lảnh Giang",
+    "start": "18/6",
+    "end": "25/6",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội làng Mỹ Đôi (Làng Dâu) tại Hà Nam",
+    "chatgptName": "Lễ hội làng Mỹ Đôi (Làng Dâu)",
+    "start": "15/2",
+    "end": "15/2",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đình Thọ Chương tại Hà Nam",
+    "chatgptName": "Lễ hội Thọ Chương",
+    "start": "4/1",
+    "end": "6/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đình Đinh tại Hà Nam",
+    "chatgptName": "Lễ hội Đình Đinh",
+    "start": "9/1",
+    "end": "12/1",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Lễ hội đình Trung tại Hòa Bình",
+    "chatgptName": "Hội đình Trung",
+    "start": "17/11",
+    "end": "18/11",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Độc đáo lễ cầu phúc của người Thái ở Hòa Bình",
+    "chatgptName": "Lễ cầu phúc",
+    "start": "1/8",
+    "end": "31/8",
+    "lunarCalendar": true
+  },
+  {
+    "name": "Hội nghị triển khai công tác tổ chức Lễ hội Chùa Tiên năm 2011 tại Hoà Bình",
+    "chatgptName": "Lễ hội Chùa Tiên",
+    "start": "mùng 4 Tết âm lịch hàng năm",
+    "end": "mùng 4 Tết âm lịch hàng năm",
+    "lunarCalendar": true
+  }
+]
