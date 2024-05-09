@@ -7,7 +7,7 @@
         "tên": "Nguyễn Kim"
       },
       {
-        "loại": "anh trai",
+        "loại": "anh",
         "tên": "Nguyễn Uông"
       },
       {
@@ -42,7 +42,7 @@
   {
     "name": "Nguyễn Lữ",
     "liên hệ": {
-      "loại": "anh trai",
+      "loại": "anh",
       "tên": "Nguyễn Nhạc"
     }
   },
@@ -121,7 +121,7 @@
   {
     "name": "Nguyễn Thiện Kế",
     "liên hệ": {
-      "loại": "em ruột",
+      "loại": "anh",
       "tên": "Nguyễn Thiện Thuật"
     }
   },
@@ -135,21 +135,8 @@
     ]
   },
   {
-    "name": "Bùi Hữu Diên",
-    "liên hệ": [
-      {
-        "loại": "con",
-        "tên": "Lương Như Truật"
-      }
-    ]
-  },
-  {
     "name": "Hồ Đắc Trung",
     "liên hệ": [
-      {
-        "loại": "cha",
-        "tên": "Hồ Đắc Trung"
-      },
       {
         "loại": "con",
         "tên": "Hồ Đắc Điềm"
@@ -183,27 +170,11 @@
     ]
   },
   {
-    "name": "Nguyễn Phong Di",
-    "liên hệ": [
-      {
-        "loại": "cha",
-        "tên": "Nguyễn Thái Bạt"
-      }
-    ]
-  },
-  {
-    "name": "Nguyễn Văn Cẩm",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Nguyễn Văn Cẩm"
-    }
-  },
-  {
     "name": "Phan Phát Sanh",
     "liên hệ": [
       {
         "loại": "cha",
-        "tên": "Vua Hàm Nghi"
+        "tên": "Nguyễn Phúc Ưng Lịch"
       }
     ]
   },
@@ -213,15 +184,6 @@
       {
         "loại": "chồng",
         "tên": "Phan Bội Châu"
-      }
-    ]
-  },
-  {
-    "name": "Thân Trọng Huề",
-    "liên hệ": [
-      {
-        "loại": "ông ngoại",
-        "tên": "Ngô Đình Nhu"
       }
     ]
   },
@@ -242,7 +204,7 @@
         "tên": "Nguyễn Ngọc Tương"
       },
       {
-        "loại": "anh trai",
+        "loại": "anh",
         "tên": "Nguyễn Ngọc Bích"
       }
     ]
@@ -259,8 +221,8 @@
   {
     "name": "Trần Tiêu",
     "liên hệ": {
-      "loại": "em ruột",
-      "tên": "Khái Hưng"
+      "loại": "anh",
+      "tên": "Trần Khánh Giư"
     }
   },
   {
@@ -295,7 +257,7 @@
     "liên hệ": [
       {
         "loại": "cha",
-        "tên": "Trần Nghệ Tông"
+        "tên": "Trần Phủ"
       }
     ]
   },
@@ -312,7 +274,7 @@
     "name": "Ngô Xương Xí",
     "liên hệ": {
       "loại": "cha",
-      "tên": "Thiên Sách Vương Ngô Xương Ngập"
+      "tên": "Ngô Xương Ngập"
     }
   },
   {
@@ -320,11 +282,7 @@
     "liên hệ": [
       {
         "loại": "cha",
-        "tên": "Hưng Đạo đại vương Trần Quốc Tuấn"
-      },
-      {
-        "loại": "mẹ",
-        "tên": "Thiên Thành công chúa"
+        "tên": "Trần Quốc Tuấn"
       }
     ]
   },
@@ -333,11 +291,11 @@
     "liên hệ": [
       {
         "loại": "cha",
-        "tên": "Trần Hiến Tông"
+        "tên": "Trần Mạnh"
       },
       {
-        "loại": "mẹ",
-        "tên": "Hoàng hậu Thuận Thiên"
+        "loại": "anh",
+        "tên": "Trần Hiến Tông"
       }
     ]
   },
@@ -347,32 +305,6 @@
       {
         "loại": "cha",
         "tên": "Trần Thái Tổ"
-      },
-      {
-        "loại": "mẹ",
-        "tên": "Hoàng hậu Thuận Thiên"
-      }
-    ]
-  },
-  {
-    "name": "Trịnh Kiểm",
-    "liên hệ": [
-      {
-        "loại": "cha",
-        "tên": "Trịnh Doanh"
-      },
-      {
-        "loại": "mẹ",
-        "tên": "Hoàng thái hậu"
-      }
-    ]
-  },
-  {
-    "name": "Dương Nhật Lễ",
-    "liên hệ": [
-      {
-        "loại": "cha nuôi",
-        "tên": "Trần Dụ Tông"
       }
     ]
   },
@@ -397,14 +329,14 @@
   {
     "name": "Ngô Xương Ngập",
     "liên hệ": {
-      "loại": "em trai",
+      "loại": "em",
       "tên": "Ngô Xương Văn"
     }
   },
   {
     "name": "Ngô Xương Văn",
     "liên hệ": {
-      "loại": "anh trai",
+      "loại": "anh",
       "tên": "Ngô Xương Ngập"
     }
   },
@@ -412,13 +344,6 @@
     "name": "Đinh Liễn",
     "liên hệ": {
       "loại": "cha",
-      "tên": "Đinh Bộ Lĩnh"
-    }
-  },
-  {
-    "name": "Đinh Điền",
-    "liên hệ": {
-      "loại": "con",
       "tên": "Đinh Bộ Lĩnh"
     }
   },
@@ -432,7 +357,7 @@
   {
     "name": "Lê Long Đĩnh",
     "liên hệ": {
-      "loại": "anh trai",
+      "loại": "anh",
       "tên": "Lê Trung Tông"
     }
   },
@@ -441,10 +366,10 @@
     "liên hệ": [
       {
         "loại": "cha",
-        "tên": "Trần Nhân Tông"
+        "tên": "Trần Khâm"
       },
       {
-        "loại": "em trai",
+        "loại": "anh",
         "tên": "Trần Anh Tông"
       }
     ]
@@ -454,7 +379,7 @@
     "liên hệ": [
       {
         "loại": "cha",
-        "tên": "Trần Minh Tông"
+        "tên": "Trần Mạnh"
       }
     ]
   },
@@ -462,8 +387,8 @@
     "name": "Trần Quang Triều",
     "liên hệ": [
       {
-        "loại": "con",
-        "tên": "Trần Hiến Tông"
+        "loại": "cha",
+        "tên": "Trần Quốc Tảng"
       }
     ]
   },
@@ -480,7 +405,7 @@
     "name": "Nguyễn Thị Lộ",
     "liên hệ": [
       {
-        "loại": "vợ",
+        "loại": "chồng",
         "tên": "Nguyễn Trãi"
       }
     ]
@@ -493,16 +418,12 @@
         "tên": "Trần Thái Tông"
       },
       {
-        "loại": "em",
+        "loại": "anh",
         "tên": "Trần Thánh Tông"
       },
       {
-        "loại": "em",
-        "tên": "Chiêu Minh đại vương Trần Quang Khải"
-      },
-      {
-        "loại": "chú",
-        "tên": "Trần Nhân Tông"
+        "loại": "anh",
+        "tên": "Trần Quang Khải"
       }
     ]
   },
@@ -516,24 +437,6 @@
     ]
   },
   {
-    "name": "Trần Khánh Dư",
-    "liên hệ": [
-      {
-        "loại": "em",
-        "tên": "Trần Nhân Tông"
-      }
-    ]
-  },
-  {
-    "name": "Trần Kính",
-    "liên hệ": [
-      {
-        "loại": "em",
-        "tên": "Trần Thuận Tông"
-      }
-    ]
-  },
-  {
     "name": "Hồ Nguyên Trừng",
     "liên hệ": [
       {
@@ -541,7 +444,7 @@
         "tên": "Hồ Quý Ly"
       },
       {
-        "loại": "em trai",
+        "loại": "em",
         "tên": "Hồ Hán Thương"
       }
     ]
@@ -558,10 +461,6 @@
   {
     "name": "Lê Nại",
     "liên hệ": [
-      {
-        "loại": "em",
-        "tên": "Lê Tư"
-      },
       {
         "loại": "con",
         "tên": "Lê Quang Bí"
@@ -590,7 +489,7 @@
     "name": "Nguyễn Giản Thanh",
     "liên hệ": [
       {
-        "loại": "thân phụ",
+        "loại": "cha",
         "tên": "Nguyễn Giản Liêm"
       }
     ]
@@ -605,30 +504,16 @@
     ]
   },
   {
-    "name": "Bùi Bỉnh Quân",
-    "liên hệ": {
-      "loại": "ông nội",
-      "tên": "Bùi Xương Trạch"
-    }
-  },
-  {
-    "name": "Đặng Đình Lân",
-    "liên hệ": {
-      "loại": "cháu",
-      "tên": "Trịnh Tạc"
-    }
-  },
-  {
     "name": "Lê Duy Mật",
     "liên hệ": {
       "loại": "cha",
-      "tên": "Vua Lê Dụ Tông"
+      "tên": "Lê Dụ Tông"
     }
   },
   {
     "name": "Lê Trọng Thứ",
     "liên hệ": {
-      "loại": "cha",
+      "loại": "con",
       "tên": "Lê Quý Đôn"
     }
   }
