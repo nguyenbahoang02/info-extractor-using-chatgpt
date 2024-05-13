@@ -28,7 +28,6 @@
     "dateOfBirth": "1600-01-01T00:00:00Z",
     "dateOfDeath": "1675-01-01T00:00:00Z",
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Quận công",
     "urlRef": "http://www.wikidata.org/entity/Q3210938",
     "description": "Phạm Công Trứ người làng Liêu Xuyên, tổng Liêu Xá, huyện Đường Hào, phủ Thượng Hồng, trấn Hải Dương, nay thuộc thôn Thanh Xá, xã Nghĩa Hiệp, huyện Yên Mỹ, tỉnh Hưng Yên một công thần, một nhà chính trị tài năng của chúa Trịnh, là một trong 39 người \"phò tá có công lao tài đức\" thời Lê Trung Hưng, làm đến chức Quốc lão, Thái bảo Yên Quận công."
   },
@@ -38,7 +37,6 @@
     "dateOfBirth": "0924-01-01T00:00:00Z",
     "dateOfDeath": "0979-01-01T00:00:00Z",
     "dynasty": "Thời kỳ phong kiến phương Bắc đô hộ lần thứ ba",
-    "positionTitle": "Tể tướng",
     "birthPlace": "Gia Viễn",
     "urlRef": "http://www.wikidata.org/entity/Q3954732",
     "description": "Nguyễn Bặc (chữ Hán: 阮匐; 924 - 7 tháng 11 năm 979), hiệu Định Quốc Công (定國公), là khai quốc công thần nhà Đinh, có công giúp Đinh Tiên Hoàng đánh dẹp, chấm dứt loạn 12 sứ quân vào thế kỷ 10 trong lịch sử Việt Nam. Do lập công lớn, ông được vua Đinh phong tước Định Quốc Công, vị trí như chức Tể tướng của các triều đại sau này. Ông là một trong số những người tận trung với nhà Đinh, đồng thời là bạn đồng hương, sinh và mất cùng năm với Vua Đinh Tiên Hoàng. Dân gian xem ông và Đinh Điền là những biểu tượng của tinh thần hào hiệp, trượng nghĩa và trung thành.",
@@ -83,7 +81,7 @@
     "dateOfBirth": "1927-12-29T00:00:00Z",
     "dateOfDeath": "2018-08-11T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Thượng thư",
+
     "birthPlace": "Liên Bạt",
     "deathPlace": "Montreuil",
     "urlRef": "http://www.wikidata.org/entity/Q3375353",
@@ -364,7 +362,6 @@
     "dateOfBirth": "1869-02-12T00:00:00Z",
     "dateOfDeath": "1884-07-31T00:00:00Z",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Giáp",
     "birthPlace": "Huế",
     "deathPlace": "Huế",
     "urlRef": "http://www.wikidata.org/entity/Q465593",
@@ -504,7 +501,7 @@
     "dateOfBirth": "1911-08-25T00:00:00Z",
     "dateOfDeath": "2013-10-04T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Giáp",
+
     "birthPlace": "Lộc Thủy",
     "deathPlace": "Hà Nội",
     "urlRef": "http://www.wikidata.org/entity/Q179910",
@@ -721,7 +718,7 @@
     "dateOfBirth": "1925-12-15T00:00:00Z",
     "dateOfDeath": "2021-06-24T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Đề đốc",
+
     "birthPlace": "Thành phố Hồ Chí Minh",
     "deathPlace": "San Jose",
     "urlRef": "http://www.wikidata.org/entity/Q1937110",
@@ -837,7 +834,7 @@
     "dateOfBirth": "1491-01-01T00:00:00Z",
     "dateOfDeath": "1585-01-01T00:00:00Z",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Trạng nguyên",
+
     "birthPlace": "Hải Phòng",
     "deathPlace": "Hải Dương",
     "urlRef": "http://www.wikidata.org/entity/Q2227236",
@@ -1184,7 +1181,7 @@
     "dateOfBirth": "1930-09-09T00:00:00Z",
     "dateOfDeath": "2009-05-20T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "birthPlace": "Cần Thơ",
     "deathPlace": "San Jose",
     "urlRef": "http://www.wikidata.org/entity/Q1387616",
@@ -1600,7 +1597,7 @@
     "dateOfBirth": "1218-01-01T00:00:00Z",
     "dateOfDeath": "1278-01-01T00:00:00Z",
     "dynasty": "Nhà Lý",
-    "positionTitle": "Chỉ huy sứ",
+
     "birthPlace": "Hà Nội",
     "deathPlace": "Bắc Ninh",
     "urlRef": "http://www.wikidata.org/entity/Q713251",
@@ -2286,7 +2283,7 @@
     "name": "Phạm Tuyên",
     "dateOfBirth": "1930-01-12T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "birthPlace": "Bình Giang",
     "urlRef": "http://www.wikidata.org/entity/Q7180386",
     "description": "Phạm Tuyên (sinh ngày 12 tháng 1 năm 1930) là một nhạc sĩ nổi tiếng người Việt Nam, cựu Chủ tịch Hội Âm nhạc Hà Nội, tác giả của bài hát \"Như có Bác trong ngày đại thắng\", Chiếc đèn ông sao cùng nhiều bài hát thiếu nhi phổ biến với trẻ em Việt Nam.",
@@ -2416,7 +2413,7 @@
     "dateOfBirth": "1620-07-18T00:00:00Z",
     "dateOfDeath": "1687-04-30T00:00:00Z",
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Quận công",
+
     "urlRef": "http://www.wikidata.org/entity/Q7022929",
     "description": "Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), hay Nguyễn Thái Tông, tước hiệu Dũng Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ tư của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm."
   },
@@ -2742,7 +2739,7 @@
     "name": "Đỗ Bá Tỵ",
     "dateOfBirth": "1954-12-01T00:00:00Z",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "Bá",
+
     "birthPlace": "Đoan Hùng",
     "urlRef": "http://www.wikidata.org/entity/Q10842107",
     "description": "Đỗ Bá Tỵ (sinh năm 1954) là Đại tướng Quân đội nhân dân Việt Nam và chính khách người Việt Nam. Ông nguyên là Phó Chủ tịch Quốc hội khóa XIV phụ trách quốc phòng - an ninh, Ủy viên Ủy ban Thường vụ Quốc hội và là đại biểu quốc hội Việt Nam khóa XIV nhiệm kỳ 2016–2021 thuộc đoàn đại biểu quốc hội tỉnh Lào Cai. Ông từng là Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, Thứ trưởng Bộ Quốc phòng (2010–2016). Trong Đảng Cộng sản Việt Nam, ông nguyên là Ủy viên Đảng đoàn Quốc hội, nguyên Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII, nguyên Chủ tịch Nhóm Nghị sỹ hữu nghị Việt - Trung.",
@@ -2928,7 +2925,7 @@
     "dateOfBirth": "1924-01-01T00:00:00Z",
     "dateOfDeath": "2019-01-01T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Tả",
+
     "urlRef": "http://www.wikidata.org/entity/Q20025319",
     "description": "Bùi Nam Hà (1924–2019) là một tướng lĩnh Quân đội nhân dân Việt Nam, hàm Thiếu tướng, nguyên Phó Tổng thanh tra Quân đội, Giám đốc Học viện Hậu cần, Phó Giám đốc Học viện Quốc phòng, Cục trưởng Cục Nhà trường, Phó Tư lệnh Tham mưu trưởng Mặt trận Tây nguyên (B3), Tham mưu phó Quân khu Tả ngạn, Quân khu 5. Huân chương Độc lập hạng Nhất."
   },
@@ -2962,7 +2959,7 @@
     "name": "Nguyễn Văn Tình",
     "dateOfBirth": "1945-10-02T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Đô đốc",
+
     "birthPlace": "Giao Yến",
     "urlRef": "http://www.wikidata.org/entity/Q20026044",
     "description": "Nguyễn Văn Tình (sinh ngày 2 tháng 10 năm 1945), là một sĩ quan cấp cao trong Quân đội nhân dân Việt Nam, hàm Phó Đô đốc, nguyên Phó Tư lệnh Binh chủng Đặc công, Bí thư Đảng ủy, Chính ủy Quân chủng Hải quân, nguyên Ủy viên Trung ương Đảng khóa IX, Ủy viên Quân ủy Trung ương. Ông được trao tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân vào năm 1969."
@@ -2981,7 +2978,7 @@
     "name": "Nguyễn Thị Mai Hoa",
     "dateOfBirth": "1968-01-01T00:00:00Z",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "hữu",
+
     "birthPlace": "Hưng Xuân",
     "urlRef": "http://www.wikidata.org/entity/Q10799656",
     "description": "Nguyễn Thị Mai Hoa (sinh ngày 22 tháng 4 năm 1967) là một nữ chính trị gia người Việt Nam. Bà hiện là Phó Chủ nhiệm Ủy ban Văn hóa, giáo dục của Quốc hội, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - México, đại biểu Quốc hội Việt Nam khóa 15 nhiệm kì 2021-2026, thuộc đoàn đại biểu Quốc hội tỉnh Đồng Tháp."
@@ -3018,7 +3015,7 @@
     "name": "Nguyễn Thanh Hồng",
     "dateOfBirth": "1960-06-08T00:00:00Z",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "hữu",
+
     "birthPlace": "Thanh Hóa",
     "urlRef": "http://www.wikidata.org/entity/Q10799489",
     "description": "Nguyễn Thanh Hồng (sinh năm 1960) là một Tướng lĩnh Công an nhân dân Việt Nam, cấp bậc Thiếu tướng và chính trị gia người Việt Nam. Ông hiện là Ủy viên thường trực Ủy ban Quốc phòng và An ninh của Quốc hội, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - New Zealand, đại biểu Quốc hội Việt Nam khóa 14 tỉnh Bình Dương. Ông từng là đại biểu Quốc hội Việt Nam khóa 13, cũng thuộc đoàn đại biểu Bình Dương."
@@ -3157,7 +3154,7 @@
     "dateOfBirth": "1184-01-01T00:00:00Z",
     "dateOfDeath": "1234-01-01T00:00:00Z",
     "dynasty": "Nhà Lý",
-    "positionTitle": "Thái sư",
+
     "birthPlace": "Hưng Hà",
     "deathPlace": "Hà Nội",
     "urlRef": "http://www.wikidata.org/entity/Q7833326",
@@ -3342,7 +3339,7 @@
     "dateOfBirth": "1252-01-01T00:00:00Z",
     "dateOfDeath": "1313-01-01T00:00:00Z",
     "dynasty": "Nhà Trần",
-    "positionTitle": "Tả",
+
     "birthPlace": "Đông Triều",
     "urlRef": "http://www.wikidata.org/entity/Q7833315",
     "description": "Hưng Nhượng vương Trần Quốc Tảng (chữ Hán: 興讓王陳國顙, 1252 - 1313) một tông thất hoàng gia, tướng lĩnh quân sự Đại Việt thời Trần. Ông là con trai thứ ba của Hưng Đạo đại vương Trần Quốc Tuấn và Thiên Thành công chúa. Ông đã cùng cha chỉ huy quân dân đánh quân Nguyên xâm lược vào thời Trần Nhân Tông.",
@@ -3405,7 +3402,7 @@
     "dateOfBirth": "1350-01-01T00:00:00Z",
     "dateOfDeath": "1370-12-17T00:00:00Z",
     "dynasty": "Nhà Trần",
-    "positionTitle": "Tể tướng",
+
     "deathPlace": "Hà Nội",
     "urlRef": "http://www.wikidata.org/entity/Q716481",
     "description": "Dương Nhật Lễ (chữ Hán: 楊日禮 1349 – 7 tháng 12 năm 1370), tên ngoại giao với Trung Quốc là Trần Nhật Kiên (陳日熞), còn gọi Hôn Đức Công (昏德公), là hoàng đế thứ 8 của Vương triều Trần nước Đại Việt. Ông nguyên là con trai ruột của người họ Dương, được Cung Túc Vương Trần Nguyên Dục – anh vua Trần Dụ Tông nhận làm con nuôi. Trần Dụ Tông không có con nên khi chết có di chiếu truyền ngôi cho Nhật Lễ. Ông lên ngôi, lấy các anh, em khác mẹ của Dụ Tông làm Tể tướng, trị vì từ ngày 15 tháng 6 năm Kỷ Dậu (tức 18 tháng 7 năm 1369) đến ngày 13 tháng 11 năm Canh Tuất (tức 1 tháng 12 năm 1370)."
@@ -3497,7 +3494,7 @@
     "dateOfBirth": "1038-01-01T00:00:00Z",
     "dateOfDeath": "1096-01-01T00:00:00Z",
     "dynasty": "Nhà Lý",
-    "positionTitle": "Thái sư",
+
     "birthPlace": "Bảo Tháp",
     "urlRef": "http://www.wikidata.org/entity/Q6507845",
     "description": "Lê Văn Thịnh (chữ Hán: 黎文盛; ? – ?) là người đỗ đầu trong khoa thi đầu tiên của Nho học Việt Nam, được bổ làm quan, dần trải đến chức Thái sư triều Lý. Năm 1084, ông thành công trong việc bàn nghị về việc cương giới với quan nhà Tống, khiến nước này phải trả lại 6 huyện 3 động thuộc châu Quảng Nguyên cho Đại Việt (Việt Nam). Tuy nhiên đến năm 1096 thì ông bị đày rồi mất, sau khi xảy ra \"Vụ án hồ Dâm Đàm\" (1095).",
@@ -3732,7 +3729,7 @@
     "dateOfBirth": "1931-01-01T00:00:00Z",
     "dateOfDeath": "2015-02-22T00:00:00Z",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "http://www.wikidata.org/entity/Q10788142",
     "description": "Lý Tòng Bá (1931 – 2015), nguyên là một tướng lĩnh gốc Kỵ binh của Quân lực Việt Nam Cộng hòa, cấp bậc Chuẩn tướng. Ông xuất thân từ những khóa đầu ở trường Võ bị Quốc gia do Chính phủ Quốc gia Việt Nam mở ra tại nam Cao nguyên Trung phần. Sau khi tốt nghiệp ông được chọn vào đơn vị Thiết giáp và ông đã phục vụ ở Binh chủng này lên đến chức vụ Chỉ huy trưởng. Trong thời gian tại ngũ, ông cũng được chuyển nhiệm vụ sang lĩnh vực Hành chánh (Tỉnh trưởng) kiêm Quân sự (Tiểu khu trưởng). Ông là Tư lệnh sau cùng của Sư đoàn 25 Bộ binh, đơn vị cuối cùng chiến đấu bảo vệ mặt phía bắc Sài Gòn trước khi thất thủ."
   },
@@ -4136,7 +4133,7 @@
     "enName": "Khuong Cong Phu",
     "name": "Khương Công Phụ",
     "dynasty": "Thời kỳ phong kiến phương Bắc đô hộ lần thứ ba",
-    "positionTitle": "Tể tướng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/794/khuong-cong-phu",
     "description": "Khương Công Phụ (chữ Hán: 姜公輔, 731 - 805) tự Đức Văn (chữ Hán: 德文) là một tể tướng dưới triều Đường Đức Tông, đỗ trạng nguyên năm 780.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%B0%8D%E7%9B%B4%E8%A8%80%E6%A5%B5%E8%AB%AB%E7%AD%96.jpg/800px-%E5%B0%8D%E7%9B%B4%E8%A8%80%E6%A5%B5%E8%AB%AB%E7%AD%96.jpg"
@@ -4359,7 +4356,7 @@
     "name": "Nguyễn Bặc",
     "dateOfDeath": "0980",
     "dynasty": "Nhà Đinh",
-    "positionTitle": "Tể tướng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1259/nguyen-bac",
     "description": "Nguyễn Bặc (chữ Hán: 阮匐; 924 - 7 tháng 11 năm 979), hiệu Định Quốc Công (定國公), là khai quốc công thần nhà Đinh, có công giúp Đinh Tiên Hoàng đánh dẹp, chấm dứt loạn 12 sứ quân vào thế kỷ 10 trong lịch sử Việt Nam. Do lập công lớn, ông được vua Đinh phong tước Định Quốc Công, vị trí như chức Tể tướng của các triều đại sau này. Ông là một trong số những người tận trung với nhà Đinh, đồng thời là bạn đồng hương, sinh và mất cùng năm với Vua Đinh Tiên Hoàng. Dân gian xem ông và Đinh Điền là những biểu tượng của tinh thần hào hiệp, trượng nghĩa và trung thành.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mothuytonguyenbac.jpg/220px-Mothuytonguyenbac.jpg"
@@ -4790,7 +4787,7 @@
     "enName": "Le Van Thinh",
     "name": "Lê Văn Thịnh",
     "dynasty": "Nhà Lý",
-    "positionTitle": "Thái sư",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1032/le-van-thinh",
     "description": "Lê Văn Thịnh (chữ Hán: 黎文盛; ? – ?) là người đỗ đầu trong khoa thi đầu tiên của Nho học Việt Nam, được bổ làm quan, dần trải đến chức Thái sư triều Lý. Năm 1084, ông thành công trong việc bàn nghị về việc cương giới với quan nhà Tống, khiến nước này phải trả lại 6 huyện 3 động thuộc châu Quảng Nguyên cho Đại Việt (Việt Nam). Tuy nhiên đến năm 1096 thì ông bị đày rồi mất, sau khi xảy ra \"Vụ án hồ Dâm Đàm\" (1095).",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Le_Van_Thinh.JPG/272px-Le_Van_Thinh.JPG"
@@ -4888,7 +4885,7 @@
     "enName": "Mac Hien Tich",
     "name": "Mạc Hiển Tích",
     "dynasty": "Nhà Lý",
-    "positionTitle": "Thượng thư",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1112/mac-hien-tich",
     "description": "Quê ông ở làng Lũng Động, huyện Chí Linh (nay thuộc xã Nam Tân, huyện Nam Sách, tỉnh Hải Dương). Sau khi thi đỗ ông được bổ làm Hàn lâm học sĩ rồi thăng lên đến Thượng thư."
   },
@@ -5139,7 +5136,7 @@
     "name": "Lý Chiêu Hoàng",
     "otherName": ["Lý Phật Kim"],
     "dynasty": "Nhà Lý",
-    "positionTitle": "Chỉ huy sứ",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1085/ly-chieu-hoang",
     "description": "Lý Chiêu Hoàng (chữ Hán: 李昭皇; 1218 - 1278) hay Chiêu Thánh Hoàng hậu (昭聖皇后) là nữ hoàng của đế quốc Đại Việt, cũng là Hoàng đế cuối cùng của triều đại nhà Lý, trị vì từ năm 1224 đến năm 1225. Bà là Nữ hoàng duy nhất trong lịch sử Việt Nam, nhưng không phải là vị vua nữ giới đầu tiên, vị nữ quân chủ đầu tiên là Nữ vương Trưng Trắc.[chú thích 1] Bà được chính vua cha Lý Huệ Tông ra chỉ truyền ngôi, dù bên trong có khả năng do sự sắp đặt của Điện tiền Chỉ huy sứ Trần Thủ Độ, người đang nắm quyền lực trong triều đồng thời cũng là chú họ bên ngoại của bà.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ho%C3%A0ng_%C4%90%E1%BA%BF_L%C3%BD_Chi%C3%AAu_Ho%C3%A0ng.jpg/220px-Ho%C3%A0ng_%C4%90%E1%BA%BF_L%C3%BD_Chi%C3%AAu_Ho%C3%A0ng.jpg",
@@ -5177,7 +5174,7 @@
     "enName": "Bach Lieu",
     "name": "Bạch Liêu",
     "dynasty": "Nhà Trần",
-    "positionTitle": "Trạng nguyên",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/16/bach-lieu",
     "description": "Bạch Liêu (chữ Hán: 白遼, một số tài liệu ghi là Bạch Liên[cần dẫn nguồn]) sinh năm 1236[cần dẫn nguồn] quê ở làng Yên Xá, huyện Đông Thành, phủ Diễn Châu (nay thuộc huyện Diễn Châu, tỉnh Nghệ An) nay là xã Mã Thành, huyện Yên Thành, tỉnh Nghệ An, mất năm 1315[cần dẫn nguồn]. Ông là người thông minh nhớ lâu, đọc sách ngàn dòng một mạch. Ông đỗ trạng nguyên năm Thiệu Long thứ 9 (1266) đời vua Trần Thánh Tông, là vị tổ khai khoa của xứ Nghệ, nhưng không ra làm quan. Ông ở lại làm môn khách giúp Chiêu Minh Vương Trần Quang Khải trấn Nghệ An. Với tư cách là một quân sư, ông đã giúp Trần Quang Khải thảo ra kế hoạch về tuyển quân và dự trữ lương thực, củng cố biên giới phía Nam (gọi là Biến pháp tam chương)[cần dẫn nguồn] góp phần quan trọng trong việc đánh thắng quân Nguyên Mông. Ông được cử theo đoàn sứ bộ sang nhà Nguyên, bằng trí tuệ uyên bác và tài ngoại giao, ông đã góp phần thiết lập quan hệ ngoại giao hoà hiếu giữa 2 nước[cần dẫn nguồn]."
   },
@@ -5270,7 +5267,7 @@
     "enName": "Duong Nhat Le",
     "name": "Dương Nhật Lễ",
     "dynasty": "Nhà Trần",
-    "positionTitle": "Tể tướng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/251/duong-nhat-le",
     "description": "Dương Nhật Lễ (chữ Hán: 楊日禮 1349 – 7 tháng 12 năm 1370), tên ngoại giao với Trung Quốc là Trần Nhật Kiên (陳日熞), còn gọi Hôn Đức Công (昏德公), là hoàng đế thứ 8 của Vương triều Trần nước Đại Việt. Ông nguyên là con trai ruột của người họ Dương, được Cung Túc Vương Trần Nguyên Dục – anh vua Trần Dụ Tông nhận làm con nuôi. Trần Dụ Tông không có con nên khi chết có di chiếu truyền ngôi cho Nhật Lễ. Ông lên ngôi, lấy các anh, em khác mẹ của Dụ Tông làm Tể tướng, trị vì từ ngày 15 tháng 6 năm Kỷ Dậu (tức 18 tháng 7 năm 1369) đến ngày 13 tháng 11 năm Canh Tuất (tức 1 tháng 12 năm 1370)."
   },
@@ -5389,7 +5386,7 @@
     "name": "Đoàn Nhữ Hài",
     "dateOfDeath": "1336",
     "dynasty": "Nhà Trần",
-    "positionTitle": "Tham tri",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/455/doan-nhu-hai",
     "description": "Đoàn Nhữ Hài (chữ Hán: 段汝諧, 1280-1335), biểu tự Thuấn Thần (舜臣), người làng Hội Xuyên, huyện Trường Tân, lộ Hồng Châu (nay là huyện Gia Lộc, tỉnh Hải Dương), là một danh thần đời nhà Trần. Ông làm quan trải ba đời vua Trần Anh Tông (1293-1314), Trần Minh Tông (1314-1329) và Trần Hiến Tông (1329-1341), là người có năng lực hoạt động về ngoại giao và nội trị, lần lượt nắm giữ các chức vụ Ngự sử trung tán, Tham tri chính sự, Hành khiển, Thiên tử chiêu dụ sứ, Kinh lược Nghệ An. Ông hy sinh trong cuộc chinh phạt Ai Lao năm 1335.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%C4%90o%C3%A0n_Nh%E1%BB%AF_H%C3%A0i.jpg/250px-%C4%90o%C3%A0n_Nh%E1%BB%AF_H%C3%A0i.jpg"
@@ -5526,7 +5523,7 @@
     "name": "Nguyễn Bá Tĩnh",
     "otherName": ["Tuệ Tĩnh", "Tráng Tử Vô Dật", "Hồng Nghĩa"],
     "dynasty": "Nhà Trần",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1250/nguyen-ba-tinh",
     "description": "Tuệ Tĩnh Thiền sư (chữ Hán: 慧靜禪師, 1330 - 1400) là một lương y sống ở giai đoạn cuối thời Trần. Ông được hậu thế suy tôn là tiên thánh của ngành thuốc Nam. Tại Hải Dương, còn đền thờ ông ở xã Cẩm Văn, Cẩm Vũ, ở chùa Hải Triều làng Yên Trung, nay là chùa Giám, xã Cẩm Sơn, huyện Cẩm Giàng, Và khu B trường Đại học kỹ thuật y tế Hải Dương, khoa dược bệnh viện 103 Hà Nội, sân của Học Viện Y dược học cổ truyền Việt Nam có tượng Tuệ Tĩnh. Câu đối thờ ông ở đền Bia viết, dịch nghĩa như sau:"
   },
@@ -5785,7 +5782,7 @@
     "dateOfDeath": "1325",
     "otherName": ["Cúc Đường", "Võ Sơn Ông"],
     "dynasty": "Nhà Trần",
-    "positionTitle": "Tể tướng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2151/tran-quang-trieu",
     "description": "Trần Quang Triều (chữ Hán: 陳光朝, 1287 -1325) còn có tên là Nguyên Đào, biệt hiệu là Cúc Đường chủ nhân (菊塘主人) và Vô Sơn Ông (无山翁), là một nhà chính trị, tôn thất hoàng gia Đại Việt thời Trần, làm quan đến chức Tư đồ (tể tướng) thời Trần Minh Tông. Ông còn là một cư sĩ Phật giáo mộ đạo và là nhà thơ."
   },
@@ -5794,7 +5791,7 @@
     "name": "Trần Quốc Tảng",
     "dateOfDeath": "1313",
     "dynasty": "Nhà Trần",
-    "positionTitle": "Tả",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2154/tran-quoc-tang",
     "description": "Hưng Nhượng vương Trần Quốc Tảng (chữ Hán: 興讓王陳國顙, 1252 - 1313) một tông thất hoàng gia, tướng lĩnh quân sự Đại Việt thời Trần. Ông là con trai thứ ba của Hưng Đạo đại vương Trần Quốc Tuấn và Thiên Thành công chúa. Ông đã cùng cha chỉ huy quân dân đánh quân Nguyên xâm lược vào thời Trần Nhân Tông.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tran_Quoc_Tang_Statue.jpg/300px-Tran_Quoc_Tang_Statue.jpg"
@@ -5858,7 +5855,7 @@
     "dateOfDeath": "1354",
     "otherName": ["Thăng Phủ"],
     "dynasty": "Nhà Trần",
-    "positionTitle": "Thái bảo",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2252/truong-han-sieu",
     "description": "Trương Hán Siêu (? – 1354, chữ Hán: 張漢超, tên tự là Thăng Phủ hoặc Thăng Am, hiệu Đôn Tẩu) là một vị quan dưới 4 đời vua nhà Trần, từng giữ các chức: Hàn lâm học sĩ, Hành khiển, Hữu ty lang trung, Tả ty lang trung, Thượng thư; khi mất ông được 2 vua truy tặng chức Thái bảo rồi Thái phó. Ông là một danh nhân văn hóa lớn đời Trần, kiệt tác văn chương nổi tiếng nhất trong sự nghiệp sáng tác của ông là bài Bạch Đằng giang phú (Phú sông Bạch Đằng) – một áng thiên cổ hùng văn rất được lưu truyền.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Huynonnuoc2.jpg/250px-Huynonnuoc2.jpg"
@@ -6338,7 +6335,7 @@
     "enName": "Dang Tien Vinh",
     "name": "Đặng Tiến Vinh",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Đô đốc",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/359/dang-tien-vinh",
     "description": "Đặng Tiến Vinh (1562 – 1625) là một trọng thần thời Lê Trịnh, từng làm quan đến chức Đô đốc, Thái bảo, được ban tước Quận công."
   },
@@ -6365,7 +6362,7 @@
     "enName": "Dao Tieu",
     "name": "Đào Tiêu",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Trạng nguyên",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/309/dao-tieu",
     "description": "Quê gốc của ông ở xã Phủ Lý, huyện Đông Sơn, tỉnh Thanh Hóa, nhưng sinh ra và lớn lên ở Yên Hồ, huyện Đức Thọ, tỉnh Hà Tĩnh. Năm Ất Hợi, niên hiệu Bảo Phù thứ 3 (1275) đời vua Trần Thánh Tông, ông thi đỗ danh hiệu Trại Trạng nguyên (những trạng nguyên có quê quán từ Thanh Hóa trở vào)."
   },
@@ -6482,7 +6479,7 @@
     "enName": "Lai Kim Bang",
     "name": "Lại Kim Bảng",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Giám sát ngự sử",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/800/lai-kim-bang",
     "description": "Lại Kim Bảng (sinh 1502) là giám sát ngự sử thời Lê sơ, đỗ hoàng giáp năm 1518."
   },
@@ -6522,7 +6519,7 @@
     "enName": "Le Duc Toan",
     "name": "Lê Đức Toản",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Hoàng giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/869/le-duc-toan",
     "description": "Lê Đức Toản là đô ngự sử thời Lê sơ, đỗ hoàng giáp năm 1484. Về sau khi nhà Mạc lên ngôi, ông không làm quan cho nhà Mạc mà đi ẩn."
   },
@@ -6530,7 +6527,7 @@
     "enName": "Le Hieu Trung",
     "name": "Lê Hiếu Trung",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Quốc Tử Giám",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/875/le-hieu-trung",
     "description": "Lê Hiếu Trung (chữ Hán: 黎孝忠) là một tư nghiệp Quốc tử giám thời Lê sơ, đỗ đồng tiến sĩ năm 1502."
   },
@@ -6586,7 +6583,7 @@
     "enName": "Le Nai",
     "name": "Lê Nại",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Hoàng giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/915/le-nai",
     "description": "Hoàng giáp Lê Tư là em ruột của ông. Con trai ông là Lê Quang Bí cũng là danh sĩ có tiếng, đỗ Hoàng giáp."
   },
@@ -6647,7 +6644,7 @@
     "enName": "Le San",
     "name": "Lê Sạn",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Bảng nhãn",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/954/le-san",
     "description": "Lê Sạn (黎僝) hay Lê Tài, Lê Nga (1476 - ?) là thượng thư bộ Lại thời Lê sơ, đậu bảng nhãn năm 1502. Khi Mạc Đăng Dung lên ngôi thì ông đi ở ẩn, về sau được đánh giá là có tiết nghĩa."
   },
@@ -6656,7 +6653,7 @@
     "name": "Lê Sát",
     "dateOfDeath": "1437",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Thừa tướng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/955/le-sat",
     "description": "Lê Sát (chữ Hán: 黎察, ? – 1437) là chính khách, nhà quân sự, thừa tướng Đại Việt thời Lê sơ. Ông là người làng Bỉ Ngũ, thuộc Lam Sơn, huyện Thọ Xuân, Thanh Hóa, Việt Nam, và là một trong những công thần khai quốc của hoàng triều Lê."
   },
@@ -6720,7 +6717,7 @@
     "name": "Lê Tuấn Mậu",
     "dateOfDeath": "1527",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Thượng thư",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/969/le-tuan-mau",
     "description": "Lê Tuấn Mậu (chữ Hán: 黎俊楙) là đô ngự sử thời Lê sơ, đỗ tiến sĩ vào năm 1490, sau bị Mạc Đăng Dung giết. Đến thời Lê trung hưng thì được truy phong phúc thần. Theo một vài nguồn thì ông còn là một thượng thư."
   },
@@ -6770,7 +6767,7 @@
     "enName": "Luong The Vinh",
     "name": "Lương Thế Vinh",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Trạng nguyên",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1059/luong-the-vinh",
     "description": "Lương Thế Vinh (chữ Hán: 梁世榮,; 1 tháng 8 năm 1441 - 2 tháng 10 năm 1496, tên hiệu là Thụy Hiên) là một nhà toán học, Phật học, và chính trị gia thời Lê sơ. Ông đỗ trạng nguyên dưới triều Lê Thánh Tông và làm quan tại viện Hàn Lâm. Ông được biết đến nhiều nhất bởi các tác phẩm do ông biên soạn ở các lĩnh vực toán học, văn hóa. Ông cũng còn được biết đến là một trong 28 nhà thơ của hội Tao Đàn do vua Lê Thánh Tông lập năm 1495.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/2/29/Luong_The_Vinh.jpg"
@@ -6921,7 +6918,7 @@
     "name": "Nguyễn Giản Thanh",
     "otherName": ["Cự Nguyên", "Phác Hiên", "Trạng Me"],
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Hàn lâm viện",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1362/nguyen-gian-thanh",
     "description": "Ông làm quan đến chức Hàn lâm viện Thị thư kiêm Đông các Đại học sĩ. Sau đó, lại ra làm quan với nhà Mạc và được cử đi sứ sang nhà Minh (Trung Quốc) để cầu phong cho Mạc Đăng Dung. Khi trở về, ông được thăng Thượng thư Bộ Lễ kiêm Hàn lâm viện Thị độc, Chưởng viện sự, tước Trung Phụ bá. Khi mất được tặng tước hầu. Thân phụ của ông là tiến sĩ Nguyễn Giản Liêm (1453-?)."
   },
@@ -7149,7 +7146,7 @@
     "name": "Trịnh Khả",
     "dateOfDeath": "1451",
     "dynasty": "Triều Lê Sơ",
-    "positionTitle": "Tể tướng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2231/trinh-kha",
     "description": "Trịnh Khả (Chữ Hán: 鄭可, 1391 – 1451) là chính khách, nhà quân sự, tể tướng Đại Việt thời Lê sơ. Ông được xem là một trong những công thần khai quốc của hoàng triều Lê."
   },
@@ -7325,7 +7322,7 @@
     "name": "Bùi Vịnh",
     "dateOfDeath": "1545",
     "dynasty": "Bắc Triều - Nam Triều",
-    "positionTitle": "Bảng nhãn",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/129/bui-vinh",
     "description": "Bùi Vịnh (1508 – 1545) là nhà văn, danh thần nhà Mạc. Ông là người làng Giáp Nhị (làng Nhĩ), xã Thịnh Liệt (tục gọi làng Sét), huyện Thanh Đàm, trấn Sơn Nam, nay thuộc Hà Nội. Bùi Vịnh đỗ đệ nhất giáp tiến sĩ, đệ nhị danh (bảng nhãn) niên hiệu Đại chính 3 (1532) đời Mạc Đăng Doanh. Bùi Vịnh làm quan tới chức Lại bộ Tả thị lang tước Mai lĩnh hầu."
   },
@@ -7621,7 +7618,7 @@
     "dateOfDeath": "1585",
     "otherName": ["Hanh Phủ", "Bạch Vân cư sĩ", "Văn Đạt", "Trạng Trình"],
     "dynasty": "Bắc Triều - Nam Triều",
-    "positionTitle": "Trạng nguyên",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1262/nguyen-binh-khiem",
     "description": "Nguyễn Bỉnh Khiêm (chữ Hán: 阮秉謙; 13 tháng 5 năm 1491 – 28 tháng 11 năm 1585), tên huý là Văn Đạt (文達), tự là Hanh Phủ (亨甫), hiệu là Bạch Vân am cư sĩ (白雲庵居士), được các môn sinh tôn là Tuyết Giang phu tử (雪江夫子), là một trong những nhân vật có ảnh hưởng nhất của lịch sử cũng như văn hóa Việt Nam trong thế kỷ 16. Ông được biết đến nhiều vì tư cách đạo đức, tài thơ văn của một nhà giáo có tiếng thời kỳ Nam – Bắc triều (Lê – Mạc phân tranh) cũng như tài tiên tri các tiến triển của lịch sử Việt Nam. Sau khi đậu Trạng nguyên khoa thi Ất Mùi (1535) và làm quan dưới triều Mạc, ông được phong tước “Trình Tuyền hầu” rồi thăng tới “Trình Quốc công” (程國公) mà dân gian quen gọi ông là Trạng Trình. Ngoại trừ quãng thời gian dưới 10 năm thời thơ ấu có thể xem là bình yên cuối triều Lê Thánh Tông, Nguyễn Bỉnh Khiêm đã sống gần trọn thế kỷ 16, một thế kỷ nhiều biến chuyển mang tầm ảnh hưởng chưa từng có trước đó trong lịch sử dân tộc, mà ông vừa là nhân chứng vừa là nhân tố quan trọng tạo nên chúng. Là một người xuất thân từ tầng lớp trí thức quan lại nhưng cả cuộc đời Nguyễn Bỉnh Khiêm chưa bao giờ coi việc làm quan là lý tưởng cao nhất của sự nghiệp, cũng như là một nhà nhân đạo chủ nghĩa ông luôn đề cao tư tưởng thân dân trong sách lược trị nước.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tr%E1%BA%A1ng_Tr%C3%ACnh_Nguy%E1%BB%85n_B%E1%BB%89nh_Khi%C3%AAm_n.jpg/250px-Tr%E1%BA%A1ng_Tr%C3%ACnh_Nguy%E1%BB%85n_B%E1%BB%89nh_Khi%C3%AAm_n.jpg"
@@ -7832,7 +7829,7 @@
     "dateOfDeath": "1818",
     "otherName": ["Hi Chương", "Ảm Chương", "Tồn Am", "Tồn Ông"],
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Tham tụng",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/69/bui-huy-bich",
     "description": "Bùi Huy Bích (chữ Hán: 裴輝璧; 1744 - 1818), tự là Hy Chương (chữ Hán: 熙章), hiệu là Tồn Am và Tồn Ông, là một danh nhân, danh sĩ người Hà Nội, từng giữ chức Tham tụng (tương đương chức thủ tướng) trong triều đình dưới thời vua Lê-chúa Trịnh."
   },
@@ -7999,7 +7996,7 @@
     "enName": "Dang Dinh Lan",
     "name": "Đặng Đình Lân",
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Quận công",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/332/dang-dinh-lan",
     "description": "Đặng Đình Lân (9 tháng 4 năm 1667 – 22 tháng 7 năm 1731) là một trọng thần thời Lê Trịnh từng làm đến chức Đại tư mã, được ban tước Quận công và theo họ của chúa Trịnh. Ông không chỉ thuộc dòng dõi họ Đặng ở Lương Xá mà còn là cháu ngoại của Tây Đô vương Trịnh Tạc, cháu ruột của Khang vương Trịnh Căn. Ông làm quan qua 4 đời chúa Trịnh từ Trịnh Tạc đến Uy Nam vương Trịnh Giang và 3 đời vua nhà Lê trung hưng từ Lê Hy Tông đến Lê Duy Phường."
   },
@@ -8394,7 +8391,7 @@
     "enName": "Hoang Nghia Phu",
     "name": "Hoàng Nghĩa Phú",
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Đô ngự sử",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/635/hoang-nghia-phu",
     "description": "Hoàng Nghĩa Phú đỗ trạng nguyên khoa Tân Mùi, niên hiệu Hồng Thuận thứ 2 (1511), đời Lê Tương Dực. Ông làm quan đến tham tri chính sự, kiêm Đô ngự sử. Lúc mất, ông được phong làm phúc thần."
   },
@@ -9012,7 +9009,7 @@
     "dateOfDeath": "1732",
     "otherName": ["Thái Thanh", "Tĩnh Trai"],
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Thái bảo",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1272/nguyen-cong-hang",
     "description": "Ông giữ các chức quan như Đề hình, thiêm đô ngự sử, Đốc trấn Cao Bằng (từ tháng 12 năm 1715), tả thị lang bộ Binh, nhập thị bồi tụng, thượng thư, tước Sóc quận công, sau thăng Thiếu bảo, kiêm chức Ngự sử đài chánh chưởng, Thượng thư bộ Lại, hàm Thái tử Thái phó, sau lại thăng Thái bảo, xếp vào hạng Tá lý công thần và được cử làm Chánh sứ sang nhà Thanh tháng 4 năm 1718. Năm 1720, thăng Tham tụng. Sau do Trịnh Giang nghe lời dèm pha bèn giáng chức điều ông đi làm Thừa chính sứ Tuyên Quang và bắt ép ông phải tự tử."
   },
@@ -9266,7 +9263,7 @@
     "dateOfDeath": "1789",
     "otherName": ["Nguyễn Khoa Thuyên"],
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Thái phó",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1432/nguyen-khoa-toan",
     "description": "Ông Nguyễn Khoa Toàn quê ở Vỹ Dạ, Huế dòng dõi vọng tộc. Tổ tiên ông, Nguyễn Đình Thân (1552-1633) là con nuôi của Thái phó Nguyễn Ư Dĩ, cậu ruột của chúa Nguyễn Hoàng. Năm ông mới 6 tuổi theo cha phò chúa Nguyễn Hoàng từ thủ đô Thăng Long, Bắc Việt vào Thuận Hóa từ thế kỷ XVI."
   },
@@ -9386,7 +9383,7 @@
     "dateOfDeath": "1687",
     "otherName": ["Hiền Vương"],
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Quận công",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1531/nguyen-phuc-tan",
     "description": "Nguyễn Phúc Tần (chữ Hán: 阮福瀕, 18 tháng 7 năm 1620 - 30 tháng 4 năm 1687), hay Nguyễn Thái Tông, tước hiệu Dũng Quận công (勇郡公), và được người trong lãnh thổ gọi là chúa Hiền (主賢), là vị chúa Nguyễn thứ tư của chính quyền Đàng Trong trong lịch sử Việt Nam. Ông ở ngôi từ năm 1648 đến năm 1687, tổng cộng được 40 năm."
   },
@@ -9430,7 +9427,7 @@
     "dateOfDeath": "1758",
     "otherName": ["Nguyễn Huy Nhuận"],
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Thượng thư",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1555/nguyen-quang-nhuan",
     "description": "Nguyễn Huy Nhuận hay Nguyễn Quang Nhuận (chữ Hán: 阮光潤; 1677[c] hoặc 1678 - 1758) là một Thượng thư thời Lê trung hưng, đã đỗ tiến sĩ vào thời Lê Hy Tông."
   },
@@ -9548,7 +9545,7 @@
     "name": "Phạm Công Trứ",
     "dateOfDeath": "1675",
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Quận công",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1787/pham-cong-tru",
     "description": "Phạm Công Trứ người làng Liêu Xuyên, tổng Liêu Xá, huyện Đường Hào, phủ Thượng Hồng, trấn Hải Dương, nay thuộc thôn Thanh Xá, xã Nghĩa Hiệp, huyện Yên Mỹ, tỉnh Hưng Yên một công thần, một nhà chính trị tài năng của chúa Trịnh, là một trong 39 người \"phò tá có công lao tài đức\" thời Lê Trung Hưng, làm đến chức Quốc lão, Thái bảo Yên Quận công."
   },
@@ -10365,7 +10362,7 @@
     "dateOfDeath": "1828",
     "otherName": ["Duy Chu", "Lai Sơn", "Nguyên Hanh"],
     "dynasty": "Thời Trịnh - Nguyễn phân tranh",
-    "positionTitle": "Tham tri",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2371/vu-trinh",
     "description": "Vũ Trinh (武楨, 1759 - 1828) (楨 Trinh nghĩa là trụ cột, cơ sở; 國之楨榦 \"Quốc chi trinh cán\": người làm căn bản cho nhà nước), tự Duy Chu (維周) hiệu Huệ Văn tiên sinh, là một danh sĩ, luật gia, Á tướng của triều Lê trung hưng, ông còn được biết đến là tác giả của nhiều vở Chèo cổ nổi tiếng."
   },
@@ -10656,7 +10653,7 @@
     "name": "Bạch Xuân Nguyên",
     "dateOfDeath": "1833",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Tả",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/20/bach-xuan-nguyen",
     "description": "Bạch Xuân Nguyên (chữ Hán: 白春元, 1796-?), là vị quan Bố chính đầu tiên của tỉnh Gia Định thời Nguyễn. Ông được biết đến là vị quan đã theo mật lệnh của triều đình Nguyễn, truy xét công tội của vị Tổng trấn Gia Định vừa mất là Tả Quân Lê Văn Duyệt, dẫn đến cuộc binh biến thành Phiên An tại các tỉnh miền Nam."
   },
@@ -10782,7 +10779,7 @@
     "name": "Cao Bá Quát",
     "dateOfDeath": "1854",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/143/cao-ba-quat",
     "description": "Cao Bá Quát (chữ Hán: 高伯适; 1808 – 1855), biểu tự Chu Thần (周臣), hiệu Mẫn Hiên (敏軒), lại có hiệu Cúc Đường (菊堂), là quân sư trong cuộc nổi dậy Mỹ Lương, và là một nhà thơ nổi danh ở giữa thế kỷ 19 trong lịch sử văn học Việt Nam."
   },
@@ -11162,7 +11159,7 @@
     "name": "Đỗ Đăng Đệ",
     "dateOfDeath": "1888",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/490/do-dang-de",
     "description": "Đỗ Đăng Đệ (biệt danh: Ông Thượng Đỗ, ông Thượng Châu Sa), tự Thứ Khanh, hiệu Tùng Đường, sinh năm Giáp Tuất (1814) tại làng Châu Sa, huyện Bình Sơn (nay thuộc xã Tịnh Châu, huyện Sơn Tịnh). Tổ tiên ông gốc người Thanh Hóa, đến đời tổ thứ sáu là Đỗ Đăng Phú, đưa gia quyến vào Quảng Ngãi định cư, lập nghiệp."
   },
@@ -11334,7 +11331,7 @@
     "name": "Hồ Bá Ôn",
     "dateOfDeath": "1883",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Án sát",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/691/ho-ba-on",
     "description": "Hồ Bá Ôn (胡伯溫, 1843-1883), quê làng Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An, là án sát tỉnh Nam Định cũ."
   },
@@ -11563,7 +11560,7 @@
     "name": "Lê Bá Phẩm",
     "dateOfDeath": "1820",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/816/le-ba-pham",
     "description": "Lê Bá Phẩm (? - 1820) là đại thần nhà Nguyễn trong lịch sử Việt Nam."
   },
@@ -11708,7 +11705,7 @@
     "name": "Lê Văn Duyệt",
     "dateOfDeath": "1832",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Tả",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1008/le-van-duyet",
     "description": "Lê Văn Duyệt (1763 hoặc 1764 – 28 tháng 8 năm 1832) còn gọi là Tả Quân Duyệt, là một nhà chính trị, nhà quân sự lớn trong lịch sử Việt Nam. Ông là một trong các chỉ huy chính của quân đội chúa Nguyễn Ánh trong cuộc chiến với Tây Sơn. Khi chiến tranh kết thúc và nhà Nguyễn được thành lập, ông trở thành một đại thần, phục vụ hai triều vua Gia Long (tức Nguyễn Ánh) và Minh Mạng.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/T%C6%B0%E1%BB%A3ng_T%E1%BA%A3_Qu%C3%A2n_nh%C3%ACn_th%E1%BA%B3ng.jpg/220px-T%C6%B0%E1%BB%A3ng_T%E1%BA%A3_Qu%C3%A2n_nh%C3%ACn_th%E1%BA%B3ng.jpg"
@@ -11918,7 +11915,7 @@
     "dateOfDeath": "1870",
     "otherName": ["Sư Phần Tử"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1248/nguyen-ba-nghi",
     "description": "Nguyễn Bá Nghi (阮伯儀, 1807-1870), hiệu là Sư Phần, là một đại thần nhà Nguyễn trong lịch sử Việt Nam. Ông được nhiều người biết đến từ khi được cử vào Nam thay thế tướng Nguyễn Tri Phương, lo việc cản ngăn thực dân Pháp, nhưng trước sau chỉ thấy (ông) nghị hòa."
   },
@@ -12090,7 +12087,7 @@
     "dateOfDeath": "1887",
     "otherName": ["Tử Trai", "Dưỡng Tăng", "Minh Phong"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Cử nhân",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1494/nguyen-pham-tuan",
     "description": "Khi đi thi, ông đỗ Cử nhân năm 1873; làm tri phủ Đức Thọ, tỉnh Hà Tĩnh. Năm 1883, khi được tin triều đình Huế đầu hàng thực dân Pháp, Nguyễn Phạm Tuân đã treo ấn từ quan."
   },
@@ -12140,7 +12137,7 @@
     "name": "Nguyễn Phúc Hồng Y",
     "dateOfDeath": "1877",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1520/nguyen-phuc-hong-y",
     "description": "Nguyễn Phúc Hồng Y (chữ Hán: 阮福洪依, 11 tháng 9 năm 1833 – 23 tháng 2 năm 1877), tôn hiệu Thụy Thái vương (瑞太王) (còn được đọc trại thành Thoại Thái vương), biểu tự Quân Bác (君博), là một hoàng tử con vua Thiệu Trị nhà Nguyễn trong lịch sử Việt Nam."
   },
@@ -12194,7 +12191,7 @@
     "dateOfDeath": "1877",
     "otherName": ["Quân Đình", "Giản Trọng"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Quận công",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1527/nguyen-phuc-mien-thanh",
     "description": "Nguyễn Phúc Miên Thanh (chữ Hán: 阮福綿寈; 18 tháng 9 năm 1830 – 6 tháng 2 năm 1877), tự là Giản Trọng (柬仲), hiệu là Quân Đình (筠亭), tước phong Trấn Biên Quận công (鎮邊郡公), là một hoàng tử con vua Minh Mạng nhà Nguyễn trong lịch sử Việt Nam."
   },
@@ -12396,7 +12393,7 @@
     "dateOfDeath": "1887",
     "otherName": ["Bố Giáp"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1700/nguyen-van-giap",
     "description": "Nguyễn Văn Giáp (1837 -1887), tục gọi là Bố Giáp (vì ông từng làm chức Bố chính tỉnh Sơn Tây), là một lãnh tụ và danh tướng trong phong trào Cần Vương ở vùng Tây Bắc Việt Nam cuối thế kỷ XIX."
   },
@@ -12584,7 +12581,7 @@
     "dateOfDeath": "1884",
     "otherName": ["Quan Thành"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1859/pham-than-duat",
     "description": "Phạm Thận Duật (范慎遹, 1825–1885) là một đại thần triều Nguyễn. Ông là người cùng với Tôn Thất Phan thay mặt triều đình vua Tự Đức ký vào bản Hòa ước Giáp Thân 1884 (Hòa ước Patenotre). Ông cũng là một nhà sử học nổi tiếng, từng giữ chức vụ Phó tổng tài Quốc sử quán kiêm quản Quốc tử giám, là người duyệt cuối cùng bản Quốc sử Khâm định Việt sử thông giám cương mục, từng là thầy dạy học cho hai hoàng thân là vua Dục Đức và Đồng Khánh sau này.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PhamThanDuat.jpg/220px-PhamThanDuat.jpg"
@@ -12615,7 +12612,7 @@
     "name": "Từ Dụ",
     "dateOfDeath": "1902",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1863/pham-thi-hang",
     "description": "Nghi Thiên Chương Hoàng hậu (chữ Hán: 儀天章皇后; 20 tháng 6 năm 1810 - 22 tháng 5 năm 1901) là thuỵ hiệu (được truy tôn sau khi qua đời) của một mệnh phụ nhà Nguyễn trong lịch sử Việt Nam, vốn là Quý phi của Hoàng đế Thiệu Trị, mẹ ruột của Hoàng đế Tự Đức. Khi còn sống, bà chưa từng lên ngôi hoàng hậu nhưng lần lượt được tôn làm hoàng thái hậu rồi thái hoàng thái hậu, khi qua đời bà được truy tôn làm hoàng hậu. Bà thường được biết đến với tôn hiệu là Từ Dụ Thái hoàng thái hậu (慈裕太皇太后) hay Từ Dụ Bác Huệ Thái hoàng thái hậu (慈裕博惠太皇太后) hoặc Từ Dụ Bác Huệ Khang Thọ Thái thái hoàng thái hậu (慈裕博惠康壽太太皇太后).",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/f/fe/HoangthaihauTuDu.jpg/250px-HoangthaihauTuDu.jpg"
@@ -12653,7 +12650,7 @@
     "name": "Phan Bá Vành",
     "dateOfDeath": "1827",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1894/phan-ba-vanh",
     "description": "Phan Bá Vinh (潘伯鑅, 10 tháng 9 năm 1790 – 1827) là một lãnh tụ cuộc khởi nghĩa nông dân ở Sơn Nam Hạ thời vua Minh Mạng, nhà Nguyễn.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tranh_v%E1%BA%BD_h%C3%ACnh_t%C6%B0%E1%BB%A3ng_Phan_B%C3%A1_V%C3%A0nh_VTV_kh%C3%A1t_v%E1%BB%8Dng_non_s%C3%B4ng.png/243px-Tranh_v%E1%BA%BD_h%C3%ACnh_t%C6%B0%E1%BB%A3ng_Phan_B%C3%A1_V%C3%A0nh_VTV_kh%C3%A1t_v%E1%BB%8Dng_non_s%C3%B4ng.png"
@@ -13048,7 +13045,7 @@
     "name": "Võ Duy Dương",
     "dateOfDeath": "1866",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Thiên hộ",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2306/vo-duy-duong",
     "description": "Võ Duy Dương (chữ Hán: 武維楊; Hán Việt: Vũ Duy Dương; 1827-1866), còn gọi là Thiên hộ Dương (千戶楊, do giữ chức Thiên hộ), là lãnh tụ cuộc khởi nghĩa chống thực dân Pháp (1862-1866) ở Đồng Tháp Mười, Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/T%C6%B0%E1%BB%A3ng_V%C3%B5_Duy_D%C6%B0%C6%A1ng.jpg/220px-T%C6%B0%E1%BB%A3ng_V%C3%B5_Duy_D%C6%B0%C6%A1ng.jpg"
@@ -13178,7 +13175,7 @@
     "name": "Cao Xuân Dục",
     "dateOfDeath": "1923",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Thượng thư",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/170/cao-xuan-duc",
     "description": "Cao Xuân Dục (chữ Hán: 高春育; tự là Tử Phát, hiệu Long Cương Cổ Hoan Đông Cao; 1843–1923) là một quan đại thần của triều đình nhà Nguyễn, Việt Nam, từng làm tổng đốc, thượng thư và Đông các đại học sĩ, tổng tài Quốc sử quán.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cao_Xuan_Duc2.jpg/272px-Cao_Xuan_Duc2.jpg"
@@ -13511,7 +13508,7 @@
     "name": "Nguyễn Thiện Kế",
     "otherName": ["Thuật Chi", "Nễ Giang"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Tả",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1644/nguyen-thien-ke",
     "description": "Nguyễn Thiện Kế (1849-1937) tên tự là Trung Khả, hiệu Đường Vân hay Nễ Giang, còn được gọi là Huyện Nẻ hay Huyện Móm, là 1 chỉ huy của khởi nghĩa Bãi Sậy trong phong trào Cần Vương và là em ruột của thủ lĩnh Nguyễn Thiện Thuật, quê ở làng Xuân Đào, xã Xuân Dục, huyện Mỹ Hào (nay là thị xã Mỹ Hào), tỉnh Hưng Yên. Ngoài ra, ông còn làm thơ trào phúng và cũng là anh rể của thi sĩ Tản Đà."
   },
@@ -13711,7 +13708,7 @@
     "dateOfDeath": "1906",
     "otherName": ["Sư Triệu", "Điền Bát"],
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2012/tang-bat-ho",
     "description": "Tăng Bạt Hổ (chữ Hán: 曾拔虎, 1858 - 1906), tự là Sư Triệu, hiệu là Điền Bát 田八, tên thật là Tăng Doãn Văn 曾允文, là chí sĩ Việt Nam tham gia chống Pháp cuối thế kỷ 19, đầu thế kỷ 20.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/L%C4%83ng_m%E1%BB%99_T%C4%83ng_B%E1%BA%A1t_H%E1%BB%95.JPG/250px-L%C4%83ng_m%E1%BB%99_T%C4%83ng_B%E1%BA%A1t_H%E1%BB%95.JPG"
@@ -13762,7 +13759,7 @@
     "name": "Trần Bá Lộc",
     "dateOfDeath": "1899",
     "dynasty": "Nhà Nguyễn thời kỳ độc lập",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2065/tran-ba-loc",
     "description": "Trần Bá Lộc (chữ Hán: 陳伯祿, 1839-1899) là một cộng sự đắc lực của thực dân Pháp trong việc đàn áp nhiều cuộc khởi nghĩa nông dân ở miền Nam Việt Nam vào những năm cuối thế kỷ 19. Ông nổi danh vì điều ấy, và cũng được nhắc đến vì hệ thống kênh đào do ông chỉ huy lập ra đã đem lại lợi ích to lớn cho vùng đất Đồng Tháp Mười.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M%E1%BB%99_Tr%E1%BA%A7n_B%C3%A1_L%E1%BB%99c.jpg/250px-M%E1%BB%99_Tr%E1%BA%A7n_B%C3%A1_L%E1%BB%99c.jpg"
@@ -13958,7 +13955,7 @@
     "name": "Bạch Thái Bưởi",
     "dateOfDeath": "1932",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/18/bach-thai-buoi",
     "description": "Bạch Thái Bưởi (白泰𣞻, 1874 – 22 tháng 7 năm 1932) là một doanh nhân người Việt đầu thế kỷ 20. Lúc sinh thời, ông được xếp vào danh sách bốn người giàu có nhất Việt Nam vào những năm đầu của thế kỷ 20 (nhất Sĩ, nhì Phương, tam Xường, tứ Bưởi). Các lĩnh vực kinh doanh nổi bật nhất của Bạch Thái Bưởi là hàng hải, khai thác than và in ấn.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/7/76/B%E1%BA%A1ch_Th%C3%A1i_B%C6%B0%E1%BB%9Fi.jpg"
@@ -14145,7 +14142,7 @@
     "name": "Dương Bá Trạc",
     "dateOfDeath": "1944",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/225/duong-ba-trac",
     "description": "Dương Bá Trạc ( Chữ Hán: 楊伯濯; 1884 – 1944), hiệu Tuyết Huy(雪輝); là nhà cách mạng, nhà báo, nhà văn Việt Nam thời Pháp thuộc. Theo Vũ Ngọc Phan, trong các nhà văn đi tiên phong ở nửa đầu thế kỷ 20, ông được kể là một người lỗi lạc .",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/b/b1/D%C6%B0%C6%A1ng_B%C3%A1_Tr%E1%BA%A1c.jpg/220px-D%C6%B0%C6%A1ng_B%C3%A1_Tr%E1%BA%A1c.jpg"
@@ -14473,7 +14470,7 @@
     "name": "Đỗ Ngọc Du",
     "dateOfDeath": "1938",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Tả",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/506/do-ngoc-du",
     "description": "Ông sinh ngày 20/12/1907 ở thôn Thượng Phúc, xã Tả Thanh Oai, huyện Thanh Trì, tỉnh Hà Đông nay thuộc thành phố Hà Nội. Khi hoạt động ông còn lấy bí danh là Phiếm Chu."
   },
@@ -14764,7 +14761,7 @@
     "dateOfDeath": "1933",
     "otherName": ["Văn Tôi"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/655/hoang-tich-chu",
     "description": "Hoàng Tích Chu (1897 - 25 tháng 1 năm 1933) là nhà báo, người có đóng góp lớn trong việc cách tân báo chí Việt Nam đầu thế kỉ XX. Ông còn có bút danh Kế Thương, Hoàng Hồ, Văn Tôi.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Portrait_of_Ho%C3%A0ng_T%C3%ADch_Chu_%28cropped%29.png/220px-Portrait_of_Ho%C3%A0ng_T%C3%ADch_Chu_%28cropped%29.png"
@@ -15015,7 +15012,7 @@
     "name": "Lê Phát An",
     "dateOfDeath": "1946",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/931/le-phat-an",
     "description": "Lê Phát An (1868-1946) là một phú hộ nổi tiếng thập niên 30-40 ở Nam Kỳ. Ông là người duy nhất ở Nam kỳ tuy thuộc tầng lớp dân dã nhưng lại được Hoàng đế Bảo Đại phong tước An Định Vương, tước hiệu cao quý nhất của triều đình thời bấy giờ mà trước đây chỉ dành phong cho những người thuộc tầng lớp Hoàng tộc.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/LePhatAnDenis_%28cropped%29.jpg/250px-LePhatAnDenis_%28cropped%29.jpg"
@@ -15406,7 +15403,7 @@
     "dateOfDeath": "1945",
     "otherName": ["Tiêu Đẩu"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1253/nguyen-ba-trac",
     "description": "Nguyễn Bá Trác (chữ Hán: 阮伯卓; 1881 – 1945), bút hiệu Tiêu Đẩu, là quan nhà Nguyễn, cộng sự của thực dân Pháp, nhà cách mạng, nhà báo và là nhà biên khảo Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Danh_S%E1%BB%B9_Nguy%E1%BB%85n_B%C3%A1_Tr%C3%A1c.jpg"
@@ -15696,7 +15693,7 @@
     "name": "Nguyễn Phong Di",
     "dateOfDeath": "1919",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Cử nhân",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1503/nguyen-phong-di",
     "description": "Nguyễn Phong Di (阮豐貽), tên thật là Nguyễn Thái Bạt, sinh năm 1889, tại làng Nguyệt Viên, xã Hoằng Quang, huyện Hoằng Hóa, phủ Hà Trung, tỉnh Thanh Hóa (nay là làng Nguyệt Viên, xã Hoằng Quang, thành phố Thanh Hoá, tỉnh Thanh Hoá). Thời trẻ ông từng theo phong trào Đông Du, sang Nhật Bản học ở Đồng văn học hiệu (同文学校, Dōbun Gakkō) với sự giúp đỡ của Asaba Sakitaro. Khi phong trào Đông Du bị đàn áp, Phan Bội Châu phải lánh về Trung Quốc, chính ông là người hộ tống Hoàng thân Cường Để cùng Phan Bội Châu về hoạt động ở Quảng Đông. Sau này vì các phong trào yêu nước lần lượt bị thất bại, ông trở về nước và ra trình diện chính quyền thực dân. Sống ở quê nhà, tự thấy phải có chức danh thì mới giúp được dân địa phương, vì vậy ông đành theo đòi lối học cử tử, mặc dù bấy giờ nho học đã suy tàn. Ông đã lần lượt thi đỗ Cử nhân rồi Tiến sĩ khoa thi cuối cùng Nho học (khoa Kỷ Mùi - 1919, lúc đó ông 30 tuổi), đoạt danh hiệu đứng đầu là Đình Nguyên Nguyễn Phong Di."
   },
@@ -15756,7 +15753,7 @@
     "dateOfDeath": "1884",
     "otherName": ["Kiến Phúc"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1538/nguyen-phuc-ung-dang",
     "description": "Nguyễn Giản Tông (chữ Hán:阮簡宗; 12 tháng 2 năm 1869 – 31 tháng 7 năm 1884), tên thật là Nguyễn Phúc Ưng Đăng (阮福膺登), là vị hoàng đế thứ bảy của triều đại nhà Nguyễn trong lịch sử Việt Nam. Ông lên ngôi ngày 2 tháng 12 năm 1883, tại vị được 8 tháng thì qua đời, được truy tôn miếu hiệu là Nguyễn Giản Tông (簡宗), thuỵ hiệu Nghị Hoàng Đế (毅皇帝), ông dùng niên hiệu là Kiến Phúc (建福) nên còn được gọi là Kiến Phúc Đế (建福帝). Dưới thời vua Kiến Phúc, vào ngày 6 tháng 6 năm 1884, triều đình Huế đã kí với thực dân Pháp bản Hòa ước Giáp Thân (Hòa ước Patenôtre), có chỉnh lý một số điều so với bản Hòa ước Quý Mùi nhưng về cơ bản vẫn công nhận sự \"bảo hộ\" của Pháp đối với đất nước Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kien_Phuc.jpg/250px-Kien_Phuc.jpg"
@@ -16111,7 +16108,7 @@
     "dateOfDeath": "1937",
     "otherName": ["Tiểu Vân", "Thới Xuyên"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1684/nguyen-van-ba",
     "description": "Nguyễn Văn Bá, còn gọi là Năm Lý (1932 - 1969), là anh hùng lực lượng vũ trang nhân dân, đảng viên Đảng Cộng sản Việt Nam, từng là huyện đội trưởng huyện Thủ Đức, Thành phố Hồ Chí Minh."
   },
@@ -16122,7 +16119,7 @@
     "dateOfDeath": "1929",
     "otherName": ["Kỳ Đồng"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Tú tài",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1692/nguyen-van-cam",
     "description": "Kỳ Đồng (奇童), tên thật là Nguyễn Văn Cẩm (阮文錦, 8 tháng 10 năm 1875 - tháng 7 năm 1929), người làng Trung Lập (theo cuốn Danh nhân Thái Bình thì quê ông là làng Ngọc Đình), phủ Tiên Hưng, tỉnh Hưng Yên, nay là xã Văn Cẩm, huyện Hưng Hà, tỉnh Thái Bình. Ông vốn có tư chất thông minh từ nhỏ lại được cha, là nhà nho giỏi, dạy dỗ. Ông được chính phủ Pháp cấp học bổng sang học Trường trung học Alger, tốt nghiệp tú tài khoa học và văn chương. Ông có lẽ là Người Việt đầu tiên đỗ tú tài Pháp."
   },
@@ -16308,7 +16305,7 @@
     "name": "Phạm Hữu Chí",
     "dateOfDeath": "1938",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1819/pham-huu-chi",
     "description": "Phạm Hữu Chí (1905–1938) là bác sĩ Việt Nam, được biết đến vì là thấy thuốc chuyên chữa bệnh cho nhân dân, đặc biệt là người nghèo."
   },
@@ -16319,7 +16316,7 @@
     "dateOfDeath": "1936",
     "otherName": ["Tang Phố", "Sư Giám", "Trừng Giang"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Thượng thư",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1832/pham-lieu",
     "description": "Phạm Liệu (1873-1937), tự là Sư Giám, hiệu là Tang Phố, là một danh sĩ Việt Nam. Ông được xem là người đứng đầu nhóm Ngũ Phụng Tề Phi, từng làm quan trải đến chức Thượng thư Bộ binh dưới các triều vua Thành Thái, Duy Tân, Khải Định và Bảo Đại.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Portrait_of_Ph%E1%BA%A1m_Li%E1%BB%87u.jpg/220px-Portrait_of_Ph%E1%BA%A1m_Li%E1%BB%87u.jpg"
@@ -16615,7 +16612,7 @@
     "name": "Tạ Thu Thâu",
     "dateOfDeath": "1945",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2010/ta-thu-thau",
     "description": "Tạ Thu Thâu (chữ Hán: 謝秋收; 5 tháng 5 năm 1906–1945) là một nhà cách mạng chủ nghĩa Marx người Việt đầu thế kỷ 20, một lãnh tụ Cộng sản Đệ Tứ thời sơ khai của các phong trào cộng sản tại Đông Dương.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ta-Thu-Thau_1906-1945.jpg/250px-Ta-Thu-Thau_1906-1945.jpg"
@@ -17108,7 +17105,7 @@
     "name": "Bàng Bá Lân",
     "dateOfDeath": "1989",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/23/bang-ba-lan",
     "description": "Bàng Bá Lân (1912-1988), tên thật là Nguyễn Xuân Lân; là nhà thơ, nhà giáo, và là nhà nhiếp ảnh Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/1/14/B%C3%A0ng_B%C3%A1_L%C3%A2n.jpg/220px-B%C3%A0ng_B%C3%A1_L%C3%A2n.jpg"
@@ -17716,7 +17713,7 @@
     "name": "Hà Huy Giáp",
     "dateOfDeath": "1995",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/569/ha-huy-giap",
     "description": "Hà Huy Giáp (1908–1995) là nhà hoạt động cách mạng Việt Nam, Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa II (dự khuyết), khóa III, Phó Ban Tuyên huấn Trung ương, Thứ trưởng Bộ Giáo dục, Thứ trưởng Bộ Văn hóa, Phó ban nghiên cứu lịch sử Đảng."
   },
@@ -17816,7 +17813,7 @@
     "name": "Hồ Tùng Mậu",
     "dateOfDeath": "1951",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/723/ho-tung-mau",
     "description": "Hồ Bá Cự còn được biết đến nhiều hơn là Hồ Tùng Mậu (15 tháng 6 năm 1896 – 23 tháng 7 năm 1951) là một nhà hoạt động cách mạng và chính khách Việt Nam. Ông từng là đảng viên của cả Đảng Cộng sản Trung Quốc và Đảng Cộng sản Việt Nam, thành viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Tổng Thanh tra Ban Thanh tra Chính phủ."
   },
@@ -17930,7 +17927,7 @@
     "name": "Hoàng Tích Trí",
     "dateOfDeath": "1958",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/656/hoang-tich-tri",
     "description": "Hoàng Tích Trý (hay còn được viết là Hoàng Tích Trí) (5 tháng 8 năm 1903 - 21 tháng 11 năm 1958) là giáo sư, bác sĩ vi trùng học và là Bộ trưởng Bộ Y tế Việt Nam trong những năm 1946-1958."
   },
@@ -18680,7 +18677,7 @@
     "name": "Lưu Văn Lang",
     "dateOfDeath": "1969",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1080/luu-van-lang",
     "description": "Lưu Văn Lang (1880- 1969) là kỹ sư người bản xứ đầu tiên của Việt Nam và toàn cõi Đông Dương. Ông là một nhà trí thức yêu nước nổi tiếng ở miền Nam nửa đầu thế kỷ 20."
   },
@@ -19013,7 +19010,7 @@
     "dateOfDeath": "1947",
     "otherName": ["Bá Nghiêm", "Tân Châu", "Du Nhiên Tử", "Vĩnh An hà"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1288/nguyen-chanh-sat",
     "description": "Nguyễn Chánh Sắt (Chữ Hán: 阮正色; 1869–1947) tự Bá Nghiêm, hiệu Tân Châu (新州), bút hiệu: Du Nhiên Tử và Vĩnh An Hà. Ông là nhà văn kỳ cựu, một tiểu thuyết gia tiên phong, một dịch giả sung sức trong giai đoạn chữ Quốc ngữ mới phát triển tại Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nguy%E1%BB%85n_Ch%C3%A1nh_S%C3%A1t%2C_Souverains_et_notabilit%C3%A9s_d%27Indochine.png/220px-Nguy%E1%BB%85n_Ch%C3%A1nh_S%C3%A1t%2C_Souverains_et_notabilit%C3%A9s_d%27Indochine.png"
@@ -19166,7 +19163,7 @@
     "name": "Nguyễn Đóa",
     "dateOfDeath": "1993",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Đốc học",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1333/nguyen-doa",
     "description": "Ông vào Huế học từ lúc nhỏ. Sau đó, làm giáo học nhiều nơi ở Miền Trung. Lúc dạy ở trường Quốc học Huế, ông giữ chức Đốc học thừa thiên Huế đến năm 1945. Năm 1954 ông chuyển sang dạy trường Bồ Đề, đến năm 1968 ông được lực lượng cách mạng đón ra vùng giải phóng.Tại đây, ông tham gia liên minh các lực lượng dân tộc, dân chủ và hòa bình Việt Nam cùng với hòa thượng Đôn Hậu, nhằm vận động chấm dứt chiến tranh cho Việt Nam. Ông giữ chức Phó chủ tịch liên minh các lực lượng dân tộc dân chủ và hòa bình Việt Nam, Phó Chủ tịch Chính phủ Cách Mạng Lâm thời Cộng Hòa Miền Nam Việt Nam."
   },
@@ -19676,7 +19673,7 @@
     "dateOfDeath": "1977",
     "otherName": ["Anh Tảo"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Tả",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1486/nguyen-nho-tuy",
     "description": "Nguyễn Nho Tuý (12 tháng 1 năm 1898[a] – 30 tháng 6 năm 1977[b]) hiệu Hàm Quan, là nghệ nhân tuồng Việt Nam, nguyên Trưởng Ban nghiên cứu tuồng thuộc Vụ Nghệ thuật sân khấu Bộ Văn hóa. Lúc còn trẻ ông được gọi là Kép Thủ, về sau được gọi là Đội Tảo. Ông từng là Đại biểu Quốc hội Việt Nam khóa 3.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/5/51/Nguyen_Nho_Tuy.jpg/220px-Nguyen_Nho_Tuy.jpg"
@@ -19724,7 +19721,6 @@
     "dateOfDeath": "1972",
     "otherName": ["Bửu Hội"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "hữu",
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1509/nguyen-phuc-buu-hoi",
     "description": "Lĩnh vực nghiên cứu của ông là tổng hợp hữu cơ, đặc biệt là tổng hợp dược phẩm. Ông đã công bố nhiều công trình khoa học ở các tạp chí hóa học danh tiếng của thế giới. Ngoài ra ông còn nghiên cứu về ung thư và năng lượng hạt nhân.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/24/B%E1%BB%ADu_H%E1%BB%99i.png/220px-B%E1%BB%ADu_H%E1%BB%99i.png"
@@ -19874,6 +19870,7 @@
     ],
     "dynasty": "Thời kì Pháp đô hộ",
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1578/nguyen-tat-thanh",
+    "description": "Hồ Chí Minh (chữ Nho: 胡志明; 19 tháng 5 năm 1890 – 2 tháng 9 năm 1969), tên khai sinh là Nguyễn Sinh Cung (chữ Nho: 阮生恭), còn được biết với tên gọi Bác Hồ, là một nhà cách mạng và chính khách người Việt Nam. Ông là người sáng lập Đảng Cộng sản Việt Nam, từng là Chủ tịch nước Việt Nam Dân chủ Cộng hoà từ 1945–1969, Thủ tướng Việt Nam Dân chủ Cộng hòa trong những năm 1945–1955, Tổng Bí thư Ban Chấp hành Trung ương Đảng Lao động Việt Nam từ 1956–1960, Chủ tịch Ban Chấp hành Trung ương Đảng Lao động Việt Nam từ năm 1951 cho đến khi qua đời.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ho_Chi_Minh_1946.jpg/220px-Ho_Chi_Minh_1946.jpg"
   },
   {
@@ -20476,7 +20473,7 @@
     "name": "Nguyễn Văn Thinh",
     "dateOfDeath": "1946",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1740/nguyen-van-thinh",
     "description": "Nguyễn Văn Thinh (1888-10 tháng 11 năm 1946) là một bác sĩ và chính trị gia người Việt giữa thế kỷ 20. Ông cũng là thủ tướng đầu tiên của chính phủ Cộng hòa Tự trị Nam Kỳ.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dr._Nguy%E1%BB%85n_V%C4%83n_Thinh.png/220px-Dr._Nguy%E1%BB%85n_V%C4%83n_Thinh.png"
@@ -20987,10 +20984,12 @@
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/0/02/LeDucTho1973.jpg"
   },
   {
+    "otherNameEn": ["Le Van Mai","Tu Truong","Pham Duc Son","Chin Nho","Nam Can"],
     "enName": "Phan Duc",
     "name": "Phan Đức",
     "dateOfDeath": "1969",
     "dynasty": "Thời kì Pháp đô hộ",
+    "otherName":["Lê Văn Mại","Tư Trường","Phạm Đức Sơn","Chín Nhỏ","Năm Cần"],
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1913/phan-duc",
     "description": "Phạm Đức Sơn (1919–1969), bí danh Lê Văn Mại, Phan Đức, Tư Trường, Chín Nhỏ, Năm Cần, là một nhà cách mạng, chỉ huy quân sự Việt Nam."
   },
@@ -21025,7 +21024,7 @@
     "dateOfDeath": "1960",
     "otherName": ["Chương Dân", "Tú Sơn"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Tú tài",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1929/phan-khoi",
     "description": "Phan Khôi (chữ Hán: 潘瓌; 1887 - 1959), bút danh Chương Dân, là một học giả tên tuổi, một nhà thơ, nhà văn, thành viên nhóm Nhân Văn - Giai Phẩm, cháu ngoại của Tổng đốc Hà Nội Hoàng Diệu, đỗ Tú tài chữ Hán năm 19 tuổi nhưng lại mở đầu và cổ vũ cho phong trào Thơ mới."
   },
@@ -21152,7 +21151,7 @@
     "dateOfDeath": "1992",
     "otherName": ["Trường Xuyên", "Đăng Đạo"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "hữu",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1992/quach-tan",
     "description": "Quách Tấn (1910 – 1992), tự là Đăng Đạo, hiệu Trường Xuyên, các tiểu hiệu là Định Phong, Cổ Bàn Nhân, Thi Nại Thị, Lão giữ vườn; là một nhà thơ Việt Nam. Ông cùng với Hàn Mặc Tử, Yến Lan, Chế Lan Viên được người đương thời ở Bình Định gọi là Bàn thành tứ hữu, nghĩa là Bốn người bạn ở thành Đồ Bàn.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/7/70/Quach_Tan.jpg"
@@ -21298,7 +21297,7 @@
     "name": "Tôn Thất Tùng",
     "dateOfDeath": "1982",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2029/ton-that-tung",
     "description": "Tôn Thất Tùng (1912 – 1982) là một bác sĩ phẫu thuật người Việt, nổi danh trong lĩnh vực nghiên cứu về gan. Ông được biết đến là tác giả của \"phương pháp mổ gan khô\" hay còn được gọi là \"phương pháp Tôn Thất Tùng\".",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/0/07/TonThatTung1912.jpg/250px-TonThatTung1912.jpg"
@@ -21905,7 +21904,7 @@
     "dateOfDeath": "1999",
     "otherName": ["Nguyễn Bách Khoa", "Mai Viên"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2266/truong-tuu",
     "description": "Trương Tửu (1913 - 1999) là nhà giáo, nhà văn, nhà nghiên cứu văn học Việt Nam. Các bút danh khác: Nguyễn Bách Khoa, Mai Viên, T.T...",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/8/87/Tr%C6%B0%C6%A1ng_T%E1%BB%ADu.jpg/220px-Tr%C6%B0%C6%A1ng_T%E1%BB%ADu.jpg"
@@ -21978,7 +21977,7 @@
     "dateOfDeath": "1948",
     "otherName": ["Trúc Khê", "Nguyên Bích"],
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2292/vo-ba-hap",
     "description": "Võ Bá Hạp (1876-1948), tự: Nguyên Bích, hiệu: Trúc Khê; là một nhà chí sĩ Việt Nam thời cận đại.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/M%E1%BB%99_V%C3%B5_B%C3%A1_H%E1%BA%A1p.jpg/220px-M%E1%BB%99_V%C3%B5_B%C3%A1_H%E1%BA%A1p.jpg"
@@ -22044,7 +22043,7 @@
     "name": "Võ Nguyên Giáp",
     "dateOfDeath": "2013",
     "dynasty": "Thời kì Pháp đô hộ",
-    "positionTitle": "Giáp",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2325/vo-nguyen-giap",
     "description": "Võ Nguyên Giáp (25 tháng 8 năm 1911 – 4 tháng 10 năm 2013), tên khai sinh là Võ Giáp,[a] còn được gọi là tướng Giáp hoặc anh Văn, là một nhà lãnh đạo quân sự và chính trị gia người Việt Nam. Ông là Đại tướng đầu tiên, Tổng Tư lệnh tối cao của Quân đội Nhân dân Việt Nam, một trong những thành viên sáng lập nhà nước Việt Nam Dân chủ Cộng hòa, được Chính phủ Việt Nam đánh giá là \"người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh\", là chỉ huy trưởng của các chiến dịch trong Chiến tranh Đông Dương (1946–1954), Chiến tranh Việt Nam (1955–1975) và Chiến tranh biên giới Việt – Trung (1979).",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mr._Vo_Nguyen_Giap.jpg/220px-Mr._Vo_Nguyen_Giap.jpg"
@@ -22430,7 +22429,7 @@
     "name": "Đặng Thùy Trâm",
     "dateOfDeath": "1970",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/378/dang-thuy-tram",
     "description": "Đặng Thùy Trâm (sinh ngày 26 tháng 11 năm 1942 tại Huế, hy sinh ngày 22 tháng 6 năm 1970 tại Đức Phổ, Quảng Ngãi) là một bác sĩ, liệt sĩ trong Chiến tranh Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dang_Thuy_Tram.jpg/250px-Dang_Thuy_Tram.jpg"
@@ -22451,7 +22450,7 @@
     "name": "Đặng Văn Chung",
     "dateOfDeath": "1999",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/386/dang-van-chung",
     "description": "Giáo sư Đặng Văn Chung (sinh ngày 8 tháng 3 năm 1913 - mất năm 1999) là bác sĩ nội khoa tiêu biểu của nền y học Việt Nam thời hiện đại. Ông đã được truy tặng Giải thưởng Hồ Chí Minh về Khoa học y - dược vào năm 2000."
   },
@@ -22713,7 +22712,7 @@
     "name": "Hoàng Trung Thông",
     "dateOfDeath": "1993",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/673/hoang-trung-thong",
     "description": "Hoàng Trung Thông (1925-1993), bút danh khác: Đặc Công, Bút Châm, là một gương mặt thơ tiêu biểu có vị trí đại diện cho nền thơ cách mạng của nước Việt Nam mới; nguyên Tổng biên tập Báo Văn nghệ Hội Nhà văn Việt Nam; nguyên Giám đốc Nhà xuất bản Văn học; nguyên Vụ trưởng Vụ Văn nghệ thuộc Ban Tuyên huấn Trung ương, nguyên Viện trưởng Viện Văn học (1976-1985)."
   },
@@ -23112,7 +23111,7 @@
     "dateOfDeath": "2004",
     "otherName": ["Bà Ngô Bá Thành"],
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1864/pham-thi-thanh-van",
     "description": "Phạm Thị Thanh Vân (1931 - 2004), hay còn gọi là bà Ngô Bá Thành (Ngô Bá Thành là tên người chồng quá cố của bà) nguyên là Chủ nhiệm Ủy ban pháp luật Quốc hội các khoá VI, VII, VIII và X, nguyên Phó Chủ tịch Hội Luật gia Việt Nam, nguyên Phó Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/7/7d/NgoBaThanh.jpg"
@@ -23181,7 +23180,7 @@
     "name": "Thái Bá Vân",
     "dateOfDeath": "1999",
     "dynasty": "Nước Việt Nam mới",
-    "positionTitle": "Bá",
+
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2045/thai-ba-van",
     "description": "Thái Bá Vân (1934 - 1999) là một nhà nghiên cứu và phê bình mỹ thuật Việt Nam."
   },
