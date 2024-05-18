@@ -22039,16 +22039,6 @@
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2323/vo-liem-son"
   },
   {
-    "enName": "Vo Nguyen Giap",
-    "name": "Võ Nguyên Giáp",
-    "dateOfDeath": "2013",
-    "dynasty": "Thời kì Pháp đô hộ",
-
-    "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2325/vo-nguyen-giap",
-    "description": "Võ Nguyên Giáp (25 tháng 8 năm 1911 – 4 tháng 10 năm 2013), tên khai sinh là Võ Giáp,[a] còn được gọi là tướng Giáp hoặc anh Văn, là một nhà lãnh đạo quân sự và chính trị gia người Việt Nam. Ông là Đại tướng đầu tiên, Tổng Tư lệnh tối cao của Quân đội Nhân dân Việt Nam, một trong những thành viên sáng lập nhà nước Việt Nam Dân chủ Cộng hòa, được Chính phủ Việt Nam đánh giá là \"người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh\", là chỉ huy trưởng của các chiến dịch trong Chiến tranh Đông Dương (1946–1954), Chiến tranh Việt Nam (1955–1975) và Chiến tranh biên giới Việt – Trung (1979).",
-    "imgRef": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mr._Vo_Nguyen_Giap.jpg/220px-Mr._Vo_Nguyen_Giap.jpg"
-  },
-  {
     "otherNameEn": ["Vo Nguyen Bac", "Nguyen Son", "Vo Hong Thuy"],
     "enName": "Vo Nguyen Thuy",
     "name": "Võ Nguyên Thủy",
@@ -22206,11 +22196,11 @@
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/98/Tr%E1%BA%A7n_Xu%C3%A2n_B%C3%A1ch.jpg/220px-Tr%E1%BA%A7n_Xu%C3%A2n_B%C3%A1ch.jpg"
   },
   {
-    "otherNameEn": ["Vo Tung", "Nguyen Van Tho", "Vu Tung"],
+    "otherNameEn": ["Vo Tung", "Nguyen Van Tho"],
     "enName": "Vu Tung",
     "name": "Vũ Tùng",
     "dateOfDeath": "1965",
-    "otherName": ["Võ Tùng", "Nguyễn Văn Thọ", "Vũ Tùng"],
+    "otherName": ["Võ Tùng", "Nguyễn Văn Thọ"],
     "dynasty": "Thời kì Pháp đô hộ",
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2336/vu-tung",
     "description": "Vũ Tùng (1917 - 1965), tên thật là Nguyễn Văn Thọ, là một nhà cách mạng, nhà báo Việt Nam."
@@ -23111,7 +23101,6 @@
     "dateOfDeath": "2004",
     "otherName": ["Bà Ngô Bá Thành"],
     "dynasty": "Nước Việt Nam mới",
-
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/1864/pham-thi-thanh-van",
     "description": "Phạm Thị Thanh Vân (1931 - 2004), hay còn gọi là bà Ngô Bá Thành (Ngô Bá Thành là tên người chồng quá cố của bà) nguyên là Chủ nhiệm Ủy ban pháp luật Quốc hội các khoá VI, VII, VIII và X, nguyên Phó Chủ tịch Hội Luật gia Việt Nam, nguyên Phó Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam.",
     "imgRef": "https://upload.wikimedia.org/wikipedia/vi/7/7d/NgoBaThanh.jpg"
@@ -23180,7 +23169,6 @@
     "name": "Thái Bá Vân",
     "dateOfDeath": "1999",
     "dynasty": "Nước Việt Nam mới",
-
     "urlRef": "https://vansu.vn/viet-nam/viet-nam-nhan-vat/2045/thai-ba-van",
     "description": "Thái Bá Vân (1934 - 1999) là một nhà nghiên cứu và phê bình mỹ thuật Việt Nam."
   },

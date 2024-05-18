@@ -295,232 +295,92 @@
     "chức vụ": ["Bộ trưởng Bộ Nội vụ"]
   },
   {
-    "name": "Trần Kim Tuyến",
-    "chức vụ": "Giám đốc Sở Nghiên cứu Chính trị và xã hội Phủ tổng thống"
-  },
-  {
     "name": "Trần Trọng Kim",
-    "chức vụ": "Thủ tướng"
+    "chức vụ": ["Thủ tướng"]
   },
   {
     "name": "Trần Văn Đôn",
-    "chức vụ": "Trung tướng"
+    "chức vụ": ["Trung tướng"]
   },
   {
     "name": "Trần Văn Giàu",
-    "chức vụ": "Bí thư Xứ ủy"
+    "chức vụ": ["Bí thư Xứ ủy"]
   },
   {
     "name": "Trần Văn Hương",
-    "chức vụ": "Thủ tướng"
-  },
-  {
-    "name": "Trần Văn Ơn",
-    "chức vụ": "Học sinh"
-  },
-  {
-    "name": "Trịnh Đình Cửu",
-    "chức vụ": "Nhà cách mạng và chính khách"
-  },
-  {
-    "name": "Trịnh Đình Trọng",
-    "chức vụ": "Nhà cách mạng"
-  },
-  {
-    "name": "Trương Duy Toản",
-    "chức vụ": "Nhà văn, nhà báo, nhà soạn tuồng, nhà cách mạng"
-  },
-  {
-    "name": "Trương Tửu",
-    "chức vụ": "Nhà giáo, nhà văn, nhà nghiên cứu văn học"
-  },
-  {
-    "name": "Trương Văn Thoại",
-    "chức vụ": "Chủ tịch Ủy ban hành chính Côn Đảo"
-  },
-  {
-    "name": "Võ Hải Thu",
-    "chức vụ": "Lãnh đạo"
-  },
-  {
-    "name": "Võ Oanh",
-    "chức vụ": "Nhà văn, chí sĩ"
-  },
-  {
-    "name": "Võ Quảng",
-    "chức vụ": "Nhà văn"
-  },
-  {
-    "name": "Vũ Anh Khanh",
-    "chức vụ": "Nhà thơ, nhà văn"
-  },
-  {
-    "name": "Vũ Đình Liên",
-    "chức vụ": "Nhà thơ, nhà giáo nhân dân"
-  },
-  {
-    "name": "Vũ Tùng",
-    "chức vụ": "Nhà cách mạng, nhà báo"
+    "chức vụ": ["Thủ tướng"]
   },
   {
     "name": "Vũ Văn Cẩn",
-    "chức vụ": "Thiếu tướng, Phó Chủ nhiệm Tổng cục Hậu cần, Cục trưởng cục Quân y, Bộ trưởng Bộ Y tế"
-  },
-  {
-    "name": "Vũ Văn Mẫu",
-    "chức vụ": "Thượng Nghị sĩ, Bộ trưởng Ngoại giao, Thủ tướng (1 ngày), Thẩm phán, Giáo sư"
-  },
-  {
-    "name": "Bế Văn Đàn",
-    "chức vụ": "Anh hùng lực lượng vũ trang nhân dân"
+    "chức vụ": [
+      "Thiếu tướng",
+      "Phó Chủ nhiệm Tổng cục Hậu cần",
+      "Cục trưởng cục Quân y",
+      "Bộ trưởng Bộ Y tế"
+    ]
   },
   {
     "name": "Bùi Thanh Khiết",
-    "chức vụ": "Trưởng Ban Khoa giáo Trung ương, Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Quốc hội, Thứ trưởng Bộ Giáo dục và Đạo tạo, Phó Chủ nhiệm Chính trị Quân giải phóng miền Nam Việt Nam"
-  },
-  {
-    "name": "Ca Lê Hiến",
-    "chức vụ": "Nhà thơ, Chiến sĩ, Anh hùng lực lượng vũ trang nhân dân"
-  },
-  {
-    "name": "Cao Huy Đỉnh",
-    "chức vụ": "Giáo sư, Nhà nghiên cứu văn hóa dân gian"
-  },
-  {
-    "name": "Cù Chính Lan",
-    "chức vụ": "Anh hùng lực lượng vũ trang nhân dân"
-  },
-  {
-    "name": "Đặng Thùy Trâm",
-    "chức vụ": "Bác sĩ, Liệt sĩ"
-  },
-  {
-    "name": "Đặng Trần Thi",
-    "chức vụ": "Ủy viên Xứ ủy Trung Kỳ, Trưởng Tiểu ban Dân tộc Trung ương, Trưởng đoàn chuyên gia Việt Nam ở Campuchia, Phó chủ tịch Liên hiệp công đoàn giải phóng miền Nam Việt Nam, Bí thư Tỉnh ủy Bình Trị Thiên, ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam"
-  },
-  {
-    "name": "Đặng Văn Chung",
-    "chức vụ": "Bác sĩ nội khoa, Giáo sư"
-  },
-  {
-    "name": "Đinh Hùng",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Đinh Núp",
-    "chức vụ": "Đại biểu Quốc hội, Ủy viên Ủy ban Thường vụ Quốc hội"
+    "chức vụ": [
+      "Trưởng ban Tuyên giáo Trung ương",
+      "Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội",
+      "Thứ trưởng Bộ Giáo dục và Đào tạo"
+    ]
   },
   {
     "name": "Đoàn Khuê",
-    "chức vụ": "Đại tướng, Ủy viên Bộ Chính trị, Bộ trưởng Bộ Quốc phòng, Đại biểu Quốc hội, Tổng Tham mưu trưởng"
+    "chức vụ": ["Đại tướng", "Bộ trưởng Bộ Quốc phòng", "Tổng Tham mưu trưởng"]
   },
   {
     "name": "Hoàng Kiện",
-    "chức vụ": "Thiếu tướng"
-  },
-  {
-    "name": "Hoàng Trung Thông",
-    "chức vụ": "Tổng biên tập Báo Văn nghệ, Giám đốc Nhà xuất bản Văn học, Vụ trưởng Vụ Văn nghệ, Viện trưởng Viện Văn học"
-  },
-  {
-    "name": "Huỳnh Văn Bánh",
-    "chức vụ": "Phó ban ANT4, Trưởng ban An Ninh phân khu I, Thường vụ phân khu Ủy, Phó Bí thư, Bí thư phân khu Ủy"
-  },
-  {
-    "name": "Huỳnh Văn Gấm",
-    "chức vụ": "Họa sĩ"
-  },
-  {
-    "name": "Lê Minh Xuân",
-    "chức vụ": "Liệt sĩ, Anh hùng lực lượng vũ trang nhân dân"
-  },
-  {
-    "name": "Lê Thị Riêng",
-    "chức vụ": "Không có chức vụ cụ thể được nêu ra, nhưng được tưởng nhớ và vinh danh thông qua việc đặt tên cho các cơ sở hạ tầng và công trình công cộng"
-  },
-  {
-    "name": "Lưu Quang Vũ",
-    "chức vụ": "Nhà soạn kịch, Nhà đạo diễn sân khấu"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Nguyễn Công Thành",
-    "chức vụ": "Thiếu tướng, Phó Chủ nhiệm Tổng cục Kỹ thuật"
+    "chức vụ": ["Thiếu tướng", "Phó Chủ nhiệm Tổng cục Kỹ thuật"]
   },
   {
     "name": "Nguyễn Đình Tứ",
-    "chức vụ": "Giáo sư, Tiến sĩ, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng ban Khoa giáo Trung ương, Viện trưởng Viện Năng lượng nguyên tử quốc gia, Bộ trưởng Bộ Đại học và Trung học chuyên nghiệp"
-  },
-  {
-    "name": "Nguyễn Thái Bình",
-    "chức vụ": "Sinh viên"
+    "chức vụ": [
+      "Trưởng ban Khoa giáo Trung ương",
+      "Viện trưởng Viện Năng lượng nguyên tử quốc gia",
+      "Bộ trưởng Bộ Giáo dục và Đào tạo"
+    ]
   },
   {
     "name": "Phạm Thị Thanh Vân",
-    "chức vụ": "Chủ nhiệm Ủy ban pháp luật Quốc hội"
-  },
-  {
-    "name": "Phạm Trọng Cầu",
-    "chức vụ": "Nhạc sĩ"
-  },
-  {
-    "name": "Nguyễn Đức Mậu",
-    "chức vụ": "Không có"
-  },
-  {
-    "name": "Mạc Thiên Tứ",
-    "chức vụ": "Danh thần"
-  },
-  {
-    "name": "Lý Tự Trọng",
-    "chức vụ": "Không có"
-  },
-  {
-    "name": "Khúc Thừa Mỹ",
-    "chức vụ": "Tiết độ sứ"
-  },
-  {
-    "name": "Lê Đạt",
-    "chức vụ": "Không có"
-  },
-  {
-    "name": "Nguyễn Phúc Nguyên",
-    "chức vụ": "Chúa Nguyễn"
-  },
-  {
-    "name": "Lê Quý Đôn",
-    "chức vụ": "Quan thời Lê trung hưng"
+    "chức vụ": ["Chủ nhiệm Ủy ban pháp luật Quốc hội"]
   },
   {
     "name": "Phan Huy Quát",
-    "chức vụ": "Thủ tướng và Tổng trưởng Quốc phòng"
+    "chức vụ": ["Thủ tướng"]
   },
   {
     "name": "Lê Khả Phiêu",
-    "chức vụ": "Thống đốc"
+    "chức vụ": ["Tổng Bí thư", "Thượng tướng"]
   },
   {
     "name": "Mạc Thái Tổ",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Nguyễn Phúc Lan",
-    "chức vụ": "Chúa Nguyễn"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Nhân Tông",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Hữu Dực",
-    "chức vụ": "Phó Thủ tướng và Bộ trưởng"
-  },
-  {
-    "name": "Trần Bửu Kiếm",
-    "chức vụ": "Đảng viên và thành viên Chính phủ Cách mạng lâm thời"
+    "chức vụ": [
+      "Phó Thủ tướng",
+      "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ",
+      "Viện trưởng Viện kiểm sát nhân dân tối cao"
+    ]
   },
   {
     "name": "Trần Quỳnh",
-    "chức vụ": "Phó Chủ tịch Hội đồng Bộ trưởng và Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước"
+    "chức vụ": [
+      "Phó Thủ tướng",
+      "Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước"
+    ]
   },
   {
     "name": "Trương Văn Sáu",
