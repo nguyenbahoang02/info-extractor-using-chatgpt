@@ -1,0 +1,16 @@
+{
+  "question": "Vị Hoàng đế sáng lập triều đại nhà Lê là ai ?",
+  "output": {
+    "class": "nhân vật lịch sử(người)",
+    "index": "thứ nhất",
+    "in": {
+      "property": [
+        { "key": "triều đại", "value": "nhà Lê" },
+        {
+          "key": "chức vụ",
+          "value": "Hoàng đế"
+        }
+      ]
+    }
+  }
+}

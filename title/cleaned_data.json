@@ -125,11 +125,11 @@
   },
   {
     "name": "Phạm Văn Đồng",
-    "chức vụ": ["Thủ tướng"]
+    "chức vụ": ["Chủ tịch Hội đồng Bộ trưởng"]
   },
   {
     "name": "Hoàng Quốc Việt",
-    "chức vụ": ["Viện trưởng Viện Kiểm sát Nhân dân Tối cao"]
+    "chức vụ": ["Viện trưởng Viện kiểm sát nhân dân tối cao"]
   },
   {
     "name": "Nguyễn Bá Cẩn",
@@ -383,1419 +383,437 @@
     ]
   },
   {
-    "name": "Trương Văn Sáu",
-    "chức vụ": "Chủ tịch HĐND tỉnh"
-  },
-  {
     "name": "Phạm Văn Phú",
-    "chức vụ": "Thiếu tướng"
-  },
-  {
-    "name": "Phạm Tuyên",
-    "chức vụ": "Chủ tịch Hội Âm nhạc"
-  },
-  {
-    "name": "Nguyễn Văn Tỵ",
-    "chức vụ": "Tổng thư ký"
-  },
-  {
-    "name": "Phùng Hưng",
-    "chức vụ": "Lãnh tụ nổi dậy"
-  },
-  {
-    "name": "Nguyễn Gia Thiều",
-    "chức vụ": "Không có"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Nguyễn Thị Doan",
-    "chức vụ": "Phó Chủ tịch nước"
-  },
-  {
-    "name": "Nguyễn Đình Chiểu",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Nguyễn Phúc Tần",
-    "chức vụ": "Chúa Nguyễn (địa vị lãnh đạo chính quyền Đàng Trong)"
+    "chức vụ": ["Phó Chủ tịch nước"]
   },
   {
     "name": "Lê Thanh Nghị",
-    "chức vụ": "Phó Thủ tướng"
+    "chức vụ": ["Phó Thủ tướng"]
   },
   {
     "name": "Lê Văn Lương",
-    "chức vụ": "Ủy viên Bộ Chính trị, Bí thư Thành ủy Hà Nội"
-  },
-  {
-    "name": "Nguyễn Khuyến",
-    "chức vụ": "Không có thông tin về chức vụ cụ thể"
-  },
-  {
-    "name": "Nguyễn Trường Tộ",
-    "chức vụ": "Không có thông tin về chức vụ cụ thể"
-  },
-  {
-    "name": "Lê Thanh Long",
-    "chức vụ": "Đại biểu Quốc hội"
-  },
-  {
-    "name": "Lê Văn Lan",
-    "chức vụ": "Phó chủ tịch Hội đồng khoa học"
-  },
-  {
-    "name": "Nguyễn Văn Lập",
-    "chức vụ": "Chiến sĩ"
-  },
-  {
-    "name": "Trịnh Văn Bô",
-    "chức vụ": "Thương nhân"
-  },
-  {
-    "name": "Trần Đình Túc",
-    "chức vụ": "Quan đại thần"
-  },
-  {
-    "name": "Trần Tử Bình",
-    "chức vụ": "Tướng"
+    "chức vụ": ["Trưởng Ban Tổ chức Trung ương"]
   },
   {
     "name": "Trần Văn Hữu",
-    "chức vụ": "Thủ tướng"
+    "chức vụ": ["Thủ tướng"]
   },
   {
     "name": "Trương Mỹ Hoa",
-    "chức vụ": "Phó Chủ tịch nước"
+    "chức vụ": ["Phó Chủ tịch nước", "Phó Chủ tịch Quốc hội"]
   },
   {
     "name": "Nguyễn Văn Được",
-    "chức vụ": "Thượng tướng"
+    "chức vụ": ["Thượng tướng"]
   },
   {
     "name": "Đặng Thị Ngọc Thịnh",
-    "chức vụ": "Quốc hội Việt Nam"
+    "chức vụ": ["Phó Chủ tịch nước"]
   },
   {
     "name": "Đặng Phúc Thông",
-    "chức vụ": "Thứ trưởng Bộ Giao thông công chính"
-  },
-  {
-    "name": "Hoàng Văn Đức",
-    "chức vụ": "Đại biểu Quốc hội"
+    "chức vụ": ["Thứ trưởng Bộ Giao thông Vận tải"]
   },
   {
     "name": "Đỗ Bá Tỵ",
-    "chức vụ": "Đại tướng"
+    "chức vụ": ["Đại tướng", "Phó Chủ tịch Quốc hội"]
   },
   {
     "name": "Lê Mã Lương",
-    "chức vụ": "Thiếu tướng"
-  },
-  {
-    "name": "Trưng Trắc",
-    "chức vụ": "Nữ vương của vương quốc Lĩnh Nam"
-  },
-  {
-    "name": "Trưng Nhị",
-    "chức vụ": "Nữ phó vương của vương quốc Lĩnh Nam"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Trần Văn Giang",
-    "chức vụ": "Chính ủy Quân chủng Hải quân Việt Nam"
+    "chức vụ": ["Đô đốc"]
   },
   {
     "name": "Nguyễn Như Hoạt",
-    "chức vụ": "Tư lệnh Quân khu Thủ đô"
+    "chức vụ": ["Trung tướng"]
   },
   {
     "name": "Nguyễn Quyết",
-    "chức vụ": "Nguyên Phó Chủ tịch nước"
+    "chức vụ": ["Phó Chủ tịch nước"]
   },
   {
     "name": "Nguyễn Hữu Hạnh",
-    "chức vụ": "Cựu Tướng lĩnh Bộ binh của Quân lực Việt Nam Cộng hòa"
+    "chức vụ": ["Chuẩn tướng"]
   },
   {
     "name": "Nguyễn Mạnh Cầm",
-    "chức vụ": "Phó Thủ tướng Chính phủ"
+    "chức vụ": ["Phó Thủ tướng"]
   },
   {
     "name": "Bùi Nam Hà",
-    "chức vụ": "Phó Tổng thanh tra Quân đội"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Phạm Xuân Thệ",
-    "chức vụ": "Đại tá"
+    "chức vụ": ["Trung tướng"]
   },
   {
     "name": "Nguyễn Văn Tình",
-    "chức vụ": "Phó Đô đốc"
-  },
-  {
-    "name": "Trần Đức Anh Sơn",
-    "chức vụ": "Nhà nghiên cứu"
+    "chức vụ": ["Phó Đô đốc"]
   },
   {
     "name": "Nguyễn Thị Mai Hoa",
-    "chức vụ": "Phó Chủ nhiệm Ủy ban Văn hóa, giáo dục của Quốc hội"
+    "chức vụ": ["Phó Chủ nhiệm Ủy ban Văn hóa, giáo dục"]
   },
   {
     "name": "Nguyễn Thanh Hồng",
-    "chức vụ": "Thiếu tướng"
-  },
-  {
-    "name": "Vũ Kỳ",
-    "chức vụ": "Đại biểu Quốc hội"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Vũ Đức Đam",
-    "chức vụ": "Phó Thủ tướng Chính phủ"
-  },
-  {
-    "name": "Vũ Đại",
-    "chức vụ": "Không có thông tin về chức vụ"
-  },
-  {
-    "name": "Nguyễn Tiến Hưng",
-    "chức vụ": "Không có thông tin về chức vụ"
-  },
-  {
-    "name": "Trần Thừa",
-    "chức vụ": "Thái Thượng hoàng"
+    "chức vụ": ["Phó Thủ tướng"]
   },
   {
     "name": "Trần Thuận Tông",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Trần Nhật Duật",
-    "chức vụ": "Danh tướng"
-  },
-  {
-    "name": "Triệu Việt Vương",
-    "chức vụ": "Nhà lãnh đạo khởi nghĩa"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Duệ Tông",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Cao Tông",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Trịnh Doanh",
-    "chức vụ": "Chúa Trịnh"
-  },
-  {
-    "name": "Bùi Trang Chước",
-    "chức vụ": "Họa sĩ"
-  },
-  {
-    "name": "Ngô Xương Xí",
-    "chức vụ": "Thủ lĩnh"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Huệ Tông",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Dương Tam Kha",
-    "chức vụ": "Vua"
-  },
-  {
-    "name": "Trần Quốc Tảng",
-    "chức vụ": "Tướng lĩnh quân sự"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Dụ Tông",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Trần Liễu",
-    "chức vụ": "Vương công"
-  },
-  {
-    "name": "Trịnh Kiểm",
-    "chức vụ": "Nhà lãnh đạo"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Dương Nhật Lễ",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Trịnh Sâm",
-    "chức vụ": "Chúa Trịnh"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Nguyễn Khoa Nam",
-    "chức vụ": "Thiếu tướng"
-  },
-  {
-    "name": "Trần Quốc Toản",
-    "chức vụ": "Hầu"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Mạc Toàn",
-    "chức vụ": "Vua"
-  },
-  {
-    "name": "Trịnh Tùng",
-    "chức vụ": "Chúa Trịnh"
-  },
-  {
-    "name": "Lê Văn Thịnh",
-    "chức vụ": "Thái sư"
-  },
-  {
-    "name": "Trịnh Giang",
-    "chức vụ": "Chúa Trịnh"
-  },
-  {
-    "name": "Trần Tự Khánh",
-    "chức vụ": "Chính trị gia"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Nguyễn Châu",
-    "chức vụ": "Giáo sư vật lý"
+    "chức vụ": ["Phó chủ tịch Hội Vật lý"]
   },
   {
     "name": "Lý Thánh Tông",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Nguyễn Chích",
-    "chức vụ": "Công thần"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Anh Tông",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Nguyễn Phúc Luân",
-    "chức vụ": "Vương tử"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Quốc Khang",
-    "chức vụ": "Hoàng tử"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Ngô Du",
-    "chức vụ": "Trung tướng"
-  },
-  {
-    "name": "Trịnh Tráng",
-    "chức vụ": "Vương"
+    "chức vụ": ["Trung tướng"]
   },
   {
     "name": "Phạm Gia Khiêm",
-    "chức vụ": "Phó Thủ tướng"
-  },
-  {
-    "name": "Lương Văn Can",
-    "chức vụ": "Nhà cách mạng"
-  },
-  {
-    "name": "Phan Đình Phùng",
-    "chức vụ": "Nhà cách mạng"
+    "chức vụ": ["Phó Thủ tướng", "Bộ trưởng Bộ Ngoại giao"]
   },
   {
     "name": "Ngô Xuân Lịch",
-    "chức vụ": "Đại tướng"
+    "chức vụ": ["Đại tướng", "Bộ trưởng Bộ Quốc phòng"]
   },
   {
     "name": "Lý Tòng Bá",
-    "chức vụ": "Chuẩn tướng"
+    "chức vụ": ["Chuẩn tướng"]
   },
   {
     "name": "Trương Tấn Sang",
-    "chức vụ": "Chủ tịch nước"
-  },
-  {
-    "name": "Chử Đồng Tử",
-    "chức vụ": "Nhân vật truyền thuyết và thần thoại"
-  },
-  {
-    "name": "Lý Ông Trọng",
-    "chức vụ": "Nhân vật truyền thuyết và thần thoại"
-  },
-  {
-    "name": "Hoàng Thiều Hoa",
-    "chức vụ": "Nữ tướng"
-  },
-  {
-    "name": "Phạm Tu",
-    "chức vụ": "Võ tướng"
-  },
-  {
-    "name": "Triệu Quang Phục",
-    "chức vụ": "Vương"
-  },
-  {
-    "name": "Dương Thanh",
-    "chức vụ": "Thứ sử"
+    "chức vụ": ["Chủ tịch nước"]
   },
   {
     "name": "Khương Công Phụ",
-    "chức vụ": "Tể tướng"
+    "chức vụ": ["Tể tướng"]
   },
   {
     "name": "Mai Thúc Huy",
-    "chức vụ": "Vua"
-  },
-  {
-    "name": "Kiều Thuận",
-    "chức vụ": "Thủ lĩnh thời loạn"
-  },
-  {
-    "name": "Đinh Công Trứ",
-    "chức vụ": "Tướng"
-  },
-  {
-    "name": "Kiều Công Hãn",
-    "chức vụ": "Thủ lĩnh"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Ngô Xương Ngập",
-    "chức vụ": "Vua"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Ngô Xương Văn",
-    "chức vụ": "Vua"
-  },
-  {
-    "name": "Phạm Bạch Hổ",
-    "chức vụ": "Võ tướng"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Đinh Liễn",
-    "chức vụ": "Hoàng tử"
-  },
-  {
-    "name": "Đinh Điền",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Đỗ Pháp Thuận",
-    "chức vụ": "Thiền sư"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Lê Hoàn",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lê Long Đinh",
-    "chức vụ": "Hoàng tử"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Lê Long Đĩnh",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Ngô Chân Lưu",
-    "chức vụ": "Thiền sư"
-  },
-  {
-    "name": "Đào Cam Mộc",
-    "chức vụ": "Tước Tín Nghĩa hầu"
-  },
-  {
-    "name": "Dương Không Lộ",
-    "chức vụ": "Thông Huyền chân nhân"
-  },
-  {
-    "name": "Đoàn Thượng",
-    "chức vụ": "Trung thần"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Công Uẩn",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Long Trát",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Nhật Tôn",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lý Thiên Tộ",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Mạc Hiển Tích",
-    "chức vụ": "Thượng thư"
-  },
-  {
-    "name": "Nguyễn Nộn",
-    "chức vụ": "Sứ quân"
-  },
-  {
-    "name": "Phạm Bỉnh Di",
-    "chức vụ": "Tướng"
-  },
-  {
-    "name": "Phùng Tá Chu",
-    "chức vụ": "Đại vương"
-  },
-  {
-    "name": "Quách Bốc",
-    "chức vụ": "Tướng quân"
-  },
-  {
-    "name": "Tô Hiến Thành",
-    "chức vụ": "Quan đại thần"
-  },
-  {
-    "name": "Từ Lộ",
-    "chức vụ": "Thiền sư"
-  },
-  {
-    "name": "Trần Thủ Độ",
-    "chức vụ": "Đại vương"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "An Tư",
-    "chức vụ": "Công chúa"
-  },
-  {
-    "name": "Bạch Liêu",
-    "chức vụ": "Quân sư"
-  },
-  {
-    "name": "Dã Tượng",
-    "chức vụ": "Gia tướng"
-  },
-  {
-    "name": "Đặng Ma La",
-    "chức vụ": "Thám hoa"
-  },
-  {
-    "name": "Đỗ Hành",
-    "chức vụ": "Thống soái"
-  },
-  {
-    "name": "Đoàn Nhữ Hài",
-    "chức vụ": "Danh thần"
-  },
-  {
-    "name": "Hà Chương",
-    "chức vụ": "Nghệ sĩ, nhạc sĩ, tác giả tự truyện"
-  },
-  {
-    "name": "Hồ Tông Thốc",
-    "chức vụ": "Nhà sử học, quan triều Trần"
+    "chức vụ": ["Công chúa"]
   },
   {
     "name": "Huyền Trân",
-    "chức vụ": "Công chúa"
-  },
-  {
-    "name": "Lê Phụ Trần",
-    "chức vụ": "Danh tướng"
-  },
-  {
-    "name": "Nguyễn Bá Tĩnh",
-    "chức vụ": "Lương y"
+    "chức vụ": ["Công chúa"]
   },
   {
     "name": "Trần Khâm",
-    "chức vụ": "Vua"
-  },
-  {
-    "name": "Trần Khánh Dư",
-    "chức vụ": "Quân sự"
-  },
-  {
-    "name": "Trần Khát Chân",
-    "chức vụ": "Tướng lĩnh"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Kính",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Trần Nguyên Đán",
-    "chức vụ": "Tư đồ"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Phủ",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Trần Quang Triều",
-    "chức vụ": "Tư đồ"
-  },
-  {
-    "name": "Trương Hán Siêu",
-    "chức vụ": "Thượng thư"
-  },
-  {
-    "name": "Trương Xán",
-    "chức vụ": "Trạng nguyên"
-  },
-  {
-    "name": "Yết Kiêu",
-    "chức vụ": "Tùy tướng"
+    "chức vụ": ["Tể tướng"]
   },
   {
     "name": "Hồ Nguyên Trừng",
-    "chức vụ": "Tể tướng"
-  },
-  {
-    "name": "Nguyễn Phi Khanh",
-    "chức vụ": "Hàn lâm học sĩ"
+    "chức vụ": ["Tể tướng"]
   },
   {
     "name": "Hồ Hán Thương",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Lý Tử Cấu",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Ngô Miễn",
-    "chức vụ": "Danh thần"
-  },
-  {
-    "name": "Lê Lai",
-    "chức vụ": "Tướng lĩnh"
-  },
-  {
-    "name": "Lê Ngân",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Phạm Vấn",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Đàm Thận Huy",
-    "chức vụ": "Thành viên của Hội Tao Đàn"
-  },
-  {
-    "name": "Đặng Chiêm",
-    "chức vụ": "Tiến sĩ"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Đặng Tiến Vinh",
-    "chức vụ": "Quận công"
-  },
-  {
-    "name": "Đào Tiêu",
-    "chức vụ": "Trạng nguyên"
-  },
-  {
-    "name": "Đinh Liệt",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Khâm Đức",
-    "chức vụ": "Không có"
-  },
-  {
-    "name": "Lại Kim Bảng",
-    "chức vụ": "Không có"
+    "chức vụ": ["Quận công"]
   },
   {
     "name": "Lê Bảng",
-    "chức vụ": "Vua"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lê Đức Toản",
-    "chức vụ": "Đô ngự sử"
-  },
-  {
-    "name": "Lê Hiếu Trung",
-    "chức vụ": "Quốc tử giám"
-  },
-  {
-    "name": "Lê Ích Mộc",
-    "chức vụ": "Đạo sĩ"
-  },
-  {
-    "name": "Lê Khôi",
-    "chức vụ": "Kì Lân Hổ Vệ tướng quân"
-  },
-  {
-    "name": "Lê Nại",
-    "chức vụ": "Hoàng giáp"
-  },
-  {
-    "name": "Lê Niệm",
-    "chức vụ": "Phụ tướng"
+    "chức vụ": ["Đô ngự sử"]
   },
   {
     "name": "Lê Sạn",
-    "chức vụ": "Thượng thư"
+    "chức vụ": ["Thượng thư"]
   },
   {
     "name": "Lê Sát",
-    "chức vụ": "Thừa tướng"
-  },
-  {
-    "name": "Lê Tân",
-    "chức vụ": "Tĩnh vương"
-  },
-  {
-    "name": "Lê Thạch",
-    "chức vụ": "Tướng quốc"
-  },
-  {
-    "name": "Lê Thiếu Dĩnh",
-    "chức vụ": "Văn thần"
+    "chức vụ": ["Thừa tướng"]
   },
   {
     "name": "Lê Tư Thành",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Lê Tuấn Mậu",
-    "chức vụ": "Đô ngự sử"
-  },
-  {
-    "name": "Lê Văn Linh",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Lương Đắc Bằng",
-    "chức vụ": "Nhà chính trị"
-  },
-  {
-    "name": "Lưu Nhân Chú",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Ngô Chi Lan",
-    "chức vụ": "Nữ học sĩ"
+    "chức vụ": ["Đô ngự sử"]
   },
   {
     "name": "Ngô Thị Ngọc Dao",
-    "chức vụ": "Hoàng hậu"
-  },
-  {
-    "name": "Ngô Từ",
-    "chức vụ": "Không có chức vụ cụ thể được biết đến"
-  },
-  {
-    "name": "Nguyễn Giản Thanh",
-    "chức vụ": "Thượng thư Bộ Lễ kiêm Hàn lâm viện Thị độc, Chưởng viện sự"
+    "chức vụ": ["Hoàng hậu"]
   },
   {
     "name": "Nguyễn Thị Anh",
-    "chức vụ": "Thái hậu"
-  },
-  {
-    "name": "Quách Đình Bảo",
-    "chức vụ": "Chính trị gia"
+    "chức vụ": ["Thái hậu"]
   },
   {
     "name": "Trịnh Khả",
-    "chức vụ": "Tể tướng"
-  },
-  {
-    "name": "Lê Tuấn Kiệt",
-    "chức vụ": "Thượng tể"
-  },
-  {
-    "name": "Bùi Văn Khuê",
-    "chức vụ": "Tướng"
+    "chức vụ": ["Tể tướng"]
   },
   {
     "name": "Bùi Vịnh",
-    "chức vụ": "Tả thị lang tước"
-  },
-  {
-    "name": "Đổng Hiền",
-    "chức vụ": "Đại tư mã kiêm Vệ tướng quân"
-  },
-  {
-    "name": "Hoàng Sầm",
-    "chức vụ": "Không có chức vụ cụ thể được biết đến"
-  },
-  {
-    "name": "Hoàng Sĩ Khải",
-    "chức vụ": "Không có chức vụ cụ thể được biết đến"
+    "chức vụ": ["Hình bộ Tả Thị lang"]
   },
   {
     "name": "Lê Vô Cương",
-    "chức vụ": "Tả thị lang"
+    "chức vụ": ["Hình bộ Tả Thị lang"]
   },
   {
     "name": "Mạc Chính Trung",
-    "chức vụ": "Hoàng tử"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Mạc Đăng Doanh",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Đăng Dung",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Đôn Nhượng",
-    "chức vụ": "Hoàng tử và tướng"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Mạc Kính Chỉ",
-    "chức vụ": "Vua nhà Mạc"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Kính Cung",
-    "chức vụ": "Vua nhà Mạc"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Kính Khoan",
-    "chức vụ": "Vua nhà Mạc"
-  },
-  {
-    "name": "Mạc Ngọc Liễn",
-    "chức vụ": "Quan chức triều Mạc"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Phúc Hải",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Phúc Nguyên",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Bùi Trụ",
-    "chức vụ": "Quan nhà Mạc"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Bùi Huy Bích",
-    "chức vụ": "Tham tụng"
-  },
-  {
-    "name": "Đặng Đình Lân",
-    "chức vụ": "Đại tư mã"
-  },
-  {
-    "name": "Đinh Tích Nhưỡng",
-    "chức vụ": "Võ tướng"
-  },
-  {
-    "name": "Đoàn Thị Điểm",
-    "chức vụ": "Nữ sĩ"
-  },
-  {
-    "name": "Giang Văn Minh",
-    "chức vụ": "Quan nhà Lê"
+    "chức vụ": ["Tham tụng"]
   },
   {
     "name": "Hoàng Nghĩa Phú",
-    "chức vụ": "Tham tri chính sự, Đô ngự sử"
-  },
-  {
-    "name": "Hoàng Ngũ Phúc",
-    "chức vụ": "Tả thiếu giám, Nội sai"
+    "chức vụ": ["Đô ngự sử"]
   },
   {
     "name": "Lê Duy Hợp",
-    "chức vụ": "Vua"
-  },
-  {
-    "name": "Lê Duy Mật",
-    "chức vụ": "Hoàng thân"
-  },
-  {
-    "name": "Lê Hữu Trác",
-    "chức vụ": "Lang y"
-  },
-  {
-    "name": "Lê Quí Đôn",
-    "chức vụ": "Quan thời Lê Trung Hưng"
-  },
-  {
-    "name": "Lê Quýnh",
-    "chức vụ": "Võ quan Đại Việt triều Lê Trung Hưng"
-  },
-  {
-    "name": "Lê Trọng Thứ",
-    "chức vụ": "Quan đại thần thời Lê Trung Hưng"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Kính Vũ",
-    "chức vụ": "Vua"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Mạc Thị Giai",
-    "chức vụ": "Hoàng hậu"
-  },
-  {
-    "name": "Ngô Cảnh Hoàn",
-    "chức vụ": "Tì tướng"
-  },
-  {
-    "name": "Ngô Thì Sĩ",
-    "chức vụ": "Nhà sử học, nhà văn, nhà thơ"
-  },
-  {
-    "name": "Nguyễn Bá Lân",
-    "chức vụ": "Trường An Tứ hổ"
-  },
-  {
-    "name": "Nguyễn Công Hãng",
-    "chức vụ": "Thừa chính sứ Tuyên Quang"
-  },
-  {
-    "name": "Nguyễn Cư Trinh",
-    "chức vụ": "Danh tướng"
-  },
-  {
-    "name": "Nguyễn Cửu Đàm",
-    "chức vụ": "Nhà quy hoạch"
-  },
-  {
-    "name": "Nguyễn Đình Sách",
-    "chức vụ": "Danh thần"
-  },
-  {
-    "name": "Nguyễn Đình Trụ",
-    "chức vụ": "Viên quan"
-  },
-  {
-    "name": "Nguyễn Khoa Toàn",
-    "chức vụ": "Quan nhà Nguyễn"
-  },
-  {
-    "name": "Nguyễn Kiều",
-    "chức vụ": "Đại quan"
-  },
-  {
-    "name": "Nguyễn Phúc Trăn",
-    "chức vụ": "Chúa Nguyễn thứ năm của Đàng Trong"
-  },
-  {
-    "name": "Nguyễn Quán Nho",
-    "chức vụ": "Quan nhà Lê trung hưng"
+    "chức vụ": ["Hoàng hậu"]
   },
   {
     "name": "Nguyễn Quang Nhuận",
-    "chức vụ": "Thượng thư"
-  },
-  {
-    "name": "Nguyễn Quí Đức",
-    "chức vụ": "Nhà sản xuất đài phát thanh và nhà văn"
-  },
-  {
-    "name": "Phạm Thái",
-    "chức vụ": "Danh sĩ"
-  },
-  {
-    "name": "Quách Giai",
-    "chức vụ": "Tiến sĩ"
-  },
-  {
-    "name": "Trịnh Bồng",
-    "chức vụ": "Án Đô vương"
-  },
-  {
-    "name": "Trịnh Cương",
-    "chức vụ": "Vị chúa Trịnh"
-  },
-  {
-    "name": "Trịnh Tạc",
-    "chức vụ": "Vị chúa Trịnh"
-  },
-  {
-    "name": "Trịnh Tông",
-    "chức vụ": "Vị chúa Trịnh"
-  },
-  {
-    "name": "Võ Miên",
-    "chức vụ": "Không có"
-  },
-  {
-    "name": "Đoàn Nguyễn Tuấn",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Ngô Thì Nhậm",
-    "chức vụ": "Tu sỹ Phật giáo"
-  },
-  {
-    "name": "Nguyễn Hữu Chỉnh",
-    "chức vụ": "Đại tư đồ Bình chương quân quốc trọng sự"
-  },
-  {
-    "name": "Nguyễn Thiếp",
-    "chức vụ": "Danh sĩ"
-  },
-  {
-    "name": "Võ Di Nguy",
-    "chức vụ": "Tướng lĩnh"
-  },
-  {
-    "name": "Trịnh Hoài Đức",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Vũ Trinh",
-    "chức vụ": "Danh sĩ"
-  },
-  {
-    "name": "Nguyễn Phúc Cảnh",
-    "chức vụ": "Hoàng thái tử"
-  },
-  {
-    "name": "Trần Văn Kỉ",
-    "chức vụ": "Công thần"
-  },
-  {
-    "name": "Lê Chất",
-    "chức vụ": "Tướng lĩnh"
-  },
-  {
-    "name": "Bạch Đông Ôn",
-    "chức vụ": "Ngự sử"
-  },
-  {
-    "name": "Bạch Xuân Nguyên",
-    "chức vụ": "Quan Bố chính"
-  },
-  {
-    "name": "Bùi Hữu Nghĩa",
-    "chức vụ": "Quan nhà Nguyễn"
-  },
-  {
-    "name": "Bùi Văn Tây",
-    "chức vụ": "Cao đồ của Phật Thầy Tây An"
-  },
-  {
-    "name": "Bùi Viện",
-    "chức vụ": "Nhà cải cách, nhà ngoại giao"
-  },
-  {
-    "name": "Cao Bá Quát",
-    "chức vụ": "Quân sư, nhà thơ"
-  },
-  {
-    "name": "Châu Thị Tế",
-    "chức vụ": "Tướng lĩnh"
-  },
-  {
-    "name": "Đặng Huy Trứ",
-    "chức vụ": "Nhà cải cách"
-  },
-  {
-    "name": "Đặng Thị Huệ",
-    "chức vụ": "Cung tần"
-  },
-  {
-    "name": "Đặng Xuân Bảng",
-    "chức vụ": "Quan nhà Nguyễn và nhà sử học"
-  },
-  {
-    "name": "Đào Tấn",
-    "chức vụ": "Tổng đốc An – Tĩnh (Nghệ An – Hà Tĩnh), Công Bộ Thượng Thư"
-  },
-  {
-    "name": "Đào Trí",
-    "chức vụ": "Võ quan cao cấp"
-  },
-  {
-    "name": "Đỗ Công Tường",
-    "chức vụ": "Thành hoàng"
-  },
-  {
-    "name": "Lê Văn Duyệt",
-    "chức vụ": "Đại thần"
-  },
-  {
-    "name": "Ngô Lợi",
-    "chức vụ": "Giáo chủ"
-  },
-  {
-    "name": "Ngô Thế Vinh",
-    "chức vụ": "Chính trị gia và nhà thơ"
-  },
-  {
-    "name": "Nguyễn Ngọc Thăng",
-    "chức vụ": "Bình Tây Phó Nguyên soái"
+    "chức vụ": ["Thượng thư"]
   },
   {
     "name": "Nguyễn Phúc Đảm",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Nguyễn Phúc Hồng Bảo",
-    "chức vụ": "An Phong công"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Nguyễn Phúc Miên Thanh",
-    "chức vụ": "Nguyễn Phúc Miên Thanh"
+    "chức vụ": ["Hoàng tử"]
   },
   {
     "name": "Nguyễn Phúc Tĩnh Hòa",
-    "chức vụ": "Công chúa"
-  },
-  {
-    "name": "Nguyễn Thị Hinh",
-    "chức vụ": "Thi sĩ"
-  },
-  {
-    "name": "Nguyễn Văn Giáp",
-    "chức vụ": "Danh tướng, lãnh tụ phong trào Cần Vương"
-  },
-  {
-    "name": "Phạm Phú Thứ",
-    "chức vụ": "Đại thần nhà Nguyễn"
-  },
-  {
-    "name": "Phạm Thận Duật",
-    "chức vụ": "Phó tổng tài Quốc sử quán kiêm quản Quốc tử giám"
+    "chức vụ": ["Công chúa"]
   },
   {
     "name": "Phạm Thị Hằng",
-    "chức vụ": "Hoàng hậu"
-  },
-  {
-    "name": "Phạm Văn Nghị",
-    "chức vụ": "Viên quan nhà Nguyễn"
-  },
-  {
-    "name": "Phạm Viết Chánh",
-    "chức vụ": "Quan nhà Nguyễn"
-  },
-  {
-    "name": "Phan Bá Vành",
-    "chức vụ": "Lãnh tụ cuộc khởi nghĩa nông dân"
-  },
-  {
-    "name": "Phan Hiển Đạo",
-    "chức vụ": "Quan nhà Nguyễn"
-  },
-  {
-    "name": "Tôn Thọ Tường",
-    "chức vụ": "Danh sĩ"
-  },
-  {
-    "name": "Trương Đăng Quế",
-    "chức vụ": "Danh thần"
-  },
-  {
-    "name": "Trương Quốc Dụng",
-    "chức vụ": "Danh thần"
-  },
-  {
-    "name": "Võ Duy Dương",
-    "chức vụ": "Lãnh tụ cuộc khởi nghĩa"
-  },
-  {
-    "name": "Võ Xuân Cẩn",
-    "chức vụ": "Quan nhà Nguyễn"
-  },
-  {
-    "name": "Vũ Tông Phan",
-    "chức vụ": "Danh sĩ"
-  },
-  {
-    "name": "Cao Xuân Dục",
-    "chức vụ": "Tổng đốc"
-  },
-  {
-    "name": "Đinh Công Tráng",
-    "chức vụ": "Lãnh tụ khởi nghĩa"
-  },
-  {
-    "name": "Hoàng Văn Hòe",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Hoàng Văn Tuấn",
-    "chức vụ": "Viên quan nhà Nguyễn"
-  },
-  {
-    "name": "Nguyễn Cao",
-    "chức vụ": "Danh tướng nhà Nguyễn"
-  },
-  {
-    "name": "Nguyễn Đình Hiến",
-    "chức vụ": "Tổng đốc"
+    "chức vụ": ["Hoàng hậu"]
   },
   {
     "name": "Nguyễn Đức Huy",
-    "chức vụ": "Thiếu tướng"
-  },
-  {
-    "name": "Nguyễn Lộ Trạch",
-    "chức vụ": "Nhà văn"
-  },
-  {
-    "name": "Nguyễn Nhược Thị Bích",
-    "chức vụ": "Phi tần"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Nguyễn Phúc Vĩnh Trinh",
-    "chức vụ": "Công chúa"
-  },
-  {
-    "name": "Nguyễn Thiện Kế",
-    "chức vụ": "Chỉ huy"
-  },
-  {
-    "name": "Nguyễn Thuật",
-    "chức vụ": "Danh sĩ và danh thần"
-  },
-  {
-    "name": "Nguyễn Trọng Hợp",
-    "chức vụ": "Đệ nhị phụ chính Đại thần"
-  },
-  {
-    "name": "Phan Văn Trị",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Tạ Hiện",
-    "chức vụ": "Đô thống quân"
-  },
-  {
-    "name": "Tống Duy Tân",
-    "chức vụ": "Thủ lĩnh khởi nghĩa"
-  },
-  {
-    "name": "Trần Lục",
-    "chức vụ": "Linh mục"
-  },
-  {
-    "name": "Trần Trọng Khiêm",
-    "chức vụ": "Chỉ huy và nhà báo"
-  },
-  {
-    "name": "Trần Xuân Soạn",
-    "chức vụ": "Tướng"
-  },
-  {
-    "name": "Trương Như Cương",
-    "chức vụ": "Đại thần"
-  },
-  {
-    "name": "Võ Trọng Bình",
-    "chức vụ": "Đại thần"
+    "chức vụ": ["Công chúa"]
   },
   {
     "name": "Cao Văn Chánh",
-    "chức vụ": "Phó Chủ tịch Hội đồng Bộ trưởng, Chủ tịch Hội Nông dân Việt Nam, Bộ trưởng Bộ Lương thực, Bí thư Tỉnh ủy"
-  },
-  {
-    "name": "Lê Văn Khương",
-    "chức vụ": "Bí thư Tỉnh ủy Gia Định"
+    "chức vụ": ["Phó Chủ tịch Hội đồng Bộ trưởng, Chủ tịch Hội Nông dân"]
   },
   {
     "name": "Lê Văn Sao",
-    "chức vụ": "Phó Tư lệnh Bộ Tư lệnh Cảnh sát Cơ động"
-  },
-  {
-    "name": "Ngô Đình Khả",
-    "chức vụ": "Quan đại thần"
-  },
-  {
-    "name": "Ngô Đình Khôi",
-    "chức vụ": "Tổng đốc"
-  },
-  {
-    "name": "Nguyễn Hới",
-    "chức vụ": "Nhà cách mạng"
-  },
-  {
-    "name": "Nguyễn Khắc Nhu",
-    "chức vụ": "Chí sĩ yêu nước"
-  },
-  {
-    "name": "Nguyễn Nhược Pháp",
-    "chức vụ": "Nhà thơ"
-  },
-  {
-    "name": "Nguyễn Phong Di",
-    "chức vụ": "Tiến sĩ Nho học"
+    "chức vụ": ["Thiếu tướng"]
   },
   {
     "name": "Nguyễn Phúc Ưng Chân",
-    "chức vụ": "Hoàng đế"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Nguyễn Phúc Ưng Đăng",
-    "chức vụ": "Hoàng đế"
-  },
-  {
-    "name": "Nguyễn Thần Hiến",
-    "chức vụ": "Nhà cách mạng"
+    "chức vụ": ["Hoàng đế"]
   },
   {
     "name": "Nguyễn Thị Thủy",
-    "chức vụ": "Đại biểu quốc hội"
-  },
-  {
-    "name": "Nguyễn Thị Xuyên",
-    "chức vụ": "Cung phi"
-  },
-  {
-    "name": "Nguyễn Triệu Luật",
-    "chức vụ": "Nhà giáo"
-  },
-  {
-    "name": "Nguyễn Trọng Quản",
-    "chức vụ": "Nhà giáo"
-  },
-  {
-    "name": "Nguyễn Văn Bá",
-    "chức vụ": "Huyện đội trưởng"
-  },
-  {
-    "name": "Nguyễn Văn Vinh",
-    "chức vụ": "Huấn luyện viên"
-  },
-  {
-    "name": "Ông Ích Khiêm",
-    "chức vụ": "Danh tướng"
-  },
-  {
-    "name": "Phạm Hữu Chí",
-    "chức vụ": "Bác sĩ"
-  },
-  {
-    "name": "Phạm Liệu",
-    "chức vụ": "Thượng thư Bộ binh"
-  },
-  {
-    "name": "Phan Đăng Lưu",
-    "chức vụ": "Ủy viên Ban Thường vụ Trung ương Đảng"
-  },
-  {
-    "name": "Tạ Thu Thâu",
-    "chức vụ": "Lãnh tụ Cộng sản Đệ Tứ"
-  },
-  {
-    "name": "Tạ Uyên",
-    "chức vụ": "Bí thư xứ ủy"
+    "chức vụ": ["Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội"]
   },
   {
     "name": "Trần Bình",
-    "chức vụ": "Thừa tướng"
-  },
-  {
-    "name": "Võ Chuẩn",
-    "chức vụ": "Tổng đốc"
-  },
-  {
-    "name": "Võ Văn Tần",
-    "chức vụ": "Lãnh đạo cấp cao của Đảng Cộng sản Đông Dương"
-  },
-  {
-    "name": "Vũ Ngọc Ánh",
-    "chức vụ": "Bộ trưởng Y tế trong Nội các Trần Trọng Kim"
-  },
-  {
-    "name": "Vũ Phạm Hàm",
-    "chức vụ": "Nhất giáp Tam nguyên"
-  },
-  {
-    "name": "Bàng Bá Lân",
-    "chức vụ": "Nhà thơ, nhà giáo, nhà nhiếp ảnh"
-  },
-  {
-    "name": "Bùi Giáng",
-    "chức vụ": "Nhà thơ, dịch giả, nhà nghiên cứu văn học"
-  },
-  {
-    "name": "Bùi Huy Phồn",
-    "chức vụ": "Nhà thơ, nhà văn, nhà báo"
-  },
-  {
-    "name": "Bùi Kỷ",
-    "chức vụ": "Nhà giáo, nhà Nho học, nhà nghiên cứu văn hóa"
+    "chức vụ": ["Thừa tướng"]
   },
   {
     "name": "Bùi Lâm",
-    "chức vụ": "Uỷ viên thường vụ xứ uỷ Nam Kỳ, Chánh án Toà án Quân sự đặc biệt, Viện trưởng Viện Công tố Trung ương, Đại sứ đặc mệnh toàn quyền tại Bungari và Cộng hòa Dân chủ Đức, Đại biểu Quốc hội"
-  },
-  {
-    "name": "Bùi Xuân Phái",
-    "chức vụ": "Họa sĩ"
-  },
-  {
-    "name": "Ca Văn Thỉnh",
-    "chức vụ": "Giáo sư"
-  },
-  {
-    "name": "Cao Triều Phát",
-    "chức vụ": "Đại biểu quốc hội"
-  },
-  {
-    "name": "Cao Văn Lầu",
-    "chức vụ": "Nhạc sĩ"
+    "chức vụ": ["Viện trưởng Viện Kiểm sát Nhân dân Tối cao"]
   },
   {
     "name": "Chu Văn Tấn",
-    "chức vụ": "Thượng tướng"
-  },
-  {
-    "name": "Dương Quảng Hàm",
-    "chức vụ": "Nhà nghiên cứu văn học, nhà giáo dục"
-  },
-  {
-    "name": "Dương Tụ Quán",
-    "chức vụ": "Nhà văn, nhà báo"
-  },
-  {
-    "name": "Đái Đức Tuấn",
-    "chức vụ": "Kí giả, văn sĩ, thi sĩ"
-  },
-  {
-    "name": "Đặng Văn Ngữ",
-    "chức vụ": "Bác sĩ y khoa"
-  },
-  {
-    "name": "Đặng Vũ Hỷ",
-    "chức vụ": "Giáo sư, Bác sĩ chuyên khoa da liễu"
-  },
-  {
-    "name": "Đặng Xuân Viện",
-    "chức vụ": "Nhà văn, nhà nghiên cứu văn học và sử học"
-  },
-  {
-    "name": "Đào Trinh Nhất",
-    "chức vụ": "Nhà văn, nhà báo"
-  },
-  {
-    "name": "Đoàn Như Khuê",
-    "chức vụ": "Nhà báo, nhà thơ"
-  },
-  {
-    "name": "Đoàn Phú Tứ",
-    "chức vụ": "Nhà soạn kịch, nhà thơ, dịch giả"
-  },
-  {
-    "name": "Đoàn Văn Cừ",
-    "chức vụ": "Nhà thơ"
+    "chức vụ": ["Thượng tướng, Bộ trưởng Bộ Quốc phòng"]
   },
   {
     "name": "Hạ Bá Cang",
-    "chức vụ": "Chính khách"
+    "chức vụ": [
+      "Chủ tịch Tổng Liên đoàn Lao động, Viện trưởng Viện Kiểm sát Nhân dân Tối cao, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc"
+    ]
   },
   {
     "name": "Hà Huy Giáp",
-    "chức vụ": "Nhà hoạt động cách mạng và chính trị"
+    "chức vụ": ["Thứ trưởng Bộ Giáo dục và Đào tạo"]
   },
   {
-    "name": "Hồ Đắc Di",
-    "chức vụ": "Bác sĩ và hiệu trưởng"
+    "name": "Mạc Hiển Tích",
+    "chức vụ": ["Thượng thư"]
   },
   {
-    "name": "Hồ Liên",
-    "chức vụ": "Tướng"
+    "name": "Trương Hán Siêu",
+    "chức vụ": ["Thượng thư"]
   },
   {
-    "name": "Hồ Tá Khanh",
-    "chức vụ": "Bộ trưởng Bộ Kinh tế"
+    "name": "Đào Tiêu",
+    "chức vụ": ["Trạng nguyên"]
   },
   {
-    "name": "Hồ Thị Hạnh",
-    "chức vụ": "Quận chúa"
+    "name": "Trương Xán",
+    "chức vụ": ["Trạng nguyên"]
   }
 ]
