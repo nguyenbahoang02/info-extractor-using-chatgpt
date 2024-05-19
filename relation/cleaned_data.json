@@ -27,24 +27,30 @@
   },
   {
     "name": "Nguyễn Phúc Thái",
-    "liên hệ": {
-      "loại": "con",
-      "tên": "Nguyễn Phúc Tần"
-    }
+    "liên hệ": [
+      {
+        "loại": "con",
+        "tên": "Nguyễn Phúc Tần"
+      }
+    ]
   },
   {
     "name": "Khúc Hạo",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Khúc Thừa Dụ"
-    }
+    "liên hệ": [
+      {
+        "loại": "cha",
+        "tên": "Khúc Thừa Dụ"
+      }
+    ]
   },
   {
     "name": "Nguyễn Lữ",
-    "liên hệ": {
-      "loại": "anh",
-      "tên": "Nguyễn Nhạc"
-    }
+    "liên hệ": [
+      {
+        "loại": "anh",
+        "tên": "Nguyễn Nhạc"
+      }
+    ]
   },
   {
     "name": "Lý Chiêu Hoàng",
@@ -57,10 +63,12 @@
   },
   {
     "name": "Nguyễn Phúc Lan",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Nguyễn Phúc Nguyên"
-    }
+    "liên hệ": [
+      {
+        "loại": "cha",
+        "tên": "Nguyễn Phúc Nguyên"
+      }
+    ]
   },
   {
     "name": "Nguyễn Phúc Chu",
@@ -120,10 +128,12 @@
   },
   {
     "name": "Nguyễn Thiện Kế",
-    "liên hệ": {
-      "loại": "anh",
-      "tên": "Nguyễn Thiện Thuật"
-    }
+    "liên hệ": [
+      {
+        "loại": "anh",
+        "tên": "Nguyễn Thiện Thuật"
+      }
+    ]
   },
   {
     "name": "Trương Như Cương",
@@ -272,10 +282,12 @@
   },
   {
     "name": "Ngô Xương Xí",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Ngô Xương Ngập"
-    }
+    "liên hệ": [
+      {
+        "loại": "cha",
+        "tên": "Ngô Xương Ngập"
+      }
+    ]
   },
   {
     "name": "Trần Quốc Tảng",
@@ -328,38 +340,48 @@
   },
   {
     "name": "Ngô Xương Ngập",
-    "liên hệ": {
-      "loại": "em",
-      "tên": "Ngô Xương Văn"
-    }
+    "liên hệ": [
+      {
+        "loại": "em",
+        "tên": "Ngô Xương Văn"
+      }
+    ]
   },
   {
     "name": "Ngô Xương Văn",
-    "liên hệ": {
-      "loại": "anh",
-      "tên": "Ngô Xương Ngập"
-    }
+    "liên hệ": [
+      {
+        "loại": "anh",
+        "tên": "Ngô Xương Ngập"
+      }
+    ]
   },
   {
     "name": "Đinh Liễn",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Đinh Bộ Lĩnh"
-    }
+    "liên hệ": [
+      {
+        "loại": "cha",
+        "tên": "Đinh Bộ Lĩnh"
+      }
+    ]
   },
   {
     "name": "Lê Long Đinh",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Lê Đại Hành"
-    }
+    "liên hệ": [
+      {
+        "loại": "cha",
+        "tên": "Lê Đại Hành"
+      }
+    ]
   },
   {
     "name": "Lê Long Đĩnh",
-    "liên hệ": {
-      "loại": "anh",
-      "tên": "Lê Trung Tông"
-    }
+    "liên hệ": [
+      {
+        "loại": "anh",
+        "tên": "Lê Trung Tông"
+      }
+    ]
   },
   {
     "name": "Huyền Trân",
@@ -505,16 +527,20 @@
   },
   {
     "name": "Lê Duy Mật",
-    "liên hệ": {
-      "loại": "cha",
-      "tên": "Lê Dụ Tông"
-    }
+    "liên hệ": [
+      {
+        "loại": "cha",
+        "tên": "Lê Dụ Tông"
+      }
+    ]
   },
   {
     "name": "Lê Trọng Thứ",
-    "liên hệ": {
-      "loại": "con",
-      "tên": "Lê Quý Đôn"
-    }
+    "liên hệ": [
+      {
+        "loại": "con",
+        "tên": "Lê Quý Đôn"
+      }
+    ]
   }
 ]

@@ -460,7 +460,7 @@
   },
   {
     "name": "Nguyễn Thị Mai Hoa",
-    "chức vụ": ["Phó Chủ nhiệm Ủy ban Văn hóa, giáo dục"]
+    "chức vụ": ["Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục"]
   },
   {
     "name": "Nguyễn Thanh Hồng",
@@ -760,7 +760,7 @@
   },
   {
     "name": "Cao Văn Chánh",
-    "chức vụ": ["Phó Chủ tịch Hội đồng Bộ trưởng, Chủ tịch Hội Nông dân"]
+    "chức vụ": ["Phó Chủ tịch Hội đồng Bộ trưởng", "Chủ tịch Hội Nông dân"]
   },
   {
     "name": "Lê Văn Sao",
@@ -788,12 +788,14 @@
   },
   {
     "name": "Chu Văn Tấn",
-    "chức vụ": ["Thượng tướng, Bộ trưởng Bộ Quốc phòng"]
+    "chức vụ": ["Thượng tướng", "Bộ trưởng Bộ Quốc phòng"]
   },
   {
     "name": "Hạ Bá Cang",
     "chức vụ": [
-      "Chủ tịch Tổng Liên đoàn Lao động, Viện trưởng Viện Kiểm sát Nhân dân Tối cao, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc"
+      "Chủ tịch Tổng Liên đoàn Lao động",
+      "Viện trưởng Viện Kiểm sát Nhân dân Tối cao",
+      "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc"
     ]
   },
   {
