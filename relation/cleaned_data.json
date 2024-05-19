@@ -11,7 +11,7 @@
         "tên": "Nguyễn Uông"
       },
       {
-        "loại": "chị gái",
+        "loại": "chị",
         "tên": "Nguyễn Thị Ngọc Bảo"
       }
     ]
@@ -81,10 +81,12 @@
   },
   {
     "name": "Đặng Thị Huệ",
-    "liên hệ": {
-      "loại": "con",
-      "tên": "Trịnh Cán"
-    }
+    "liên hệ": [
+      {
+        "loại": "con",
+        "tên": "Trịnh Cán"
+      }
+    ]
   },
   {
     "name": "Nguyễn Phúc Hồng Bảo",
@@ -117,11 +119,11 @@
     "name": "Nguyễn Phúc Tĩnh Hòa",
     "liên hệ": [
       {
-        "loại": "chị gái",
+        "loại": "chị",
         "tên": "Nguyệt Đình"
       },
       {
-        "loại": "chị gái",
+        "loại": "chị",
         "tên": "Mai Am"
       }
     ]
@@ -230,10 +232,12 @@
   },
   {
     "name": "Trần Tiêu",
-    "liên hệ": {
-      "loại": "anh",
-      "tên": "Trần Khánh Giư"
-    }
+    "liên hệ": [
+      {
+        "loại": "anh",
+        "tên": "Trần Khánh Giư"
+      }
+    ]
   },
   {
     "name": "Phạm Thị Thanh Vân",

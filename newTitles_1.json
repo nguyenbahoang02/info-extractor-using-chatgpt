@@ -1,0 +1,1604 @@
+[
+    {
+        "name": "Án sát",
+        "description": "Tháng 6 năm Hồng Đức thứ 2 (1471), đặt chức Án sát ở 12 Thừa tuyên và đặt bat y (tức Đô ty, Thừa ty, Hiến ty) ở Quảng Nam. Năm Minh Mạng thứ 12 (1831) quy định Án sát dưới quyền Tổng đốc, Tuần phủ. Ty Án sát sứ các tỉnh có Thông phán, Kinh lịch, bát cửu phẩm Thư lại, Vị nhập lưu thư lại. Số lượng nhiều ít tuỳ theo từng tỉnh."
+    },
+    {
+        "name": "Án sát sứ ty",
+        "description": "là cơ quan phụ trách việc hình thời Nguyễn. Là ty giúp việc cho Tổng đốc hoặc Tuần vũ."
+    },
+    {
+        "name": "Ấm chức",
+        "description": "Theo Phan Huy Chú-Lịch triều hiến chương loại chí- Cấp bậc phong Ấm thực thi từ thời Trần Thánh Tông, năm Thiệu Phong thứ 10(1267). Lúc bấy giờ định lệ phong Ấm cho Tôn Thất. (Con cháu trước làm tới chức tước gì thì quy định ông cha được truy phong ở mức nào). Đến thời Lê, thời Lê Thánh Tông lệ phong Ấm được quy định khá chi tiết."
+    },
+    {
+        "name": "Bá",
+        "description": "Tước thứ 3 trong 5 tước thời phong kiến"
+    },
+    {
+        "name": "Bảng nhãn",
+        "description": "Từ năm Bính Ngọ (1246) đời Trần Thánh Tông (1225-1258) định ra Trạng nguyên, Bảng nhãn, Thám Hoa. Năm sau chính thức định là Tam khởi, Lê Thánh Tông, năm Nhâm Thìn (1472) cho đổi gọi Bảng nhãn là Đệ nhị giáp Tiến sĩ cập đệ- đệ nhị danh. Bảng nhãn tặng hàm tong lục phẩm, 7 tư. Nếu vào làm việc ở viện Hàn lâm thì thăng lên một cấp."
+    },
+    {
+        "name": "Bách hộ",
+        "description": "Quan chế thời Hồng Đức, ban võ có chức Bách hộ, trật chánh lục phẩm."
+    },
+    {
+        "name": "Binh bộ",
+        "description": "Từ thời Lê Nghi Dân, năm Kỉ Mão (1459) bắt đầu đặt đủ 6 bộ trong đó có bộ Binh. Đến tháng 6 năm Ất Mão (1675) đời vua Lê Gia Tông định rõ chức việc của 6 bộ. Trong đó quy định bộ Binh giữ việc binh nhung."
+    },
+    {
+        "name": "Biện nghiệm",
+        "description": "Theo Lê Quý Đôn trong Đại Việt thông sử- chức Thái y biện nghiệm làm nhiệm vụ thăm khám cho người bệnh."
+    },
+    {
+        "name": "Bồi tụng",
+        "description": "Là Á tướng, thứ bậc sau Tể tướng, từ thời Lê trung hưng thế kỉ XVII về sau chúa Trịnh nắm quyền mới đặt chức Bồi tụ phủ đường. Khi Lê Chiêu Thống lên ngôi năm Đinh Mùi (1787) đã bãi bỏ chức Bồi tụng mà lại đặt chức Tham tri như trước."
+    },
+    {
+        "name": "Cai hợp",
+        "description": "Chức quan trong các phiên ở phủ chúa Trịnh."
+    },
+    {
+        "name": "Cai tổng",
+        "description": "Đơn vị hành chính tổng có thể xuất hiện vào thời Mạc, thế kỉ XVI. Tổng lớn hơn xã, một tổng có thể gồm từ 3 đến 5 xã. Cai tổng là người cai quản tổng đó. Quyền hạn của Cai tổng cũng tương tự như Chánh tổng thời Nguyễn (1802-1945)"
+    },
+    {
+        "name": "Cẩm vệ y",
+        "description": "Là cơ quan xét kiện thời Lê Thánh Tông. Về sau có sự thay đổi; theo Sử học bị khảo"
+    },
+    {
+        "name": "Công bộ thị lang",
+        "description": "là chức phó của Công bộ thượng thư. Thời Nguyễn trong mỗi bộ đặt Tả hữu Tham tri, đứng dưới Thượng thư, Tả Hữu Thị Lang đứng hang thứ ba."
+    },
+    {
+        "name": "Cử nhân",
+        "description": "học vị cấp cho người trúng tuyển kì thi Hương. Từ năm Giáp Thân (1404) Hồ Hán Thương định cách chức thi Cử nhân"
+    },
+    {
+        "name": "Đại lý tự",
+        "description": "Là tên cơ quan. Năm Quang Thuận thứ 7 (1466) đổi đặt 6 Viện là 6 Tự. Trong đó có các chức Khanh, Thiếu Khanh, Thừa."
+    },
+    {
+        "name": "Đại lý tự khánh",
+        "description": "Trưởng quan của Đại lý tự."
+    },
+    {
+        "name": "Đại tướng quân",
+        "description": "Năm Bính Thân (1296) đời Trần lấy Phạm Ngũ Lão làm Hữu kim ngô vệ Đại tướng quân. Năm Ất Dậu (1405), thời Hồ Hán Thương, Đại tướng quân được giao trông coi các quân mới lập. Năm 1428, những vũ khí lớn cũng gọi là Đại tướng quân. Thời Nguyễn cũng dùng danh hiệu này."
+    },
+    {
+        "name": "Đại nguyên soái",
+        "description": "Thời vua Lê-chúa Trịnh, năm Kỉ Hợi (1599) chúa Trịnh Tùng tự phong Đô nguyên soái-Đại nguyên soái. Năm Mậu Thân (1668) Trịnh Tạc cũng tự phong Đại nguyên soái thượng sư thái phụ Tây Vương."
+    },
+    {
+        "name": "Điển bạ",
+        "description": "Năm Minh mạng thứ 8 (1827) đặt chức Điển bạ trong Quốc Tử Giám, trật tòng bát phẩm."
+    },
+    {
+        "name": "Đề lại",
+        "description": "Danh chức lại viên định năm Đinh Dậu (1477) quy định"
+    },
+    {
+        "name": "Cấp sự trung",
+        "description": "Trong sáu khoa đặt từ thời Lê Nghi Dân có các chức Đô cấp sự trung, Cấp sự trung, trật chánh thất phẩm, bát phẩm."
+    },
+    {
+        "name": "Câu kê",
+        "description": "Là chức quan trong các phiên của phủ chúa, đứng dưới chức Thiêm tri phiên. Trật chánh thất phẩm. Thời các chúa Nguyễn chức Câu kê có thay đổi."
+    },
+    {
+        "name": "Chỉ huy sứ ty",
+        "description": "Là chức quan Võ thời Nguyễn thuộc vệ Cẩm y, chỉ huy các đội thường trực và ty trấn phủ, trật chánh tam phẩm võ ban."
+    },
+    {
+        "name": "Công bộ",
+        "description": "Là một trong sáu bộ, đặt từ thời Lê Nghi Dân. Công bộ đảm trách việc xây dựng thành hào, cầu cống, đường xá, tu sửa, xây dựng nhà sở; thi hành lệnh cấm về núi rừng, vườn tược, sông."
+    },
+    {
+        "name": "Công bộ Thượng thư",
+        "description": "Quan đứng đầu bộ Công, theo quan chế thời Hồng Đức và Bảo Thái cho hàm tòng nhị phẩm; thời Nguyễn cho hàm Chánh nhị phẩm, thuộc hàng Chánh khanh."
+    },
+    {
+        "name": "Đề điệu",
+        "description": "Tên chức quan. Trong các kỳ thi Hội thời Lê có một quan đứng đầu trường thi (Chánh chủ khảo) là Đề điệu. Chức này thường dùng đại thần không kể quan văn hay võ. Thời Nguyễn nó dùng chức Đề điệu, thường củ người có khoa bảng giữ chức"
+    },
+    {
+        "name": "Đô ngự sử",
+        "description": "Thời Lê Thái Tổ theo quan chế thời Trần, đặt Ngự sử đài có các chức Thị ngự sử, Ngự sử trung thừa, Phó trung thừa, Giám sát ngư sử, Chủ bạ; sau đặt Đô ngự Sử, Phó đô ngự sử, Thiêm đô ngự sử cùng trưởng quan là Ngự sử đại phu. Đô ngư sử giữ phong hóa pháp độ, chức rất trọng. Thời Nguyễn chức quan đứng đầu Đô sát viện trật chánh nhị phẩm văn ban."
+    },
+    {
+        "name": "Đô đốc",
+        "description": "Thời Quang Thái nhà Trần đặt chức Đô đốc ở các bộ. Năm Tân Ty (1461) bổ dụng Lê Lộng làm Đô đốc bình chương quân quốc trọng sự. Đô đốc kiêm chức Tế tướng. Năm Bính Tuất (1466) bắt đầu đặt quân 5 phủ"
+    },
+    {
+        "name": "Đô đốc phủ",
+        "description": "Năm Đinh Sửu (1397) định lại quy chế về quan ngoài cấp bộ đặt phủ Đô đốc để trông coi."
+    },
+    {
+        "name": "Đô lại",
+        "description": "Danh chức này định ra từ năm Đinh Dậu (1477). Thư lại sau 3 năm làm việc sung làm Đại lại, tiếp theo 3 năm nữa thăng là Điển lại, 3 năm nữa không phạm lỗi gì sẽ được thăng Đô Đạo các Thừa lệnh sở ở các nha phủ làm việc Bầu 3 năm thì thăng Đô lại"
+    },
+    {
+        "name": "Đốc đồng",
+        "description": "Theo Phan Huy Chú chức Đốc đồng đặt ra từ thời Lê trung hưng. ở các trấn đặt chức Đốc đồng; khám xét việc kiện cáo Chức Đốc đồng dùng quan tứ phẩm, ngũ phẩm trở xuống"
+    },
+    {
+        "name": "Đồng tri phủ",
+        "description": "Năm Bính Tuất (1466), bãi bỏ các lộ, trấn, đổi đặt là phủ. Đổi An phủ sứ làm Tri phủ. Trấn phủ sứ làm Đồng tri phủ. Theo quan chế thời Bảo Thái (1720-1729) Đồng tri phủ trật chánh thất phẩm."
+    },
+    {
+        "name": "Đông các hiệu thư",
+        "description": "Theo quan chế thời Hồng Đức, năm Tân Mão (1471) đặt chức Đông các hiệu thư, trật chánh lục phẩm; vinh phong Mậu lâm lang ngang với Hàn lâm viện Thị thư."
+    },
+    {
+        "name": "Đồng tri châu",
+        "description": "Thời Hồng Đửc đổi trấn làm châu, đổi Phòng ngụ làm Tri châu, Đồng Tri châu là Phó của Tri châu, cùng cai quản một châu. Quan chế thời Bảo Thái cho trật tòng bát phẩm."
+    },
+    {
+        "name": "Đốc học",
+        "description": "Là Học quan cấp tỉnh thời Nguyễn. Năm Minh Mạng thứ 4 (1823) đặt chức Phó Đốc học ở một số nơi."
+    },
+    {
+        "name": "Đội trưởng",
+        "description": "Tổ chức quân đội thời Nguyễn chia mỗi đội thành 50 người, đặt Cai đội 1 người, Đội trưởng và Ngoại uỷ Đội trưởng 2 người. Đội trưởng quân ở các tỉnh trật tòng thất phẩm."
+    },
+    {
+        "name": "Giáp",
+        "description": "Là tổ chức quần chúng tự nguyện tập hợp những người đàn ông trong một làng, cùng lo việc tế thần và giúp nhau trong cuộc sống. Giáp có một Giáp trưởng do cả Giáp bầu ra. Giáp thường đặt tên theo phương hướng, theo số thứ tự, theo tên chữ. Giáp xuất hiện từ thời Hồng Đửc, nửa sau thế kỷ XV."
+    },
+    {
+        "name": "Giảng dụ",
+        "description": "Là chức quan giảng dạy trong cung thời Bảo Thái, trật chánh cửu phẩm."
+    },
+    {
+        "name": "Giám sát ngự sử",
+        "description": "Theo Phan Huy Chú"
+    },
+    {
+        "name": "Giám sinh",
+        "description": "Là học sinh Quốc Tử Giám, đặt ra từ thời Lê. Theo Khâm định Việt sử thông giám cương mục"
+    },
+    {
+        "name": "Hàn lâm viện",
+        "description": "Là tên cơ quan. Từ thời Lý đã đặt Hàn lâm viện và đặt chức Học sĩ. Nhà Lê cũng noi theo thời Lý-Trần đặt Hàn lâm viện có chức Phụng chỉ, Thị độc, Thị giảng, Trực học sĩ, Tri chế cáo, Đãi chế, Hiệu điểm. Sau lại đặt Đại học sĩ. Thời Lê Thánh Tông bỏ Đại học sĩ đặt Thừa chỉ, Thị độc, Thị giảng, Thị thư, Đãi chế, Hiệu lý, Tu soạn, Kiểm thảo, trật từ chánh tứ phẩm trở xuống. Nhà Nguyễn vẫn đặt Hàn lâm viện, tuy có thay đổi một số chức trong đó"
+    },
+    {
+        "name": "Hàn lâm viên biên tu",
+        "description": "Chức này trong Viện Hàn lâm được đặt từ năm Minh Mạng thứ 8 (1827), trật chánh thất phẩm."
+    },
+    {
+        "name": "Hàn lâm viện Thị độc",
+        "description": "Theo quan chế thời Hồng Đức, Hàn lâm viện Thị độc trật chánh ngũ phẩm. Thời Nguyễn cũng có chức quan Hàn lâm viện Thị độc."
+    },
+    {
+        "name": "Hình bộ Hữu Thị lang",
+        "description": "Chức quan đứng hàng thứ ba trong bộ Hình thời Nguyễn, trật chánh tam phẩm. Thời Lê, Hữu Thị lang là chức phó của Thượng thư."
+    },
+    {
+        "name": "Hình bộ Tả Thị lang",
+        "description": "Chức quan đứng thứ ba trong bộ Hình thời Nguyễn, trật chánh tam phẩm. ởthời Lê Tả Thị lang cũng là chức phó của Thượng thư."
+    },
+    {
+        "name": "Hình bộ Thượng thư",
+        "description": "Là trưởng quan của bộ Hình. Theo quan chế thời Hồng Đức Thượng thư trật tòng nhị phẩm; thời Nguyễn chánh nhị phẩm."
+    },
+    {
+        "name": "Hiến sát sứ",
+        "description": "Là trưởng quan của Hiến sát sứ ty. Theo quan chế thời Hồng Đức, chức Hiến sát sứ, Hiến sát phó sứ chức vụ là đàn hặc, xét hỏi, khám đoán, hội đồng kiểm soát, khảo khoá, tuần hành... Thời Bảo Thái, Hiến sát sứ hàm chánh lục phẩm."
+    },
+    {
+        "name": "Hiến sát phó sứ",
+        "description": "Là chức quan thứ hai, sau Hiến sát sứ; theo quan chế thời Bảo Thái hàm chánh thất phẩm."
+    },
+    {
+        "name": "Hoàng giáp",
+        "description": "Học vị gọi những người thi Đình đỗ Đệ nhị giáp Tiến sĩ xuất thân- đỗ thứ hai trong kỳ thi Đình."
+    },
+    {
+        "name": "Hộ bộ Hữu Thị lang",
+        "description": "Chức quan dưới Thượng thư và Tham tri; có Tả, Hữu 2 người, trật chánh tam phẩm."
+    },
+    {
+        "name": "Hộ bộ Thượng thư",
+        "description": "Trưởng quan của bộ Hộ, trật tòng nhị phẩm. Thời Nguyễn hàm chánh nhị phẩm."
+    },
+    {
+        "name": "Hoành từ khoa",
+        "description": "Năm Đinh Hợi (1467) mở khoa Hoành từ để chọn nhân tài- văn hay học rộng. Quan từ tứ phẩm trở xuống đều được dự thi. Người nào trúng tuyển được vào học ở Bí thư giám."
+    },
+    {
+        "name": "Hội chủ",
+        "description": "Người đứng chủ một hội như Hội thiện, Hội sãi vãi, thường làm các việc hưng công, trùng tu, xây dựng đình, chùa, quán... ở làng xã trước kia."
+    },
+    {
+        "name": "Hữu Thị lang",
+        "description": "Là chức phó của Thượng thư thời Lê, trật tòng tam phẩm; có Tả, Hữu Thị lang. ởthời Nguyễn Tả, Hữu Thị lang đứng dưới chức Tả, Hữu Tham tri."
+    },
+    {
+        "name": "Hương cống",
+        "description": "Học vị của người đỗ khoa thi năm Canh Thân (1740) thời chúa Nguyễn Phúc Khoát (1738- 1765). Khoa thi này có 4 kỳ, ai đỗ kỳ thứ 4 gọi là Hương cống, sẽ được bổ làm Tri phủ, Tri huyện, Huấn đạo."
+    },
+    {
+        "name": "Huấn đạo phủ",
+        "description": "Đạt từ thời Lê. Thời Nguyễn phủ nào có Tri phủ thì đặt Giáo thụ, có Đồng Tri phủ thì đặt Huấn đạo 1 người. Huyện cũng đặt 1 Huấn đạo. Châu sát biên giới không đặt chức này. Huấn đạo ở các huyện thời Nguyễn thường là chánh thất phẩm, tòng thất phẩm, hoặc chánh bát phẩm văn giai."
+    },
+    {
+        "name": "Huyện thừa",
+        "description": "Thời Quang Thuận, năm Canh Thìn (1460) đổi chức Chuyển vận sứ làm Tri huyện, Tuần sát làm Huyện thừa. Thời Hồng Đức Huyện thừa trật tòng thất phẩm."
+    },
+    {
+        "name": "Khán thủ",
+        "description": "Là chức việc hàng xã đặt từ thời Lê; có trách nhiệm đảm bảo an ninh trong làng xã, giống như chức Trương tuần thời Nguyễn."
+    },
+    {
+        "name": "Khoa Sĩ vọng",
+        "description": "Theo Lê Quý Đôn – Kiến văn tiểu lục, thì khoa thi Sĩ vọng cũng gọi là khoa Hoành từ (xem khoa Hoành từ), chỉ có Cống sĩ mới được dự thi, nhằm cất nhắc những sĩ tử có danh tiếng mà lâu nay bị chìm đắm, chưa được trọng dụng. Khoa Sĩ vọng đặt ra từ tháng 8 năm ất Sửu (1625)."
+    },
+    {
+        "name": "Khoá sinh",
+        "description": "Là học trò thi trúng cách lần thứ hai ở huyện, trong những kỳ thi chọn người đi thi Hương."
+    },
+    {
+        "name": "Kỳ Anh quán",
+        "description": "Là nơi tụ hội của các hưu quan làng Mộ Trạch để bình thơ, văn hoặc sát hạch học trò trước kỳ thi Hương."
+    },
+    {
+        "name": "Lại bộ",
+        "description": "Đặt từ thời Lê Nghi Dân năm Kỷ Mão (1459); là một trong sáu bộ. Các quan gồm có Thượng thư (đúng đầu) Tả Hữu Thị lang, Lang trung, Viên ngoại lang, Tư vụ. Thời Nguyễn quan chức Lại bộ gồm"
+    },
+    {
+        "name": "Lại bộ Tả Thị lang",
+        "description": "Theo quan chế Nguyễn, đó là chức quan đứng hàng thứ ba trong bộ Lại, trật chánh tam phẩm, ngang hàng với quan Hữu Thị lang."
+    },
+    {
+        "name": "Lang y (Lương y)",
+        "description": "Người làm nghề thày thuốc trong dân gian."
+    },
+    {
+        "name": "Lễ bộ Thượng thư",
+        "description": "Quan đứng đầu bộ Lễ (một trong 6 bộ thời Lê). Thời Hồng Đức cho hàm nhị phẩm, thời Nguyễn hàm chánh nhị phẩm. Thời Lê năm ất Mão (1675), định rõ chức vụ của 6 bộ; bộ Lễ đảm trách giữ việc Lễ nghi tế tự, khánh tiết, yến tiệc, trường học thi cử, ấn tín, phù hiệu, áo mũ, chương tấu biểu văn, sứ thần cống nạp, các quan chào mừng, tư thiên giám, thuốc thang, bói toán, đạo lục, đồng văn nhã nhạc, giáo phường. Quan chế thời Nguyễn, biên chế gồm"
+    },
+    {
+        "name": "Lệnh sử",
+        "description": "Theo Lịch triều hiện chương loại chí"
+    },
+    {
+        "name": "Lý trưởng",
+        "description": "Người đứng đầu hàng xã, giống như Xã quan- Xã trưởng trước đây. Chức Lý trưởng được đặt ra từ thời Minh Mạng (1820-1840) là người đứng đầu chính quyền cấp cơ sở của chế độ phong kiến và thực dân sau này."
+    },
+    {
+        "name": "Nhiêu nam",
+        "description": "Là danh hiệu đặt từ thời Lê để gọi nam giới ở trong các làng xã đã ở tuổi 55-60 (được miễn phu phen tạp dịch). Hoặc dùng để tặng những người có công bắt được trộm cướp ở làng, tuy chưa đến tuổi trên."
+    },
+    {
+        "name": "Nho sinh",
+        "description": "Theo Cương mục"
+    },
+    {
+        "name": "Nho sinh trúng thức",
+        "description": "Thời Lê chia học trò làm hai hạng gồm"
+    },
+    {
+        "name": "Nhập nội hành khiển",
+        "description": "Đặt từ thời Lý, chuyên dùng hoạn quan ở chức đó. Đời Trần thời Thiệu Phong (1341-1357) dùng người có văn học giữ chức Nhập nội hành khiển"
+    },
+    {
+        "name": "Phó bảng",
+        "description": "Học vị được đặt thêm từ năm Minh Mạng thứ 10 (1829). Phó bảng xếp sau Tiến sĩ, không được dự thi Đình. Tên được ghi vào bảng đỏ, không được khắc vào bia đá."
+    },
+    {
+        "name": "Phó tổng",
+        "description": "Cấp phó của Chánh tổng được đặt từ thời Gia Long (1802- 1819). Tổng gồm từ 3 đến 5, 6 xã, Chánh tổng đứng đầu tổng. Phó tổng phụ tá cho Chánh tổng, được trật tòng cửu phẩm võ giai."
+    },
+    {
+        "name": "Phó câu kê",
+        "description": "Là chức quan trong các phiên của phủ chúa Trình, trật tòng thất phẩm."
+    },
+    {
+        "name": "Phó sở sứ",
+        "description": "Chức quan phó quản lý các sở như các sở đồn điền, sở tầm tang, điển mục... Bách ký sở."
+    },
+    {
+        "name": "Pháp môn phù thuỷ",
+        "description": "Là người hành nghề cúng bái, ma thuật."
+    },
+    {
+        "name": "Phủ doãn",
+        "description": "Chức quan đặt thời Lê, cai quản phủ Phụng Thiên (tức kinh đô Thăng long ) trật chánh ngũ phẩm. Thời Nguyễn đặt Phủ doãn phủ Thừa Thiên, trật chánh tam phẩm."
+    },
+    {
+        "name": "Quản giáp",
+        "description": "Nhà Lý chia đặt bình thành từng giáp, mỗi giáp gồm 15 người; đặt 1 người Quản giáp."
+    },
+    {
+        "name": "Quận công",
+        "description": "Theo quan chế thời Hồng Đức- Quận công về văn ban ngang chánh thất phẩm, võ ban tương tự. Thời Nguyễn Quận công là bậc thứ 4 trong tôn tước rất ít khi phong cho người còn sống; lấy tên Huyện làm tước danh; không ban thực ấp. Bậc này được chánh nhị phẩm. Có phủ đệ riêng với 1 Thư lại, 5 nhân viên phục vụ."
+    },
+    {
+        "name": "Quốc Tử Giám",
+        "description": "Quốc Tử Giám lập từ thời Lý Nhân Tông năm 1076. Đây là nhà Quốc học- trường học đầu tiên ở nước ta. Năm Quý Sửu (1253) Trần Thánh Tông cho đổi thành Quốc Học Viện, sau đổi là Thái Học Viện, làm nơi giảng dạy cho con em vua quan và học trò giỏi trong cả nước. Địa điểm tại Văn Miếu, Hà Nội nay. Quốc Từ Giám thời Trần có Tư nghiệp coi việc dạy Hoàng tử học tập. Quốc Tử Giám thời Lê có Tế tửu, Tư nghiệp, Ngũ kinh, Giáo thụ, Ngũ kinh học sĩ, Giám bạ. Học sinh trong Quốc Tử Giám là Giám sinh. Thời Nguyện Quốc Tử Giám dời vào kinh đô Huế."
+    },
+    {
+        "name": "Sứ bộ",
+        "description": "Chỉ các thành viên trong đoàn đi sứ nước ngoài trước đây."
+    },
+    {
+        "name": "Sử quán Tổng tài",
+        "description": "Người đứng đầu biên soạn quốc sử trong Quốc Sử Quán triều Lê- Nguyễn."
+    },
+    {
+        "name": "Tả Bộc xạ",
+        "description": "Thời Trần coi Tả Hữu bộc xạ là Hữu tướng quốc tức là Thái tế - Tể tướng."
+    },
+    {
+        "name": "Tả Đô đốc",
+        "description": "Chức chỉ huy Bắc quân đặt thời Lê Thánh Tông, tước Bá."
+    },
+    {
+        "name": "Tả Thị lang",
+        "description": "Đặt từ thời Quang Thuận (1460-1469). Thời Nguyễn 6 bộ đều đặt chức Tả Hữu Thị lang, trật chánh tam phẩm."
+    },
+    {
+        "name": "Tam trường",
+        "description": "Kỳ thi Hương gồm tứ trường, ai đậu tam trường là Sinh đồ; đậu tứ trường được vào học Quốc Tử Giám."
+    },
+    {
+        "name": "Tập ấm",
+        "description": "Chế độ nhà Nguyễn quy định con được kế thừa nghề của cha."
+    },
+    {
+        "name": "Tể tướng",
+        "description": "Đặt từ thời Lê Hoàn năm Kỷ Mùi (995). Thời Lý Thái Tông (1028- 1054) đặt chức Phụ quốc Thái uý ngang chức Tể tướng. Thời Lê Thánh Tông bãi chức Tế tướng."
+    },
+    {
+        "name": "Thái bảo",
+        "description": "Đặt từ thời Lý (1010). Đời Lê cũng có chức này, trật chánh nhất phẩm."
+    },
+    {
+        "name": "Thái y viện",
+        "description": "Lập từ thời Lê. Có Viện đại sứ, Phó sứ, Ngự y, chánh phó thuộc bộ Lễ, chuyên trách việc chữa bệnh trong cung."
+    },
+    {
+        "name": "Tham chính",
+        "description": "Đặt từ thời Nguyễn, trật tòng nhất phẩm."
+    },
+    {
+        "name": "Tham đốc",
+        "description": "Đặt từ thời Hồng Đức, trật tòng nhị phẩm."
+    },
+    {
+        "name": "Tham nghị",
+        "description": "Chức quan đại thần triều Nguyễn, trật tòng nhất phẩm."
+    },
+    {
+        "name": "Tham tri",
+        "description": "Đặt từ thời Lê thế kỷ XV, coi việc sổ sách quân dân của một đạo. Theo quan chế thời Minh Mạng Tả Hữu Tham tri trật tòng nhị phẩm văn giai."
+    },
+    {
+        "name": "Tham tụng",
+        "description": "Thời Hoàng Định (1600-1619) đặt chức Tham tụng làm việc trong phủ chúa. Tham tụng là Tể tướng."
+    },
+    {
+        "name": "Thị lang",
+        "description": "Đặt từ thời Lý. Thời Hồng Đức có Tả, Hữu Thị lang, chức phó của Thượng thư, trật chánh tam phẩm."
+    },
+    {
+        "name": "Thí sai",
+        "description": "Chức quan thời kỳ tập sự, sau 3 năm mới được bổ dụng"
+    },
+    {
+        "name": "Thiêm sự",
+        "description": "Đặt thời Lê Thái Tổ (1428"
+    },
+    {
+        "name": "Thiếu doãn phủ",
+        "description": "Chức phó của Doãn (phủ) Phụng Thiên (Thăng Long), trật chánh lục phẩm."
+    },
+    {
+        "name": "Thông chính phó sứ",
+        "description": "Chức quan hàng thứ hai ở cơ quan Thông chính sứ ty thời Nguyễn, trật tòng tam phẩm."
+    },
+    {
+        "name": "Thông chính sứ",
+        "description": "Đứng đầu cơ quan Thông chính sứ ty, trật tòng tứ phẩm."
+    },
+    {
+        "name": "Thông lại",
+        "description": "chức dưới Đề lại làm việc ở huyện thời Nguyễn. Mỗi phủ đặt 5-8 Thông lại, huyện 4-7 Thông lại."
+    },
+    {
+        "name": "Thông phán",
+        "description": "Đặt từ đời Trần; thời Nguyễn, Thông phán, trật tòng ngũ phẩm."
+    },
+    {
+        "name": "Thừa chính sứ",
+        "description": "Chức quan đặt từ thời Quang Thuận (1460- 1469). Năm Bính Tuất (1466) Lê Thánh Tông chia nước ta làm 12 đạo. Mỗi đạo đặt chức Đô ty và Thừa ty. Đặt chức Thừa chính sứ (trưởng quan) và Thừa chính phó sứ; dưới có Tham chính, Tham nghị."
+    },
+    {
+        "name": "Thừa tuyên sứ",
+        "description": "Khoảng giữa thời Hồng Đức (1470- 1497) đặt 13 Thừa tuyên trong nước. Dùng đầu mỗi Thừa tuyên có Thừa tuyên sứ."
+    },
+    {
+        "name": "Thượng bảo khanh",
+        "description": "Chức trưởng quan của Thượng bảo tự, thời Bảo Thái (1705- 1729) trật chánh ngũ phẩm. Thời Nguyễn trật tòng tam phẩm văn giai."
+    },
+    {
+        "name": "Thượng thư",
+        "description": "Chức Thượng thư đặt từ thời Lý, chức quan đứng đầu phụ trách bộ, nhưng tên các bộ chưa rõ. Đến thời Trần ; Đại Khánh (1314- 1324) và Quang Thái (1388- 1398) mới đặt Thượng thư các bộ. Lê Thánh Tông đặt Thượng thư 6 bộ"
+    },
+    {
+        "name": "Trạng nguyên",
+        "description": "Người đỗ đầu trong kỳ thi thời Trần. Năm Đinh Mùi (1247) chính thức định ra Tam khôi"
+    },
+    {
+        "name": "Trạng Trình",
+        "description": "Nguyễn Bình Khiêm đỗ Trạng nguyên khoa thi năm ất Mùi (1535). Ông làm quan với nhà Mạc đến chức Thượng thư bộ Lại, Thái phó, tước Trình Quốc công. Vì thế ông được gọi là Trạng Trình."
+    },
+    {
+        "name": "Trấn thủ",
+        "description": "Chức quan đứng đầu các trấn thời cuối Lê đầu Nguyễn (cuối thế kỷ XVIII đầu thế kỷ XIX), khi chưa đặt cấp tỉnh."
+    },
+    {
+        "name": "Tri châu",
+        "description": "Chức quan làm việc bên ngoài kinh đô đặt từ thời Lý Thái Tông (1028- 1054). Thời Quang Thuận đổi Phòng ngự sứ làm Tri châu, trật tòng thất phẩm. Thời Nguyễn bắt đầu dùng Thổ Tri châu. Từ năm 1836 Minh Mạng áp đặt chế độ lưu quan ở miền núi, trật chánh lục phẩm đến chánh ngũ phẩm."
+    },
+    {
+        "name": "Tri huyện",
+        "description": "Trưởng quan cấp huyện thời Nguyễn."
+    },
+    {
+        "name": "Tri phủ",
+        "description": "Thời Trần đặt cấp hành chính gọi là phủ. Phủ do lộ quản. Trưởng quan có Tri phủ, phó chức là Tri phủ đồng tri. Năm Minh Mạng thứ 3 (1822) đặt Tri phủ, Tri huyện mỗi hạt một viên. Có nơi đặt Đồng Tri phủ, trật chánh lục phẩm."
+    },
+    {
+        "name": "Triều liệt đại phu",
+        "description": "Tên thuỵ ban cho chức quan trật tòng tứ phẩm văn giai thời Nguyễn."
+    },
+    {
+        "name": "Tú tài",
+        "description": "Người tham dự thi Hương thời Nguyễn, đỗ tam trường thì gọi là Tú tài."
+    },
+    {
+        "name": "Tuần kiểm sứ",
+        "description": "Chức quan coi cửa ải, đặt từ năm Mậu Thân (1488) thời Lê Thánh Tông."
+    },
+    {
+        "name": "Tuần phủ",
+        "description": "Chức quan đứng đầu tỉnh thời Nguyễn."
+    },
+    {
+        "name": "Tư huấn",
+        "description": "Chức trưởng quan của Tú lâm cục, Chiêu văn quán và Sùng văn quán thuộc Viện Hàn lâm."
+    },
+    {
+        "name": "Tư nghiệp, Tế tửu",
+        "description": "Xem - Quốc Tử Giám."
+    },
+    {
+        "name": "Tự thừa",
+        "description": "Chức quan coi việc giữ đền miếu ở các tỉnh và kinh đô, đặt từ thời Minh Mạng (1820-1840)."
+    },
+    {
+        "name": "Viên ngoại lang",
+        "description": "Chức quan đặt từ thời Trần, làm công việc ngoại giao. Thời nguyễn Viên ngoại lang đứng háng thứ hai mỗi ty, sau chức Lang trung, trật chánh ngũ phẩm văn giai."
+    },
+    {
+        "name": "Vinh lộc đại phu",
+        "description": "Chức tản quan bên ngạch văn, võ thời Lê. Nhà Nguyễn lấy thuỵ hiệu đó phong cho các quan trật tòng nhất phẩm."
+    },
+    {
+        "name": "Vệ uý",
+        "description": "Chức quan võ chỉ huy các vệ Cẩm y, Kim ngô, Vệ loan giá thời Nguyễn."
+    },
+    {
+        "name": "Xã chính",
+        "description": "Chức quan đứng đầu hàng xã thời Lê."
+    },
+    {
+        "name": "Xã sử",
+        "description": "Chức phó, giúp việc cho xã Trưởng thời Lê."
+    },
+    {
+        "name": "Xã trưởng",
+        "description": "Chức quan đứng đầu hàng xã thời Lê."
+    },
+    {
+        "name": "Thái sư"
+    },
+    {
+        "name": "Thái phó"
+    },
+    {
+        "name": "Thừa tướng"
+    },
+    {
+        "name": "Thái tử thái sư"
+    },
+    {
+        "name": "Thái tử thái phó"
+    },
+    {
+        "name": "Thái tử thái bảo."
+    },
+    {
+        "name": "Khu mật sứ"
+    },
+    {
+        "name": "Thiếu sư"
+    },
+    {
+        "name": "Thiếu phó"
+    },
+    {
+        "name": "Thiếu bảo"
+    },
+    {
+        "name": "Hộ bộ"
+    },
+    {
+        "name": "Lễ bộ"
+    },
+    {
+        "name": "Hình bộ"
+    },
+    {
+        "name": "Thái tử thiếu sư"
+    },
+    {
+        "name": "Thái tử thiếu phó"
+    },
+    {
+        "name": "Thái tử thiếu bảo"
+    },
+    {
+        "name": "Phủ doãn Kinh đô"
+    },
+    {
+        "name": "Đại lý tự khanh"
+    },
+    {
+        "name": "Tông nhân phủ tông nhân lệnh"
+    },
+    {
+        "name": "Lăng chánh"
+    },
+    {
+        "name": "Tả thứ tử"
+    },
+    {
+        "name": "Hữu thứ tử"
+    },
+    {
+        "name": "Tổng thái giám"
+    },
+    {
+        "name": "Lục bộ"
+    },
+    {
+        "name": "Tả thị lang"
+    },
+    {
+        "name": "Hữu thị lang"
+    },
+    {
+        "name": "Thiên đô"
+    },
+    {
+        "name": "Lăng phó"
+    },
+    {
+        "name": "Tông nhân phủ"
+    },
+    {
+        "name": "Tả tôn chính"
+    },
+    {
+        "name": "Hữu tôn chính"
+    },
+    {
+        "name": "Tả dụ đức"
+    },
+    {
+        "name": "Hữu dụ đức"
+    },
+    {
+        "name": "Đô thái giám"
+    },
+    {
+        "name": "Hàn lâm viện thừa chỉ"
+    },
+    {
+        "name": "Phó đô ngự sử"
+    },
+    {
+        "name": "Lăng thừa"
+    },
+    {
+        "name": "Tả trung doãn"
+    },
+    {
+        "name": "Hữu trung doãn"
+    },
+    {
+        "name": "Tả xuân phường"
+    },
+    {
+        "name": "Hữu xuân phường"
+    },
+    {
+        "name": "Thái giám"
+    },
+    {
+        "name": "Đông các đại học sĩ"
+    },
+    {
+        "name": "Quốc tử giám tế tửu"
+    },
+    {
+        "name": "Tả Tán thiện"
+    },
+    {
+        "name": "Hữu Tán thiện"
+    },
+    {
+        "name": "Hàn lâm viện thị độc"
+    },
+    {
+        "name": "Thiêm đô ngự sử"
+    },
+    {
+        "name": "Thái thường tự"
+    },
+    {
+        "name": "Quang lộc tự"
+    },
+    {
+        "name": "Thái bộc tự"
+    },
+    {
+        "name": "Hồng lô tự"
+    },
+    {
+        "name": "Thường bảo tự"
+    },
+    {
+        "name": "Thái y viện đại sứ"
+    },
+    {
+        "name": "Phụng thiên phủ doãn"
+    },
+    {
+        "name": "Hàn lâm viện thị giảng"
+    },
+    {
+        "name": "Đông các học sĩ"
+    },
+    {
+        "name": "Quốc tử giám tư nghiệp"
+    },
+    {
+        "name": "Thái y viện sứ"
+    },
+    {
+        "name": "Tả Thuyết thư tham nghị"
+    },
+    {
+        "name": "Hữu Thuyết thư tham nghị"
+    },
+    {
+        "name": "Hàn lâm viện thị thư"
+    },
+    {
+        "name": "Trung thư giám xá nhân"
+    },
+    {
+        "name": "Thái y viện ngự y chánh"
+    },
+    {
+        "name": "Tư thiên giám"
+    },
+    {
+        "name": "Tư thiên lệnh"
+    },
+    {
+        "name": "Hiến sát cứ"
+    },
+    {
+        "name": "Lục bộ lang trung"
+    },
+    {
+        "name": "Lục tự thiếu khanh"
+    },
+    {
+        "name": "Phụng thiên thiếu doãn"
+    },
+    {
+        "name": "Đoán sự các vệ"
+    },
+    {
+        "name": "Ngũ phủ kinh lịch"
+    },
+    {
+        "name": "Hàn lâm viện đãi chế"
+    },
+    {
+        "name": "Trung thư giám"
+    },
+    {
+        "name": "Thái y viện y phó"
+    },
+    {
+        "name": "Bí thư giám điển thư"
+    },
+    {
+        "name": "Vương phủ tả & Hữu Tư giảng"
+    },
+    {
+        "name": "Thông chính ti thông thừa"
+    },
+    {
+        "name": "Lục bộ viên ngoại lang"
+    },
+    {
+        "name": "Hàn lâm viện hiệu lý"
+    },
+    {
+        "name": "Cáp môn đãi chiếu"
+    },
+    {
+        "name": "Đề hình giám sát ngự sử"
+    },
+    {
+        "name": "Thập hữu tam đạo giám sát ngự sử"
+    },
+    {
+        "name": "Trung thư giám chính tự"
+    },
+    {
+        "name": "Trung thứ khoa"
+    },
+    {
+        "name": "Hải khoa"
+    },
+    {
+        "name": "Đông khoa"
+    },
+    {
+        "name": "Tây khoa"
+    },
+    {
+        "name": "Nam khoa"
+    },
+    {
+        "name": "Bắc Khoa"
+    },
+    {
+        "name": "Lục tự thừa"
+    },
+    {
+        "name": "Thái y viện biện nghiệm"
+    },
+    {
+        "name": "Tư thiên giám giám phó"
+    },
+    {
+        "name": "Phụng thiên huyện uý"
+    },
+    {
+        "name": "Vương phủ trưởng sử"
+    },
+    {
+        "name": "Hàn lâm viện kiểm khảo"
+    },
+    {
+        "name": "Tư kinh cục điển hàn"
+    },
+    {
+        "name": "Điện tiền ti điền ngục sở tù ngục"
+    },
+    {
+        "name": "Bí thư giám điển hàn"
+    },
+    {
+        "name": "Tư huấn nho lâm quán"
+    },
+    {
+        "name": "Tư huấn tú lâm cục"
+    },
+    {
+        "name": "Lục khoa cấp sự trung"
+    },
+    {
+        "name": "Hàn lâm viện tu soạn"
+    },
+    {
+        "name": "Quốc tử giám giáo thụ"
+    },
+    {
+        "name": "Sử quán tu soạn"
+    },
+    {
+        "name": "Tư thiên giám giám thừ"
+    },
+    {
+        "name": "Giáo phương ti chánh"
+    },
+    {
+        "name": "Bào chánh"
+    },
+    {
+        "name": "Man di phụ đạo ti phụ đạo chánh"
+    },
+    {
+        "name": "Điện tiền ti điền ngục sở điền ngục"
+    },
+    {
+        "name": "Thự chánh"
+    },
+    {
+        "name": "Cục chánh"
+    },
+    {
+        "name": "Lục bộ tư vụ"
+    },
+    {
+        "name": "Sử quán biên lục"
+    },
+    {
+        "name": "Ngự sử đài chiếu khám điền nghĩa"
+    },
+    {
+        "name": "Cáp môn ti sứ"
+    },
+    {
+        "name": "Ngũ kinh học chính"
+    },
+    {
+        "name": "Giám bạ"
+    },
+    {
+        "name": "Đại lý tự bình sự"
+    },
+    {
+        "name": "Khố sự thông sự chánh"
+    },
+    {
+        "name": "Tư thiên giám ngũ quan chánh"
+    },
+    {
+        "name": "Tế sinh đường sứ"
+    },
+    {
+        "name": "Phụng thiên phủ trị bình"
+    },
+    {
+        "name": "Thông sự ti điền sự"
+    },
+    {
+        "name": "Thiên sự viện điền sứ"
+    },
+    {
+        "name": "Bạn độc các phủ"
+    },
+    {
+        "name": "Phủ uý"
+    },
+    {
+        "name": "Lương y chánh"
+    },
+    {
+        "name": "Đô sự"
+    },
+    {
+        "name": "Kinh lịch"
+    },
+    {
+        "name": "Tri bạ"
+    },
+    {
+        "name": "Đô quan"
+    },
+    {
+        "name": "Chủ sự"
+    },
+    {
+        "name": "Thôi quan"
+    },
+    {
+        "name": "Thừa dụ cục cục phó"
+    },
+    {
+        "name": "Ngũ hình ngục sở tù ngục"
+    },
+    {
+        "name": "Phụ đạo ty phó"
+    },
+    {
+        "name": "Giáo phường ty phó"
+    },
+    {
+        "name": "Bào phó"
+    },
+    {
+        "name": "Lương uẩn ti tư lễ"
+    },
+    {
+        "name": "Ứng sự cục chánh"
+    },
+    {
+        "name": "Điền sở"
+    },
+    {
+        "name": "Tàm tang sở sở sứ"
+    },
+    {
+        "name": "Tinh mễ ti sứ"
+    },
+    {
+        "name": "Tuyên đạt cục phó"
+    },
+    {
+        "name": "Thượng y cục"
+    },
+    {
+        "name": "Tượng phó"
+    },
+    {
+        "name": "Điền cửu ti chánh"
+    },
+    {
+        "name": "Chưởng liễn cục chánh"
+    },
+    {
+        "name": "Điền tàng cục chánh"
+    },
+    {
+        "name": "Lục sự"
+    },
+    {
+        "name": "Khố phó sứ"
+    },
+    {
+        "name": "Đề khống"
+    },
+    {
+        "name": "Tôn nhân phủ kiểm hiệu"
+    },
+    {
+        "name": "Hồng lô tự ban"
+    },
+    {
+        "name": "Thông sự phó"
+    },
+    {
+        "name": "Tế sinh đường khán chẩn"
+    },
+    {
+        "name": "Sinh dược khố sứ"
+    },
+    {
+        "name": "Tư thiên giám tư thần lang"
+    },
+    {
+        "name": "Huấn đạo"
+    },
+    {
+        "name": "Thiện y sở thiện y chánh"
+    },
+    {
+        "name": "Giám hộ"
+    },
+    {
+        "name": "Khổng mục"
+    },
+    {
+        "name": "Lương y phó"
+    },
+    {
+        "name": "Cáp môn phó sứ"
+    },
+    {
+        "name": "Lang Lam Sơn tri sự"
+    },
+    {
+        "name": "Ngũ hình tư ngục sở ngục thừa"
+    },
+    {
+        "name": "Ngự sử đài án ngục sở ngục thừa"
+    },
+    {
+        "name": "Điền thiện sở điền thiện"
+    },
+    {
+        "name": "Thủ ngục sở ngục thừa"
+    },
+    {
+        "name": "Lương uẩn cục phó"
+    },
+    {
+        "name": "Đồn điền sở"
+    },
+    {
+        "name": "Tàm tang sớ phó sứ"
+    },
+    {
+        "name": "Chúng trà sở sở sứ"
+    },
+    {
+        "name": "Bách lý tả & Hữu Sở sở sứ"
+    },
+    {
+        "name": "Tăng lục ti tăng thống"
+    },
+    {
+        "name": "Đạo lục ti đạo thống"
+    },
+    {
+        "name": "Điền mục sở sở sứ"
+    },
+    {
+        "name": "Man di trưởng quan ti trưởng quan"
+    },
+    {
+        "name": "Chưởng liễn cục"
+    },
+    {
+        "name": "Điền tàng cục"
+    },
+    {
+        "name": "Trân tu cục cục phó"
+    },
+    {
+        "name": "Điền mục sở phó sứ"
+    },
+    {
+        "name": "Thị mãi ti ti sứ"
+    },
+    {
+        "name": "Các thuế sứ"
+    },
+    {
+        "name": "Độ trưởng"
+    },
+    {
+        "name": "Độ tư"
+    },
+    {
+        "name": "Thị trưởng"
+    },
+    {
+        "name": "Thị bình"
+    },
+    {
+        "name": "Huyền nghĩa hội môn quán"
+    },
+    {
+        "name": "Thự phó"
+    },
+    {
+        "name": "Dịch thừa"
+    },
+    {
+        "name": "Phố chánh"
+    },
+    {
+        "name": "Bách hí tả & Hữu Phó sứ"
+    },
+    {
+        "name": "Xiển giáo"
+    },
+    {
+        "name": "Tăng lục ti giác nghĩa"
+    },
+    {
+        "name": "Đạo lục ti diễn pháp"
+    },
+    {
+        "name": "Các đàn sứ"
+    },
+    {
+        "name": "Các từ thừa"
+    },
+    {
+        "name": "Y học huấn khoa"
+    },
+    {
+        "name": "Phủ khuyến nông sứ"
+    },
+    {
+        "name": "Phủ hà đê sứ"
+    },
+    {
+        "name": "Âm dương huấn thuật"
+    },
+    {
+        "name": "Tự chính"
+    },
+    {
+        "name": "Tăng đạo chánh"
+    },
+    {
+        "name": "Quán sứ"
+    },
+    {
+        "name": "Man di trưởng quan"
+    },
+    {
+        "name": "Ti phó trưởng quan"
+    },
+    {
+        "name": "Tăng đạo phó chánh"
+    },
+    {
+        "name": "Thái uý"
+    },
+    {
+        "name": "Tả đô đốc"
+    },
+    {
+        "name": "Hữu đô đốc"
+    },
+    {
+        "name": "Thiếu uý"
+    },
+    {
+        "name": "Đô kiểm điểm"
+    },
+    {
+        "name": "Đô hiệu kiểm"
+    },
+    {
+        "name": "Đề đốc"
+    },
+    {
+        "name": "Đô đốc đồng tri"
+    },
+    {
+        "name": "Đề lãnh"
+    },
+    {
+        "name": "Đô đốc thiêm sự"
+    },
+    {
+        "name": "Tả kiểm điểm"
+    },
+    {
+        "name": "Hữu kiểm điểm"
+    },
+    {
+        "name": "Tả hiệu kiểm"
+    },
+    {
+        "name": "Hữu hiệu kiểm"
+    },
+    {
+        "name": "Phó đề lãnh"
+    },
+    {
+        "name": "Đô chỉ huy sứ"
+    },
+    {
+        "name": "Đô tổng binh sứ"
+    },
+    {
+        "name": "Tuyên uý đại sứ"
+    },
+    {
+        "name": "Đô chỉ huy đồng tri"
+    },
+    {
+        "name": "Tổng tri chỉ huy sứ"
+    },
+    {
+        "name": "Tổng binh đồng tri"
+    },
+    {
+        "name": "Tuyên uý sứ"
+    },
+    {
+        "name": "Đô chỉ huy thiêm sự"
+    },
+    {
+        "name": "Chỉ huy sứ"
+    },
+    {
+        "name": "Tổng binh thiêm sự"
+    },
+    {
+        "name": "Tuyên uý đồng tri"
+    },
+    {
+        "name": "Chỉ huy sứ đồng tri"
+    },
+    {
+        "name": "Đô tổng tri"
+    },
+    {
+        "name": "Thiêm tổng tri"
+    },
+    {
+        "name": "Tuyên uý thiêm sự"
+    },
+    {
+        "name": "Thiêm thái giám"
+    },
+    {
+        "name": "Lực sĩ hiệu uý"
+    },
+    {
+        "name": "Tổng lĩnh"
+    },
+    {
+        "name": "Quản lĩnh"
+    },
+    {
+        "name": "Thiên hộ"
+    },
+    {
+        "name": "Chỉ huy thiêm sự"
+    },
+    {
+        "name": "Trấn điện tướng quân"
+    },
+    {
+        "name": "Phó tổng tri"
+    },
+    {
+        "name": "Thống chế"
+    },
+    {
+        "name": "Chánh đô uý"
+    },
+    {
+        "name": "Thiên hoà cung cung chính"
+    },
+    {
+        "name": "Quân dân chiêu thảo sứ"
+    },
+    {
+        "name": "Đồng tri giám sự"
+    },
+    {
+        "name": "Phó thiên hộ"
+    },
+    {
+        "name": "Trung uý"
+    },
+    {
+        "name": "Phó quản lĩnh"
+    },
+    {
+        "name": "Trung thành binh mã lang tướng ty lang tướng"
+    },
+    {
+        "name": "Thiên hoà cung cung phó"
+    },
+    {
+        "name": "Chiêu thảo đồng tri"
+    },
+    {
+        "name": "Tả thiếu giám"
+    },
+    {
+        "name": "Hữu thiếu giám"
+    },
+    {
+        "name": "Phó trung uý"
+    },
+    {
+        "name": "Chánh võ uý"
+    },
+    {
+        "name": "Chánh đề hạt"
+    },
+    {
+        "name": "Trung thành binh mã lang tướng ti phó tướng"
+    },
+    {
+        "name": "Thiên hoà cung cung thừa"
+    },
+    {
+        "name": "Chiêu bảo thiêm sự"
+    },
+    {
+        "name": "Kinh lược sứ"
+    },
+    {
+        "name": "Tả thừa"
+    },
+    {
+        "name": "Hữu thừa"
+    },
+    {
+        "name": "Đề hạt"
+    },
+    {
+        "name": "Nha vệ điện hiệu uý"
+    },
+    {
+        "name": "Kinh lược đồng tri"
+    },
+    {
+        "name": "Phòng ngự sứ"
+    },
+    {
+        "name": "Tả đề điểm"
+    },
+    {
+        "name": "Hữu đề điểm"
+    },
+    {
+        "name": "Tả"
+    },
+    {
+        "name": "hữu"
+    },
+    {
+        "name": "tiền & hậu Phó lang tướng"
+    },
+    {
+        "name": "Thiên hoà cung chánh chưởng"
+    },
+    {
+        "name": "Công bộ lục sở sở sứ"
+    },
+    {
+        "name": "Thái quan thự thái quan chính"
+    },
+    {
+        "name": "Võ uý"
+    },
+    {
+        "name": "Phó võ uý"
+    },
+    {
+        "name": "Phó đề hạt"
+    },
+    {
+        "name": "Tư binh cục"
+    },
+    {
+        "name": "Tây mã sở"
+    },
+    {
+        "name": "Kinh lược thiêm sự"
+    },
+    {
+        "name": "Phòng ngự đồng tri"
+    },
+    {
+        "name": "Thiên hoà cung phó chưởng"
+    },
+    {
+        "name": "Phó vệ uý"
+    },
+    {
+        "name": "Thượng tướng"
+    },
+    {
+        "name": "Thứ trưởng Bộ Quốc phòng"
+    },
+    {
+        "name": "Uỷ viên Thường vụ Quân uỷ trung ương"
+    },
+    {
+        "name": "Chủ tịch Hội Khoa học Lịch sử Việt Nam"
+    },
+    {
+        "name": "Thái bảo Yên Quận công"
+    },
+    {
+        "name": "Đại tá"
+    },
+    {
+        "name": "Tư lệnh Quân đoàn I"
+    },
+    {
+        "name": "Hoàng đế"
+    },
+    {
+        "name": "Hoàng tử"
+    },
+    {
+        "name": "Quan đại thần"
+    },
+    {
+        "name": "Đại tướng"
+    },
+    {
+        "name": "Bộ trưởng Bộ Quốc phòng"
+    },
+    {
+        "name": "Quan triều"
+    },
+    {
+        "name": "Chủ tịch nước"
+    },
+    {
+        "name": "Nguyên thủ quốc gia"
+    },
+    {
+        "name": "Thủ tướng"
+    },
+    {
+        "name": "Tổng Bí thư"
+    },
+    {
+        "name": "Tổng Tư lệnh"
+    },
+    {
+        "name": "Tổng trấn"
+    },
+    {
+        "name": "Tư lệnh Quân đoàn"
+    },
+    {
+        "name": "Tham mưu trưởng"
+    },
+    {
+        "name": "Tổng Tham mưu trưởng"
+    },
+    {
+        "name": "Trung tướng"
+    },
+    {
+        "name": "Tổng bí thư"
+    },
+    {
+        "name": "Chủ tịch Hội đồng Bộ trưởng"
+    },
+    {
+        "name": "Viện trưởng Viện kiểm sát nhân dân tối cao"
+    },
+    {
+        "name": "Chủ tịch Quốc hội"
+    },
+    {
+        "name": "Tổng Thanh tra Ban Thanh tra Chính phủ"
+    },
+    {
+        "name": "Bộ trưởng Bộ Y tế"
+    },
+    {
+        "name": "Bí thư Thành ủy"
+    },
+    {
+        "name": "Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước"
+    },
+    {
+        "name": "Tư lệnh"
+    },
+    {
+        "name": "Thiếu tướng"
+    },
+    {
+        "name": "Bộ trưởng Bộ Tài chính"
+    },
+    {
+        "name": "Bộ trưởng Bộ Lao động"
+    },
+    {
+        "name": "Trưởng ban Ban Thanh tra Bộ Giao thông Vận tải"
+    },
+    {
+        "name": "Phó Thủ tướng"
+    },
+    {
+        "name": "Bộ trưởng Bộ Cơ khí và Luyện kim"
+    },
+    {
+        "name": "Phó Bí thư Tỉnh ủy"
+    },
+    {
+        "name": "Chủ tịch Ủy ban nhân dân tỉnh Quảng Ninh"
+    },
+    {
+        "name": "Bộ trưởng Bộ Cứu tế xã hội"
+    },
+    {
+        "name": "Phó Chủ tịch nước"
+    },
+    {
+        "name": "Bí thư Tỉnh ủy"
+    },
+    {
+        "name": "Bí thư Đảng ủy Quân sự tỉnh"
+    },
+    {
+        "name": "Bộ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+        "name": "Chuẩn tướng"
+    },
+    {
+        "name": "Phó Ban Tuyên huấn Trung ương"
+    },
+    {
+        "name": "Đốc phủ sứ"
+    },
+    {
+        "name": "Bộ trưởng Bộ Nội vụ"
+    },
+    {
+        "name": "Bí thư Xứ ủy"
+    },
+    {
+        "name": "Phó Chủ nhiệm Tổng cục Hậu cần"
+    },
+    {
+        "name": "Cục trưởng cục Quân y"
+    },
+    {
+        "name": "Trưởng ban Tuyên giáo Trung ương"
+    },
+    {
+        "name": "Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội"
+    },
+    {
+        "name": "Thứ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+        "name": "Phó Chủ nhiệm Tổng cục Kỹ thuật"
+    },
+    {
+        "name": "Trưởng ban Khoa giáo Trung ương"
+    },
+    {
+        "name": "Viện trưởng Viện Năng lượng nguyên tử quốc gia"
+    },
+    {
+        "name": "Chủ nhiệm Ủy ban pháp luật Quốc hội"
+    },
+    {
+        "name": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ"
+    },
+    {
+        "name": "Trưởng Ban Tổ chức Trung ương"
+    },
+    {
+        "name": "Phó Chủ tịch Quốc hội"
+    },
+    {
+        "name": "Thứ trưởng Bộ Giao thông Vận tải"
+    },
+    {
+        "name": "Phó Đô đốc"
+    },
+    {
+        "name": "Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục"
+    },
+    {
+        "name": "Phó chủ tịch Hội Vật lý"
+    },
+    {
+        "name": "Bộ trưởng Bộ Ngoại giao"
+    },
+    {
+        "name": "Công chúa"
+    },
+    {
+        "name": "Hoàng hậu"
+    },
+    {
+        "name": "Thái hậu"
+    },
+    {
+        "name": "Phó Chủ tịch Hội đồng Bộ trưởng"
+    },
+    {
+        "name": "Chủ tịch Hội Nông dân"
+    },
+    {
+        "name": "Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội"
+    },
+    {
+        "name": "Viện trưởng Viện Kiểm sát Nhân dân Tối cao"
+    },
+    {
+        "name": "Chủ tịch Tổng Liên đoàn Lao động"
+    },
+    {
+        "name": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc"
+    }
+]

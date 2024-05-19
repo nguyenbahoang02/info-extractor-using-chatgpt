@@ -1,0 +1,984 @@
+[
+{
+  "name": "Thái sư"
+},
+{
+  "name": "Thái phó"
+},
+{
+  "name": "Thái bảo"
+},
+{
+  "name": "Thừa tướng"
+},
+{
+  "name": "Thái tử thái sư"
+},
+{
+  "name": "Thái tử thái phó"
+},
+{
+  "name": "Thái tử thái bảo."
+},
+{
+  "name": "Khu mật sứ"
+},
+{
+  "name": "Thiếu sư"
+},
+{
+  "name": "Thiếu phó"
+},
+{
+  "name": "Thiếu bảo"
+},
+{
+  "name": "Lại bộ"
+},
+{
+  "name": "Hộ bộ"
+},
+{
+  "name": "Lễ bộ"
+},
+{
+  "name": "Binh bộ"
+},
+{
+  "name": "Công bộ"
+},
+{
+  "name": "Hình bộ"
+},
+{
+  "name": "Thái tử thiếu sư"
+},
+{
+  "name": "Thái tử thiếu phó"
+},
+{
+  "name": "Thái tử thiếu bảo"
+},
+{
+  "name": "Phủ doãn Kinh đô"
+},
+{
+  "name": "Đại lý tự khanh"
+},
+{
+  "name": "Đô ngự sử"
+},
+{
+  "name": "Tông nhân phủ tông nhân lệnh"
+},
+{
+  "name": "Lăng chánh"
+},
+{
+  "name": "Tả thứ tử"
+},
+{
+  "name": "Hữu thứ tử"
+},
+{
+  "name": "Tổng thái giám"
+},
+{
+  "name": "Lục bộ"
+},
+{
+  "name": "Tả thị lang"
+},
+{
+  "name": "Hữu thị lang"
+},
+{
+  "name": "Thiên đô"
+},
+{
+  "name": "Lăng phó"
+},
+{
+  "name": "Tông nhân phủ"
+},
+{
+  "name": "Tả tôn chính"
+},
+{
+  "name": "Hữu tôn chính"
+},
+{
+  "name": "Tả dụ đức"
+},
+{
+  "name": "Hữu dụ đức"
+},
+{
+  "name": "Thừa chính sứ"
+},
+{
+  "name": "Đô thái giám"
+},
+{
+  "name": "Hàn lâm viện thừa chỉ"
+},
+{
+  "name": "Phó đô ngự sử"
+},
+{
+  "name": "Lăng thừa"
+},
+{
+  "name": "Tả trung doãn"
+},
+{
+  "name": "Hữu trung doãn"
+},
+{
+  "name": "Tả xuân phường"
+},
+{
+  "name": "Hữu xuân phường"
+},
+{
+  "name": "Thái giám"
+},
+{
+  "name": "Đông các đại học sĩ"
+},
+{
+  "name": "Quốc tử giám tế tửu"
+},
+{
+  "name": "Thông chính sứ"
+},
+{
+  "name": "Tham chính"
+},
+{
+  "name": "Tả Tán thiện"
+},
+{
+  "name": "Hữu Tán thiện"
+},
+{
+  "name": "Hàn lâm viện thị độc"
+},
+{
+  "name": "Thiêm đô ngự sử"
+},
+{
+  "name": "Thái thường tự"
+},
+{
+  "name": "Quang lộc tự"
+},
+{
+  "name": "Thái bộc tự"
+},
+{
+  "name": "Hồng lô tự"
+},
+{
+  "name": "Thường bảo tự"
+},
+{
+  "name": "Thiêm sự"
+},
+{
+  "name": "Thái y viện đại sứ"
+},
+{
+  "name": "Phụng thiên phủ doãn"
+},
+{
+  "name": "Tri châu"
+},
+{
+  "name": "Hàn lâm viện thị giảng"
+},
+{
+  "name": "Đông các học sĩ"
+},
+{
+  "name": "Quốc tử giám tư nghiệp"
+},
+{
+  "name": "Thái y viện sứ"
+},
+{
+  "name": "Tả Thuyết thư tham nghị"
+},
+{
+  "name": "Hữu Thuyết thư tham nghị"
+},
+{
+  "name": "Hàn lâm viện thị thư"
+},
+{
+  "name": "Đông các hiệu thư"
+},
+{
+  "name": "Trung thư giám xá nhân"
+},
+{
+  "name": "Thái y viện ngự y chánh"
+},
+{
+  "name": "Tư thiên giám"
+},
+{
+  "name": "Tư thiên lệnh"
+},
+{
+  "name": "Hiến sát cứ"
+},
+{
+  "name": "Lục bộ lang trung"
+},
+{
+  "name": "Lục tự thiếu khanh"
+},
+{
+  "name": "Phụng thiên thiếu doãn"
+},
+{
+  "name": "Đoán sự các vệ"
+},
+{
+  "name": "Ngũ phủ kinh lịch"
+},
+{
+  "name": "Hàn lâm viện đãi chế"
+},
+{
+  "name": "Trung thư giám"
+},
+{
+  "name": "Thái y viện y phó"
+},
+{
+  "name": "Bí thư giám điển thư"
+},
+{
+  "name": "Vương phủ tả & Hữu Tư giảng"
+},
+{
+  "name": "Thông chính ti thông thừa"
+},
+{
+  "name": "Lục bộ viên ngoại lang"
+},
+{
+  "name": "Tri phủ"
+},
+{
+  "name": "Hàn lâm viện hiệu lý"
+},
+{
+  "name": "Cáp môn đãi chiếu"
+},
+{
+  "name": "Đề hình giám sát ngự sử"
+},
+{
+  "name": "Thập hữu tam đạo giám sát ngự sử"
+},
+{
+  "name": "Trung thư giám chính tự"
+},
+{
+  "name": "Trung thứ khoa"
+},
+{
+  "name": "Hải khoa"
+},
+{
+  "name": "Đông khoa"
+},
+{
+  "name": "Tây khoa"
+},
+{
+  "name": "Nam khoa"
+},
+{
+  "name": "Bắc Khoa"
+},
+{
+  "name": "Lục tự thừa"
+},
+{
+  "name": "Thái y viện biện nghiệm"
+},
+{
+  "name": "Tư thiên giám giám phó"
+},
+{
+  "name": "Phụng thiên huyện uý"
+},
+{
+  "name": "Hiến sát phó sứ"
+},
+{
+  "name": "Vương phủ trưởng sử"
+},
+{
+  "name": "Hàn lâm viện kiểm khảo"
+},
+{
+  "name": "Tư kinh cục điển hàn"
+},
+{
+  "name": "Điện tiền ti điền ngục sở tù ngục"
+},
+{
+  "name": "Thông phán"
+},
+{
+  "name": "Bí thư giám điển hàn"
+},
+{
+  "name": "Tri huyện"
+},
+{
+  "name": "Tri châu"
+},
+{
+  "name": "Tư huấn nho lâm quán"
+},
+{
+  "name": "Tư huấn tú lâm cục"
+},
+{
+  "name": "Lục khoa cấp sự trung"
+},
+{
+  "name": "Hàn lâm viện tu soạn"
+},
+{
+  "name": "Quốc tử giám giáo thụ"
+},
+{
+  "name": "Sử quán tu soạn"
+},
+{
+  "name": "Tư thiên giám giám thừ"
+},
+{
+  "name": "Giáo phương ti chánh"
+},
+{
+  "name": "Bào chánh"
+},
+{
+  "name": "Man di phụ đạo ti phụ đạo chánh"
+},
+{
+  "name": "Điện tiền ti điền ngục sở điền ngục"
+},
+{
+  "name": "Thự chánh"
+},
+{
+  "name": "Cục chánh"
+},
+{
+  "name": "Lục bộ tư vụ"
+},
+{
+  "name": "Sử quán biên lục"
+},
+{
+  "name": "Ngự sử đài chiếu khám điền nghĩa"
+},
+{
+  "name": "Cáp môn ti sứ"
+},
+{
+  "name": "Ngũ kinh học chính"
+},
+{
+  "name": "Giám bạ"
+},
+{
+  "name": "Đại lý tự bình sự"
+},
+{
+  "name": "Khố sự thông sự chánh"
+},
+{
+  "name": "Tư thiên giám ngũ quan chánh"
+},
+{
+  "name": "Tế sinh đường sứ"
+},
+{
+  "name": "Phụng thiên phủ trị bình"
+},
+{
+  "name": "Thông sự ti điền sự"
+},
+{
+  "name": "Thiên sự viện điền sứ"
+},
+{
+  "name": "Bạn độc các phủ"
+},
+{
+  "name": "Phủ uý"
+},
+{
+  "name": "Vệ uý"
+},
+{
+  "name": "Lương y chánh"
+},
+{
+  "name": "Đô sự"
+},
+{
+  "name": "Kinh lịch"
+},
+{
+  "name": "Điển bạ"
+},
+{
+  "name": "Tri bạ"
+},
+{
+  "name": "Đô quan"
+},
+{
+  "name": "Chủ sự"
+},
+{
+  "name": "Thôi quan"
+},
+{
+  "name": "Huyện thừa"
+},
+{
+  "name": "Đồng tri châu"
+},
+{
+  "name": "Thừa dụ cục cục phó"
+},
+{
+  "name": "Ngũ hình ngục sở tù ngục"
+},
+{
+  "name": "Phụ đạo ty phó"
+},
+{
+  "name": "Giáo phường ty phó"
+},
+{
+  "name": "Bào phó"
+},
+{
+  "name": "Lương uẩn ti tư lễ"
+},
+{
+  "name": "Ứng sự cục chánh"
+},
+{
+  "name": "Điền sở"
+},
+{
+  "name": "Tàm tang sở sở sứ"
+},
+{
+  "name": "Tinh mễ ti sứ"
+},
+{
+  "name": "Tuyên đạt cục phó"
+},
+{
+  "name": "Thượng y cục"
+},
+{
+  "name": "Tượng phó"
+},
+{
+  "name": "Điền cửu ti chánh"
+},
+{
+  "name": "Chưởng liễn cục chánh"
+},
+{
+  "name": "Điền tàng cục chánh"
+},
+{
+  "name": "Lục sự"
+},
+{
+  "name": "Khố phó sứ"
+},
+{
+  "name": "Đề khống"
+},
+{
+  "name": "Tôn nhân phủ kiểm hiệu"
+},
+{
+  "name": "Hồng lô tự ban"
+},
+{
+  "name": "Thông sự phó"
+},
+{
+  "name": "Tế sinh đường khán chẩn"
+},
+{
+  "name": "Sinh dược khố sứ"
+},
+{
+  "name": "Tư thiên giám tư thần lang"
+},
+{
+  "name": "Huấn đạo"
+},
+{
+  "name": "Thiện y sở thiện y chánh"
+},
+{
+  "name": "Giám hộ"
+},
+{
+  "name": "Giảng dụ"
+},
+{
+  "name": "Khổng mục"
+},
+{
+  "name": "Lương y phó"
+},
+{
+  "name": "Cáp môn phó sứ"
+},
+{
+  "name": "Lang Lam Sơn tri sự"
+},
+{
+  "name": "Ngũ hình tư ngục sở ngục thừa"
+},
+{
+  "name": "Ngự sử đài án ngục sở ngục thừa"
+},
+{
+  "name": "Điền thiện sở điền thiện"
+},
+{
+  "name": "Thủ ngục sở ngục thừa"
+},
+{
+  "name": "Lương uẩn cục phó"
+},
+{
+  "name": "Đồn điền sở"
+},
+{
+  "name": "Tàm tang sớ phó sứ"
+},
+{
+  "name": "Chúng trà sở sở sứ"
+},
+{
+  "name": "Bách lý tả & Hữu Sở sở sứ"
+},
+{
+  "name": "Tăng lục ti tăng thống"
+},
+{
+  "name": "Đạo lục ti đạo thống"
+},
+{
+  "name": "Điền mục sở sở sứ"
+},
+{
+  "name": "Man di trưởng quan ti trưởng quan"
+},
+{
+  "name": "Chưởng liễn cục"
+},
+{
+  "name": "Điền tàng cục"
+},
+{
+  "name": "Trân tu cục cục phó"
+},
+{
+  "name": "Điền mục sở phó sứ"
+},
+{
+  "name": "Thị mãi ti ti sứ"
+},
+{
+  "name": "Các thuế sứ"
+},
+{
+  "name": "Độ trưởng"
+},
+{
+  "name": "Độ tư"
+},
+{
+  "name": "Thị trưởng"
+},
+{
+  "name": "Thị bình"
+},
+{
+  "name": "Huyền nghĩa hội môn quán"
+},
+{
+  "name": "Thự phó"
+},
+{
+  "name": "Dịch thừa"
+},
+{
+  "name": "Phố chánh"
+},
+{
+  "name": "Bách hí tả & Hữu Phó sứ"
+},
+{
+  "name": "Xiển giáo"
+},
+{
+  "name": "Tăng lục ti giác nghĩa"
+},
+{
+  "name": "Đạo lục ti diễn pháp"
+},
+{
+  "name": "Các đàn sứ"
+},
+{
+  "name": "Các từ thừa"
+},
+{
+  "name": "Y học huấn khoa"
+},
+{
+  "name": "Phủ khuyến nông sứ"
+},
+{
+  "name": "Phủ hà đê sứ"
+},
+{
+  "name": "Âm dương huấn thuật"
+},
+{
+  "name": "Tự chính"
+},
+{
+  "name": "Tăng đạo chánh"
+},
+{
+  "name": "Quán sứ"
+},
+{
+  "name": "Man di trưởng quan"
+},
+{
+  "name": "Ti phó trưởng quan"
+},
+{
+  "name": "Tăng đạo phó chánh"
+},
+{
+  "name": "Thái sư"
+},
+{
+  "name": "Thái uý"
+},
+{
+  "name": "Thái phó"
+},
+{
+  "name": "Thái bảo"
+},
+{
+  "name": "Thiếu sư"
+},
+{
+  "name": "Thiếu phó"
+},
+{
+  "name": "Thiếu bảo"
+},
+{
+  "name": "Tả đô đốc"
+},
+{
+  "name": "Hữu đô đốc"
+},
+{
+  "name": "Thiếu uý"
+},
+{
+  "name": "Đô kiểm điểm"
+},
+{
+  "name": "Đô hiệu kiểm"
+},
+{
+  "name": "Đề đốc"
+},
+{
+  "name": "Đô đốc đồng tri"
+},
+{
+  "name": "Đề lãnh"
+},
+{
+  "name": "Đô đốc thiêm sự"
+},
+{
+  "name": "Tả kiểm điểm"
+},
+{
+  "name": "Hữu kiểm điểm"
+},
+{
+  "name": "Tả hiệu kiểm"
+},
+{
+  "name": "Hữu hiệu kiểm"
+},
+{
+  "name": "Tham đốc"
+},
+{
+  "name": "Phó đề lãnh"
+},
+{
+  "name": "Đô chỉ huy sứ"
+},
+{
+  "name": "Đô tổng binh sứ"
+},
+{
+  "name": "Tuyên uý đại sứ"
+},
+{
+  "name": "Tổng thái giám"
+},
+{
+  "name": "Đô chỉ huy đồng tri"
+},
+{
+  "name": "Tổng tri chỉ huy sứ"
+},
+{
+  "name": "Tổng binh đồng tri"
+},
+{
+  "name": "Tuyên uý sứ"
+},
+{
+  "name": "Đô thái giám"
+},
+{
+  "name": "Đô chỉ huy thiêm sự"
+},
+{
+  "name": "Chỉ huy sứ"
+},
+{
+  "name": "Tổng binh thiêm sự"
+},
+{
+  "name": "Tuyên uý đồng tri"
+},
+{
+  "name": "Thái giám"
+},
+{
+  "name": "Chỉ huy sứ đồng tri"
+},
+{
+  "name": "Tổng binh đồng tri"
+},
+{
+  "name": "Đô tổng tri"
+},
+{
+  "name": "Thiêm tổng tri"
+},
+{
+  "name": "Tuyên uý thiêm sự"
+},
+{
+  "name": "Thiêm thái giám"
+},
+{
+  "name": "Lực sĩ hiệu uý"
+},
+{
+  "name": "Tổng lĩnh"
+},
+{
+  "name": "Quản lĩnh"
+},
+{
+  "name": "Thiên hộ"
+},
+{
+  "name": "Chỉ huy thiêm sự"
+},
+{
+  "name": "Trấn điện tướng quân"
+},
+{
+  "name": "Phó tổng tri"
+},
+{
+  "name": "Thống chế"
+},
+{
+  "name": "Chánh đô uý"
+},
+{
+  "name": "Thiên hoà cung cung chính"
+},
+{
+  "name": "Quân dân chiêu thảo sứ"
+},
+{
+  "name": "Đồng tri giám sự"
+},
+{
+  "name": "Phó thiên hộ"
+},
+{
+  "name": "Trung uý"
+},
+{
+  "name": "Phó quản lĩnh"
+},
+{
+  "name": "Trung thành binh mã lang tướng ty lang tướng"
+},
+{
+  "name": "Thiên hoà cung cung phó"
+},
+{
+  "name": "Chiêu thảo đồng tri"
+},
+{
+  "name": "Tả thiếu giám"
+},
+{
+  "name": "Hữu thiếu giám"
+},
+{
+  "name": "Phó trung uý"
+},
+{
+  "name": "Chánh võ uý"
+},
+{
+  "name": "Bách hộ"
+},
+{
+  "name": "Chánh đề hạt"
+},
+{
+  "name": "Trung thành binh mã lang tướng ti phó tướng"
+},
+{
+  "name": "Thiên hoà cung cung thừa"
+},
+{
+  "name": "Chiêu bảo thiêm sự"
+},
+{
+  "name": "Kinh lược sứ"
+},
+{
+  "name": "Tả thừa"
+},
+{
+  "name": "Hữu thừa"
+},
+{
+  "name": "Đề hạt"
+},
+{
+  "name": "Nha vệ điện hiệu uý"
+},
+{
+  "name": "Kinh lược đồng tri"
+},
+{
+  "name": "Phòng ngự sứ"
+},
+{
+  "name": "Tả đề điểm"
+},
+{
+  "name": "Hữu đề điểm"
+},
+{
+  "name": "Tả"
+},
+{
+  "name": "hữu"
+},
+{
+  "name": "tiền & hậu Phó lang tướng"
+},
+{
+  "name": "Thiên hoà cung chánh chưởng"
+},
+{
+  "name": "Công bộ lục sở sở sứ"
+},
+{
+  "name": "Thái quan thự thái quan chính"
+},
+{
+  "name": "Tả đề điểm"
+},
+{
+  "name": "Hữu đề điểm"
+},
+{
+  "name": "Võ uý"
+},
+{
+  "name": "Phó võ uý"
+},
+{
+  "name": "Phó đề hạt"
+},
+{
+  "name": "Tư binh cục"
+},
+{
+  "name": "Tây mã sở"
+},
+{
+  "name": "Kinh lược thiêm sự"
+},
+{
+  "name": "Phòng ngự đồng tri"
+},
+{
+  "name": "Thiên hoà cung phó chưởng"
+},
+{
+  "name": "Vệ uý"
+},
+{
+  "name": "Phó vệ uý"
+},
+{
+  "name": "Phủ uý"
+}
+
+]
