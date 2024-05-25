@@ -10,7 +10,7 @@ query_result = read_json_objects_from_file("queryResults.json")
 labels = []
 
 for Xlabel in query_result["results"]["bindings"]:
-    labels.append(Xlabel["XLabel"]["value"])
+    labels.append(Xlabel["label"]["value"])
 
 output_file = 'labels.json'
 with open(output_file, 'w', encoding='utf-8') as file:
