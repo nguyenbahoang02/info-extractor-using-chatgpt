@@ -3,23 +3,35 @@ import json
 import os
 from itertools import dropwhile
 
+
 def read_json_objects_from_file(file_path):
     with open(file_path, 'r', encoding="utf8") as file:
         data = json.load(file)
     return data
 
-file_path = 'refinedFestivalFromLehoiInfo_2.json'
-json_objects = read_json_objects_from_file(file_path)
 
+json_objects = read_json_objects_from_file(
+    "refinedFestivalFromLehoiInfo_2.json")
+exists_festivals = read_json_objects_from_file(
+    "festival_with_raw_time/final.json")
 festival = ""
-festivals = []
-start_iteration = False
+festivals = read_json_objects_from_file("festival_with_raw_time/final.json")
 
-if os.path.exists("labeled_reviews.json"):
-    labeled_reviews = read_json_objects_from_file("labeled_reviews.json")
-    label = labeled_reviews[-1]["input"]["comment"]
-else:
-    start_iteration = True
+# start_iteration = False
+
+# if os.path.exists("labeled_reviews.json"):
+#     labeled_reviews = read_json_objects_from_file("labeled_reviews.json")
+#     label = labeled_reviews[-1]["input"]["comment"]
+# else:
+#     start_iteration = True
+
+
+def check_exist(name):
+    for fes in exists_festivals:
+        if fes['name'] == name:
+            return True
+    return False
+
 
 chrome_driver_path = r"F:\Downloads\chromedriver-win64\chromedriver.exe"
 
@@ -28,17 +40,12 @@ chrome_path = r'"F:\Downloads\chrome-win64\chrome.exe"'
 chatgpt = ChatGPTAutomation(chrome_path, chrome_driver_path)
 
 for obj in json_objects:
-    if 'description' not in obj:
-        continue
-    if obj['name'] == "Tổ chức trọng thể Lễ kỷ niệm 70 năm ngày Bác Hồ về nước tại Cao Bằng":
-        start_iteration = True
-        continue
-    if start_iteration:
+    if not check_exist(obj['name']):
         try:
             print(obj['name'])
             description = obj['description']
             prompt = "Hãy trích xuất tên lễ hội và thời gian(nếu lễ hội kết thúc trong 1 ngày thì thời gian bắt đầu bằng kết thúc) từ mô tả sau(không được bịa thông tin) ?" + description.replace(
-                "'", " ") + "Hãy trả lời dưới dạng 1 json object. Ví dụ: {name: Lễ hội Giã La,time :{start: 6/1,end: 14/1,lunarCalendar: True(False nếu là ngày dương lịch)}}" + "Bạn không cần phải giải thích 1 điều gì chỉ cần trả về 1 json object là được"
+                "'", " ") + "Hãy trả lời dưới dạng 1 json object. Ví dụ: {name: Lễ hội Giã La,time :{start: 6/1,end: 14/1,lunarCalendar: True(False nếu là ngày dương lịch)}}" + "Bạn không cần phải giải thích 1 điều gì chỉ cần trả về 1 json object là được VÀ HÃY TRẢ LỜI Ở DẠNG TEXT"
             chatgpt.send_prompt_to_chatgpt(prompt)
             response = chatgpt.return_last_response()
             print(response)
@@ -59,5 +66,5 @@ for obj in json_objects:
             print(e)
             print('\n')
 
-with open('festival_with_raw_time/extracted_using_chatgpt_36.json', 'w', encoding='utf-8') as file:
+with open('festival_with_raw_time/final.json', 'w', encoding='utf-8') as file:
     json.dump(festivals, file, ensure_ascii=False)

@@ -7,23 +7,22 @@ def read_json_objects_from_file(file_path):
     return data
 
 
-title_with_description = read_json_objects_from_file("newTitles.json")
-titles = read_json_objects_from_file("title/cleaned_data.json")
+title_with_description = read_json_objects_from_file(
+    "festival_with_raw_time/extracted_using_chatgpt_37.json")
+titles = read_json_objects_from_file("festival_with_raw_time/final.json")
 
 
-def check_exist(title_name):
-    for obj in title_with_description:
-        if obj["name"] == title_name:
-            print(title_name)
-            return True
-    return False
+# def check_exist(title_name):
+#     for obj in title_with_description:
+#         if obj["name"] == title_name:
+#             print(title_name)
+#             return True
+#     return False
 
 
-for title in titles:
-    for title_obj in title["chức vụ"]:
-        if not check_exist(title_obj):
-            title_with_description.append({"name": title_obj})
+for title in title_with_description:
+    titles.append(title)
 
-output_file = 'newTitles_1.json'
+output_file = 'festival_with_raw_time/final.json'
 with open(output_file, 'w', encoding='utf-8') as file:
-    json.dump(title_with_description, file, indent=4, ensure_ascii=False)
+    json.dump(titles, file, indent=4, ensure_ascii=False)
