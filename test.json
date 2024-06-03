@@ -1,20 +1,10 @@
 [
   {
-    "question": "Ai mất năm 1970 ?",
-    "output": {
-      "year": "1970",
-      "month": null,
-      "day": null,
-      "isLunarCalendar": false
-    }
+    "question": "Nguyễn Gia Khang và Nguyễn Gia Phan",
+    "output": "no"
   },
   {
-    "question": "Lễ hội nào tổ chức vào 10/3 âm lịch ?",
-    "output": {
-      "year": null,
-      "month": "3",
-      "day": "10",
-      "isLunarCalendar": true
-    }
+    "question": "Thành phố Hà Nội và Hanoi",
+    "output": "yes"
   }
 ]
