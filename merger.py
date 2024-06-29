@@ -7,29 +7,15 @@ def read_json_objects_from_file(file_path):
     return data
 
 
-historical_figures_with_only_relation = read_json_objects_from_file(
-    "relation/cleaned_data.json")
-historical_figures = read_json_objects_from_file(
-    "HFFromWikipediaWithRelation_2.json")
+festivals_with_only_relation = read_json_objects_from_file(
+    "festival_historical_figure/festival_final_time.json")
+festivals = read_json_objects_from_file(
+    "festival_historical_figure/cleaned_data.json")
 
-
-# def check_exist(title_name):
-#     for obj in title_with_description:
-#         if obj["name"] == title_name:
-#             print(title_name)
-#             return True
-#     return False
-
-
-for historical_figure in historical_figures_with_only_relation:
-    for hf in historical_figures:
-        if hf["name"] == historical_figure["name"]:
-            for relation in historical_figure["liên hệ"]:
-                if relation["loại"] not in hf:
-                    hf[relation["loại"]] = []
-                if not isinstance(hf[relation["loại"]], list):
-                    hf[relation["loại"]] = []
-                hf[relation["loại"]].append(relation["tên"])
+for festival in festivals_with_only_relation:
+    for fes in festivals:
+        if fes["name"] == festival["name"]:
+            fes["commemorate"] = festival[""]
 
 output_file = 'HFFromWikipediaWithRelation_3.json'
 with open(output_file, 'w', encoding='utf-8') as file:

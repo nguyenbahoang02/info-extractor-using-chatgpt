@@ -1,3408 +1,3262 @@
 [
-    {
-        "name": "Tưng bừng hội vật truyền thống chùa Cao xã Hạ Bằng - Thạch Thất",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Hội Giằng bông cầu quý tử ở Sơn Đồng - Hà Nội",
-        "thờ": "Lý Phúc Man"
-    },
-    {
-        "name": "Lễ hội Giã La",
-        "thờ": "Đương Cảnh"
-    },
-    {
-        "name": "Lễ hội đình và đền Kim Liên",
-        "thờ": "Cao Sơn Đại Vương"
-    },
-    {
-        "name": "Lễ hội đình - đền Chèm tại Hà Nội",
-        "thờ": "Đức Ông Lý Ông Trọng"
-    },
-    {
-        "name": "Những đổi mới trong lễ hội chùa Hương năm 2018",
-        "thờ": "Quan Thế Âm Bồ Tát"
-    },
-    {
-        "name": "Lễ hội Âm nhạc Quốc tế Gió mùa Monsoon Music Festival 2017 tại Hà Nội",
-        "thờ": "Quốc Trung"
-    },
-    {
-        "name": "Hội đền Quán Thánh tại Hà Nội",
-        "thờ": "Huyền Thiên Trấn Vũ"
-    },
-    {
-        "name": "Hội đền Lư Giang tại Hà Nội",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Hội làng Thọ Am tại Hà Nội",
-        "thờ": [
-            "Tướng quân Đoàn Thượng",
-            "Quan nghè Nguyễn Phục"
-        ]
-    },
-    {
-        "name": "Hội làng Sủi tại Hà Nội",
-        "thờ": [
-            "Nguyên phi Ỷ Lan",
-            "Tướng quân Đào Liên Hoa"
-        ]
-    },
-    {
-        "name": "Hội làng Hạ Thái tại Hà Nội",
-        "thờ": [
-            "Lê Bùi Sĩ Lượng",
-            "Đinh Thị Trạch"
-        ]
-    },
-    {
-        "name": "Hội làng Chàng Sơn tại Hà Nội",
-        "thờ": [
-            "Đức Thánh Tản Viên",
-            "Tiếu Thiện Đại Vương",
-            "Trầm Đồng Đại Vương"
-        ]
-    },
-    {
-        "name": "Lễ hội truyền thống làng Bắc Biên tại Hà Nội",
-        "thờ": [
-            "Thành hoàng Lý Thường Kiệt",
-            "Phương Dung",
-            "Đào Kỳ"
-        ]
-    },
-    {
-        "name": "Hội chùa Thầy tại Hà Nội",
-        "thờ": "Từ Đạo Hạnh"
-    },
-    {
-        "name": "Hội chùa Thánh Chúa tại Hà Nội",
-        "thờ": "Nguyên Phi Ỷ Lan"
-    },
-    {
-        "name": "Lễ hội truyền thống chùa Duệ Tú",
-        "thờ": "Đại Điên Thượng Đẳng"
-    },
-    {
-        "name": "Hội đền Voi Phục tại Hà Nội",
-        "thờ": "Linh Lang Đại vương"
-    },
-    {
-        "name": "Hội đền Bạch Mã tại Hà Nội",
-        "thờ": "Thần Long Đỗ"
-    },
-    {
-        "name": "Hội đền Bích Câu tại Hà Nội",
-        "thờ": "Trần Tú Uyên"
-    },
-    {
-        "name": "Hội đền Bà Chúa tại Hà Nội",
-        "thờ": "Công chúa Túc Trinh"
-    },
-    {
-        "name": "Lễ hội truyền thống đình Tứ Liên (đình Ngọc Xuyên) tại Hà Nội",
-        "thờ": "3 vị Thành hoàng làng Tứ Liên: Bảo Trung, Minh Khiết, Phương"
-    },
-    {
-        "name": "Hội đình Nhật Tân tại Hà Nội",
-        "thờ": "Đại vương Uy Linh Lang (Trần Linh Lang)"
-    },
-    {
-        "name": "Hội đình Ngũ Giáp tại Hà Nội",
-        "thờ": "Lã Phủ Quân (Lữ Gia)"
-    },
-    {
-        "name": "Hội đình làng Trung Kính Thượng tại Hà Nội",
-        "thờ": "Quốc Vương Đại Thần Hùng Công"
-    },
-    {
-        "name": "Hội đình Giảng Võ tại Hà Nội",
-        "thờ": "Lý Thị Châu"
-    },
-    {
-        "name": "Hội đình Giàn tại Hà Nội",
-        "thờ": "Lý Phục Man"
-    },
-    {
-        "name": "Hội đình Đông Phù tại Hà Nội",
-        "thờ": "Nguyễn Siêu"
-    },
-    {
-        "name": "Hội xã Tự Nhiên huyện Thường Tín - Hà Nội",
-        "thờ": "Đào Thành"
-    },
-    {
-        "name": "Hội Võng Thị tại Hà Nội",
-        "thờ": "Thần Mục Thận"
-    },
-    {
-        "name": "Hội thờ Thủy thần tại Hà Nội",
-        "thờ": "Đức Bảo Ninh"
-    },
-    {
-        "name": "Hội thả chim làng Dục Tú huyện Đông Anh - Hà Nội",
-        "thờ": "Đức Phật"
-    },
-    {
-        "name": "Lễ hội đình Sài Đồng tại Hà Nội",
-        "thờ": "Linh Lang Đại Vương"
-    },
-    {
-        "name": "Hội rước Thành hoàng tổng Hà Hồi tại Hà Nội",
-        "thờ": "Thành hoàng Cao Sơn"
-    },
-    {
-        "name": "Hội phủ Tây Hồ tại Hà Nội",
-        "thờ": "Chúa Liễu Hạnh"
-    },
-    {
-        "name": "Hội miếu Mèn tại Hà Nội",
-        "thờ": "Bà Man Thiện"
-    },
-    {
-        "name": "Hội làng Xuân Nộn tại Hà Nội",
-        "thờ": {
-            "Vũ Định Đại vương": "Thiên Lôi tôn thần"
-        }
-    },
-    {
-        "name": "Hội làng Thượng Phúc tại Hà Nội",
-        "thờ": {
-            "Minh Từ Hoàng Thái hậu": "Bồ Tát"
-        }
-    },
-    {
-        "name": "Hội vật cầu truyền thống làng Thúy Lĩnh tại Hà Nội",
-        "thờ": "Lý Thánh Tông"
-    },
-    {
-        "name": "Hội làng Tả Thanh Oai tại Hà Nội",
-        "thờ": "Lê Đại Hành"
-    },
-    {
-        "name": "Hội làng Hữu Thanh Oai tại Hà Nội",
-        "thờ": "Lê Hoàn"
-    },
-    {
-        "name": "Hội làng Ruộng tại Đông Anh - Hà Nội",
-        "thờ": "Nồi Hầu"
-    },
-    {
-        "name": "Hội làng Quậy tại Hà Nội",
-        "thờ": "Thủy Hải, Đăng Giang, Khổng Chúng, Thánh Tam Giang, Đông Hải"
-    },
-    {
-        "name": "Hội làng Phú Mỹ - Kiều Mai tại Hà Nội",
-        "thờ": "Thành hoàng làng Đào Trường, Quốc vương Thiên tử đại vương tức Lý Nam Đế, Ả Lã Nàng Đê, Diêm La Thiên tử đại vương tức Lý Phật Tử"
-    },
-    {
-        "name": "Hội làng Nghi Tàm tại Hà Nội",
-        "thờ": "Minh Khiết Dực Thánh Thần, Bảo Trung Cương Đoán Thần, Triều Đình Phù Quốc Thần, Lỗ Quốc Thái Sư Thần, Hoàng Hiệp Tây Hồ Thủy Thần, Quỳnh Hoa Đoan Trang Công chúa Thần"
-    },
-    {
-        "name": "Hội làng Ngọc Trì tại Hà Nội",
-        "thờ": "Huyền Thiên Trấn Vũ"
-    },
-    {
-        "name": "Hội làng Mạnh Tân tại Đông Anh - Hà Nội",
-        "thờ": "Bà Phạm Thị, Đương Giang"
-    },
-    {
-        "name": "Lễ hội truyền thống làng Liên Bạt tại Hà Nội",
-        "thờ": "Đặng Sĩ, Đặng Xã, Đặng Lang"
-    },
-    {
-        "name": "Lễ hội truyền thống làng Khê Hồi",
-        "thờ": "Thành hoàng Cao Sơn Đại Vương"
-    },
-    {
-        "name": "Hội làng Hồ Khẩu tại Hà Nội",
-        "thờ": "Dực thánh Đại vương (Cống Lễ)"
-    },
-    {
-        "name": "Lễ hội làng Hậu Ái tại Hà Nội",
-        "thờ": "Đỗ Kính Tu"
-    },
-    {
-        "name": "Hội làng Hải Bối tại Hà Nội",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Lễ hội truyền thống làng Hạ Mỗ tại Hà Nội",
-        "thờ": "Lý Bát Lang"
-    },
-    {
-        "name": "Hội làng Giáp Lục tại Hà Nội",
-        "thờ": "Nguyễn Chính"
-    },
-    {
-        "name": "Hội làng Canh Hoạch tại Hà Nội",
-        "thờ": "Nguyễn Quyện"
-    },
-    {
-        "name": "Hội làng Đông Dư tại Hà Nội",
-        "thờ": "Cao Sơn đại vương, Bạch Đa đại vương, Linh Lang đại vương, Khang Trí đại vương"
-    },
-    {
-        "name": "Hội làng Đa Sỹ tại Hà Đông - Hà Nội",
-        "thờ": "Hoàng Đôn Hòa"
-    },
-    {
-        "name": "Hội làng Giá tại Hà Nội",
-        "thờ": "Phạm Tu"
-    },
-    {
-        "name": "Hội Phù Gióng Chi Nam tại Hà Nội",
-        "thờ": "Bùi Duy Trí"
-    },
-    {
-        "name": "Hội chùa Tam Huyền ở Hà Nội",
-        "thờ": "Từ Vinh"
-    },
-    {
-        "name": "Hội chùa Đậu tại Hà Nội",
-        "thờ": "Vũ Khắc Trường và Vũ Khắc Minh"
-    },
-    {
-        "name": "Hội gieo cầu Viên Nội tại Đông Anh - Hà Nội",
-        "thờ": "Tống Vĩnh và Uông Tá"
-    },
-    {
-        "name": "Hội làng Thượng Cát",
-        "thờ": "Thành Hoàng Quách tướng công và hai vị công chúa họ Đinh"
-    },
-    {
-        "name": "Hội đền Thanh Nhàn tại Hà Nội",
-        "thờ": "Phù Đổng Thiên Vương"
-    },
-    {
-        "name": "Hội đền Thụy Khuê tại Hà Nội",
-        "thờ": "Linh Lang đại vương và sáu bộ tướng"
-    },
-    {
-        "name": "Hội đền Sái tại Hà Nội",
-        "thờ": "thần Huyền Thiên Trấn Vũ"
-    },
-    {
-        "name": "Hội đền Đức Thánh Cả tại Hà Nội",
-        "thờ": "Lý Nam Đế"
-    },
-    {
-        "name": "Hội đền Hạ Lôi thờ Hai Bà Trưng tại Mê Linh",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Hội đền Hát Môn tại Hà Nội",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Hội đền Đồng Cổ quận Tây Hồ - Hà Nội",
-        "thờ": "Thiên Hạ Minh"
-    },
-    {
-        "name": "Hội đền Đông Bộ Đầu tại Hà Nội",
-        "thờ": "Huyền Thiên"
-    },
-    {
-        "name": "Hội làng Vẽ tại Hà Nội",
-        "thờ": "Thành Hoàng, Lê Khôi, Bảo vệ Chương Hòa, Phạm Quang Dung, Mạc quận công"
-    },
-    {
-        "name": "Lễ hạ cờ tại quảng trường Ba Đình",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ thượng cờ tại Quảng trường Ba Đình",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hội đình Ngoại tại Hà Nội",
-        "thờ": "Đô Hồ Đại vương Phạm Tu"
-    },
-    {
-        "name": "Rộn ràng hội đình Quảng Bá tại Hà Nội",
-        "thờ": "Bố Cái Đại Vương Phùng Hưng"
-    },
-    {
-        "name": "Hội đình Nhật Tảo tại Hà Nội",
-        "thờ": "Thành Hoàng Trần Nguyên Trác"
-    },
-    {
-        "name": "Hội đình Phú Diễn tại Hà Nội",
-        "thờ": "Thành Hoàng Đào Trường"
-    },
-    {
-        "name": "Hội làng nghề dệt Vạn Phúc tại Hà Nội",
-        "thờ": "Ả Lã Đê Nương"
-    },
-    {
-        "name": "Lễ hội đình Vạn Phúc tại Hà Nội",
-        "thờ": "Linh Lang Đại vương"
-    },
-    {
-        "name": "Hội Gióng Phù Đổng huyện Gia Lâm",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Hội đình Khương Hạ tại Hà Nội",
-        "thờ": "Lê Dương Vệ"
-    },
-    {
-        "name": "Hội đình Bà Tía (Hội đình Vĩnh Ninh) tại Hà Nội",
-        "thờ": "Bà Tía"
-    },
-    {
-        "name": "Hội đình Phú Gia tại quận Tây Hồ, Hà Nội",
-        "thờ": "Thần Khai Nguyên"
-    },
-    {
-        "name": "Lễ hội kén rể Đường Yên tại Hà Nội",
-        "thờ": "Lê Hoa"
-    },
-    {
-        "name": "Lễ hội chùa Trầm tại Hà Nội",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Hội làng Nhị Khê tại Hà Nội",
-        "thờ": "Đoàn Tài"
-    },
-    {
-        "name": "Hội Bạch Trữ (Kẻ Bạch) tại Hà Nội",
-        "thờ": "Mị Nương Công chúa và Hoàng Cống"
-    },
-    {
-        "name": "Hội đền Nguyễn Trãi tại huyện Thường Tín, Hà Nội",
-        "thờ": "Nguyễn Trãi"
-    },
-    {
-        "name": "Hội đền Ghềnh tại Long Biên, Hà Nội",
-        "thờ": "Công chúa Ngọc Hân"
-    },
-    {
-        "name": "Hội đền Cai Công tại Hà Nội",
-        "thờ": "Cai Công"
-    },
-    {
-        "name": "Lễ Vu lan báo hiếu",
-        "thờ": "Bồ Tát Mục Kiền Liên"
-    },
-    {
-        "name": "Lễ hội làng nghề Sơn Đồng tại Hà Nội",
-        "thờ": "Đào Trực"
-    },
-    {
-        "name": "Lễ hội vật làng Mai Động, Hà Nội",
-        "thờ": "Nguyễn Tam Trinh"
-    },
-    {
-        "name": "Lễ hội Chạy Lợn ở Hà Nội",
-        "thờ": "Cao Sơn Đại vương"
-    },
-    {
-        "name": "Lễ hội Tản Viên Sơn Thánh tại Hà Nội",
-        "thờ": "Tản Viên Sơn Thánh"
-    },
-    {
-        "name": "Lễ giỗ tổ nghề hát Xẩm",
-        "thờ": "Trần Quốc Đĩnh"
-    },
-    {
-        "name": "Lễ hội Làng nghề, Phố nghề Thăng Long - Hà Nội",
-        "thờ": "Lý Thái Tổ"
-    },
-    {
-        "name": "Lễ hội truyền thống làng Quỳnh Đô",
-        "thờ": "Thái úy Tô Hiến Thành"
-    },
-    {
-        "name": "Lễ hội bơi chải truyền thống Yên Duyên - Yên Sở tại Hà Nội",
-        "thờ": "Vua Lý Nhân Tông"
-    },
-    {
-        "name": "Lễ hội hẹn ước ven sông Đáy tại Hà Nội",
-        "thờ": "Đức Thánh Mẫu"
-    },
-    {
-        "name": "Lễ hội Quốc Tổ Lạc Long Quân",
-        "thờ": "Quốc Tổ Lạc Long Quân"
-    },
-    {
-        "name": "Lễ hội Rồng mừng đại lễ 1000 năm Thăng Long",
-        "thờ": "Vua Lý Công Uẩn"
-    },
-    {
-        "name": "Hà Nội tổng dượt diễu binh toàn lực lượng chuẩn bị cho Đại lễ 1000 năm Thăng Long",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ rước kiệu Thánh Lễ hội Đền Và năm 2012",
-        "thờ": "Đức Thánh"
-    },
-    {
-        "name": "Lễ hội gò Đống Đa rộn ràng trong những ngày đầu xuân Canh Dần",
-        "thờ": "vua Quang Trung - Nguyễn Huệ"
-    },
-    {
-        "name": "Một số hình ảnh độc đáo về Đại lễ 1000 năm Thăng Long – Hà Nội",
-        "thờ": "Lý Thái Tổ"
-    },
-    {
-        "name": "Tưng bừng tổ chức lễ hội truyền thống làng Quỳnh Đô, Thanh Trì, Hà Nội",
-        "thờ": "Thái úy Tô Hiến Thành"
-    },
-    {
-        "name": "Hoàn toàn có cơ sở để phục dựng lễ hội Đèn Quảng Chiếu",
-        "thờ": "Lý Thái Tổ"
-    },
-    {
-        "name": "Tưng bừng lễ hội thổi cơm thi làng Thị Cấm - Hà Nội",
-        "thờ": "Hùng Vương thứ 18"
-    },
-    {
-        "name": "Tưng bừng lễ hội Đền Và 2014 ở Sơn Tây, Hà Nội",
-        "thờ": "Đức Thánh Tản Viên Sơn Tinh"
-    },
-    {
-        "name": "Văn hóa tín ngưỡng lễ hội Đền Hai Bà Trưng",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Độc đáo màn thi đấu Cờ tướng trong Lễ hội chùa Vua 2010",
-        "thờ": "Đế Thích"
-    },
-    {
-        "name": "Lễ hội truyền thống làng Liễu Giai tại Hà Nội",
-        "thờ": "Hoàng Phúc Trung"
-    },
-    {
-        "name": "Nét văn hoá của vùng đồng bằng Bắc Bộ tại Lễ hội Đình làng An Hạ",
-        "thờ": "Thành Hoàng ba thôn: An Hạ, Đào Nguyên, Ngự Câu"
-    },
-    {
-        "name": "Sôi động lễ hội Thập Tam Trại, Hà Nội",
-        "thờ": "Nguyễn Quý Công"
-    },
-    {
-        "name": "Nhiều nơi trên địa bàn thủ đô Hà Nội diễn ra Lễ hội truyền thống kỷ niệm 1970 năm khởi nghĩa Hai Bà Trưng",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Đông đảo người dân Hà Nội tham dự Lễ hội Đền Bạch Mã 2010",
-        "thờ": "Long Đỗ"
-    },
-    {
-        "name": "Sôi động lễ hội Gióng làng Phù Đổng",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Long trọng lễ hội kỷ niệm 582 năm Vua Lê Thái Tổ đăng quang tại Hà Nội",
-        "thờ": "Vua Lê Thái Tổ"
-    },
-    {
-        "name": "Lung linh Lễ hội Hoa Đăng tại Hà Nội",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Dừng tổ chức hai lễ hội trong dịp Đại lễ 1000 Thăng Long",
-        "thờ": "Nguyễn Sinh Hùng"
-    },
-    {
-        "name": "Đặc sắc Lễ hội trống đồng - Hào khí Thăng Long",
-        "thờ": "Lê Khả Phiêu"
-    },
-    {
-        "name": "Tổ chức Festival cầu Long Biên 2010 trong những ngày diễn ra Đại Lễ 1000 Thăng Long tại Hà Nội",
-        "thờ": "Lý Thái Tổ"
-    },
-    {
-        "name": "Tổ chức Lễ hội đình Yên Thái tại Hà Nội",
-        "thờ": "Hoàng Thái hậu Ỷ Lan"
-    },
-    {
-        "name": "Tổ chức các lễ hội kỷ niệm Đại lễ 1000 Thăng Long – Hà Nội",
-        "thờ": "Đại thi hào Nguyễn Du"
-    },
-    {
-        "name": "Tổ chức Lễ hội In dấu rồng thiêng chào mừng Đại lễ kỷ niệm 1000 năm Thăng Long",
-        "thờ": "Vua Lý Công Uẩn"
-    },
-    {
-        "name": "Tưng bừng Đại lễ 1000 năm Thăng Long tại Hà Nội",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "UNESCO đưa Lễ hội Gióng Việt Nam vào danh sách xem xét công nhận di sản phi vật thể",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "UNESCO công nhận Lễ hội Thánh Gióng là di sản phi vật thể đại diện nhân loại",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Giảm tần suất tổ chức các ngày lễ kỷ niệm",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "17 đầu việc bảo tồn và phát huy giá trị Hội Gióng",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Lễ tưởng niệm 702 năm ngày mất của Phật hoàng Trần Nhân Tông tại Hà Nội",
-        "thờ": "Phật hoàng Trần Nhân Tông"
-    },
-    {
-        "name": "Hạ nhiệt điểm nóng mùa lễ hội",
-        "thờ": "Trần"
-    },
-    {
-        "name": "Lung linh đêm lễ hội mừng Phật thành đạo chùa Bằng",
-        "thờ": "Thích Ca Mâu Ni"
-    },
-    {
-        "name": "Tổ chức đón bằng công nhận Di sản văn hoá phi vật thể cho Hội Gióng tại Hà Nội",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Hội Gióng đón bằng công nhận là di sản văn hóa phi vật thể của nhân loại",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Tưng bừng lễ hội chiến thắng Ngọc Hồi - Đống Đa, Hà Nội",
-        "thờ": "Hoàng đế Quang Trung - Nguyễn Huệ"
-    },
-    {
-        "name": "Tưng bừng Hội Gióng năm 2011",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Náo nhiệt Lễ hội thi thổi cơm tại Hà Nội",
-        "thờ": "Vua Hùng thứ 18"
-    },
-    {
-        "name": "Lễ hội chùa Duệ Tú năm 2011",
-        "thờ": "Lê Nghĩa (Đại Điên Giác Hoàng thiền sư đại vương)"
-    },
-    {
-        "name": "Trao Phật ngọc trong lễ hội hoa anh đào ở Hà Nội",
-        "thờ": "Yoshimizu Daichi"
-    },
-    {
-        "name": "Tưng bừng hội thi thả Diều ở làng Bá Dương Nội",
-        "thờ": "Nguyễn Cả"
-    },
-    {
-        "name": "Phục dựng lễ hội Thánh Mẫu Tản Viên Sơn tại Hà Nội",
-        "thờ": "Thánh Mẫu Tản Viên Sơn"
-    },
-    {
-        "name": "Lễ hội vinh danh Làng nghề truyền thống Phú Xuyên",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Phú Xuyên tưng bừng lễ hội vinh danh Làng nghề truyền thống lần thứ nhất",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Long trọng Lễ hội vinh danh làng nghề Sơn Đồng tại Hà Nội",
-        "thờ": "Đào Trực"
-    },
-    {
-        "name": "Phục dựng lại Lễ hội đèn Quảng Chiếu ở Thành cổ Hà Nội",
-        "thờ": "Đức Phật Dược Sư"
-    },
-    {
-        "name": "Hà Nội: Lễ hội kỷ niệm 223 năm chiến thắng Ngọc Hồi – Đống Đa",
-        "thờ": "Vua Quang Trung - Nguyễn Huệ"
-    },
-    {
-        "name": "Hà Nội: Lễ hội mùa xuân hấp dẫn khách du lịch",
-        "thờ": {
-            "An Dương Vương": "Lễ hội đền Sóc tại Sóc Sơn"
-        }
-    },
-    {
-        "name": "Đến xem Lễ hội Bài chòi ngay tại thủ đô Hà Nội",
-        "thờ": "Quang Trung"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 223 năm chiến thắng Ngọc Hồi-Đống Đa",
-        "thờ": "Nguyễn Huệ"
-    },
-    {
-        "name": "Lễ kỷ niệm 1972 năm khởi nghĩa Hai Bà Trưng",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Độc đáo Lễ hội Cổ Loa 2012",
-        "thờ": "Vua An Dương Vương"
-    },
-    {
-        "name": "Khai hội Tản Viên Sơn Thánh 2012 tại Hà Nội",
-        "thờ": "Tản Viên Sơn Thánh"
-    },
-    {
-        "name": "Lễ hội rước lợn làng La Phù - Hoài Đức, Hà Nội.",
-        "thờ": "Tĩnh Quốc"
-    },
-    {
-        "name": "Tưng bừng lễ hội Hai Bà Trưng tại Hà Nội",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Tổ chức Lễ giỗ tổ nghề hát Xẩm tại Hà Nội",
-        "thờ": "Trần Quốc Đĩnh"
-    },
-    {
-        "name": "Cần sớm khảo sát kỹ toàn bộ hệ thống lễ hội ở Việt Nam",
-        "thờ": "Lưu Trần Tiêu"
-    },
-    {
-        "name": "Lung linh triển lãm ảnh lễ hội Việt Nam tại Pháp",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Họp báo tổ chức Lễ kỷ niệm 110 năm Ngày sinh Tổng Bí thư Lê Hồng Phong",
-        "thờ": "Lê Hồng Phong"
-    },
-    {
-        "name": "Xem xét đề nghị tổ chức lễ hội Ngày Vua Lê đăng quang tại Hà Nội 2013",
-        "thờ": "Vua Lê Thái Tổ"
-    },
-    {
-        "name": "Tổ chức nhiều hoạt động lễ hội mừng xuân Quý Tỵ 2013 tại Hà Nội",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Khôi phục lại Lễ dựng và lễ hạ cây nêu ngày Tết Táo Quân",
-        "thờ": "Táo Quân"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 224 năm chiến thắng Ngọc Hồi - Đống Đa, Hà Nội",
-        "thờ": "Quang Trung - Nguyễn Huệ"
-    },
-    {
-        "name": "Khai mạc lễ hội Gióng ở đền Sóc huyện Sóc Sơn",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 1973 năm cuộc khởi nghĩa Hai Bà Trưng tại Mê Linh",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 1973 năm khởi nghĩa Hai Bà Trưng tại Hà Nội",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 585 năm ngày vua Lê Thái Tổ đăng quang tại Hà Nội",
-        "thờ": "Lê Thái Tổ"
-    },
-    {
-        "name": "Lễ hội Văn hóa châu Á tại Đức do Việt Nam đăng cai tổ chức",
-        "thờ": "Long Quân"
-    },
-    {
-        "name": "Việt Nam tỏa sáng tại Lễ hội văn hóa châu Á",
-        "thờ": "Lạc Long Quân"
-    },
-    {
-        "name": "Tưng bừng Lễ hội văn hóa Việt Nam tại Hàn Quốc",
-        "thờ": "Trần Phú"
-    },
-    {
-        "name": "Những lễ hội đậm đà văn hóa truyền thống Việt trong tháng 10",
-        "thờ": "Nguyễn Trung Trực"
-    },
-    {
-        "name": "Tuần lễ Đại đoàn kết các dân tộc - Di sản Văn hóa Việt Nam",
-        "thờ": "Trương Tấn Sang"
-    },
-    {
-        "name": "Tưng bừng lễ hội đền Quốc Tổ Lạc Long Quân tại Bình Đà",
-        "thờ": "Lạc Long Quân"
-    },
-    {
-        "name": "Tưng bừng khai mạc lễ hội chùa Hương 2015",
-        "thờ": "Thích Minh Hiền"
-    },
-    {
-        "name": "Lễ hội làng Khê Thượng tại Hà Nội",
-        "thờ": "Tản Viên Sơn Thánh"
-    },
-    {
-        "name": "Lễ hội Chùa Láng tại Hà Nội",
-        "thờ": "Thiền sư Từ đạo Hạnh"
-    },
-    {
-        "name": "Lễ hội gò Đống Đa tại Hà Nội",
-        "thờ": "Nguyễn Huệ"
-    },
-    {
-        "name": "Lễ hội đền Sóc tại Hà Nội",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Lễ Hội Làng Lệ Mật tại Hà Nội",
-        "thờ": "Hoàng Đức Trung"
-    },
-    {
-        "name": "Hội Đền Trèm ( Chèm ) tại Hà Nội",
-        "thờ": "Lý Ông Trọng"
-    },
-    {
-        "name": "Lễ hội đền Chúa xã Cổ Nhuế tại Hà Nội",
-        "thờ": "Công chúa Túc Trinh"
-    },
-    {
-        "name": "Lễ hội đình làng Nam Đồng tại Hà Nội",
-        "thờ": "Thái úy Lý Thường Kiệt"
-    },
-    {
-        "name": "Lễ hội đình Ứng Thiên tại Hà Nội",
-        "thờ": "Hậu Thổ Phu Nhân"
-    },
-    {
-        "name": "Lễ hội đình Kim Giang tại Hà Nội",
-        "thờ": "Mạo Giáp Hoa"
-    },
-    {
-        "name": "Lễ hội làng Huỳnh Cung tại Hà Nội",
-        "thờ": "Uy Mang đại vương và Hồng Bác đại vương, Chu Văn An"
-    },
-    {
-        "name": "Lễ hội núi Sưa tại Hà Nội",
-        "thờ": "Đức Huyền Thiên Hắc Đế"
-    },
-    {
-        "name": "Lễ hội Thập Tam Trại tại Hà Nội",
-        "thờ": "Nguyễn Quý Công"
-    },
-    {
-        "name": "Lễ hội đình Yên Phụ tại Hà Nội",
-        "thờ": "Uy Đô Linh Lang"
-    },
-    {
-        "name": "Lễ hội đền Cống Yên tại Hà Nội",
-        "thờ": "Đức Thánh Quảng Hồng"
-    },
-    {
-        "name": "Hội làng Động Phí tại Hà Nội",
-        "thờ": "Bạch Địa, Bạch Tượng, Đô Đài"
-    },
-    {
-        "name": "Hội làng Thanh Am tại Hà Nội",
-        "thờ": "Đào phu nhân (Phương Dung công chúa), Đào Kỳ"
-    },
-    {
-        "name": "Lễ hội đền Đồng Nhân tại Hà Nội",
-        "thờ": "Hai Bà Trưng Trắc và Trưng Nhị"
-    },
-    {
-        "name": "Hội đánh cá làng Me tại Hà Nội",
-        "thờ": "Đức thánh Tản"
-    },
-    {
-        "name": "Lễ hội phong Chúa, rước Vua tại Hà Nội",
-        "thờ": "Huyền Thiên Trấn Vũ"
-    },
-    {
-        "name": "Hội Gióng Sóc Sơn tại Hà Nội",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Lễ hội làng Miêng Hạ tại Hà Nội",
-        "thờ": "Cao Sơn"
-    },
-    {
-        "name": "Hội Thả diều ở Bá Giang tại Hà Nội",
-        "thờ": "Nguyễn Cả"
-    },
-    {
-        "name": "Lễ hội Vân Sa tại Hà Nội",
-        "thờ": "Ngũ Nương và Huệ Vũ đại vương - Trần Quốc Chẩn"
-    },
-    {
-        "name": "Lễ hội đền Bà Tấm tại Hà Nội",
-        "thờ": "Bà Tấm"
-    },
-    {
-        "name": "Lễ hội đền Măng Sơn tại Hà Nội",
-        "thờ": "Đức Thánh Tản Viên"
-    },
-    {
-        "name": "Lễ hội Đình làng An Hạ tại Hà Nội",
-        "thờ": "Đỗ Thiện"
-    },
-    {
-        "name": "Hội làng Lai Tảo tại Hà Nội",
-        "thờ": "Đại Vương Cao Quế Minh"
-    },
-    {
-        "name": "Lễ hội Đền Và tại Hà Nội",
-        "thờ": "Thánh Tản"
-    },
-    {
-        "name": "Lễ hội Miếu Mạch Lũng tại Hà Nội",
-        "thờ": "Ba vị anh hùng dân tộc dưới thời vua Hùng Vương thứ 18"
-    },
-    {
-        "name": "Hội húc cầu gỗ ở Xuân Dục tại Hà Nội",
-        "thờ": "Lạc Long Quân và Âu Cơ"
-    },
-    {
-        "name": "Đặc sắc lễ hội làng Cổ Trai tại Hà Nội",
-        "thờ": "Trung Thành Đại vương"
-    },
-    {
-        "name": "Lễ hội đền Ba Xã tại Hà Nội",
-        "thờ": "Thánh Mạc Trâu"
-    },
-    {
-        "name": "Lễ hội Võng La tại Hà Nội",
-        "thờ": "Ngũ vị Tôn Thần: Quốc Công Đại Vương, Lã Nương Phu nhân Đại Vương, Minh Chiêu, Linh Khổn, Cung Mục"
-    },
-    {
-        "name": "Đặc sắc lễ hội điện Hòn Chén năm 2018",
-        "thờ": "Thiên Y A Na Thánh Mẫu"
-    },
-    {
-        "name": "Hội đình làng Phú Xuân ở Thừa Thiên Huế",
-        "thờ": "Gia Long"
-    },
-    {
-        "name": "Lễ hội Quán Thế Âm tại Thừa Thiên - Huế",
-        "thờ": "Quán Thế Âm"
-    },
-    {
-        "name": "Về thăm Lễ hội Cầu Ngư làng Thai Dương, Thừa Thiên-Huế",
-        "thờ": "Trương Quý Công"
-    },
-    {
-        "name": "Lễ tế Đàn Xã Tắc quy mô lớn nhất tại thành phố Huế",
-        "thờ": "Gia Long"
-    },
-    {
-        "name": "Bộ ảnh quý đen trắng về lễ hội cung đình Huế ngày xưa",
-        "thờ": "Bảo Đại"
-    },
-    {
-        "name": "Long trọng tổ chức lễ tế Xã Tắc 2012 tại Thừa Thiên Huế",
-        "thờ": "Gia Long"
-    },
-    {
-        "name": "Lễ tế âm hồn tại Thừa Thiên Huế",
-        "thờ": "Tôn Thất Thuyết"
-    },
-    {
-        "name": "Lễ tế Xã Tắc tại Thừa Thiên Huế",
-        "thờ": "Gia Long"
-    },
-    {
-        "name": "Ấn tượng Lễ tế Nam Giao tại Festival Huế 2010",
-        "thờ": "Triều Nguyễn"
-    },
-    {
-        "name": "Khai mạc Lễ hội Điện Hòn Chén tại Thừa Thiên Huế",
-        "thờ": "Nữ thần Po Nagar"
-    },
-    {
-        "name": "Họp báo giới thiệu Lễ hội Huyền Trân 2011 tại Thừa Thiên Huế",
-        "thờ": "Công Chúa Huyền Trân"
-    },
-    {
-        "name": "Lễ tế đàn Xã Tắc - tôn vinh giá trị văn hóa truyền thống Việt Nam",
-        "thờ": "Vua Gia Long"
-    },
-    {
-        "name": "Ấn tượng và trang nghiêm Lễ tế Xã Tắc tại Thừa Thiên Huế",
-        "thờ": "Vua Gia Long"
-    },
-    {
-        "name": "Hàng nghìn người chen chân dự đại lễ Phật đản tại Thừa Thiên Huế",
-        "thờ": "Hòa thượng Thích Đức Phương"
-    },
-    {
-        "name": "Khai mạc lễ hội Quán Thế Âm ở Thừa Thiên Huế năm 2011",
-        "thờ": "Đức Bồ Tát Quán Thế Âm"
-    },
-    {
-        "name": "Lễ hội suy tôn Thánh mẫu Thiên Y A Na tại Thừa Thiên Huế",
-        "thờ": "Thánh Mẫu Thiên Y A Na"
-    },
-    {
-        "name": "Khai mạc lễ hội Huyền Trân công chúa 2012",
-        "thờ": "Huyền Trân công chúa"
-    },
-    {
-        "name": "20.000 người dự lễ khai mạc Festival Huế 2012",
-        "thờ": "Nguyễn Tấn Dũng"
-    },
-    {
-        "name": "Lễ hội Sóng nước Tam Giang năm 2012",
-        "thờ": "Bà Tơ"
-    },
-    {
-        "name": "Tái hiện một số hoạt động lễ hội trong cung vua tại Thừa Thiên Huế",
-        "thờ": "Triều Nguyễn"
-    },
-    {
-        "name": "Tổ chức phục dựng lại Lễ tế Xã Tắc tại Thừa Thiên Huế",
-        "thờ": "Nhà vua"
-    },
-    {
-        "name": "Lễ Tịch Điền tại Thừa Thiên Huế",
-        "thờ": "Vua Minh Mạng"
-    },
-    {
-        "name": "Hội đền thờ Phan Công Hớn tại TP Hồ Chí Minh",
-        "thờ": "Phan Công Hớn"
-    },
-    {
-        "name": "Hội chùa Ông tại TP Hồ Chí Minh",
-        "thờ": "Quan Đế"
-    },
-    {
-        "name": "Hội lăng Lê Văn Duyệt (Lăng ông bà Chiểu) TP HCM",
-        "thờ": "Lê Văn Duyệt"
-    },
-    {
-        "name": "Đại lễ Phật đản tại Việt Nam",
-        "thờ": "Phật Thích Ca Mâu Ni"
-    },
-    {
-        "name": "Hội chùa Ông Bổn tại TP Hồ Chí Minh",
-        "thờ": "Châu Đạt Quan"
-    },
-    {
-        "name": "Lễ hội chùa bà Thiên Hậu tại TP Hồ Chí Minh",
-        "thờ": "Bà Thiên Hậu"
-    },
-    {
-        "name": "Cần Giờ sôi động Lễ hội Nghinh Ông năm 2010",
-        "thờ": "Đức ngài Cá Ông"
-    },
-    {
-        "name": "Lễ hội hoa đăng Phật giáo lớn nhất ở Việt Nam",
-        "thờ": "Phật Di Đà"
-    },
-    {
-        "name": "Tưng bừng Lễ hội đón năm mới 2011 tại TP Hồ Chí Minh",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Nhộn nhịp Lễ hội Trái cây Nam bộ năm 2011",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "TP HCM: Bế mạc Lễ hội trái cây Nam Bộ năm 2011",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Xã hội hóa việc tổ chức các lễ hội Tết năm 2012 tại TP Hồ Chí Minh",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Tưng bừng Lễ hội Vu lan - mùa báo hiếu 2011",
-        "thờ": "Đức Phật Thích Ca"
-    },
-    {
-        "name": "Lễ hội Làng Sen – Lễ hội văn hóa Hồ Chí Minh: Thương hiệu du lịch của Nghệ An",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Bế mạc Lễ hội trái cây Nam Bộ năm 2012",
-        "thờ": "Trường Sa"
-    },
-    {
-        "name": "Họp báo về việc tổ chức Tuần lễ Phật đản năm 2013 tại TP Hồ Chí Minh",
-        "thờ": "Bồ tát Thích Quảng Đức"
-    },
-    {
-        "name": "Tưng bừng Tuần Đại lễ Phật Đản - 2013",
-        "thờ": "Bồ tát Thích Quảng Đức"
-    },
-    {
-        "name": "Khai mạc Lễ hội Thành phố Hồ Chí Minh - Ngôi nhà của chúng ta",
-        "thờ": "Lê Hoàng Quân"
-    },
-    {
-        "name": "Lễ hội nghinh Ông tại TP Hồ Chí Minh",
-        "thờ": "Ông Thủy Tướng"
-    },
-    {
-        "name": "Hội miếu Ông Địa tại TP Hồ Chí Minh",
-        "thờ": "Vua Tự Đức"
-    },
-    {
-        "name": "Lễ kỳ yên đình Phú Nhuận tại TP Hồ Chí Minh",
-        "thờ": "Phật, thần và các vị tiền hiền, hậu hiền"
-    },
-    {
-        "name": "Lễ hội đua thuyền rồng trên đảo Cát Bà - Hải Phòng",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Hội đình Dư Hàng tại Hải Phòng",
-        "thờ": "Ngô Quyền"
-    },
-    {
-        "name": "Hội đền Khả Lâm tại Hải Phòng",
-        "thờ": "Công chúa Chiêu Chinh"
-    },
-    {
-        "name": "Hội Chùa Vẽ tại Hải Phòng",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Hội đền Phú Xá tại Hải An, Hải Phòng",
-        "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội Đình Hạ tại Hải Phòng",
-        "thờ": [
-            "Hưng Đạo Vương Trần Quốc Tuấn",
-            "Trần Quốc Toản",
-            "Phạm Tứ Nghi"
-        ]
-    },
-    {
-        "name": "Lễ hội đền Trần Quốc Bảo ở Hải Phòng",
-        "thờ": "Trần Quốc Bảo"
-    },
-    {
-        "name": "Lễ hội đảo Dấu ở Đồ Sơn",
-        "thờ": "Nam Hải Đại Thần Vương"
-    },
-    {
-        "name": "Lễ hội đền Mõ - Hải Phòng",
-        "thờ": "Quỳnh Trân"
-    },
-    {
-        "name": "Lễ hội đền Bà Lê Chân",
-        "thờ": "Lê Chân"
-    },
-    {
-        "name": "Tưng bừng trẩy hội đền Mõ - Hải Phòng",
-        "thờ": "Công chúa Quỳnh Trân"
-    },
-    {
-        "name": "Tổ chức Lễ hội truyền thống Nữ tướng Lê Chân 2014 tại Hải Phòng",
-        "thờ": "Nữ tướng Lê Chân"
-    },
-    {
-        "name": "Lễ hội vật cầu Kim Sơn tại Hải Phòng",
-        "thờ": "Phạm Ngũ Lão"
-    },
-    {
-        "name": "Lễ hội làng cá và Khai trương du lịch Cát Bà năm 2015 tại Hải Phòng",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Lên kế hoạch tổ chức lễ hội Đền Trạng Trình tại Hải Phòng",
-        "thờ": "Trạng Trình"
-    },
-    {
-        "name": "Sẵn sàng cho Lễ hội du lịch Cát Bà 2011 tại Hải Phòng",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Tưng bừng hội vật truyền thống Vĩnh Khê - Hải Phòng",
-        "thờ": "Vũ Trọng, Vũ Giao, Phạm Tử Nghi"
-    },
-    {
-        "name": "Độc đáo lễ hội Minh Thề tại Hải Phòng",
-        "thờ": "Thái Hoàng Thái Hậu nhà Mạc"
-    },
-    {
-        "name": "Công tác chuẩn bị Lễ hội đền Trạng Trình 2013 tại Hải Phòng",
-        "thờ": "Nguyễn Bỉnh Khiêm"
-    },
-    {
-        "name": "Khai mạc lễ hội Từ Lương Xâm năm 2013 tại Hải Phòng",
-        "thờ": "Ngô Quyền"
-    },
-    {
-        "name": "Rực rỡ đêm khai mạc Tuần VHTTDL và Lễ hội Hoa Phượng Đỏ lần II",
-        "thờ": "Nguyễn Tấn Dũng"
-    },
-    {
-        "name": "Lễ hội Phủ Thượng Đoạn tại Hải Phòng",
-        "thờ": "Mẫu"
-    },
-    {
-        "name": "Lễ hội Đình Hàng Kênh tại Hải Phòng",
-        "thờ": "Ngô Quyền"
-    },
-    {
-        "name": "Lễ hội đền Trinh Hưởng tại Hải Phòng",
-        "thờ": "Đào Tấn, Đào Cảnh, Đào Tông Nguyên"
-    },
-    {
-        "name": "Lễ hội Núi Voi tại Hải Phòng",
-        "thờ": "Những cô gái dân quân Hải Phòng"
-    },
-    {
-        "name": "Lễ hội làng Vân Tra tại Hải Phòng",
-        "thờ": "Đào Lôi"
-    },
-    {
-        "name": "Lễ hội Đình Vĩnh Khê tại Hải Phòng",
-        "thờ": "Vũ Giao và Vũ Trung"
-    },
-    {
-        "name": "Lễ hội Minh thề tại Hải Phòng",
-        "thờ": "Thái hậu Vũ Thị Ngọc Toả"
-    },
-    {
-        "name": "Lễ hội Từ Lương Xâm tại Hải Phòng",
-        "thờ": "Ngô Quyền"
-    },
-    {
-        "name": "Lễ hội truyền thống Nữ tướng Lê Chân 2015 tại Hải Phòng",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Hàng vạn du khách đội mưa khai hội Đền Hùng",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Hội vật đuổi giải đình Vĩnh Mỗ tại Phú Thọ",
-        "thờ": "Nguyễn Như Kỳ"
-    },
-    {
-        "name": "Hội chùa Thắm tại Phú Thọ",
-        "thờ": "Vua Hùng"
-    },
-    {
-        "name": "Hội đình Cả tại Phú Thọ",
-        "thờ": "Đức vua Muôn Khê và Đương Cảnh Đại vương"
-    },
-    {
-        "name": "Hội đình làng Lâu Thượng tại Phú Thọ",
-        "thờ": "Cao Sơn, Quý Minh Đại vương, Hai Bà Trưng và Thành hoàng làng Lý Hồng Liên"
-    },
-    {
-        "name": "Lễ hội rước voi Đào Xá - Phú Thọ",
-        "thờ": "Hùng Hải Công"
-    },
-    {
-        "name": "Long trọng khai mạc Lễ hội đền Hùng 2011 tại Phú Thọ",
-        "thờ": "Lạc Long Quân"
-    },
-    {
-        "name": "Linh thiêng Lễ dâng hương giỗ Quốc tổ Lạc Long Quân, mẫu Âu Cơ",
-        "thờ": "Lạc Long Quân và Âu Cơ"
-    },
-    {
-        "name": "Hội Xoan tại Phú Thọ",
-        "thờ": "Các vua Hùng"
-    },
-    {
-        "name": "Lễ hội đền Năng Yên tại Phú Thọ",
-        "thờ": "Tam Vị Đại Vương"
-    },
-    {
-        "name": "Hàng nghìn người tham gia lễ hội Trò Trám, Phú Thọ",
-        "thờ": "Ngô Thị Thanh"
-    },
-    {
-        "name": "Linh thiêng Lễ hội Đền Mẫu Âu Cơ",
-        "thờ": "Âu Cơ"
-    },
-    {
-        "name": "Lễ giỗ Quốc tổ Lạc Long Quân: đạo lý Uống nước nhớ nguồn của dân tộc",
-        "thờ": "Lạc Long Quân"
-    },
-    {
-        "name": "Lễ hội Đình Thạch Khoán mở đầu cho hàng loạt lễ hội đầu năm của tỉnh Phú Thọ",
-        "thờ": "Tản Viên Sơn Thánh"
-    },
-    {
-        "name": "Khai hội Đền Mẫu Ấu Cơ tại Phú Thọ",
-        "thờ": "Âu Cơ"
-    },
-    {
-        "name": "Sôi động Hội phết Hiền Quan tại Phú Thọ",
-        "thờ": "Thiều Hoa công chúa"
-    },
-    {
-        "name": "Nhiều hoạt động đa dạng và đặc sắc trong lễ hội Đền Hùng năm 2011",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Đã sẵn sàng cho Lễ hội Đền Hùng 2011",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Đưa đền Hạ và đền Giếng vào phụ vụ lễ hội đền Hùng 2011 tại Phú Thọ",
-        "thờ": "Vua Hùng"
-    },
-    {
-        "name": "4 triệu khách dự Lễ hội đền Hùng năm Tân Mão 2011",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Việt Trì: Thành phố Lễ hội về với cội nguồn",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Giỗ Tổ Hùng Vương – lễ hội Đền Hùng năm 2012 diễn ra trong 6 ngày",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Quảng bá di sản hát Xoan trong Lễ hội đền Hùng 2012",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Những nét mới trong Đại lễ giỗ Tổ Hùng Vương năm 2012",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Công tác chuẩn bị cho Lễ hội Đền Hùng 2012 tại Phú Thọ",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Long trọng khai hội Đền Hùng 2012",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Lễ hội Đền Hùng 2012 thu hút 6 triệu lượt khách",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Công tác chuẩn bị cho lễ tôn vinh Tín ngưỡng thờ cúng Hùng Vương tại Phú Thọ",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Tích cực chuẩn bị cho Lễ đón nhận bằng di sản thế giới - Lễ hội đền Hùng năm 2013 tại Phú Thọ",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Khai mạc Lễ hội đền Hùng 2013 tại Phú Thọ",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Trang trọng lễ Dâng hương tưởng niệm các vua Hùng",
-        "thờ": "Các Vua Hùng"
-    },
-    {
-        "name": "Sẵn sàng cho Giỗ tổ Hùng Vương – Lễ hội Đền Hùng 2014 tại Phú Thọ",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Kiểm tra công tác tổ chức và quản lý lễ hội năm 2015 tại Phú Thọ",
-        "thờ": "Hoàng Tuấn Anh"
-    },
-    {
-        "name": "Tổ chức Lễ hội rước voi truyền thống tại Phú Thọ",
-        "thờ": "Vua Lê Gia Tông"
-    },
-    {
-        "name": "Tưng bừng tổ chức ngày Giỗ Tổ Hùng Vương – Lễ hội Đền Hùng 2015",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Lễ Hội đền Hùng tại Phú Thọ",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Hội đền Du Yến tại Phú Thọ",
-        "thờ": "Hạnh Nương"
-    },
-    {
-        "name": "Lễ hội cầu trâu ở Hương Nha tại Phú Thọ",
-        "thờ": "Xuân Nương"
-    },
-    {
-        "name": "Hội Phết Hiền Quan tại Phú Thọ",
-        "thờ": "Thiều Hoa công chúa"
-    },
-    {
-        "name": "Hội Trò Trám tại Phú Thọ",
-        "thờ": "Thần Tản Viên"
-    },
-    {
-        "name": "Lễ hội Đình Thạch Khoán tại Phú Thọ",
-        "thờ": "Đức thánh Tản Viên Sơn"
-    },
-    {
-        "name": "Hội Bạch Hạc tại Phú Thọ",
-        "thờ": "Thổ Lệnh đại vương"
-    },
-    {
-        "name": "Lễ hội đền mẫu Âu Cơ tại Phú Thọ",
-        "thờ": "Mẹ Âu Cơ"
-    },
-    {
-        "name": "Lễ hội Đức ông Trần Quốc Nghiễn",
-        "thờ": "Trần Quốc Nghiễn"
-    },
-    {
-        "name": "Lễ hội Đền An Sinh tại Đông Triều - Quảng Ninh",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội Quan Lạn tại Quảng Ninh",
-        "thờ": "Trần Khánh Dư"
-    },
-    {
-        "name": "Lễ hội Bạch Đằng tại Quảng Ninh",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội Đền An Sinh tại Quảng Ninh",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội chùa Long Tiên tại Quảng Ninh",
-        "thờ": "Thánh Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ hội đền thờ Đức Ông tại Quảng Ninh",
-        "thờ": "Hưng Vũ Vương Trần Quốc Nghiễn"
-    },
-    {
-        "name": "Tưng bừng khai mạc lễ hội xuân Yên Tử 2014",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Hàng vạn người đến dự lễ hội xuân Yên Tử năm 2010",
-        "thờ": "Phật Hoàng Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội Bạch Đằng 2010- Dấu tích lịch sử hào hùng của dân tộc",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ hội Đền An Sinh, Quảng Ninh năm 2010",
-        "thờ": "Trần Thái Tông"
-    },
-    {
-        "name": "Lễ hội Đức Ông Trần Quốc Nghiễn 2011, Quảng Ninh",
-        "thờ": "Trần Quốc Nghiễn"
-    },
-    {
-        "name": "Tổ chức lễ hội truyền thống Vân Đồn 2011 tại Quảng Ninh",
-        "thờ": "Phó tướng Trần Khánh Dư"
-    },
-    {
-        "name": "Phục dựng và phát huy giá trị các lễ hội truyền thống tại Quảng Ninh",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Tưng bừng khai hội Yên Tử và đón Bằng Di tích quốc gia đặc biệt 2013",
-        "thờ": "Phật hoàng Trần Nhân Tông"
-    },
-    {
-        "name": "Công tác chuẩn bị tổ chức Lễ hội Bạch Đằng tại Quảng Ninh",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Tổ chức họp báo về Lễ kỷ niệm 725 năm Chiến thắng Bạch Đằng",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Quảng Ninh tổ chức lễ kỷ niệm 725 năm chiến thắng Bạch Đằng (1288 - 2013)",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ khai hội đền Đức ông Trần Quốc Nghiễn 2013",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Khai hội Đền An Sinh – Đông Triều tại Quảng Ninh",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội Yên Tử tại Quảng Ninh",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Hội đền Cửa Ông tại Quảng Ninh",
-        "thờ": "Hưng Nhượng Vương Trần Quốc Tảng"
-    },
-    {
-        "name": "Hội làng Trà Cổ tại Quảng Ninh",
-        "thờ": "Nguyễn Hữu Cầu"
-    },
-    {
-        "name": "Lễ hội đình Vạn Ninh tại Quảng Ninh",
-        "thờ": "Lý Thường Kiệt"
-    },
-    {
-        "name": "Hội làng Tư Thế tại Bắc Ninh",
-        "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội làng Long Khám tại Bắc Ninh",
-        "thờ": "Thành hoàng làng Hưng Đạo đại vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội Đức Vua Bà tại Bắc Ninh",
-        "thờ": "Đức Vua Bà"
-    },
-    {
-        "name": "Hội đình Đình Bảng tại Bắc Ninh",
-        "thờ": "Bạch Lệ Đại vương"
-    },
-    {
-        "name": "Hội làng Đại Bái tỉnh Bắc Ninh",
-        "thờ": "Nguyễn Công Truyền"
-    },
-    {
-        "name": "Hội Thị Cầu tại Bắc Ninh",
-        "thờ": "Thánh Tam Giang"
-    },
-    {
-        "name": "Lễ hội Kinh Dương Vương tại Bắc Ninh",
-        "thờ": "Kinh Dương Vương"
-    },
-    {
-        "name": "Tưng bừng hội Đền Vua Bà Thủy tổ Quan họ tại Bắc Ninh",
-        "thờ": "Đức Vua Bà"
-    },
-    {
-        "name": "Bắc Ninh kỷ niệm 2001 năm Lý Thái Tổ đăng quang qua Lễ hội Đền Đô 2011",
-        "thờ": "Vua Lý Thái Tổ"
-    },
-    {
-        "name": "Lễ hội Đền Đô tại Bắc Ninh",
-        "thờ": "Lý Thái Tổ"
-    },
-    {
-        "name": "Hội Lim tại Bắc Ninh",
-        "thờ": "Nguyễn Đình Diễn"
-    },
-    {
-        "name": "Hội làng Trịnh Nguyễn tại Bắc Ninh",
-        "thờ": "Đức vua Hùng"
-    },
-    {
-        "name": "Hội làng Phù Ðổng tại Bắc Ninh",
-        "thờ": "Đức Thánh Gióng"
-    },
-    {
-        "name": "Lễ hội Đền Đậu tại Bắc Ninh",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Hội làng Tam Tảo tại Bắc Ninh",
-        "thờ": "Trần Quý"
-    },
-    {
-        "name": "Hội làng Đồng Kỵ tại Bắc Ninh",
-        "thờ": "Thánh Thiên Cương"
-    },
-    {
-        "name": "Khai mạc lễ hội Đền Đô năm 2010 tại Bắc Ninh",
-        "thờ": "Vua Lý Thái Tổ"
-    },
-    {
-        "name": "Náo nức xem lễ hội chém lợn Ném Thượng ở Bắc Ninh",
-        "thờ": "Đoàn Thượng"
-    },
-    {
-        "name": "Lễ hội Kinh Dương Vương được tổ chức với quy mô lớn tại Bắc Ninh",
-        "thờ": "Kinh Dương Vương"
-    },
-    {
-        "name": "Sẵn sàng cho Lễ hội Đền Đô tại Bắc Ninh",
-        "thờ": "Vua Lý Công Uẩn"
-    },
-    {
-        "name": "Lễ hội Đền Đô kỷ niệm 1002 năm vua Lý Thái Tổ đăng quang",
-        "thờ": "Vua Lý Thái Tổ - Lý Công Uẩn"
-    },
-    {
-        "name": "Khai mạc lễ hội Kinh Dương Vương 2013 tại Bắc Ninh",
-        "thờ": "Kinh Dương Vương"
-    },
-    {
-        "name": "Bộ trưởng Bộ VHTTD kiểm tra công tác tổ chức lễ hội tại Bắc Ninh",
-        "thờ": "Bà Chúa Kho"
-    },
-    {
-        "name": "Lễ hội truyền thống và kỷ niệm 2290 năm ngày sinh Cao Lỗ Vương tại Bắc Ninh",
-        "thờ": "Cao Lỗ Vương"
-    },
-    {
-        "name": "Khai hội Đền Đô 2013 tại Bắc Ninh",
-        "thờ": "Lý Thái Tổ - Lý Công Uẩn"
-    },
-    {
-        "name": "Khai hội Kinh Dương Vương tại Bắc Ninh",
-        "thờ": "Kinh Dương Vương"
-    },
-    {
-        "name": "Lễ hội Thuỷ tổ quan họ làng Viêm Xá tại Bắc Ninh",
-        "thờ": "Đức Vua Bà"
-    },
-    {
-        "name": "Đầu xuân đi trẩy Hội Lim - Bắc Ninh 2010",
-        "thờ": "Nguyễn Đình Diễn"
-    },
-    {
-        "name": "Lễ hội làng Phù Lưu tại Bắc Ninh",
-        "thờ": "Thành hoàng của làng Phù Lưu"
-    },
-    {
-        "name": "Lế hội làng Dương Lôi tại Bắc Ninh",
-        "thờ": "Lý Thái Tổ"
-    },
-    {
-        "name": "Lễ hội chém lợn tại Bắc Ninh",
-        "thờ": "Lý Đoàn Thượng"
-    },
-    {
-        "name": "Lễ hội chùa Dạm tại Bắc Ninh",
-        "thờ": "Hoàng Thái hậu Ỷ Lan"
-    },
-    {
-        "name": "Lễ hội chùa Dâu tại Bắc Ninh",
-        "thờ": "Phật tổ Thích Ca Mâu Ni"
-    },
-    {
-        "name": "Hội đình thập đình tại Bắc Ninh",
-        "thờ": "Lê Văn Thịnh"
-    },
-    {
-        "name": "Hội nhồi tại Bắc Ninh",
-        "thờ": "Lê Văn Đình"
-    },
-    {
-        "name": "Lễ hội chùa Bút Tháp - Bắc Ninh",
-        "thờ": "Huyền Quang"
-    },
-    {
-        "name": "Lễ hội tưởng niệm Cao Lỗ Vương tại Bắc Ninh",
-        "thờ": "Cao Lỗ Vương"
-    },
-    {
-        "name": "Lễ hội Pu Nhạ Thầu ở Nghệ An",
-        "thờ": "Công chúa La Bình"
-    },
-    {
-        "name": "Lễ hội Xăng Khan của người Thái ở Nghệ An",
-        "thờ": "Thầy mo"
-    },
-    {
-        "name": "Lễ hội đền Cuông ở Nghệ An",
-        "thờ": "An Dương Vương"
-    },
-    {
-        "name": "Lễ Hội Đền Hồng Sơn ở Nghệ An",
-        "thờ": "Đức Thánh Trần"
-    },
-    {
-        "name": "Lễ Hội Đền Vua Mai ở Nghệ An",
-        "thờ": "Vua Mai"
-    },
-    {
-        "name": "Lễ Hội Đền Ông Hoàng Mười tại Nghệ An",
-        "thờ": "Ông Hoàng Mười"
-    },
-    {
-        "name": "Lễ Hội Đền Rậm tại Nghệ An",
-        "thờ": "Phùng Hưng"
-    },
-    {
-        "name": "Lễ hội đền Nguyễn Sư Hồi tại Nghệ An",
-        "thờ": "Nguyễn Sư Hồi"
-    },
-    {
-        "name": "Lễ hội đền Vạn - Cửa Rào tại Nghệ An",
-        "thờ": "Đoàn Nhữ Hài"
-    },
-    {
-        "name": "Lễ hội làng Sen - Nghệ An",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hội Vua Mai Thúc Loan năm 2010 thu hút hơn 3 vạn du khách trẩy hội",
-        "thờ": "Mai Thúc Loan"
-    },
-    {
-        "name": "Tổ chức Lễ hội đền Cuông 2010 tại Nghệ An",
-        "thờ": "Thục An Dương Vương"
-    },
-    {
-        "name": "Tổ chức long trọng lễ hội Làng Sen toàn quốc 2010 tại Nghệ An",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Long trọng tổ chức lễ hội Làng Sen 2011 tại Nghệ An",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hội Làng Sen - Lễ hội của Việt Nam và của thế giới",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Tổ chức Hội thảo Đền Vạn - Cửa Rào, di tích và Lễ hội tại Nghệ An",
-        "thờ": "Đốc tướng Đoàn Nhữ Hài"
-    },
-    {
-        "name": "Tưng bừng lễ hội đền Cuông tại Nghệ An",
-        "thờ": "Thục Phán An Dương Vương"
-    },
-    {
-        "name": "Long trọng khai mạc Lễ hội Làng Sen 2012",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Tổng kết Lễ hội Làng Sen - 2012 tại Nghệ An",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Khai hội Đền Vua Mai và lễ kỷ niệm 1.300 năm khởi nghĩa Hoan Châu tại Nghệ An",
-        "thờ": "Mai Thúc Loan"
-    },
-    {
-        "name": "Khai hội đền Vạn - Cửa Rào năm 2013 tại Nghệ An",
-        "thờ": "Đoàn Nhữ Hài"
-    },
-    {
-        "name": "Khai hội Đền Cuông 2013 tại Nghệ An",
-        "thờ": "Thục Phán An Dương Vương"
-    },
-    {
-        "name": "Lễ kỷ niệm 123 năm Ngày sinh Chủ tịch Hồ Chí Minh và Lễ hội Làng Sen 2013 tại TP Hồ Chí Minh",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Nhiều nét mới tại Lễ hội Đền Vua Mai - Nghệ An",
-        "thờ": "Vua Mai Thúc Loan"
-    },
-    {
-        "name": "Khai hội đền Quả Sơn tại Nghệ An",
-        "thờ": "Uy Minh Vương Lý Nhật Quang"
-    },
-    {
-        "name": "Lễ hội đền Cuông tại Nghệ An",
-        "thờ": "An Dương Vương"
-    },
-    {
-        "name": "Lễ hội Vua Mai Thúc Loan tại Nghệ An",
-        "thờ": "Mai Thúc Loan"
-    },
-    {
-        "name": "Lễ hội Đền Vạn Lộc tại Nghệ An",
-        "thờ": "Thái uý Quận công Nguyễn Sư Hồi"
-    },
-    {
-        "name": "Lễ hội Đền thờ Cương Quốc Công Nguyễn Xí tại Nghệ An",
-        "thờ": "Thái sư Cương quốc công Nguyễn Xí"
-    },
-    {
-        "name": "Lễ hội đền Cờn tại Nghệ An",
-        "thờ": "Thánh Mẫu"
-    },
-    {
-        "name": "Hội đền Quả Sơn tại Nghệ An",
-        "thờ": "Uy Minh Vương Lý Nhật Quang"
-    },
-    {
-        "name": "Lễ hội đền Đức Hoàng tại Nghệ An",
-        "thờ": "Hoàng Tá Thốn"
-    },
-    {
-        "name": "Lễ hội Đền Bạch Mã tại Nghệ An",
-        "thờ": "Phan Đà"
-    },
-    {
-        "name": "Tuần lễ cấp cao APEC tại Đà Nẵng năm 2017",
-        "thờ": "Trần Đại Quang"
-    },
-    {
-        "name": "Trang nghiêm Lễ vía đức Phật Quán Thế Âm tại Đà Nẵng",
-        "thờ": "Đức Bồ Tát Quán Thế Âm"
-    },
-    {
-        "name": "Lễ hội đình làng Hải Châu vẫn cuốn hút kỳ lạ sau hơn 30 năm vắng bóng",
-        "thờ": "Lê Thánh Tôn"
-    },
-    {
-        "name": "Tưng bừng Lễ hội Quán Thế Âm Ngũ Hành Sơn",
-        "thờ": "Bồ Tát Quán Thế Âm"
-    },
-    {
-        "name": "Thành lập Ban tổ chức Lễ hội Quán Thế Âm Đà Nẵng năm 2012",
-        "thờ": "Bồ Tát Quán Thế Âm"
-    },
-    {
-        "name": "Sẵn sàng cho Lễ hội Quán Thế Âm năm 2013 tại Đà Nẵng",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Khai mạc lễ hội Quán Thế Âm 2013 tại Đà nẵng.",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội làng Tuý Loan tại Đà Nẵng",
-        "thờ": "Lê Thánh Tôn"
-    },
-    {
-        "name": "Lễ hội Phủ Quảng Cung tại Nam Định",
-        "thờ": "Thánh Mẫu Liễu Hạnh"
-    },
-    {
-        "name": "Lễ hội Đền An Lá tại Nam Định",
-        "thờ": "Nguyễn Tấn"
-    },
-    {
-        "name": "Hội đền Cổ Trạch tỉnh Nam Định",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội đền Đông Cao tại Nam Định",
-        "thờ": "Mỵ Châu"
-    },
-    {
-        "name": "Hội đền Bảo Lộc tại Nam Định",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội làng Cao Đài tại Mỹ Lộc, Nam Định",
-        "thờ": "Trần Quang Khải"
-    },
-    {
-        "name": "Lễ hội truyền thống Trần Hưng Đạo tại Nam Định",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ kỷ niệm ngày hóa thân Đức phật hoàng Trần Nhân Tông tại Nam Định",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội làng nghề mộc cổ truyền Ninh Xá ở Nam Định",
-        "thờ": "Ninh Hữu Hưng"
-    },
-    {
-        "name": "Lần đầu tiên phục dựng lễ rước Nước, tế Cá tại đền Trần Nam Định",
-        "thờ": "nhà Trần"
-    },
-    {
-        "name": "Lễ hội Đền Trần tại Nam Định",
-        "thờ": "14 vị vua nhà Trần"
-    },
-    {
-        "name": "Hội chùa Cổ Lễ tại Nam Định",
-        "thờ": "Thiền sư, pháp sư Nguyễn Minh Không"
-    },
-    {
-        "name": "Gần 20 vạn người tham gia lễ hội khai ấn Đền Trần, Nam Định 2010",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Nhiều điểm mới trong lễ khai ấn đền Trần (Nam Định) năm 2011",
-        "thờ": "Trần"
-    },
-    {
-        "name": "Hàng nghìn du khách tham dự khai mạc lễ hội Phủ Dầy",
-        "thờ": "Mẫu Liễu Hạnh"
-    },
-    {
-        "name": "Hội thảo đi tìm mô hình thích hợp cho lễ hội đền Trần",
-        "thờ": "Trần Tử Bình"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 711 năm ngày mất Trần Hưng Đạo tại Nam Định",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ kỷ niệm 700 năm ngày hóa thân Đức phật hoàng Trần Nhân Tông",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Sẵn sàng cho Lễ khai ấn đền Trần 2012",
-        "thờ": "Trần"
-    },
-    {
-        "name": "Lễ Khai ấn đền Trần năm 2012: Không còn cảnh chen lấn cướp ấn",
-        "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Về Nam Định trẩy hội Phủ Giầy tháng ba",
-        "thờ": "Mẫu Liễu Hạnh"
-    },
-    {
-        "name": "Tưng bừng lễ hội Phủ Dầy tại Nam Định năm 2012",
-        "thờ": "Thánh Mẫu Liễu Hạnh"
-    },
-    {
-        "name": "Tăng cường chuẩn bị cho lễ Khai ấn Đền Trần xuân Quý Tỵ 2013 tại Nam Định",
-        "thờ": "Trần"
-    },
-    {
-        "name": "Khai mạc Lễ khai ấn đền Trần Nam Định năm 2013",
-        "thờ": "Quốc Công Tiết Chế Hưng Đạo Đại Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Khai mạc lễ hội Phủ Dầy 2013 tại Nam Định",
-        "thờ": "Mẫu Liễu Hạnh"
-    },
-    {
-        "name": "Điểm mới trong Lễ Khai ấn Đền Trần 2014",
-        "thờ": "nhà Trần"
-    },
-    {
-        "name": "Hàng vạn người đến tham dự Lễ Khai ấn đền Trần",
-        "thờ": "Quốc Công Tiết Chế Hưng Đạo Đại Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Phục dựng nghi lễ rước kiệu Ngọc Lộ tại Lễ khai ấn Đền Trần 2015",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Hội chợ Viềng tại Nam Định",
-        "thờ": "Bà Chúa Liễu Hạnh"
-    },
-    {
-        "name": "Lễ hội chùa Keo Hành Thiện tại Nam Định",
-        "thờ": "Thiền sư Không Lộ"
-    },
-    {
-        "name": "Lễ hội truyền thống hoa- cây cảnh Vị Khê tại Nam Định",
-        "thờ": "Tô Trung Tự"
-    },
-    {
-        "name": "Lễ khai ấn đền Trần tại Nam Định",
-        "thờ": "Thánh Trần"
-    },
-    {
-        "name": "Lễ hội đền Độc Bộ tại Nam Định",
-        "thờ": "Triệu Việt Vương"
-    },
-    {
-        "name": "Khai mạc Lễ hội đền Thượng tại Lào Cai 2012",
-        "thờ": "Hưng Đạo Đại vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội đền Trung Đô tại Lào Cai",
-        "thờ": "Gia Quốc Công Vũ Văn Mật"
-    },
-    {
-        "name": "Tưng bừng Lễ hội đền Bảo Hà 2010 tại Lào Cai",
-        "thờ": "Thần vệ quốc Hoàng Bẩy"
-    },
-    {
-        "name": "Tổ chức Lễ hội Đền Thượng theo phương châm xã hội hoá tại Lào Cai",
-        "thờ": "Quốc công Tiết chế Trần Hưng Đạo"
-    },
-    {
-        "name": "Khai hội đền Phúc Khánh ở Lào Cai",
-        "thờ": "Vũ Văn Uyên và Vũ Văn Mật"
-    },
-    {
-        "name": "Lễ cấp sắc: Điểm nhấn của Lễ hội trên mây Sa Pa",
-        "thờ": "Ông Thái Bá Lợi"
-    },
-    {
-        "name": "Khai hội đền Bắc Hà năm 2013 tại Lào Cai",
-        "thờ": "Gia quốc công Vũ Văn Mật"
-    },
-    {
-        "name": "Lễ hội rước Đất, rước Nước của người Tày ở Bắc Hà tại Lào Cai",
-        "thờ": "Thầy cúng"
-    },
-    {
-        "name": "Lễ hội đền Thượng tại Lào Cai",
-        "thờ": "Quốc công Tiết Chế Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ hội đền Bắc Hà tại Lào Cai",
-        "thờ": "Gia quốc công Vũ Văn Mật"
-    },
-    {
-        "name": "Lễ Hội Rước Cộ Chợ Được ở Quảng Nam",
-        "thờ": "Bà Chúa Thượng Ngàn"
-    },
-    {
-        "name": "Lễ hội Phật đản tại chùa Thạch Khê ở Quảng Nam",
-        "thờ": "Đức Phật Thích Ca Mâu Ni"
-    },
-    {
-        "name": "Lễ vía Bà Thiên Hậu ở Quảng Nam",
-        "thờ": "Bà Thiên Hậu"
-    },
-    {
-        "name": "Hội rước Thần Nông ở Quảng Nam",
-        "thờ": "Thần Nông"
-    },
-    {
-        "name": "Độc đáo Lễ hội Bà Chợ Được tại Quảng Nam",
-        "thờ": "Bà Chợ Được"
-    },
-    {
-        "name": "Tổ chức thành công Lễ hội Văn hóa - thể thao các huyện miền núi 2010 tại Quảng Nam",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Đặc sắc Lễ hội văn hóa truyền thống Cơ Tu 2010 tại Quảng Nam",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Giao lưu văn hóa Hội An-Nhật Bản lần thứ X: Nhiều hoạt động mới lạ và ý nghĩa",
-        "thờ": "Ông Võ Phùng"
-    },
-    {
-        "name": "Lễ hội Bà Thu Bồn tại Quảng Nam",
-        "thờ": "Bô Bô"
-    },
-    {
-        "name": "Lễ rước Thần Nông tại Quảng Nam",
-        "thờ": "Thần Nông"
-    },
-    {
-        "name": "Hội chùa Thanh Mai tỉnh Hải Dương",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội đền Quát (đền Yết Kiêu) tỉnh Hải Dương",
-        "thờ": "Yết Kiêu"
-    },
-    {
-        "name": "Hội đền Gốm tại Hải Dương",
-        "thờ": "Trần Khánh Dư"
-    },
-    {
-        "name": "Lễ hội Xuân - giỗ tổ nghề kim hoàn làng Châu Khê Hải Dương",
-        "thờ": "Phạm Sỹ"
-    },
-    {
-        "name": "Đại lễ tưởng niệm 721 năm ngày mất của Đức Thánh Trần tại lễ hội Côn Sơn-Kiếp Bạc",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Rộn ràng Lễ hội mùa xuân Côn Sơn - Kiếp Bạc 2010",
-        "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội mùa Thu Côn Sơn - Kiếp Bạc đón mừng Đại lễ",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Tưng bừng lễ khai hội mùa thu Kiếp Bạc-Côn Sơn 2010",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Đánh Thó - trò chơi độc đáo trong lễ hội đền Cuối, Hải Dương",
-        "thờ": "Nguyễn Chế Nghĩa"
-    },
-    {
-        "name": "Chuẩn bị đón hàng trăm lượt du khách tham dự lễ hội chùa Minh Khánh tại Hải Dương",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ xin trùm ở đền Cao tại Hải Dương",
-        "thờ": "Vương Đức Minh"
-    },
-    {
-        "name": "Tưng bừng Hội chùa Thánh Quang Tự tại Hải Dương",
-        "thờ": "Thánh tổ Thuỷ Nguyệt"
-    },
-    {
-        "name": "Lễ khai hội mùa thu Côn Sơn - Kiếp Bạc năm 2011",
-        "thờ": "Anh hùng dân tộc Hưng Đạo Đại vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Tưng bừng khai hội mùa xuân Côn Sơn-Kiếp Bạc 2012",
-        "thờ": [
-            "Đệ tam tổ Trúc Lâm Huyền Quang tôn giả",
-            "Trần Hưng Đạo",
-            "Nguyễn Trãi"
-        ]
-    },
-    {
-        "name": "Họp báo công bố thời gian tổ chức Lễ hội Côn Sơn – Kiếp Bạc 2012 tại Hải Dương",
-        "thờ": [
-            "Hưng Đạo Đại Vương Trần Quốc Tuấn",
-            "Nguyễn Trãi"
-        ]
-    },
-    {
-        "name": "Quyết tâm thực hiện biện pháp 3 không trong Lễ hội mùa thu, Côn Sơn-Kiếp Bạc 2012",
-        "thờ": [
-            "Nguyễn Trãi",
-            "Hưng Đạo Đại Vương Trần Quốc Tuấn"
-        ]
-    },
-    {
-        "name": "Lễ Cáo yết mở đầu các hoạt động cho lễ hội mùa thu Côn Sơn-Kiếp Bạc năm 2012",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội mùa thu Côn Sơn - Kiếp Bạc: Điểm du lịch văn hóa - tâm linh",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Tưng bừng lễ khai hội mùa thu, Côn Sơn – Kiếp Bạc 2012",
-        "thờ": "Nguyễn Trãi"
-    },
-    {
-        "name": "Khai hội mùa Xuân Côn Sơn - Kiếp Bạc 2013 tại Hải Dương",
-        "thờ": "Huyền Quang tôn giả"
-    },
-    {
-        "name": "Lễ hội mùa thu Côn Sơn - Kiếp Bạc năm 2013 tại Hải Dương",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Khai mạc Lễ hội Mùa Thu Côn Sơn – Kiếp Bạc năm 2013",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ hội mùa xuân Côn Sơn – Kiếp Bạc Hải Dương 2015",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Khai hội đình Châu Khê tại Hải Dương",
-        "thờ": "Phạm Sỹ"
-    },
-    {
-        "name": "Lế hội Chùa Muống tại Hải Dương",
-        "thờ": "Tuệ Nhẫn"
-    },
-    {
-        "name": "Lễ hội đền Cuối tại Hải Dương",
-        "thờ": "Nguyễn Chế Nghĩa"
-    },
-    {
-        "name": "Lễ Hội đền Kiếp Bạc tại Hải Dương",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội chùa Bạch Hào tại Hải Dương",
-        "thờ": "Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội truyền thống Văn miếu Mao Điền tại Hải Dương",
-        "thờ": "Khổng Tử"
-    },
-    {
-        "name": "Lễ Xin Trùm ở đền Cao tại Hải Dương",
-        "thờ": "Vương Đức Minh"
-    },
-    {
-        "name": "Lễ hội chùa Trông tại Hải Dương",
-        "thờ": "Nguyễn Minh Không"
-    },
-    {
-        "name": "Lễ hội chùa Nhẫm Dương tại Hải Dương",
-        "thờ": "Thánh tổ Thuỷ Nguyệt"
-    },
-    {
-        "name": "Lễ hội chùa Minh Khánh tại Hải Dương",
-        "thờ": "Phật hoàng Trần Nhân Tông"
-    },
-    {
-        "name": "Lễ hội Đền Bia tại Hải Dương",
-        "thờ": "Tuệ Tĩnh"
-    },
-    {
-        "name": "Lễ hội đền Sượt tại Hải Dương",
-        "thờ": "Vũ Hựu"
-    },
-    {
-        "name": "Lễ hội đình Ngọc Uyên tại Hải Dương",
-        "thờ": "Lê Viết Hưng và Lê Viết Quang"
-    },
-    {
-        "name": "Lễ hội đền An Phụ tại Hải Dương",
-        "thờ": "An sinh vương Trần Liễu"
-    },
-    {
-        "name": "Lễ hội đình Hàn Bơi tại Hải Dương",
-        "thờ": "Thánh Khai Thiên Thể Đạo"
-    },
-    {
-        "name": "Lễ hội Hàn Sơn ở Thanh Hóa",
-        "thờ": "Thái Úy Lê Thọ Vực"
-    },
-    {
-        "name": "Lễ hội Lê Hoàn tại Thanh Hóa",
-        "thờ": "Lê Đại Hành"
-    },
-    {
-        "name": "Hội đền Tép ở Thanh Hóa",
-        "thờ": "Lê Lai"
-    },
-    {
-        "name": "Tưng bừng lễ hội ở ngôi đền cổ nhất xứ Thanh",
-        "thờ": "Lê Đại Hành"
-    },
-    {
-        "name": "Linh thiêng Lễ hội Đền Sòng Sơn – Ba Dội 2010",
-        "thờ": "Thánh Mẫu Liễu Hạnh và Hoàng đế Quang Trung"
-    },
-    {
-        "name": "Long trọng tổ chức Lễ hội Bà Triệu năm 2015 tại Thanh Hóa",
-        "thờ": "Bà Triệu"
-    },
-    {
-        "name": "Lễ hội Cầu phúc mở đầu năm du lịch Sầm Sơn 2010",
-        "thờ": "Bà Triệu"
-    },
-    {
-        "name": "Sôi động các lễ hội văn hóa-du lịch Sầm Sơn năm 2010",
-        "thờ": "Thần Độc Cước"
-    },
-    {
-        "name": "Thanh Hoá tổ chức Lễ hội Lam Kinh chào mừng Đại lễ 1000 năm Thăng Long",
-        "thờ": "Lê Lợi"
-    },
-    {
-        "name": "Hàng vạn người tham dự Lễ hội Lam Kinh năm 2011",
-        "thờ": "Đức Thái Tổ Lê Lợi"
-    },
-    {
-        "name": "Lễ hội đền Lê Trung Giang 2012 tại Thanh Hoá",
-        "thờ": "Lê Trung Giang"
-    },
-    {
-        "name": "Lễ hội đền Bà Triệu 2012 tại Thanh Hóa",
-        "thờ": "Triệu Thị Trinh"
-    },
-    {
-        "name": "Lễ hội Đền Lê Hoàn kỷ niệm 1007 năm ngày mất của vua Lê Đại Hành",
-        "thờ": "Lê Đại Hành"
-    },
-    {
-        "name": "Đặc sắc lễ hội Lam Kinh 2012 tại Thanh Hóa",
-        "thờ": "Lê Lợi"
-    },
-    {
-        "name": "Tưng bừng lễ hội Bà Triệu 2013 tại Thanh Hóa",
-        "thờ": "Triệu Thị Trinh"
-    },
-    {
-        "name": "Khai mạc Lễ hội Mai An Tiêm tại Thanh Hóa 2013",
-        "thờ": "Mai An Tiêm"
-    },
-    {
-        "name": "Sẵn sàng cho Lễ hội Lam Kinh năm 2013",
-        "thờ": "Vua Lê Lợi"
-    },
-    {
-        "name": "Tưng bừng Lễ hội Lam Kinh - Thanh Hóa năm 2013",
-        "thờ": "Đức Thái Tổ Cao Hoàng đế Lê Lợi"
-    },
-    {
-        "name": "Lễ hội Lam Kinh tại Thanh Hóa",
-        "thờ": "vua Lê Thái Tổ"
-    },
-    {
-        "name": "Lễ hội Bà Triệu tại Thanh Hóa",
-        "thờ": "Bà Triệu Thị Trinh"
-    },
-    {
-        "name": "Lễ hội Đền Sòng tại Thanh Hóa",
-        "thờ": "Mẫu Liễu Hạnh"
-    },
-    {
-        "name": "Lễ hội bánh dày - bánh chưng tại Thanh Hóa",
-        "thờ": "Độc Cước"
-    },
-    {
-        "name": "Lễ Hội Mai An Tiêm tại Thanh Hóa",
-        "thờ": "Mai An Tiêm"
-    },
-    {
-        "name": "Hội Xuân Phả tại Thanh Hóa",
-        "thờ": "Đại Hải Long Vương"
-    },
-    {
-        "name": "Lễ hội cửa đặt tại Thanh Hóa",
-        "thờ": "Cầm Bá Thước"
-    },
-    {
-        "name": "Niềm tự hào của người dân xứ Thanh với Lễ hội Lam Kinh",
-        "thờ": "Lê Lợi"
-    },
-    {
-        "name": "Hội đền Dinh Thầy Thím - một trong 7 lễ hội tiêu biểu của tỉnh Bình Thuận",
-        "thờ": "Thầy Thím"
-    },
-    {
-        "name": "Sẵn sàng cho Lễ hội Nghinh Ông Quan Thánh Đế Quân 2012 tại Phan Thiết",
-        "thờ": "Quan Thánh Đế Quân"
-    },
-    {
-        "name": "Lễ hội Nghinh Ông Quan Thánh Đế Quân tại Bình Thuận",
-        "thờ": "Quan Thánh Đế Quân"
-    },
-    {
-        "name": "TP Phan Thiết chuẩn bị cho Lễ hội Nghinh Ông Quan Thánh Đế Quân 2010",
-        "thờ": "Quan Thánh Đế Quân"
-    },
-    {
-        "name": "Tưng bừng Lễ hội Nghinh Ông Quan Thánh Đế Quân 2010 tại Bình Thuận",
-        "thờ": "Quan Thánh Đế Quân"
-    },
-    {
-        "name": "Khai hội Nghinh Ông Quan Thánh Đế Quân 2012 tại Bình Thuận",
-        "thờ": "Quan Công"
-    },
-    {
-        "name": "Nhiều nét mới trong lễ hội Dinh Thầy Thím năm 2013 tại Bình Thuận",
-        "thờ": "Thầy Thím"
-    },
-    {
-        "name": "Lễ hội văn hóa du lịch Dinh Thầy Thím năm 2013",
-        "thờ": "Thầy Thím"
-    },
-    {
-        "name": "Lễ hội Mbăng Katê của người Chăm tại Bình Thuận",
-        "thờ": "Pô Nagar"
-    },
-    {
-        "name": "Hội đền Dinh Thầy Thím tại Bình Thuận",
-        "thờ": "Thầy và Thím"
-    },
-    {
-        "name": "Lễ hội Po Dam tại Bình Thuận",
-        "thờ": "Pô Dam"
-    },
-    {
-        "name": "Lễ hội Đền Mẫu Thác Bà tại Yên Bái",
-        "thờ": "Minh Đạt"
-    },
-    {
-        "name": "Lễ hội đền Nhược Sơn tại Yên Bái",
-        "thờ": "Hà Khắc Chương"
-    },
-    {
-        "name": "Hội Đền Tuần Quán tại Yên Bái",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Tưng bừng Lễ hội Đền Đại Cại năm 2010 tại Yên Bái",
-        "thờ": "Vũ Thị Ngọc Anh"
-    },
-    {
-        "name": "Linh thiêng và đặc sắc Lễ hội đền Đông Cuông (Yên Bái)",
-        "thờ": "Cao Quan Đại Vương"
-    },
-    {
-        "name": "Lễ hội cầu Cơm mới đền Đông Cuông Yên Bái năm 2013",
-        "thờ": "Cao Quan Đại Vương"
-    },
-    {
-        "name": "Hàng nghìn ngọn nến lung linh trong đêm hội hoa đăng Tây Thiên tỉnh Vĩnh Phúc",
-        "thờ": "Quốc Mẫu Lăng Thị Tiêu"
-    },
-    {
-        "name": "Lễ hội đền Ngô Tướng Công",
-        "thờ": "Ngô Tướng Công"
-    },
-    {
-        "name": "Lễ hội đền Thính ở Vĩnh Phúc",
-        "thờ": "Thánh Tản"
-    },
-    {
-        "name": "Lễ hội kéo co truyền thống làng Hoà Loan ở Vĩnh Phúc",
-        "thờ": "Nữ tướng Lê Ngọc Chinh"
-    },
-    {
-        "name": "Hội Xuân làng Thổ Tang ở Vĩnh Phúc",
-        "thờ": "Lâu Hổ Hầu"
-    },
-    {
-        "name": "Không gian văn hóa hội Rưng tại Vĩnh Phúc",
-        "thờ": "Nguyễn Văn Nhượng"
-    },
-    {
-        "name": "Hội làng Bồ Sao tại Vĩnh Phúc",
-        "thờ": "Đông Hải Long Vương"
-    },
-    {
-        "name": "Lễ hội chọi trâu Hải Lựu hấp dẫn hàng nghìn khách du lịch",
-        "thờ": "Lữ Gia"
-    },
-    {
-        "name": "Tưng bừng lễ hội Tây Thiên xuân Ất Mùi tại Vĩnh Phúc",
-        "thờ": "Lăng Thị Tiêu"
-    },
-    {
-        "name": "Tưng bừng khai hội Tây Thiên tại Vĩnh Phúc",
-        "thờ": "Lăng Thị Tiêu"
-    },
-    {
-        "name": "Khai mạc Lễ hội Tây Thiên năm 2010 tại Vĩnh Phúc",
-        "thờ": "Lăng Thị Tiêu"
-    },
-    {
-        "name": "Du khách nô nức trẩy hội Tây Thiên ở Vĩnh Phúc",
-        "thờ": "Năng Thị Tiêu"
-    },
-    {
-        "name": "Đã sẵn sàng cho Lễ hội Tây Thiên 2012 tại Vĩnh Phúc",
-        "thờ": "Quốc Mẫu Tây Thiên"
-    },
-    {
-        "name": "Sẽ tổ chức Đại Lễ Uống nước nhớ nguồn tại Vĩnh Phúc",
-        "thờ": "Trần Nguyên Hãn"
-    },
-    {
-        "name": "Nhiều hoạt động lễ hội trong Tuần Văn hóa - Du lịch Vĩnh Phúc năm 2013",
-        "thờ": "Tả Tướng quốc Trần Nguyên Hãn"
-    },
-    {
-        "name": "Khai hội Tây Thiên năm 2013",
-        "thờ": "Quốc Mẫu Thượng Ngàn (bà Lăng Thị Tiêu)"
-    },
-    {
-        "name": "Náo nhiệt khai hội Tây Thiên 2014",
-        "thờ": "Quốc Mẫu Lăng Thị Tiêu"
-    },
-    {
-        "name": "Hội vật ở làng Hà tại Vĩnh Phúc",
-        "thờ": "Trần Nguyên Hãn"
-    },
-    {
-        "name": "Lễ hội đúc bụt ở Đồng Tĩnh tại Vĩnh Phúc",
-        "thờ": "Hai Bà Trưng"
-    },
-    {
-        "name": "Lễ hội đền thờ Đức Ông tại Vĩnh Phúc",
-        "thờ": "Nguyễn Văn Nhượng"
-    },
-    {
-        "name": "Lễ hội bơi trải Tứ Yên tại Vĩnh Phúc",
-        "thờ": "Lý Bí"
-    },
-    {
-        "name": "Lễ hội làng Phù Liễn tại Vĩnh Phúc",
-        "thờ": "Bà Ngọc Kinh"
-    },
-    {
-        "name": "Hội chùa Đức La xã Trí Yên ở Bắc Giang",
-        "thờ": "Ba Vương tổ"
-    },
-    {
-        "name": "Đầu xuân vui hội Tiên Lục tại Bắc Giang",
-        "thờ": [
-            "Cao Sơn",
-            "Quý Minh"
-        ]
-    },
-    {
-        "name": "Hội làng Hựu tỉnh Bắc Giang",
-        "thờ": [
-            "Cao Sơn",
-            "Quý Minh"
-        ]
-    },
-    {
-        "name": "Lễ hội kỷ niệm Chiến thắng Xương Giang ở Bắc Giang",
-        "thờ": [
-            "Lam Sơn"
-        ]
-    },
-    {
-        "name": "Lễ hội đền Phủ - Bắc Giang",
-        "thờ": [
-            "Bà Chúa Kho"
-        ]
-    },
-    {
-        "name": "Lễ hội đền Đa Mai - Bắc Giang",
-        "thờ": [
-            "Bảo Nương",
-            "Ngọc Nương"
-        ]
-    },
-    {
-        "name": "Lễ hội Y Sơn tại Bắc Giang",
-        "thờ": "đức thánh Hùng Linh"
-    },
-    {
-        "name": "Hội làng Đại Phú tại Bắc Giang",
-        "thờ": "Thành hoàng Cao Sơn - Quý Minh"
-    },
-    {
-        "name": "Lễ hội làng Thành tại thành phố Bắc Giang",
-        "thờ": "Cao Sơn - Quý Minh"
-    },
-    {
-        "name": "Hội Đả cầu Lương Phong tại Bắc Giang",
-        "thờ": "Trần Đình Ngọc"
-    },
-    {
-        "name": "Lễ hội Yên Thế, Bắc Giang đã có nhiều khởi sắc",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Tổ chức lễ hội kỷ niệm 130 năm khởi nghĩa Yên Thế tại Bắc Giang",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Bắc Giang xây dựng đề án nâng cấp Lễ hội Yên Thế lên tầm quốc gia",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Lễ hội đền Suối Mỡ tại Bắc Giang",
-        "thờ": "Quế Mỵ Nương"
-    },
-    {
-        "name": "Đền Phủ mở hội tại Bắc Giang",
-        "thờ": "Lý Thị Châu"
-    },
-    {
-        "name": "Hội Chùa Thú tại Tân Yên tỉnh Bắc Giang",
-        "thờ": "Thái Bảo và Phán Thú"
-    },
-    {
-        "name": "Không khí tưng bừng của Lễ hội Yên Thế 2010 tại Bắc Giang",
-        "thờ": "Lương Văn Nắm"
-    },
-    {
-        "name": "Nhộn nhịp Lễ hội Suối Mỡ 2010 tại Bắc Giang",
-        "thờ": "Quế Mỵ Nương"
-    },
-    {
-        "name": "Trang nghiêm Lễ hội kỷ niệm chiến thắng Xương Giang, Bắc Giang",
-        "thờ": "Nguyễn Trãi"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 585 năm Chiến thắng Xương Giang",
-        "thờ": [
-            "Lê Lợi",
-            "Nguyễn Trãi"
-        ]
-    },
-    {
-        "name": "Lễ hội Yên Thế hướng tới lễ hội cấp quốc gia",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Lễ công nhận Lễ hội Yên Thế là di sản văn hóa phi vật thể quốc gia",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Hoàn tất công tác chuẩn bị Lễ hội kỷ niệm 130 năm khởi nghĩa Yên Thế tại Bắc Giang",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Tưng bừng tham dự lễ khai mạc Lễ hội Yên Thế tại Bắc Giang",
-        "thờ": "Hoàng Hoa Thám"
-    },
-    {
-        "name": "Lễ hội Đền Đa Mai tưởng niệm công chúa Bảo Nương, Ngọc Nương",
-        "thờ": "Bảo Nương và Ngọc Nương"
-    },
-    {
-        "name": "Lễ hội đền Dành ở xã Liên Chung, tỉnh Bắc Giang",
-        "thờ": "Cao Sơn - Quý Minh"
-    },
-    {
-        "name": "Lễ hội đình Hả tại Bắc Giang",
-        "thờ": "Lương Văn Nắm"
-    },
-    {
-        "name": "Lễ hội Từ Hả tại tỉnh Bắc Giang",
-        "thờ": "Thân Cảnh Phúc"
-    },
-    {
-        "name": "Lễ hội Giáng sinh nhà thờ Phát Diệm tại Ninh Bình",
-        "thờ": "Chúa Jesu"
-    },
-    {
-        "name": "Lễ hội động Thiên Tôn ở Ninh Bình",
-        "thờ": "Thần Thiên Tôn"
-    },
-    {
-        "name": "Lễ hội Yên Cư ở Ninh Bình",
-        "thờ": "Đức Thánh Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ Hội Chùa Nhất Trụ tại Ninh Bình",
-        "thờ": "Vua Lê Đại Hành"
-    },
-    {
-        "name": "Lễ Hội Đền Áp Lãng tại Ninh Bình",
-        "thờ": "Vua Lý Thái Tông"
-    },
-    {
-        "name": "Lễ hội đền Thái Vi Ninh Bình",
-        "thờ": "Vua Trần Thái Tông"
-    },
-    {
-        "name": "Lễ hội cố đô Hoa Lư tại Ninh Bình",
-        "thờ": [
-            "Đinh Tiên Hoàng",
-            "Lê Đại Hành"
-        ]
-    },
-    {
-        "name": "Lễ hội đền Thái Vi tại Ninh Bình",
-        "thờ": [
-            "Trần Thái Tông"
-        ]
-    },
-    {
-        "name": "Lễ hội chùa Bái Đính tại Ninh Bình",
-        "thờ": [
-            "Lý Quốc Sư",
-            "Quang Trung",
-            "Đinh Bộ Lĩnh"
-        ]
-    },
-    {
-        "name": "Tổ chức Lễ hội cố đô Hoa Lư quy mô lớn tại Ninh Bình",
-        "thờ": "Đinh Bộ Lĩnh"
-    },
-    {
-        "name": "Độc đáo lễ rước Thánh Quý Minh Đại Vương ở Ninh Bình",
-        "thờ": "Đức Thánh Quý Minh Đại Vương"
-    },
-    {
-        "name": "Mở cửa đền khai hội truyền thống Cố đô Hoa Lư, Ninh Bình",
-        "thờ": "Đinh Bộ Lĩnh"
-    },
-    {
-        "name": "Du khách nô nức trẩy hội Hoa Lư, Ninh Bình",
-        "thờ": "Đinh Bộ Lĩnh"
-    },
-    {
-        "name": "Sôi động lễ hội Thánh Quý Minh Đại Vương tại Ninh Bình",
-        "thờ": "Đức Thánh Quý Minh Đại Vương"
-    },
-    {
-        "name": "Lễ hội chùa Bái Đính năm 2012",
-        "thờ": "Đức Thánh Nguyễn Minh Không"
-    },
-    {
-        "name": "Náo nức khai hội chùa Bái Đính 2012",
-        "thờ": "Vua Đinh Tiên Hoàng"
-    },
-    {
-        "name": "Tưng bừng Lễ hội thánh Cao Sơn ở Tràng An-Bái Đính",
-        "thờ": "Thánh Quý Minh Đại Vương"
-    },
-    {
-        "name": "Lễ hội truyền thống Cố đô Hoa Lư năm 2013 tại Ninh Bình",
-        "thờ": "Đinh Bộ Lĩnh"
-    },
-    {
-        "name": "Hàng ngàn du khách tham dự lễ hội Quý Minh Đại Vương 2013",
-        "thờ": "Đức Thánh Quý Minh Đại Vương"
-    },
-    {
-        "name": "Người dân nô nức trảy hội chùa Bái Đính, Ninh Bình",
-        "thờ": "đức Thánh Nguyễn, Quang Trung, Đinh Bộ Lĩnh"
-    },
-    {
-        "name": "Lễ hội đền Nguyễn Công Trứ tại Ninh Bình",
-        "thờ": "Nguyễn Công Trứ"
-    },
-    {
-        "name": "Lễ hội đền La tại Ninh Bình",
-        "thờ": "Giản Định Đế, Trùng Quang Đế"
-    },
-    {
-        "name": "Lễ hội Trường Yên tại Ninh Bình",
-        "thờ": "Đinh Tiên Hoàng"
-    },
-    {
-        "name": "Lễ hội Thánh Quý Minh đại vương tại Ninh Bình",
-        "thờ": "Thánh Quý Minh"
-    },
-    {
-        "name": "Lễ hội Tháp Bà Ponagar ở Nha Trang",
-        "thờ": "Thiên Y A Na Thánh Mẫu"
-    },
-    {
-        "name": "Lễ hội Yến sào Khánh Hòa",
-        "thờ": "Lê Thị Huyền Trâm"
-    },
-    {
-        "name": "Tưng bừng lễ hội Tháp Bà Ponagar tại Khánh Hoà",
-        "thờ": "Thiên Y A Na"
-    },
-    {
-        "name": "Tưng bừng lễ hội Tháp Bà Ponagar tại Khánh Hoà",
-        "thờ": "Harivácman"
-    },
-    {
-        "name": "Lễ hội Yến Sào - Tôn vinh truyền thống lịch sử ngành nghề",
-        "thờ": {
-            "Tên nhân vật lịch sử": "Lê Văn Đạt"
-        }
-    },
-    {
-        "name": "Khánh Hòa: Khai hội Tháp Bà Ponagar năm 2013",
-        "thờ": "Thiên Y Ana Thánh Mẫu"
-    },
-    {
-        "name": "Lễ hội Tháp Bà tại Khánh Hoà",
-        "thờ": "Bà Mẹ Xứ sở (Thần Mẫu)"
-    },
-    {
-        "name": "Lễ hội Am Chúa tại Khánh Hoà",
-        "thờ": "Bà Mẹ Xứ Sở (Thánh Mẫu)"
-    },
-    {
-        "name": "Lễ cúng đình Kỳ an - Xuân tế tại Khánh Hoà",
-        "thờ": "Thiên Y A Na Diễn Ngọc Phi"
-    },
-    {
-        "name": "Nô nức trảy hội Đền Hà Giang",
-        "thờ": "Đức Thánh Mẫu Thượng Ngàn Công Chúa Liễu Hạnh và Đức Thánh Trần Hưng Đạo Đại Vương"
-    },
-    {
-        "name": "Lễ hội đền Bến Than ở Thái Nguyên",
-        "thờ": "Mẫu Thoải"
-    },
-    {
-        "name": "Rộn ràng Lễ hội Đuổm, Thái Nguyên",
-        "thờ": "Dương Tự Minh"
-    },
-    {
-        "name": "Nô nức Lễ hội xuân đền Đuổm, Thái Nguyên 2010",
-        "thờ": "Dương Tự Minh"
-    },
-    {
-        "name": "Tổ chức Lễ hội đền Đuổm đón xuân Tân Mão tại Thái Nguyên",
-        "thờ": "Dương Tự Minh"
-    },
-    {
-        "name": "Sôi động lễ hội Núi Văn, Núi Võ tại Thái Nguyên",
-        "thờ": "Lưu Nhân Chú"
-    },
-    {
-        "name": "Lễ hội đền Đuổm tại Thái Nguyên",
-        "thờ": "Dương Tự Minh"
-    },
-    {
-        "name": "Lễ hội đền Giá tại Thái Nguyên",
-        "thờ": "Thánh Gióng"
-    },
-    {
-        "name": "Lễ hội xuân Chùa Hang - Định Hoá tại Thái Nguyên",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hội xuân Chùa Hang - Định Hóa đã được khôi phục",
-        "thờ": "Chủ tịch Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hội thác Pongour ở Lâm Đồng",
-        "thờ": "Kanai"
-    },
-    {
-        "name": "Thác Pongour trước ngày lễ hội mùa xuân",
-        "thờ": "Kanai"
-    },
-    {
-        "name": "Lễ túc yết tại An Giang",
-        "thờ": "Đức tả quân Lê Văn Duyệt"
-    },
-    {
-        "name": "Lễ hội đền Phủ Na tại Thanh Hóa",
-        "thờ": "Bà Triệu"
-    },
-    {
-        "name": "Đại lễ Phật Giáo Hòa Hảo 18-5 tỉnh An Giang",
-        "thờ": "Đức Huỳnh Phú Sổ"
-    },
-    {
-        "name": "Linh thiêng Lễ hội Bà Chúa Xứ, An Giang",
-        "thờ": "Thoại Ngọc Hầu"
-    },
-    {
-        "name": "Nhộn nhịp Lễ hội Vía Bà Chúa Xứ Núi Sam năm 2011",
-        "thờ": "Thoại Ngọc Hầu"
-    },
-    {
-        "name": "Sôi động lễ hội Vía Bà Chúa Xứ Núi Sam, An Giang",
-        "thờ": "Bà Chúa Xứ"
-    },
-    {
-        "name": "Công tác chuẩn bị tổ chức Lễ hội vía bà Chúa Xứ núi Sam năm 2013 tại An Giang",
-        "thờ": "Bà Chúa Xứ"
-    },
-    {
-        "name": "Hội đền Nguyễn Trung Trực ở Chợ Mới tỉnh An Giang",
-        "thờ": "Nguyễn Trung Trực"
-    },
-    {
-        "name": "Lễ hội Kỳ An ở đình Châu Phú của An Giang",
-        "thờ": "Nguyễn Hữu Cảnh"
-    },
-    {
-        "name": "Khai mạc Lễ hội cà phê Buôn Ma Thuột lần thứ 4 năm 2013",
-        "thờ": "Trần Đại Quang"
-    },
-    {
-        "name": "Hội đền Côn Giang tỉnh Thái Bình",
-        "thờ": "Quách Hữu Nghiêm"
-    },
-    {
-        "name": "Lễ hội truyền thống đình Lại Trì tỉnh Thái Bình",
-        "thờ": "Quốc sư Dương Không Lộ"
-    },
-    {
-        "name": "Lễ hội A Sào tỉnh Thái Bình",
-        "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Lễ hội đền A Sào tỉnh Thái Bình được công nhận di sản văn hóa Phi vật thể quốc gia",
-        "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội Đền Ngọc Quế tại Thái Bình",
-        "thờ": "Đỗ Huyền"
-    },
-    {
-        "name": "Lễ hội Đền Tiên La",
-        "thờ": "Vũ Thị Thục"
-    },
-    {
-        "name": "Lễ hội Đền Hét tại xã Thái Thượng - Thái Bình",
-        "thờ": "Phạm Ngũ Lão"
-    },
-    {
-        "name": "Hội miếu Ba Thôn tại Thái Thụy - Thái Bình",
-        "thờ": "Nguyễn Quảng Lại"
-    },
-    {
-        "name": "Tưng bừng khai hội đền A Sào thờ Hưng Đạo Vương tại Thái Bình",
-        "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Khai hội đền Trần và đón nhận bằng xếp hạng di tích quốc gia đặc biệt tại Thái Bình",
-        "thờ": "Các vị vua triều Trần"
-    },
-    {
-        "name": "Lễ khai ấn đền Trần năm 2011 được tổ chức ở cả Thái Bình và Nam Định",
-        "thờ": "Nhà Trần"
-    },
-    {
-        "name": "Khai hội đền Trần 2011 tại Thái Bình",
-        "thờ": "Nhà Trần"
-    },
-    {
-        "name": "Thái Thụy gắn quản lý di tích với các hoạt động tổ chức lễ hội",
-        "thờ": "Nam Hải Đại Vương"
-    },
-    {
-        "name": "Truyền hình trực tiếp Lễ hội Đền Trần Thái Bình vào tối ngày 4/2",
-        "thờ": "Trần Thái Tông"
-    },
-    {
-        "name": "Kế hoạch tổ chức Lễ hội đền Trần năm 2013 tại Thái Bình",
-        "thờ": "Các vua Trần"
-    },
-    {
-        "name": "Tưng bừng Lễ hội mùa Xuân tại chùa Keo - Thái Bình",
-        "thờ": "Quốc sư Dương Không Lộ"
-    },
-    {
-        "name": "Tưng bừng trẩy hội đền Trần năm 2013 ở Thái Bình",
-        "thờ": "các vua Trần, Thái sư Trần Thủ Độ và các hoàng thân quốc thích nhà Trần"
-    },
-    {
-        "name": "Lễ hội Chùa Keo tại Thái Bình",
-        "thờ": "Không Lộ Thiền Sư"
-    },
-    {
-        "name": "Lễ hội ông Đùng – bà Đà tại Thái Bình",
-        "thờ": "Bà chúa Muối (Nguyệt Ánh)"
-    },
-    {
-        "name": "Hội làng La Vân tại Thái Bình",
-        "thờ": "Uy Minh đại vương Lý Nhật Quang"
-    },
-    {
-        "name": "Hội đền Đồng Bằng tại Thái Bình",
-        "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hội làng Đồng Xâm tại Thái Bình",
-        "thờ": "Triệu Vũ Đế"
-    },
-    {
-        "name": "Thái Bình Khai hội Đền Trần và đón bằng chứng nhận Di sản Văn hóa phi vật thể Quốc gia",
-        "thờ": "Nhà Trần"
-    },
-    {
-        "name": "Nhà vua 90 tuổi xuống đồng làm lễ Tịch Điền 2018 ở Đọi Sơn",
-        "thờ": "Vua Lê Đại Hành"
-    },
-    {
-        "name": "Lễ hội Tịch Điền Đọi Sơn",
-        "thờ": "Vua Lê Đại Hành"
-    },
-    {
-        "name": "Khai hội Tịch Điền tại Hà Nam năm 2015",
-        "thờ": "Vua Lê Đại Hành"
-    },
-    {
-        "name": "Lễ hội Phát lương Đức Thánh Trần tại Hà Nam",
-        "thờ": "Đức Thánh Trần"
-    },
-    {
-        "name": "Sôi động Lễ hội thả diều Hòa Hậu (Hà Nam)",
-        "thờ": "Nam Cao"
-    },
-    {
-        "name": "Tổ chức Lễ hội Đền Trần Thương chào mừng Đại lễ 1000 năm Thăng Long tại Hà Nam",
-        "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Hàng nghìn người tham dự Lễ hội Đền Trần Thương, Hà Nam",
-        "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
-    },
-    {
-        "name": "Tưng bừng lễ hội Tịch Điền, Hà Nam",
-        "thờ": "Vua Lê Đại Hành"
-    },
-    {
-        "name": "30.000 túi lương đã được phát trong lễ hội Phát lương đền Trần Thương tỉnh Hà nam",
-        "thờ": "Đức Thánh Trần Hưng Đạo"
-    },
-    {
-        "name": "Tưng bừng hội Đền Bà Vũ 2012",
-        "thờ": "Vũ Nương Công Chúa"
-    },
-    {
-        "name": "Khai hội Tịch điền Xuân Quý Tỵ tại Hà Nam",
-        "thờ": "Lê Đại Hành"
-    },
-    {
-        "name": "Tưng bừng Lễ hội phát lương Đền Trần Thương 2013 tại Hà Nam",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "150.000 túi lương chuẩn bị cho Lễ phát lương đền Trần Thương 2015",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Nô nức tham dự lễ hội phát lương Đền Trần Thương - Hà Nam",
-        "thờ": "Trần Quốc Tuấn"
-    },
-    {
-        "name": "Chủ tịch nước Nguyễn Minh Triết dự Lễ hội Tịch điền Đọi Sơn tỉnh Hà Nam",
-        "thờ": "Lê Đại Hành"
-    },
-    {
-        "name": "Lễ hội đền Trúc tại Hà Nam",
-        "thờ": "Lý Thường Kiệt"
-    },
-    {
-        "name": "Lễ hội đền Trần Thương tại Hà Nam",
-        "thờ": "Trần Hưng Đạo"
-    },
-    {
-        "name": "Lễ hội chùa Đọi Sơn tại Hà Nam",
-        "thờ": "Lý Nhân Tông"
-    },
-    {
-        "name": "Lễ hội đình Đá tại Hà Nam",
-        "thờ": "Nguyệt Nga"
-    },
-    {
-        "name": "Lễ hội làng Gừa tại Hà Nam",
-        "thờ": "Trương Nguyên"
-    },
-    {
-        "name": "Lễ hội làng Mỹ Đôi (Làng Dâu) tại Hà Nam",
-        "thờ": "Ả Đào"
-    },
-    {
-        "name": "Lễ hội đình Thọ Chương tại Hà Nam",
-        "thờ": "Vũ Lang Nữu"
-    },
-    {
-        "name": "Lễ hội đình Đinh tại Hà Nam",
-        "thờ": "Đông Hải Đại Vương Đoàn Thương"
-    },
-    {
-        "name": "Lễ hội khai mùa Mường Thàng tỉnh Hòa Bình",
-        "thờ": "Thành Hoàng"
-    },
-    {
-        "name": "Lễ hội đền Chúa Thác Bờ ở Thung Nai - Hòa Bình",
-        "thờ": "Đinh Thị Vân"
-    },
-    {
-        "name": "Tưng bừng lễ Khai hạ Mường Bi, Hòa bình.",
-        "thờ": "Quốc Mẫu Hoàng Bà"
-    },
-    {
-        "name": "Lễ hội chùa Ông Núi",
-        "thờ": "Hòa thượng Thích Trừng Tịnh"
-    },
-    {
-        "name": "Lễ hội Đống Đa Tây Sơn",
-        "thờ": "Nguyễn Huệ"
-    },
-    {
-        "name": "Tưng bừng lễ hội Đô Thị Nước Mặn tại Bình Định",
-        "thờ": "Thần Hoàng"
-    },
-    {
-        "name": "Đặc sắc Lễ hội cầu ngư Nhơn Hải tại Bình Định",
-        "thờ": "Ông Nam Hải"
-    },
-    {
-        "name": "Lễ hội Đống Đa tại Bình Định",
-        "thờ": "vua Quang Trung"
-    },
-    {
-        "name": "Lễ hội đền thờ vua Lê Thái Tông tại Sơn La",
-        "thờ": "Vua Lê Thái Tông"
-    },
-    {
-        "name": "Lễ hội Đền thờ Vua Lê Thái Tông ở Sơn La",
-        "thờ": "Vua Lê Thái Tông"
-    },
-    {
-        "name": "Tưng bừng khai mạc lễ hội Đền thờ Vua Lê Thái Tông - Sơn La",
-        "thờ": "Vua Lê Thái Tông"
-    },
-    {
-        "name": "Độc đáo lễ hội rước Mẫu thành Tuyên",
-        "thờ": "Phương Dung và Ngọc Lân"
-    },
-    {
-        "name": "Lễ hội đình Giếng Tanh tại Tuyên Quang",
-        "thờ": "Đức vua Cả Nghiêm Sơn và Đức vua Ngọc Sơn"
-    },
-    {
-        "name": "Lễ hội Lồng Tông tại Tuyên Quang",
-        "thờ": "Thần Nông"
-    },
-    {
-        "name": "Lễ hội Đền Hạ tại Tuyên Quang",
-        "thờ": "Mẫu Thần"
-    },
-    {
-        "name": "Đặc sắc Lễ hội Lồng tông Bản Cuống tại Tuyên Quang",
-        "thờ": "Ma Doãn Giáo"
-    },
-    {
-        "name": "Lễ giỗ đại vương Lê Khôi tại đền Chiêu Trưng ở Hà Tĩnh",
-        "thờ": "Lê Khôi"
-    },
-    {
-        "name": "Lễ hội tế Lục vị Tổ sư truyền nghề ở Hà Tĩnh",
-        "thờ": "Lục vị Tổ sư"
-    },
-    {
-        "name": "Lễ tế Thánh sư Thợ rèn ở Hà Tĩnh",
-        "thờ": "Thánh sư Thợ rèn"
-    },
-    {
-        "name": "Lễ hội Giỗ tổ Hùng Vương tại chùa Đại Hùng – phường Đậu Liêu ở Hà Tĩnh",
-        "thờ": "Hùng Vương"
-    },
-    {
-        "name": "Lễ Hội Báo Ân Đô Đài Ngự Sử Bùi Cầm Hổ ở Hà Tĩnh",
-        "thờ": "Bùi Cầm Hổ"
-    },
-    {
-        "name": "Lễ Hội Hải Thượng Lãn Ông - Lê Hữu Trác ở Hà Tĩnh",
-        "thờ": "Lê Hữu Trác"
-    },
-    {
-        "name": "Lễ hội ông tổ lò rèn tại Hà Tĩnh",
-        "thờ": "Ông Đùng"
-    },
-    {
-        "name": "Lễ hội Đền Bà Hải tại Hà Tĩnh",
-        "thờ": "Nguyễn Thị Bích Châu"
-    },
-    {
-        "name": "Chuẩn bị cho lễ kỷ niệm năm sinh, năm mất Đại thi hào Nguyễn Du tại Hà Tĩnh",
-        "thờ": "Đại thi hào Nguyễn Du"
-    },
-    {
-        "name": "Linh thiêng Lễ hội rước sắc phong Vua Hàm Nghi tại Hà Tĩnh",
-        "thờ": "Vua Hàm Nghi"
-    },
-    {
-        "name": "Lễ hội Đô Đài và trò Đình Đụn tại Hà Tĩnh",
-        "thờ": "Đô đài Ngự Sử - Bùi Cầm Hổ"
-    },
-    {
-        "name": "Lễ hội rước sắc phong Vua Hàm Nghi tại Hà Tĩnh",
-        "thờ": "Vua Hàm Nghi"
-    },
-    {
-        "name": "Lễ hội đền Chiêu Trưng tại Hà Tĩnh",
-        "thờ": "Lê Khôi"
-    },
-    {
-        "name": "Lễ vía bà Phi Yến tại Côn Đảo",
-        "thờ": "Bà Phi Yến"
-    },
-    {
-        "name": "Lễ hội Nghinh Ông đình Thắng Tam ở Bà Rịa - Vũng Tàu",
-        "thờ": "Thắng Tam"
-    },
-    {
-        "name": "Lễ Hội Trùng Cửu cầu an lành tại Bà Rịa - Vũng Tàu",
-        "thờ": "Ông Trần (Lê Văn Mưu)"
-    },
-    {
-        "name": "Bà Rịa – Vũng Tàu: Nâng cấp Lễ hội Nghinh Ông thành một lễ hội lớn trong năm 2011",
-        "thờ": "Ông Trần Văn Triêm"
-    },
-    {
-        "name": "Hàng nghìn du khách tham dự lễ hội Trùng Cửu ở BR-VT",
-        "thờ": "Trần Văn Mưu"
-    },
-    {
-        "name": "Tấp nập lễ hội Trùng Cửu 2012 tại Vũng tàu",
-        "thờ": "Trần Văn Mưu"
-    },
-    {
-        "name": "Lễ hội Miếu Bà tại Bà Rịa - Vũng Tàu",
-        "thờ": "Thiệu Trị"
-    },
-    {
-        "name": "Hội thôn Thổ Hoàng tỉnh Hưng Yên",
-        "thờ": "Triệu Quang Phục"
-    },
-    {
-        "name": "Nô nức khai hội đền Phù Ủng tại Hưng Yên",
-        "thờ": "Phạm Ngũ Lão"
-    },
-    {
-        "name": "Hưng Yên tổ chức Lễ hội kỷ niệm 599 năm ngày sinh Đào Nương Đào Thị Huệ",
-        "thờ": "Đào Thị Huệ"
-    },
-    {
-        "name": "Lễ hội Hành trình thiên đô tái hiện lịch sử dời đô 1000 năm trước",
-        "thờ": "Lý Công Uẩn (Lý Thái Tổ)"
-    },
-    {
-        "name": "Tổ chức Lễ hội đền Phù Ủng tại Hưng Yên tưởng nhớ tướng quân Phạm Ngũ Lão",
-        "thờ": "Phạm Ngũ Lão"
-    },
-    {
-        "name": "Đặc sắc lễ hội Đào Nương tại Hưng Yên",
-        "thờ": "Đào Thị Huệ"
-    },
-    {
-        "name": "Long trọng tổ chức Lễ khai hội đền Mẫu tại Hưng Yên",
-        "thờ": "Dương Quý Phi"
-    },
-    {
-        "name": "Khai hội đền Phù Ủng tại Hưng Yên",
-        "thờ": "Phạm Ngũ Lão"
-    },
-    {
-        "name": "Lễ hội đền Chử Đồng Tử tại Hưng Yên",
-        "thờ": "Chử Đồng Tử"
-    },
-    {
-        "name": "Lễ hội Đền An Xá tại Hưng Yên",
-        "thờ": "Ngũ Lão tiên ông"
-    },
-    {
-        "name": "Lễ hội đền Ủng tại Hưng Yên",
-        "thờ": "Phạm Ngũ Lão"
-    },
-    {
-        "name": "Lễ hội Đền Thiên Hậu tại Hưng Yên",
-        "thờ": "Lâm Tức Mặc"
-    },
-    {
-        "name": "Tổ chức lễ hội Đào Nương tại Hưng Yên",
-        "thờ": "Đào Thị Huệ"
-    },
-    {
-        "name": "Lễ hội đền Kỳ Cùng – Tả Phủ ở Lạng Sơn",
-        "thờ": "Ông Thân Công Tài"
-    },
-    {
-        "name": "Lễ hội Kỳ Cùng – Tả Phù tại Lạng Sơn",
-        "thờ": "Tuần Tranh"
-    },
-    {
-        "name": "Tấp nập lễ hội truyền thống Đền Kỳ Cùng ở Lạng Sơn",
-        "thờ": "Thân Công Tài"
-    },
-    {
-        "name": "Đặc sắc Lễ hội đền Tả Phủ tại Lạng Sơn",
-        "thờ": "Thân Công Tài"
-    },
-    {
-        "name": "Tưng bừng Lễ hội đền Vua Lê 2013 ở Lạng Sơn",
-        "thờ": "Vua Lê"
-    },
-    {
-        "name": "Nô nức trẩy hội đền Tả Phủ - Kỳ Cùng tại Lạng Sơn",
-        "thờ": "Tuần Tranh"
-    },
-    {
-        "name": "Nô nức trảy hội chùa Tiên - Lạng Sơn",
-        "thờ": "Ông Tiên"
-    },
-    {
-        "name": "Lễ hội đền vua Lê tại Lạng Sơn",
-        "thờ": "Vua Lê Thái Tổ - Lê Lợi"
-    },
-    {
-        "name": "Lễ hội Quỳnh Sơn tại Lạng Sơn",
-        "thờ": "Ông Dương Tự Minh"
-    },
-    {
-        "name": "Lễ hội chùa Ông – Thu Xà tại Quảng Ngãi",
-        "thờ": "Quan Công"
-    },
-    {
-        "name": "Lễ khao lề thế lính Hoàng Sa, Quảng Ngãi",
-        "thờ": "Lí Thường Kiệt"
-    },
-    {
-        "name": "Tổ chức Lễ hội gắn kết cộng đồng các dân tộc tại Quảng Ngãi",
-        "thờ": "Thánh Mẫu Thiên YANA"
-    },
-    {
-        "name": "Đặc sắc Lễ hội điện Trường Bà tại Quảng Ngãi",
-        "thờ": "Thánh Mẫu Thiên Yana"
-    },
-    {
-        "name": "Lễ hội cúng cá Ông tại Quảng Ngãi",
-        "thờ": "Ngư Ông"
-    },
-    {
-        "name": "Lễ hội điện Trường Bà tại Quảng Ngãi",
-        "thờ": "Thánh Mẫu Thiên Yana"
-    },
-    {
-        "name": "Lễ hội Then Kin Pang tại Lai Châu",
-        "thờ": "Vua Trời"
-    },
-    {
-        "name": "Lễ hội Nàng Han ở Phong Thổ tại Lai Châu",
-        "thờ": "Nàng Han"
-    },
-    {
-        "name": "Lễ hội Nàng Han tại Lai Châu",
-        "thờ": "Nàng Han"
-    },
-    {
-        "name": "Tái hiện lịch sử hào hùng của dân tộc qua lễ hội Cần Vương, Quảng Trị 2010",
-        "thờ": "Hàm Nghi"
-    },
-    {
-        "name": "Xúc động Ngày hội Thống nhất non sông tại Quảng Trị",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hành hương La Văng 2012 tại Quảng Trị",
-        "thờ": "Đức Thánh cha Gioan 23"
-    },
-    {
-        "name": "Lễ hội Trường Sơn huyền thoại tại Quảng Trị",
-        "thờ": "các anh hùng liệt sỹ"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 142 năm ngày mất của Anh hùng dân tộc Nguyễn Trung Trực tại Kiên Giang",
-        "thờ": "Nguyễn Trung Trực"
-    },
-    {
-        "name": "Khai mạc tuần lễ Phật đản tại Kiên Giang",
-        "thờ": "Đức Phật"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 143 năm ngày sinh của anh hùng dân tộc Nguyễn Trung Trực",
-        "thờ": "Nguyễn Trung Trực"
-    },
-    {
-        "name": "Chuẩn bị Lễ hội kỷ niệm Ngày mất Anh hùng liệt sĩ Phan Thị Ràng tại Kiên Giang",
-        "thờ": "Phan Thị Ràng"
-    },
-    {
-        "name": "Lễ hội kỷ niệm 145 năm ngày mất của Nguyễn Trung Trực tại Kiên Giang",
-        "thờ": "Nguyễn Trung Trực"
-    },
-    {
-        "name": "Khai mạc lễ hội Chị Sứ năm 2015 tại Kiên Giang",
-        "thờ": "Phan Thị Ràng"
-    },
-    {
-        "name": "Lễ giỗ Đức khai trấn Mạc Cửu tại Kiên Giang",
-        "thờ": "Mạc Cửu"
-    },
-    {
-        "name": "Lễ hội truyền thống Nguyễn Trung Trực tại Kiên Giang",
-        "thờ": "Nguyễn Trung Trực"
-    },
-    {
-        "name": "Lễ hội Quán âm Nam Hải tại Bạc Liêu",
-        "thờ": "Quan Thế Âm Bồ Tát"
-    },
-    {
-        "name": "Lễ hội Dạ cổ hoài lang tại Bạc Liêu",
-        "thờ": "Cao Văn Lầu"
-    },
-    {
-        "name": "Tổ chức long trọng lễ hội Quán âm Nam Hải tại Bạc Liêu",
-        "thờ": "Đức Thích Minh Lành"
-    },
-    {
-        "name": "Tổ chức ''Lễ hội Dạ cổ hoài lang'' qui mô lớn tại Bạc Liêu",
-        "thờ": "Cao Văn Lầu"
-    },
-    {
-        "name": "Hàng ngàn người tham dự Lễ Quán âm Phật đài Nam Hải - Bạc Lie",
-        "thờ": "Quan Thế Âm Bồ Tát"
-    },
-    {
-        "name": "Lễ hội nghinh Ông ở Đông Hải tại Bạc Liêu",
-        "thờ": "Ông Nam Hải"
-    },
-    {
-        "name": "Lễ hội Nguyễn Đình Chiểu tại Bến Tre",
-        "thờ": "Nguyễn Đình Chiểu"
-    },
-    {
-        "name": "Lễ hội tưởng nhớ nhà thơ yêu nước Nguyễn Đình Chiểu tại Bến Tre",
-        "thờ": "Nguyễn Đình Chiểu"
-    },
-    {
-        "name": "Lễ hội truyền thống cách mạng tại Bến Tre",
-        "thờ": "Cách mạng Đồng Khởi"
-    },
-    {
-        "name": "Lễ hội Nghinh Ông tại Bến Tre",
-        "thờ": "Nam Hải"
-    },
-    {
-        "name": "Lễ hội đền Hoàng Công Chất tại Điện Biên",
-        "thờ": "Hoàng Công Chất"
-    },
-    {
-        "name": "Khai hội Đền thờ Hoàng Công Chất - Thành Bản Phủ tại Điện Biên 2013",
-        "thờ": "Hoàng Công Chất"
-    },
-    {
-        "name": "Lễ hội Thành Bàn Phủ tại Điện Biên",
-        "thờ": "Hoàng Công Chất"
-    },
-    {
-        "name": "Lễ hội đền Lê Thành Phương tại Phú Yên",
-        "thờ": "Lê Thành Phương"
-    },
-    {
-        "name": "Lễ hội chùa Từ Quang tại Phú Yên",
-        "thờ": "Trần Cao Vân"
-    },
-    {
-        "name": "13 tỉnh thành sẽ tham gia Ngày hội VHTTDL khu vực miền Trung – Tây Nguyên 2011",
-        "thờ": "Bác Hồ"
-    },
-    {
-        "name": "Lễ rước thần ở đình làng tại Quảng Bình",
-        "thờ": "Thành Hoàng Bổn Thổ"
-    },
-    {
-        "name": "Lễ hội Nam Kỳ khởi nghĩa tỉnh Tiền Giang",
-        "thờ": "Nguyễn Thị Thập"
-    },
-    {
-        "name": "Lễ giỗ anh hùng dân tộc Trương Định tỉnh Tiền Giang",
-        "thờ": "Trương Định"
-    },
-    {
-        "name": "Lễ hội Nghinh Ông Vàm Láng tại Tiền Giang",
-        "thờ": "Thủy Tướng"
-    },
-    {
-        "name": "Lễ giỗ Tứ Kiệt tại Tiền Giang",
-        "thờ": {
-            "Nguyễn Thanh Long": "Ông Năm Long"
-        }
-    },
-    {
-        "name": "Tôn nghiêm đêm hội vía Phật Di Đà chùa Đức Hòa, Bình Dương",
-        "thờ": "Phật A Di Đà"
-    },
-    {
-        "name": "Hàng nghìn người dân đổ về Bình Dương tham gia Lễ hội chùa Bà Thiên Hậu năm 2010",
-        "thờ": "Bà Thiên Hậu"
-    },
-    {
-        "name": "Tưng bừng Lễ hội chùa Bà Thiên Hậu, Bình Dương",
-        "thờ": "Bà Thiên Hậu"
-    },
-    {
-        "name": "Lễ vía Quan Thánh Đế tại Cần Thơ",
-        "thờ": "Quan Thánh Đế"
-    },
-    {
-        "name": "Lễ giỗ Cụ Nguyễn Sinh Sắc tại Đồng Tháp",
-        "thờ": "Nguyễn Sinh Sắc"
-    },
-    {
-        "name": "Tưng bừng lễ hội Gò Tháp tại Đồng Tháp",
-        "thờ": [
-            "Thiên Hộ Vương",
-            "Đốc Binh Kiều"
-        ]
-    },
-    {
-        "name": "Lễ hội Gò Tháp tại Đồng Tháp",
-        "thờ": [
-            "Đốc Binh Kiều",
-            "Thiên Hộ Dương"
-        ]
-    },
-    {
-        "name": "Hội đình Định Yên tại Đồng Tháp",
-        "thờ": [
-            "Phạm Văn An"
-        ]
-    },
-    {
-        "name": "Lễ tết Chol Chnăm Thmây tại Bình Phước",
-        "thờ": "Ka Bbưl Maha Brưm"
-    },
-    {
-        "name": "Tổ chức trọng thể Lễ kỷ niệm 70 năm ngày Bác Hồ về nước tại Cao Bằng",
-        "thờ": "Hồ Chí Minh"
-    },
-    {
-        "name": "Lễ hội đền Kỳ Sầm tại Cao Bằng",
-        "thờ": "Nùng Trí Cao"
-    },
-    {
-        "name": "Lễ hội Chùa Phố Cũ tại Cao Bằng",
-        "thờ": "Quan Vân Trường"
-    },
-    {
-        "name": "Lễ hội chùa Sùng Phúc tại Cao Bằng",
-        "thờ": "Nguyễn Thị Duệ"
-    },
-    {
-        "name": "Lễ hội Kỳ Yên Đình Tân Lân tại Đồng Nai",
-        "thờ": "Trần Thượng Xuyên"
-    },
-    {
-        "name": "Lễ cúng biển ở Mỹ Long tại Trà Vinh",
-        "thờ": "Quan Công"
-    },
-    {
-        "name": "Lễ hội Vía Bà Thiên Hậu tại Cà Mau",
-        "thờ": "Bà Thiên Hậu"
-    },
-    {
-        "name": "Lễ hội Lăng Ông ở Trà Ôn tại Vĩnh Long",
-        "thờ": "Nguyễn Văn Tồn"
-    },
-    {
-        "name": "Khai mạc Ngày hội văn hóa - thể thao các dân tộc tỉnh Đắk Nông 2011",
-        "thờ": "Yun Jông"
-    },
-    {
-        "name": "Tây Ninh trong những ngày diễn ra Lễ hội núi Bà Đen – 2010",
-        "thờ": "Đức Phật Mẫu"
-    }
+  {
+    "name": "Tưng bừng hội vật truyền thống chùa Cao xã Hạ Bằng - Thạch Thất",
+    "thờ": ["Trưng Trắc", "Trưng Nhị"]
+  },
+  {
+    "name": "Lễ hội đình và đền Kim Liên",
+    "thờ": ["Cao Sơn Đại Vương"]
+  },
+  {
+    "name": "Lễ hội đình - đền Chèm tại Hà Nội",
+    "thờ": ["Lý Ông Trọng"]
+  },
+  {
+    "name": "Hội đền Lư Giang tại Hà Nội",
+    "thờ": ["Trần Hưng Đạo"]
+  },
+  {
+    "name": "Hội làng Thọ Am tại Hà Nội",
+    "thờ": ["Đoàn Thượng"]
+  },
+  {
+    "name": "Hội làng Sủi tại Hà Nội",
+    "thờ": ["Ỷ Lan"]
+  },
+  {
+    "name": "Lễ hội truyền thống làng Bắc Biên tại Hà Nội",
+    "thờ": ["Lý Thường Kiệt"]
+  },
+  {
+    "name": "Hội chùa Thầy tại Hà Nội",
+    "thờ": ["Từ Lộ"]
+  },
+  {
+    "name": "Hội chùa Thánh Chúa tại Hà Nội",
+    "thờ": ["Ỷ Lan"]
+  },
+  {
+    "name": "Hội đình Nhật Tân tại Hà Nội",
+    "thờ": ["Uy Linh Lang"]
+  },
+  {
+    "name": "Hội đình Ngũ Giáp tại Hà Nội",
+    "thờ": ["Lữ Gia"]
+  },
+  {
+    "name": "Hội Võng Thị tại Hà Nội",
+    "thờ": ["Mục Thận"]
+  },
+  {
+    "name": "Hội thờ Thủy thần tại Hà Nội",
+    "thờ": "Đức Bảo Ninh"
+  },
+  {
+    "name": "Hội thả chim làng Dục Tú huyện Đông Anh - Hà Nội",
+    "thờ": "Đức Phật"
+  },
+  {
+    "name": "Lễ hội đình Sài Đồng tại Hà Nội",
+    "thờ": "Linh Lang Đại Vương"
+  },
+  {
+    "name": "Hội rước Thành hoàng tổng Hà Hồi tại Hà Nội",
+    "thờ": "Thành hoàng Cao Sơn"
+  },
+  {
+    "name": "Hội phủ Tây Hồ tại Hà Nội",
+    "thờ": "Chúa Liễu Hạnh"
+  },
+  {
+    "name": "Hội miếu Mèn tại Hà Nội",
+    "thờ": "Bà Man Thiện"
+  },
+  {
+    "name": "Hội làng Xuân Nộn tại Hà Nội",
+    "thờ": ["Vũ Định Đại vương", "Thiên Lôi tôn thần"]
+  },
+  {
+    "name": "Hội làng Thượng Phúc tại Hà Nội",
+    "thờ": ["Minh Từ Hoàng Thái hậu", "Bồ Tát"]
+  },
+  {
+    "name": "Hội vật cầu truyền thống làng Thúy Lĩnh tại Hà Nội",
+    "thờ": "Lý Thánh Tông"
+  },
+  {
+    "name": "Hội làng Tả Thanh Oai tại Hà Nội",
+    "thờ": "Lê Đại Hành"
+  },
+  {
+    "name": "Hội làng Hữu Thanh Oai tại Hà Nội",
+    "thờ": "Lê Hoàn"
+  },
+  {
+    "name": "Hội làng Ruộng tại Đông Anh - Hà Nội",
+    "thờ": "Nồi Hầu"
+  },
+  {
+    "name": "Hội làng Quậy tại Hà Nội",
+    "thờ": "Thủy Hải, Đăng Giang, Khổng Chúng, Thánh Tam Giang, Đông Hải"
+  },
+  {
+    "name": "Hội làng Phú Mỹ - Kiều Mai tại Hà Nội",
+    "thờ": "Thành hoàng làng Đào Trường, Quốc vương Thiên tử đại vương tức Lý Nam Đế, Ả Lã Nàng Đê, Diêm La Thiên tử đại vương tức Lý Phật Tử"
+  },
+  {
+    "name": "Hội làng Nghi Tàm tại Hà Nội",
+    "thờ": "Minh Khiết Dực Thánh Thần, Bảo Trung Cương Đoán Thần, Triều Đình Phù Quốc Thần, Lỗ Quốc Thái Sư Thần, Hoàng Hiệp Tây Hồ Thủy Thần, Quỳnh Hoa Đoan Trang Công chúa Thần"
+  },
+  {
+    "name": "Hội làng Ngọc Trì tại Hà Nội",
+    "thờ": "Huyền Thiên Trấn Vũ"
+  },
+  {
+    "name": "Hội làng Mạnh Tân tại Đông Anh - Hà Nội",
+    "thờ": "Bà Phạm Thị, Đương Giang"
+  },
+  {
+    "name": "Lễ hội truyền thống làng Liên Bạt tại Hà Nội",
+    "thờ": "Đặng Sĩ, Đặng Xã, Đặng Lang"
+  },
+  {
+    "name": "Lễ hội truyền thống làng Khê Hồi",
+    "thờ": "Thành hoàng Cao Sơn Đại Vương"
+  },
+  {
+    "name": "Hội làng Hồ Khẩu tại Hà Nội",
+    "thờ": "Dực thánh Đại vương (Cống Lễ)"
+  },
+  {
+    "name": "Lễ hội làng Hậu Ái tại Hà Nội",
+    "thờ": "Đỗ Kính Tu"
+  },
+  {
+    "name": "Hội làng Hải Bối tại Hà Nội",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Lễ hội truyền thống làng Hạ Mỗ tại Hà Nội",
+    "thờ": "Lý Bát Lang"
+  },
+  {
+    "name": "Hội làng Giáp Lục tại Hà Nội",
+    "thờ": "Nguyễn Chính"
+  },
+  {
+    "name": "Hội làng Canh Hoạch tại Hà Nội",
+    "thờ": "Nguyễn Quyện"
+  },
+  {
+    "name": "Hội làng Đông Dư tại Hà Nội",
+    "thờ": "Cao Sơn đại vương, Bạch Đa đại vương, Linh Lang đại vương, Khang Trí đại vương"
+  },
+  {
+    "name": "Hội làng Đa Sỹ tại Hà Đông - Hà Nội",
+    "thờ": "Hoàng Đôn Hòa"
+  },
+  {
+    "name": "Hội làng Giá tại Hà Nội",
+    "thờ": "Phạm Tu"
+  },
+  {
+    "name": "Hội Phù Gióng Chi Nam tại Hà Nội",
+    "thờ": "Bùi Duy Trí"
+  },
+  {
+    "name": "Hội chùa Tam Huyền ở Hà Nội",
+    "thờ": "Từ Vinh"
+  },
+  {
+    "name": "Hội chùa Đậu tại Hà Nội",
+    "thờ": "Vũ Khắc Trường và Vũ Khắc Minh"
+  },
+  {
+    "name": "Hội gieo cầu Viên Nội tại Đông Anh - Hà Nội",
+    "thờ": "Tống Vĩnh và Uông Tá"
+  },
+  {
+    "name": "Hội làng Thượng Cát",
+    "thờ": "Thành Hoàng Quách tướng công và hai vị công chúa họ Đinh"
+  },
+  {
+    "name": "Hội đền Thanh Nhàn tại Hà Nội",
+    "thờ": "Phù Đổng Thiên Vương"
+  },
+  {
+    "name": "Hội đền Thụy Khuê tại Hà Nội",
+    "thờ": "Linh Lang đại vương và sáu bộ tướng"
+  },
+  {
+    "name": "Hội đền Sái tại Hà Nội",
+    "thờ": "thần Huyền Thiên Trấn Vũ"
+  },
+  {
+    "name": "Hội đền Đức Thánh Cả tại Hà Nội",
+    "thờ": "Lý Nam Đế"
+  },
+  {
+    "name": "Hội đền Hạ Lôi thờ Hai Bà Trưng tại Mê Linh",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Hội đền Hát Môn tại Hà Nội",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Hội đền Đồng Cổ quận Tây Hồ - Hà Nội",
+    "thờ": "Thiên Hạ Minh"
+  },
+  {
+    "name": "Hội đền Đông Bộ Đầu tại Hà Nội",
+    "thờ": "Huyền Thiên"
+  },
+  {
+    "name": "Hội làng Vẽ tại Hà Nội",
+    "thờ": "Thành Hoàng, Lê Khôi, Bảo vệ Chương Hòa, Phạm Quang Dung, Mạc quận công"
+  },
+  {
+    "name": "Lễ hạ cờ tại quảng trường Ba Đình",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ thượng cờ tại Quảng trường Ba Đình",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hội đình Ngoại tại Hà Nội",
+    "thờ": "Đô Hồ Đại vương Phạm Tu"
+  },
+  {
+    "name": "Rộn ràng hội đình Quảng Bá tại Hà Nội",
+    "thờ": "Bố Cái Đại Vương Phùng Hưng"
+  },
+  {
+    "name": "Hội đình Nhật Tảo tại Hà Nội",
+    "thờ": "Thành Hoàng Trần Nguyên Trác"
+  },
+  {
+    "name": "Hội đình Phú Diễn tại Hà Nội",
+    "thờ": "Thành Hoàng Đào Trường"
+  },
+  {
+    "name": "Hội làng nghề dệt Vạn Phúc tại Hà Nội",
+    "thờ": "Ả Lã Đê Nương"
+  },
+  {
+    "name": "Lễ hội đình Vạn Phúc tại Hà Nội",
+    "thờ": "Linh Lang Đại vương"
+  },
+  {
+    "name": "Hội Gióng Phù Đổng huyện Gia Lâm",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Hội đình Khương Hạ tại Hà Nội",
+    "thờ": "Lê Dương Vệ"
+  },
+  {
+    "name": "Hội đình Bà Tía (Hội đình Vĩnh Ninh) tại Hà Nội",
+    "thờ": "Bà Tía"
+  },
+  {
+    "name": "Hội đình Phú Gia tại quận Tây Hồ, Hà Nội",
+    "thờ": "Thần Khai Nguyên"
+  },
+  {
+    "name": "Lễ hội kén rể Đường Yên tại Hà Nội",
+    "thờ": "Lê Hoa"
+  },
+  {
+    "name": "Lễ hội chùa Trầm tại Hà Nội",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Hội làng Nhị Khê tại Hà Nội",
+    "thờ": "Đoàn Tài"
+  },
+  {
+    "name": "Hội Bạch Trữ (Kẻ Bạch) tại Hà Nội",
+    "thờ": "Mị Nương Công chúa và Hoàng Cống"
+  },
+  {
+    "name": "Hội đền Nguyễn Trãi tại huyện Thường Tín, Hà Nội",
+    "thờ": "Nguyễn Trãi"
+  },
+  {
+    "name": "Hội đền Ghềnh tại Long Biên, Hà Nội",
+    "thờ": "Công chúa Ngọc Hân"
+  },
+  {
+    "name": "Hội đền Cai Công tại Hà Nội",
+    "thờ": "Cai Công"
+  },
+  {
+    "name": "Lễ Vu lan báo hiếu",
+    "thờ": "Bồ Tát Mục Kiền Liên"
+  },
+  {
+    "name": "Lễ hội làng nghề Sơn Đồng tại Hà Nội",
+    "thờ": "Đào Trực"
+  },
+  {
+    "name": "Lễ hội vật làng Mai Động, Hà Nội",
+    "thờ": "Nguyễn Tam Trinh"
+  },
+  {
+    "name": "Lễ hội Chạy Lợn ở Hà Nội",
+    "thờ": "Cao Sơn Đại vương"
+  },
+  {
+    "name": "Lễ hội Tản Viên Sơn Thánh tại Hà Nội",
+    "thờ": "Tản Viên Sơn Thánh"
+  },
+  {
+    "name": "Lễ giỗ tổ nghề hát Xẩm",
+    "thờ": "Trần Quốc Đĩnh"
+  },
+  {
+    "name": "Lễ hội Làng nghề, Phố nghề Thăng Long - Hà Nội",
+    "thờ": "Lý Thái Tổ"
+  },
+  {
+    "name": "Lễ hội truyền thống làng Quỳnh Đô",
+    "thờ": "Thái úy Tô Hiến Thành"
+  },
+  {
+    "name": "Lễ hội bơi chải truyền thống Yên Duyên - Yên Sở tại Hà Nội",
+    "thờ": "Vua Lý Nhân Tông"
+  },
+  {
+    "name": "Lễ hội hẹn ước ven sông Đáy tại Hà Nội",
+    "thờ": "Đức Thánh Mẫu"
+  },
+  {
+    "name": "Lễ hội Quốc Tổ Lạc Long Quân",
+    "thờ": "Quốc Tổ Lạc Long Quân"
+  },
+  {
+    "name": "Lễ hội Rồng mừng đại lễ 1000 năm Thăng Long",
+    "thờ": "Vua Lý Công Uẩn"
+  },
+  {
+    "name": "Hà Nội tổng dượt diễu binh toàn lực lượng chuẩn bị cho Đại lễ 1000 năm Thăng Long",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ rước kiệu Thánh Lễ hội Đền Và năm 2012",
+    "thờ": "Đức Thánh"
+  },
+  {
+    "name": "Lễ hội gò Đống Đa rộn ràng trong những ngày đầu xuân Canh Dần",
+    "thờ": "vua Quang Trung - Nguyễn Huệ"
+  },
+  {
+    "name": "Một số hình ảnh độc đáo về Đại lễ 1000 năm Thăng Long – Hà Nội",
+    "thờ": "Lý Thái Tổ"
+  },
+  {
+    "name": "Tưng bừng tổ chức lễ hội truyền thống làng Quỳnh Đô, Thanh Trì, Hà Nội",
+    "thờ": "Thái úy Tô Hiến Thành"
+  },
+  {
+    "name": "Hoàn toàn có cơ sở để phục dựng lễ hội Đèn Quảng Chiếu",
+    "thờ": "Lý Thái Tổ"
+  },
+  {
+    "name": "Tưng bừng lễ hội thổi cơm thi làng Thị Cấm - Hà Nội",
+    "thờ": "Hùng Vương thứ 18"
+  },
+  {
+    "name": "Tưng bừng lễ hội Đền Và 2014 ở Sơn Tây, Hà Nội",
+    "thờ": "Đức Thánh Tản Viên Sơn Tinh"
+  },
+  {
+    "name": "Văn hóa tín ngưỡng lễ hội Đền Hai Bà Trưng",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Độc đáo màn thi đấu Cờ tướng trong Lễ hội chùa Vua 2010",
+    "thờ": "Đế Thích"
+  },
+  {
+    "name": "Lễ hội truyền thống làng Liễu Giai tại Hà Nội",
+    "thờ": "Hoàng Phúc Trung"
+  },
+  {
+    "name": "Nét văn hoá của vùng đồng bằng Bắc Bộ tại Lễ hội Đình làng An Hạ",
+    "thờ": "Thành Hoàng ba thôn: An Hạ, Đào Nguyên, Ngự Câu"
+  },
+  {
+    "name": "Sôi động lễ hội Thập Tam Trại, Hà Nội",
+    "thờ": "Nguyễn Quý Công"
+  },
+  {
+    "name": "Nhiều nơi trên địa bàn thủ đô Hà Nội diễn ra Lễ hội truyền thống kỷ niệm 1970 năm khởi nghĩa Hai Bà Trưng",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Đông đảo người dân Hà Nội tham dự Lễ hội Đền Bạch Mã 2010",
+    "thờ": "Long Đỗ"
+  },
+  {
+    "name": "Sôi động lễ hội Gióng làng Phù Đổng",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Long trọng lễ hội kỷ niệm 582 năm Vua Lê Thái Tổ đăng quang tại Hà Nội",
+    "thờ": "Vua Lê Thái Tổ"
+  },
+  {
+    "name": "Lung linh Lễ hội Hoa Đăng tại Hà Nội",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Dừng tổ chức hai lễ hội trong dịp Đại lễ 1000 Thăng Long",
+    "thờ": "Nguyễn Sinh Hùng"
+  },
+  {
+    "name": "Đặc sắc Lễ hội trống đồng - Hào khí Thăng Long",
+    "thờ": "Lê Khả Phiêu"
+  },
+  {
+    "name": "Tổ chức Festival cầu Long Biên 2010 trong những ngày diễn ra Đại Lễ 1000 Thăng Long tại Hà Nội",
+    "thờ": "Lý Thái Tổ"
+  },
+  {
+    "name": "Tổ chức Lễ hội đình Yên Thái tại Hà Nội",
+    "thờ": "Hoàng Thái hậu Ỷ Lan"
+  },
+  {
+    "name": "Tổ chức các lễ hội kỷ niệm Đại lễ 1000 Thăng Long – Hà Nội",
+    "thờ": "Đại thi hào Nguyễn Du"
+  },
+  {
+    "name": "Tổ chức Lễ hội In dấu rồng thiêng chào mừng Đại lễ kỷ niệm 1000 năm Thăng Long",
+    "thờ": "Vua Lý Công Uẩn"
+  },
+  {
+    "name": "Tưng bừng Đại lễ 1000 năm Thăng Long tại Hà Nội",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "UNESCO đưa Lễ hội Gióng Việt Nam vào danh sách xem xét công nhận di sản phi vật thể",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "UNESCO công nhận Lễ hội Thánh Gióng là di sản phi vật thể đại diện nhân loại",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Giảm tần suất tổ chức các ngày lễ kỷ niệm",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "17 đầu việc bảo tồn và phát huy giá trị Hội Gióng",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Lễ tưởng niệm 702 năm ngày mất của Phật hoàng Trần Nhân Tông tại Hà Nội",
+    "thờ": "Phật hoàng Trần Nhân Tông"
+  },
+  {
+    "name": "Hạ nhiệt điểm nóng mùa lễ hội",
+    "thờ": "Trần"
+  },
+  {
+    "name": "Lung linh đêm lễ hội mừng Phật thành đạo chùa Bằng",
+    "thờ": "Thích Ca Mâu Ni"
+  },
+  {
+    "name": "Tổ chức đón bằng công nhận Di sản văn hoá phi vật thể cho Hội Gióng tại Hà Nội",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Hội Gióng đón bằng công nhận là di sản văn hóa phi vật thể của nhân loại",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Tưng bừng lễ hội chiến thắng Ngọc Hồi - Đống Đa, Hà Nội",
+    "thờ": "Hoàng đế Quang Trung - Nguyễn Huệ"
+  },
+  {
+    "name": "Tưng bừng Hội Gióng năm 2011",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Náo nhiệt Lễ hội thi thổi cơm tại Hà Nội",
+    "thờ": "Vua Hùng thứ 18"
+  },
+  {
+    "name": "Lễ hội chùa Duệ Tú năm 2011",
+    "thờ": "Lê Nghĩa (Đại Điên Giác Hoàng thiền sư đại vương)"
+  },
+  {
+    "name": "Trao Phật ngọc trong lễ hội hoa anh đào ở Hà Nội",
+    "thờ": "Yoshimizu Daichi"
+  },
+  {
+    "name": "Tưng bừng hội thi thả Diều ở làng Bá Dương Nội",
+    "thờ": "Nguyễn Cả"
+  },
+  {
+    "name": "Phục dựng lễ hội Thánh Mẫu Tản Viên Sơn tại Hà Nội",
+    "thờ": "Thánh Mẫu Tản Viên Sơn"
+  },
+  {
+    "name": "Lễ hội vinh danh Làng nghề truyền thống Phú Xuyên",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Phú Xuyên tưng bừng lễ hội vinh danh Làng nghề truyền thống lần thứ nhất",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Long trọng Lễ hội vinh danh làng nghề Sơn Đồng tại Hà Nội",
+    "thờ": "Đào Trực"
+  },
+  {
+    "name": "Phục dựng lại Lễ hội đèn Quảng Chiếu ở Thành cổ Hà Nội",
+    "thờ": "Đức Phật Dược Sư"
+  },
+  {
+    "name": "Hà Nội: Lễ hội kỷ niệm 223 năm chiến thắng Ngọc Hồi – Đống Đa",
+    "thờ": "Vua Quang Trung - Nguyễn Huệ"
+  },
+  {
+    "name": "Hà Nội: Lễ hội mùa xuân hấp dẫn khách du lịch",
+    "thờ": "An Dương Vương"
+  },
+  {
+    "name": "Đến xem Lễ hội Bài chòi ngay tại thủ đô Hà Nội",
+    "thờ": "Quang Trung"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 223 năm chiến thắng Ngọc Hồi-Đống Đa",
+    "thờ": "Nguyễn Huệ"
+  },
+  {
+    "name": "Lễ kỷ niệm 1972 năm khởi nghĩa Hai Bà Trưng",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Độc đáo Lễ hội Cổ Loa 2012",
+    "thờ": "Vua An Dương Vương"
+  },
+  {
+    "name": "Khai hội Tản Viên Sơn Thánh 2012 tại Hà Nội",
+    "thờ": "Tản Viên Sơn Thánh"
+  },
+  {
+    "name": "Lễ hội rước lợn làng La Phù - Hoài Đức, Hà Nội.",
+    "thờ": "Tĩnh Quốc"
+  },
+  {
+    "name": "Tưng bừng lễ hội Hai Bà Trưng tại Hà Nội",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Tổ chức Lễ giỗ tổ nghề hát Xẩm tại Hà Nội",
+    "thờ": "Trần Quốc Đĩnh"
+  },
+  {
+    "name": "Cần sớm khảo sát kỹ toàn bộ hệ thống lễ hội ở Việt Nam",
+    "thờ": "Lưu Trần Tiêu"
+  },
+  {
+    "name": "Lung linh triển lãm ảnh lễ hội Việt Nam tại Pháp",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Họp báo tổ chức Lễ kỷ niệm 110 năm Ngày sinh Tổng Bí thư Lê Hồng Phong",
+    "thờ": "Lê Hồng Phong"
+  },
+  {
+    "name": "Xem xét đề nghị tổ chức lễ hội Ngày Vua Lê đăng quang tại Hà Nội 2013",
+    "thờ": "Vua Lê Thái Tổ"
+  },
+  {
+    "name": "Tổ chức nhiều hoạt động lễ hội mừng xuân Quý Tỵ 2013 tại Hà Nội",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Khôi phục lại Lễ dựng và lễ hạ cây nêu ngày Tết Táo Quân",
+    "thờ": "Táo Quân"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 224 năm chiến thắng Ngọc Hồi - Đống Đa, Hà Nội",
+    "thờ": "Quang Trung - Nguyễn Huệ"
+  },
+  {
+    "name": "Khai mạc lễ hội Gióng ở đền Sóc huyện Sóc Sơn",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 1973 năm cuộc khởi nghĩa Hai Bà Trưng tại Mê Linh",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 1973 năm khởi nghĩa Hai Bà Trưng tại Hà Nội",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 585 năm ngày vua Lê Thái Tổ đăng quang tại Hà Nội",
+    "thờ": "Lê Thái Tổ"
+  },
+  {
+    "name": "Lễ hội Văn hóa châu Á tại Đức do Việt Nam đăng cai tổ chức",
+    "thờ": "Long Quân"
+  },
+  {
+    "name": "Việt Nam tỏa sáng tại Lễ hội văn hóa châu Á",
+    "thờ": "Lạc Long Quân"
+  },
+  {
+    "name": "Tưng bừng Lễ hội văn hóa Việt Nam tại Hàn Quốc",
+    "thờ": "Trần Phú"
+  },
+  {
+    "name": "Những lễ hội đậm đà văn hóa truyền thống Việt trong tháng 10",
+    "thờ": "Nguyễn Trung Trực"
+  },
+  {
+    "name": "Tuần lễ Đại đoàn kết các dân tộc - Di sản Văn hóa Việt Nam",
+    "thờ": "Trương Tấn Sang"
+  },
+  {
+    "name": "Tưng bừng lễ hội đền Quốc Tổ Lạc Long Quân tại Bình Đà",
+    "thờ": "Lạc Long Quân"
+  },
+  {
+    "name": "Tưng bừng khai mạc lễ hội chùa Hương 2015",
+    "thờ": "Thích Minh Hiền"
+  },
+  {
+    "name": "Lễ hội làng Khê Thượng tại Hà Nội",
+    "thờ": "Tản Viên Sơn Thánh"
+  },
+  {
+    "name": "Lễ hội Chùa Láng tại Hà Nội",
+    "thờ": "Thiền sư Từ đạo Hạnh"
+  },
+  {
+    "name": "Lễ hội gò Đống Đa tại Hà Nội",
+    "thờ": "Nguyễn Huệ"
+  },
+  {
+    "name": "Lễ hội đền Sóc tại Hà Nội",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Lễ Hội Làng Lệ Mật tại Hà Nội",
+    "thờ": "Hoàng Đức Trung"
+  },
+  {
+    "name": "Hội Đền Trèm ( Chèm ) tại Hà Nội",
+    "thờ": "Lý Ông Trọng"
+  },
+  {
+    "name": "Lễ hội đền Chúa xã Cổ Nhuế tại Hà Nội",
+    "thờ": "Công chúa Túc Trinh"
+  },
+  {
+    "name": "Lễ hội đình làng Nam Đồng tại Hà Nội",
+    "thờ": "Thái úy Lý Thường Kiệt"
+  },
+  {
+    "name": "Lễ hội đình Ứng Thiên tại Hà Nội",
+    "thờ": "Hậu Thổ Phu Nhân"
+  },
+  {
+    "name": "Lễ hội đình Kim Giang tại Hà Nội",
+    "thờ": "Mạo Giáp Hoa"
+  },
+  {
+    "name": "Lễ hội làng Huỳnh Cung tại Hà Nội",
+    "thờ": "Uy Mang đại vương và Hồng Bác đại vương, Chu Văn An"
+  },
+  {
+    "name": "Lễ hội núi Sưa tại Hà Nội",
+    "thờ": "Đức Huyền Thiên Hắc Đế"
+  },
+  {
+    "name": "Lễ hội Thập Tam Trại tại Hà Nội",
+    "thờ": "Nguyễn Quý Công"
+  },
+  {
+    "name": "Lễ hội đình Yên Phụ tại Hà Nội",
+    "thờ": "Uy Đô Linh Lang"
+  },
+  {
+    "name": "Lễ hội đền Cống Yên tại Hà Nội",
+    "thờ": "Đức Thánh Quảng Hồng"
+  },
+  {
+    "name": "Hội làng Động Phí tại Hà Nội",
+    "thờ": "Bạch Địa, Bạch Tượng, Đô Đài"
+  },
+  {
+    "name": "Hội làng Thanh Am tại Hà Nội",
+    "thờ": "Đào phu nhân (Phương Dung công chúa), Đào Kỳ"
+  },
+  {
+    "name": "Lễ hội đền Đồng Nhân tại Hà Nội",
+    "thờ": "Hai Bà Trưng Trắc và Trưng Nhị"
+  },
+  {
+    "name": "Hội đánh cá làng Me tại Hà Nội",
+    "thờ": "Đức thánh Tản"
+  },
+  {
+    "name": "Lễ hội phong Chúa, rước Vua tại Hà Nội",
+    "thờ": "Huyền Thiên Trấn Vũ"
+  },
+  {
+    "name": "Hội Gióng Sóc Sơn tại Hà Nội",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Lễ hội làng Miêng Hạ tại Hà Nội",
+    "thờ": "Cao Sơn"
+  },
+  {
+    "name": "Hội Thả diều ở Bá Giang tại Hà Nội",
+    "thờ": "Nguyễn Cả"
+  },
+  {
+    "name": "Lễ hội Vân Sa tại Hà Nội",
+    "thờ": "Ngũ Nương và Huệ Vũ đại vương - Trần Quốc Chẩn"
+  },
+  {
+    "name": "Lễ hội đền Bà Tấm tại Hà Nội",
+    "thờ": "Bà Tấm"
+  },
+  {
+    "name": "Lễ hội đền Măng Sơn tại Hà Nội",
+    "thờ": "Đức Thánh Tản Viên"
+  },
+  {
+    "name": "Lễ hội Đình làng An Hạ tại Hà Nội",
+    "thờ": "Đỗ Thiện"
+  },
+  {
+    "name": "Hội làng Lai Tảo tại Hà Nội",
+    "thờ": "Đại Vương Cao Quế Minh"
+  },
+  {
+    "name": "Lễ hội Đền Và tại Hà Nội",
+    "thờ": "Thánh Tản"
+  },
+  {
+    "name": "Lễ hội Miếu Mạch Lũng tại Hà Nội",
+    "thờ": "Ba vị anh hùng dân tộc dưới thời vua Hùng Vương thứ 18"
+  },
+  {
+    "name": "Hội húc cầu gỗ ở Xuân Dục tại Hà Nội",
+    "thờ": "Lạc Long Quân và Âu Cơ"
+  },
+  {
+    "name": "Đặc sắc lễ hội làng Cổ Trai tại Hà Nội",
+    "thờ": "Trung Thành Đại vương"
+  },
+  {
+    "name": "Lễ hội đền Ba Xã tại Hà Nội",
+    "thờ": "Thánh Mạc Trâu"
+  },
+  {
+    "name": "Lễ hội Võng La tại Hà Nội",
+    "thờ": "Ngũ vị Tôn Thần: Quốc Công Đại Vương, Lã Nương Phu nhân Đại Vương, Minh Chiêu, Linh Khổn, Cung Mục"
+  },
+  {
+    "name": "Đặc sắc lễ hội điện Hòn Chén năm 2018",
+    "thờ": "Thiên Y A Na Thánh Mẫu"
+  },
+  {
+    "name": "Hội đình làng Phú Xuân ở Thừa Thiên Huế",
+    "thờ": "Gia Long"
+  },
+  {
+    "name": "Lễ hội Quán Thế Âm tại Thừa Thiên - Huế",
+    "thờ": "Quán Thế Âm"
+  },
+  {
+    "name": "Về thăm Lễ hội Cầu Ngư làng Thai Dương, Thừa Thiên-Huế",
+    "thờ": "Trương Quý Công"
+  },
+  {
+    "name": "Lễ tế Đàn Xã Tắc quy mô lớn nhất tại thành phố Huế",
+    "thờ": "Gia Long"
+  },
+  {
+    "name": "Bộ ảnh quý đen trắng về lễ hội cung đình Huế ngày xưa",
+    "thờ": "Bảo Đại"
+  },
+  {
+    "name": "Long trọng tổ chức lễ tế Xã Tắc 2012 tại Thừa Thiên Huế",
+    "thờ": "Gia Long"
+  },
+  {
+    "name": "Lễ tế âm hồn tại Thừa Thiên Huế",
+    "thờ": "Tôn Thất Thuyết"
+  },
+  {
+    "name": "Lễ tế Xã Tắc tại Thừa Thiên Huế",
+    "thờ": "Gia Long"
+  },
+  {
+    "name": "Ấn tượng Lễ tế Nam Giao tại Festival Huế 2010",
+    "thờ": "Triều Nguyễn"
+  },
+  {
+    "name": "Khai mạc Lễ hội Điện Hòn Chén tại Thừa Thiên Huế",
+    "thờ": "Nữ thần Po Nagar"
+  },
+  {
+    "name": "Họp báo giới thiệu Lễ hội Huyền Trân 2011 tại Thừa Thiên Huế",
+    "thờ": "Công Chúa Huyền Trân"
+  },
+  {
+    "name": "Lễ tế đàn Xã Tắc - tôn vinh giá trị văn hóa truyền thống Việt Nam",
+    "thờ": "Vua Gia Long"
+  },
+  {
+    "name": "Ấn tượng và trang nghiêm Lễ tế Xã Tắc tại Thừa Thiên Huế",
+    "thờ": "Vua Gia Long"
+  },
+  {
+    "name": "Hàng nghìn người chen chân dự đại lễ Phật đản tại Thừa Thiên Huế",
+    "thờ": "Hòa thượng Thích Đức Phương"
+  },
+  {
+    "name": "Khai mạc lễ hội Quán Thế Âm ở Thừa Thiên Huế năm 2011",
+    "thờ": "Đức Bồ Tát Quán Thế Âm"
+  },
+  {
+    "name": "Lễ hội suy tôn Thánh mẫu Thiên Y A Na tại Thừa Thiên Huế",
+    "thờ": "Thánh Mẫu Thiên Y A Na"
+  },
+  {
+    "name": "Khai mạc lễ hội Huyền Trân công chúa 2012",
+    "thờ": "Huyền Trân công chúa"
+  },
+  {
+    "name": "20.000 người dự lễ khai mạc Festival Huế 2012",
+    "thờ": "Nguyễn Tấn Dũng"
+  },
+  {
+    "name": "Lễ hội Sóng nước Tam Giang năm 2012",
+    "thờ": "Bà Tơ"
+  },
+  {
+    "name": "Tái hiện một số hoạt động lễ hội trong cung vua tại Thừa Thiên Huế",
+    "thờ": "Triều Nguyễn"
+  },
+  {
+    "name": "Tổ chức phục dựng lại Lễ tế Xã Tắc tại Thừa Thiên Huế",
+    "thờ": "Nhà vua"
+  },
+  {
+    "name": "Lễ Tịch Điền tại Thừa Thiên Huế",
+    "thờ": "Vua Minh Mạng"
+  },
+  {
+    "name": "Hội đền thờ Phan Công Hớn tại TP Hồ Chí Minh",
+    "thờ": "Phan Công Hớn"
+  },
+  {
+    "name": "Hội chùa Ông tại TP Hồ Chí Minh",
+    "thờ": "Quan Đế"
+  },
+  {
+    "name": "Hội lăng Lê Văn Duyệt (Lăng ông bà Chiểu) TP HCM",
+    "thờ": "Lê Văn Duyệt"
+  },
+  {
+    "name": "Đại lễ Phật đản tại Việt Nam",
+    "thờ": "Phật Thích Ca Mâu Ni"
+  },
+  {
+    "name": "Hội chùa Ông Bổn tại TP Hồ Chí Minh",
+    "thờ": "Châu Đạt Quan"
+  },
+  {
+    "name": "Lễ hội chùa bà Thiên Hậu tại TP Hồ Chí Minh",
+    "thờ": "Bà Thiên Hậu"
+  },
+  {
+    "name": "Cần Giờ sôi động Lễ hội Nghinh Ông năm 2010",
+    "thờ": "Đức ngài Cá Ông"
+  },
+  {
+    "name": "Lễ hội hoa đăng Phật giáo lớn nhất ở Việt Nam",
+    "thờ": "Phật Di Đà"
+  },
+  {
+    "name": "Tưng bừng Lễ hội đón năm mới 2011 tại TP Hồ Chí Minh",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Nhộn nhịp Lễ hội Trái cây Nam bộ năm 2011",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "TP HCM: Bế mạc Lễ hội trái cây Nam Bộ năm 2011",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Xã hội hóa việc tổ chức các lễ hội Tết năm 2012 tại TP Hồ Chí Minh",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Tưng bừng Lễ hội Vu lan - mùa báo hiếu 2011",
+    "thờ": "Đức Phật Thích Ca"
+  },
+  {
+    "name": "Lễ hội Làng Sen – Lễ hội văn hóa Hồ Chí Minh: Thương hiệu du lịch của Nghệ An",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Bế mạc Lễ hội trái cây Nam Bộ năm 2012",
+    "thờ": "Trường Sa"
+  },
+  {
+    "name": "Họp báo về việc tổ chức Tuần lễ Phật đản năm 2013 tại TP Hồ Chí Minh",
+    "thờ": "Bồ tát Thích Quảng Đức"
+  },
+  {
+    "name": "Tưng bừng Tuần Đại lễ Phật Đản - 2013",
+    "thờ": "Bồ tát Thích Quảng Đức"
+  },
+  {
+    "name": "Khai mạc Lễ hội Thành phố Hồ Chí Minh - Ngôi nhà của chúng ta",
+    "thờ": "Lê Hoàng Quân"
+  },
+  {
+    "name": "Lễ hội nghinh Ông tại TP Hồ Chí Minh",
+    "thờ": "Ông Thủy Tướng"
+  },
+  {
+    "name": "Hội miếu Ông Địa tại TP Hồ Chí Minh",
+    "thờ": "Vua Tự Đức"
+  },
+  {
+    "name": "Lễ kỳ yên đình Phú Nhuận tại TP Hồ Chí Minh",
+    "thờ": "Phật, thần và các vị tiền hiền, hậu hiền"
+  },
+  {
+    "name": "Lễ hội đua thuyền rồng trên đảo Cát Bà - Hải Phòng",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Hội đình Dư Hàng tại Hải Phòng",
+    "thờ": "Ngô Quyền"
+  },
+  {
+    "name": "Hội đền Khả Lâm tại Hải Phòng",
+    "thờ": "Công chúa Chiêu Chinh"
+  },
+  {
+    "name": "Hội Chùa Vẽ tại Hải Phòng",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Hội đền Phú Xá tại Hải An, Hải Phòng",
+    "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội Đình Hạ tại Hải Phòng",
+    "thờ": ["Hưng Đạo Vương Trần Quốc Tuấn", "Trần Quốc Toản", "Phạm Tứ Nghi"]
+  },
+  {
+    "name": "Lễ hội đền Trần Quốc Bảo ở Hải Phòng",
+    "thờ": "Trần Quốc Bảo"
+  },
+  {
+    "name": "Lễ hội đảo Dấu ở Đồ Sơn",
+    "thờ": "Nam Hải Đại Thần Vương"
+  },
+  {
+    "name": "Lễ hội đền Mõ - Hải Phòng",
+    "thờ": "Quỳnh Trân"
+  },
+  {
+    "name": "Lễ hội đền Bà Lê Chân",
+    "thờ": "Lê Chân"
+  },
+  {
+    "name": "Tưng bừng trẩy hội đền Mõ - Hải Phòng",
+    "thờ": "Công chúa Quỳnh Trân"
+  },
+  {
+    "name": "Tổ chức Lễ hội truyền thống Nữ tướng Lê Chân 2014 tại Hải Phòng",
+    "thờ": "Nữ tướng Lê Chân"
+  },
+  {
+    "name": "Lễ hội vật cầu Kim Sơn tại Hải Phòng",
+    "thờ": "Phạm Ngũ Lão"
+  },
+  {
+    "name": "Lễ hội làng cá và Khai trương du lịch Cát Bà năm 2015 tại Hải Phòng",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Lên kế hoạch tổ chức lễ hội Đền Trạng Trình tại Hải Phòng",
+    "thờ": "Trạng Trình"
+  },
+  {
+    "name": "Sẵn sàng cho Lễ hội du lịch Cát Bà 2011 tại Hải Phòng",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Tưng bừng hội vật truyền thống Vĩnh Khê - Hải Phòng",
+    "thờ": "Vũ Trọng, Vũ Giao, Phạm Tử Nghi"
+  },
+  {
+    "name": "Độc đáo lễ hội Minh Thề tại Hải Phòng",
+    "thờ": "Thái Hoàng Thái Hậu nhà Mạc"
+  },
+  {
+    "name": "Công tác chuẩn bị Lễ hội đền Trạng Trình 2013 tại Hải Phòng",
+    "thờ": "Nguyễn Bỉnh Khiêm"
+  },
+  {
+    "name": "Khai mạc lễ hội Từ Lương Xâm năm 2013 tại Hải Phòng",
+    "thờ": "Ngô Quyền"
+  },
+  {
+    "name": "Rực rỡ đêm khai mạc Tuần VHTTDL và Lễ hội Hoa Phượng Đỏ lần II",
+    "thờ": "Nguyễn Tấn Dũng"
+  },
+  {
+    "name": "Lễ hội Phủ Thượng Đoạn tại Hải Phòng",
+    "thờ": "Mẫu"
+  },
+  {
+    "name": "Lễ hội Đình Hàng Kênh tại Hải Phòng",
+    "thờ": "Ngô Quyền"
+  },
+  {
+    "name": "Lễ hội đền Trinh Hưởng tại Hải Phòng",
+    "thờ": "Đào Tấn, Đào Cảnh, Đào Tông Nguyên"
+  },
+  {
+    "name": "Lễ hội Núi Voi tại Hải Phòng",
+    "thờ": "Những cô gái dân quân Hải Phòng"
+  },
+  {
+    "name": "Lễ hội làng Vân Tra tại Hải Phòng",
+    "thờ": "Đào Lôi"
+  },
+  {
+    "name": "Lễ hội Đình Vĩnh Khê tại Hải Phòng",
+    "thờ": "Vũ Giao và Vũ Trung"
+  },
+  {
+    "name": "Lễ hội Minh thề tại Hải Phòng",
+    "thờ": "Thái hậu Vũ Thị Ngọc Toả"
+  },
+  {
+    "name": "Lễ hội Từ Lương Xâm tại Hải Phòng",
+    "thờ": "Ngô Quyền"
+  },
+  {
+    "name": "Lễ hội truyền thống Nữ tướng Lê Chân 2015 tại Hải Phòng",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Hàng vạn du khách đội mưa khai hội Đền Hùng",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Hội vật đuổi giải đình Vĩnh Mỗ tại Phú Thọ",
+    "thờ": "Nguyễn Như Kỳ"
+  },
+  {
+    "name": "Hội chùa Thắm tại Phú Thọ",
+    "thờ": "Vua Hùng"
+  },
+  {
+    "name": "Hội đình Cả tại Phú Thọ",
+    "thờ": "Đức vua Muôn Khê và Đương Cảnh Đại vương"
+  },
+  {
+    "name": "Hội đình làng Lâu Thượng tại Phú Thọ",
+    "thờ": "Cao Sơn, Quý Minh Đại vương, Hai Bà Trưng và Thành hoàng làng Lý Hồng Liên"
+  },
+  {
+    "name": "Lễ hội rước voi Đào Xá - Phú Thọ",
+    "thờ": "Hùng Hải Công"
+  },
+  {
+    "name": "Long trọng khai mạc Lễ hội đền Hùng 2011 tại Phú Thọ",
+    "thờ": "Lạc Long Quân"
+  },
+  {
+    "name": "Linh thiêng Lễ dâng hương giỗ Quốc tổ Lạc Long Quân, mẫu Âu Cơ",
+    "thờ": "Lạc Long Quân và Âu Cơ"
+  },
+  {
+    "name": "Hội Xoan tại Phú Thọ",
+    "thờ": "Các vua Hùng"
+  },
+  {
+    "name": "Lễ hội đền Năng Yên tại Phú Thọ",
+    "thờ": "Tam Vị Đại Vương"
+  },
+  {
+    "name": "Hàng nghìn người tham gia lễ hội Trò Trám, Phú Thọ",
+    "thờ": "Ngô Thị Thanh"
+  },
+  {
+    "name": "Linh thiêng Lễ hội Đền Mẫu Âu Cơ",
+    "thờ": "Âu Cơ"
+  },
+  {
+    "name": "Lễ giỗ Quốc tổ Lạc Long Quân: đạo lý Uống nước nhớ nguồn của dân tộc",
+    "thờ": "Lạc Long Quân"
+  },
+  {
+    "name": "Lễ hội Đình Thạch Khoán mở đầu cho hàng loạt lễ hội đầu năm của tỉnh Phú Thọ",
+    "thờ": "Tản Viên Sơn Thánh"
+  },
+  {
+    "name": "Khai hội Đền Mẫu Ấu Cơ tại Phú Thọ",
+    "thờ": "Âu Cơ"
+  },
+  {
+    "name": "Sôi động Hội phết Hiền Quan tại Phú Thọ",
+    "thờ": "Thiều Hoa công chúa"
+  },
+  {
+    "name": "Nhiều hoạt động đa dạng và đặc sắc trong lễ hội Đền Hùng năm 2011",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Đã sẵn sàng cho Lễ hội Đền Hùng 2011",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Đưa đền Hạ và đền Giếng vào phụ vụ lễ hội đền Hùng 2011 tại Phú Thọ",
+    "thờ": "Vua Hùng"
+  },
+  {
+    "name": "4 triệu khách dự Lễ hội đền Hùng năm Tân Mão 2011",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Việt Trì: Thành phố Lễ hội về với cội nguồn",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Giỗ Tổ Hùng Vương – lễ hội Đền Hùng năm 2012 diễn ra trong 6 ngày",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Quảng bá di sản hát Xoan trong Lễ hội đền Hùng 2012",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Những nét mới trong Đại lễ giỗ Tổ Hùng Vương năm 2012",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Công tác chuẩn bị cho Lễ hội Đền Hùng 2012 tại Phú Thọ",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Long trọng khai hội Đền Hùng 2012",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Lễ hội Đền Hùng 2012 thu hút 6 triệu lượt khách",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Công tác chuẩn bị cho lễ tôn vinh Tín ngưỡng thờ cúng Hùng Vương tại Phú Thọ",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Tích cực chuẩn bị cho Lễ đón nhận bằng di sản thế giới - Lễ hội đền Hùng năm 2013 tại Phú Thọ",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Khai mạc Lễ hội đền Hùng 2013 tại Phú Thọ",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Trang trọng lễ Dâng hương tưởng niệm các vua Hùng",
+    "thờ": "Các Vua Hùng"
+  },
+  {
+    "name": "Sẵn sàng cho Giỗ tổ Hùng Vương – Lễ hội Đền Hùng 2014 tại Phú Thọ",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Kiểm tra công tác tổ chức và quản lý lễ hội năm 2015 tại Phú Thọ",
+    "thờ": "Hoàng Tuấn Anh"
+  },
+  {
+    "name": "Tổ chức Lễ hội rước voi truyền thống tại Phú Thọ",
+    "thờ": "Vua Lê Gia Tông"
+  },
+  {
+    "name": "Tưng bừng tổ chức ngày Giỗ Tổ Hùng Vương – Lễ hội Đền Hùng 2015",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Lễ Hội đền Hùng tại Phú Thọ",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Hội đền Du Yến tại Phú Thọ",
+    "thờ": "Hạnh Nương"
+  },
+  {
+    "name": "Lễ hội cầu trâu ở Hương Nha tại Phú Thọ",
+    "thờ": "Xuân Nương"
+  },
+  {
+    "name": "Hội Phết Hiền Quan tại Phú Thọ",
+    "thờ": "Thiều Hoa công chúa"
+  },
+  {
+    "name": "Hội Trò Trám tại Phú Thọ",
+    "thờ": "Thần Tản Viên"
+  },
+  {
+    "name": "Lễ hội Đình Thạch Khoán tại Phú Thọ",
+    "thờ": "Đức thánh Tản Viên Sơn"
+  },
+  {
+    "name": "Hội Bạch Hạc tại Phú Thọ",
+    "thờ": "Thổ Lệnh đại vương"
+  },
+  {
+    "name": "Lễ hội đền mẫu Âu Cơ tại Phú Thọ",
+    "thờ": "Mẹ Âu Cơ"
+  },
+  {
+    "name": "Lễ hội Đức ông Trần Quốc Nghiễn",
+    "thờ": "Trần Quốc Nghiễn"
+  },
+  {
+    "name": "Lễ hội Đền An Sinh tại Đông Triều - Quảng Ninh",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội Quan Lạn tại Quảng Ninh",
+    "thờ": "Trần Khánh Dư"
+  },
+  {
+    "name": "Lễ hội Bạch Đằng tại Quảng Ninh",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội Đền An Sinh tại Quảng Ninh",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội chùa Long Tiên tại Quảng Ninh",
+    "thờ": "Thánh Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ hội đền thờ Đức Ông tại Quảng Ninh",
+    "thờ": "Hưng Vũ Vương Trần Quốc Nghiễn"
+  },
+  {
+    "name": "Tưng bừng khai mạc lễ hội xuân Yên Tử 2014",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Hàng vạn người đến dự lễ hội xuân Yên Tử năm 2010",
+    "thờ": "Phật Hoàng Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội Bạch Đằng 2010- Dấu tích lịch sử hào hùng của dân tộc",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ hội Đền An Sinh, Quảng Ninh năm 2010",
+    "thờ": "Trần Thái Tông"
+  },
+  {
+    "name": "Lễ hội Đức Ông Trần Quốc Nghiễn 2011, Quảng Ninh",
+    "thờ": "Trần Quốc Nghiễn"
+  },
+  {
+    "name": "Tổ chức lễ hội truyền thống Vân Đồn 2011 tại Quảng Ninh",
+    "thờ": "Phó tướng Trần Khánh Dư"
+  },
+  {
+    "name": "Phục dựng và phát huy giá trị các lễ hội truyền thống tại Quảng Ninh",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Tưng bừng khai hội Yên Tử và đón Bằng Di tích quốc gia đặc biệt 2013",
+    "thờ": "Phật hoàng Trần Nhân Tông"
+  },
+  {
+    "name": "Công tác chuẩn bị tổ chức Lễ hội Bạch Đằng tại Quảng Ninh",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Tổ chức họp báo về Lễ kỷ niệm 725 năm Chiến thắng Bạch Đằng",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Quảng Ninh tổ chức lễ kỷ niệm 725 năm chiến thắng Bạch Đằng (1288 - 2013)",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ khai hội đền Đức ông Trần Quốc Nghiễn 2013",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Khai hội Đền An Sinh – Đông Triều tại Quảng Ninh",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội Yên Tử tại Quảng Ninh",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Hội đền Cửa Ông tại Quảng Ninh",
+    "thờ": "Hưng Nhượng Vương Trần Quốc Tảng"
+  },
+  {
+    "name": "Hội làng Trà Cổ tại Quảng Ninh",
+    "thờ": "Nguyễn Hữu Cầu"
+  },
+  {
+    "name": "Lễ hội đình Vạn Ninh tại Quảng Ninh",
+    "thờ": "Lý Thường Kiệt"
+  },
+  {
+    "name": "Hội làng Tư Thế tại Bắc Ninh",
+    "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội làng Long Khám tại Bắc Ninh",
+    "thờ": "Thành hoàng làng Hưng Đạo đại vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội Đức Vua Bà tại Bắc Ninh",
+    "thờ": "Đức Vua Bà"
+  },
+  {
+    "name": "Hội đình Đình Bảng tại Bắc Ninh",
+    "thờ": "Bạch Lệ Đại vương"
+  },
+  {
+    "name": "Hội làng Đại Bái tỉnh Bắc Ninh",
+    "thờ": "Nguyễn Công Truyền"
+  },
+  {
+    "name": "Hội Thị Cầu tại Bắc Ninh",
+    "thờ": "Thánh Tam Giang"
+  },
+  {
+    "name": "Lễ hội Kinh Dương Vương tại Bắc Ninh",
+    "thờ": "Kinh Dương Vương"
+  },
+  {
+    "name": "Tưng bừng hội Đền Vua Bà Thủy tổ Quan họ tại Bắc Ninh",
+    "thờ": "Đức Vua Bà"
+  },
+  {
+    "name": "Bắc Ninh kỷ niệm 2001 năm Lý Thái Tổ đăng quang qua Lễ hội Đền Đô 2011",
+    "thờ": "Vua Lý Thái Tổ"
+  },
+  {
+    "name": "Lễ hội Đền Đô tại Bắc Ninh",
+    "thờ": "Lý Thái Tổ"
+  },
+  {
+    "name": "Hội Lim tại Bắc Ninh",
+    "thờ": "Nguyễn Đình Diễn"
+  },
+  {
+    "name": "Hội làng Trịnh Nguyễn tại Bắc Ninh",
+    "thờ": "Đức vua Hùng"
+  },
+  {
+    "name": "Hội làng Phù Ðổng tại Bắc Ninh",
+    "thờ": "Đức Thánh Gióng"
+  },
+  {
+    "name": "Lễ hội Đền Đậu tại Bắc Ninh",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Hội làng Tam Tảo tại Bắc Ninh",
+    "thờ": "Trần Quý"
+  },
+  {
+    "name": "Hội làng Đồng Kỵ tại Bắc Ninh",
+    "thờ": "Thánh Thiên Cương"
+  },
+  {
+    "name": "Khai mạc lễ hội Đền Đô năm 2010 tại Bắc Ninh",
+    "thờ": "Vua Lý Thái Tổ"
+  },
+  {
+    "name": "Náo nức xem lễ hội chém lợn Ném Thượng ở Bắc Ninh",
+    "thờ": "Đoàn Thượng"
+  },
+  {
+    "name": "Lễ hội Kinh Dương Vương được tổ chức với quy mô lớn tại Bắc Ninh",
+    "thờ": "Kinh Dương Vương"
+  },
+  {
+    "name": "Sẵn sàng cho Lễ hội Đền Đô tại Bắc Ninh",
+    "thờ": "Vua Lý Công Uẩn"
+  },
+  {
+    "name": "Lễ hội Đền Đô kỷ niệm 1002 năm vua Lý Thái Tổ đăng quang",
+    "thờ": "Vua Lý Thái Tổ - Lý Công Uẩn"
+  },
+  {
+    "name": "Khai mạc lễ hội Kinh Dương Vương 2013 tại Bắc Ninh",
+    "thờ": "Kinh Dương Vương"
+  },
+  {
+    "name": "Bộ trưởng Bộ VHTTD kiểm tra công tác tổ chức lễ hội tại Bắc Ninh",
+    "thờ": "Bà Chúa Kho"
+  },
+  {
+    "name": "Lễ hội truyền thống và kỷ niệm 2290 năm ngày sinh Cao Lỗ Vương tại Bắc Ninh",
+    "thờ": "Cao Lỗ Vương"
+  },
+  {
+    "name": "Khai hội Đền Đô 2013 tại Bắc Ninh",
+    "thờ": "Lý Thái Tổ - Lý Công Uẩn"
+  },
+  {
+    "name": "Khai hội Kinh Dương Vương tại Bắc Ninh",
+    "thờ": "Kinh Dương Vương"
+  },
+  {
+    "name": "Lễ hội Thuỷ tổ quan họ làng Viêm Xá tại Bắc Ninh",
+    "thờ": "Đức Vua Bà"
+  },
+  {
+    "name": "Đầu xuân đi trẩy Hội Lim - Bắc Ninh 2010",
+    "thờ": "Nguyễn Đình Diễn"
+  },
+  {
+    "name": "Lễ hội làng Phù Lưu tại Bắc Ninh",
+    "thờ": "Thành hoàng của làng Phù Lưu"
+  },
+  {
+    "name": "Lế hội làng Dương Lôi tại Bắc Ninh",
+    "thờ": "Lý Thái Tổ"
+  },
+  {
+    "name": "Lễ hội chém lợn tại Bắc Ninh",
+    "thờ": "Lý Đoàn Thượng"
+  },
+  {
+    "name": "Lễ hội chùa Dạm tại Bắc Ninh",
+    "thờ": "Hoàng Thái hậu Ỷ Lan"
+  },
+  {
+    "name": "Lễ hội chùa Dâu tại Bắc Ninh",
+    "thờ": "Phật tổ Thích Ca Mâu Ni"
+  },
+  {
+    "name": "Hội đình thập đình tại Bắc Ninh",
+    "thờ": "Lê Văn Thịnh"
+  },
+  {
+    "name": "Hội nhồi tại Bắc Ninh",
+    "thờ": "Lê Văn Đình"
+  },
+  {
+    "name": "Lễ hội chùa Bút Tháp - Bắc Ninh",
+    "thờ": "Huyền Quang"
+  },
+  {
+    "name": "Lễ hội tưởng niệm Cao Lỗ Vương tại Bắc Ninh",
+    "thờ": "Cao Lỗ Vương"
+  },
+  {
+    "name": "Lễ hội Pu Nhạ Thầu ở Nghệ An",
+    "thờ": "Công chúa La Bình"
+  },
+  {
+    "name": "Lễ hội Xăng Khan của người Thái ở Nghệ An",
+    "thờ": "Thầy mo"
+  },
+  {
+    "name": "Lễ hội đền Cuông ở Nghệ An",
+    "thờ": "An Dương Vương"
+  },
+  {
+    "name": "Lễ Hội Đền Hồng Sơn ở Nghệ An",
+    "thờ": "Đức Thánh Trần"
+  },
+  {
+    "name": "Lễ Hội Đền Vua Mai ở Nghệ An",
+    "thờ": "Vua Mai"
+  },
+  {
+    "name": "Lễ Hội Đền Ông Hoàng Mười tại Nghệ An",
+    "thờ": "Ông Hoàng Mười"
+  },
+  {
+    "name": "Lễ Hội Đền Rậm tại Nghệ An",
+    "thờ": "Phùng Hưng"
+  },
+  {
+    "name": "Lễ hội đền Nguyễn Sư Hồi tại Nghệ An",
+    "thờ": "Nguyễn Sư Hồi"
+  },
+  {
+    "name": "Lễ hội đền Vạn - Cửa Rào tại Nghệ An",
+    "thờ": "Đoàn Nhữ Hài"
+  },
+  {
+    "name": "Lễ hội làng Sen - Nghệ An",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hội Vua Mai Thúc Loan năm 2010 thu hút hơn 3 vạn du khách trẩy hội",
+    "thờ": "Mai Thúc Loan"
+  },
+  {
+    "name": "Tổ chức Lễ hội đền Cuông 2010 tại Nghệ An",
+    "thờ": "Thục An Dương Vương"
+  },
+  {
+    "name": "Tổ chức long trọng lễ hội Làng Sen toàn quốc 2010 tại Nghệ An",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Long trọng tổ chức lễ hội Làng Sen 2011 tại Nghệ An",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hội Làng Sen - Lễ hội của Việt Nam và của thế giới",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Tổ chức Hội thảo Đền Vạn - Cửa Rào, di tích và Lễ hội tại Nghệ An",
+    "thờ": "Đốc tướng Đoàn Nhữ Hài"
+  },
+  {
+    "name": "Tưng bừng lễ hội đền Cuông tại Nghệ An",
+    "thờ": "Thục Phán An Dương Vương"
+  },
+  {
+    "name": "Long trọng khai mạc Lễ hội Làng Sen 2012",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Tổng kết Lễ hội Làng Sen - 2012 tại Nghệ An",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Khai hội Đền Vua Mai và lễ kỷ niệm 1.300 năm khởi nghĩa Hoan Châu tại Nghệ An",
+    "thờ": "Mai Thúc Loan"
+  },
+  {
+    "name": "Khai hội đền Vạn - Cửa Rào năm 2013 tại Nghệ An",
+    "thờ": "Đoàn Nhữ Hài"
+  },
+  {
+    "name": "Khai hội Đền Cuông 2013 tại Nghệ An",
+    "thờ": "Thục Phán An Dương Vương"
+  },
+  {
+    "name": "Lễ kỷ niệm 123 năm Ngày sinh Chủ tịch Hồ Chí Minh và Lễ hội Làng Sen 2013 tại TP Hồ Chí Minh",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Nhiều nét mới tại Lễ hội Đền Vua Mai - Nghệ An",
+    "thờ": "Vua Mai Thúc Loan"
+  },
+  {
+    "name": "Khai hội đền Quả Sơn tại Nghệ An",
+    "thờ": "Uy Minh Vương Lý Nhật Quang"
+  },
+  {
+    "name": "Lễ hội đền Cuông tại Nghệ An",
+    "thờ": "An Dương Vương"
+  },
+  {
+    "name": "Lễ hội Vua Mai Thúc Loan tại Nghệ An",
+    "thờ": "Mai Thúc Loan"
+  },
+  {
+    "name": "Lễ hội Đền Vạn Lộc tại Nghệ An",
+    "thờ": "Thái uý Quận công Nguyễn Sư Hồi"
+  },
+  {
+    "name": "Lễ hội Đền thờ Cương Quốc Công Nguyễn Xí tại Nghệ An",
+    "thờ": "Thái sư Cương quốc công Nguyễn Xí"
+  },
+  {
+    "name": "Lễ hội đền Cờn tại Nghệ An",
+    "thờ": "Thánh Mẫu"
+  },
+  {
+    "name": "Hội đền Quả Sơn tại Nghệ An",
+    "thờ": "Uy Minh Vương Lý Nhật Quang"
+  },
+  {
+    "name": "Lễ hội đền Đức Hoàng tại Nghệ An",
+    "thờ": "Hoàng Tá Thốn"
+  },
+  {
+    "name": "Lễ hội Đền Bạch Mã tại Nghệ An",
+    "thờ": "Phan Đà"
+  },
+  {
+    "name": "Tuần lễ cấp cao APEC tại Đà Nẵng năm 2017",
+    "thờ": "Trần Đại Quang"
+  },
+  {
+    "name": "Trang nghiêm Lễ vía đức Phật Quán Thế Âm tại Đà Nẵng",
+    "thờ": "Đức Bồ Tát Quán Thế Âm"
+  },
+  {
+    "name": "Lễ hội đình làng Hải Châu vẫn cuốn hút kỳ lạ sau hơn 30 năm vắng bóng",
+    "thờ": "Lê Thánh Tôn"
+  },
+  {
+    "name": "Tưng bừng Lễ hội Quán Thế Âm Ngũ Hành Sơn",
+    "thờ": "Bồ Tát Quán Thế Âm"
+  },
+  {
+    "name": "Thành lập Ban tổ chức Lễ hội Quán Thế Âm Đà Nẵng năm 2012",
+    "thờ": "Bồ Tát Quán Thế Âm"
+  },
+  {
+    "name": "Sẵn sàng cho Lễ hội Quán Thế Âm năm 2013 tại Đà Nẵng",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Khai mạc lễ hội Quán Thế Âm 2013 tại Đà nẵng.",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội làng Tuý Loan tại Đà Nẵng",
+    "thờ": "Lê Thánh Tôn"
+  },
+  {
+    "name": "Lễ hội Phủ Quảng Cung tại Nam Định",
+    "thờ": "Thánh Mẫu Liễu Hạnh"
+  },
+  {
+    "name": "Lễ hội Đền An Lá tại Nam Định",
+    "thờ": "Nguyễn Tấn"
+  },
+  {
+    "name": "Hội đền Cổ Trạch tỉnh Nam Định",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội đền Đông Cao tại Nam Định",
+    "thờ": "Mỵ Châu"
+  },
+  {
+    "name": "Hội đền Bảo Lộc tại Nam Định",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội làng Cao Đài tại Mỹ Lộc, Nam Định",
+    "thờ": "Trần Quang Khải"
+  },
+  {
+    "name": "Lễ hội truyền thống Trần Hưng Đạo tại Nam Định",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ kỷ niệm ngày hóa thân Đức phật hoàng Trần Nhân Tông tại Nam Định",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội làng nghề mộc cổ truyền Ninh Xá ở Nam Định",
+    "thờ": "Ninh Hữu Hưng"
+  },
+  {
+    "name": "Lần đầu tiên phục dựng lễ rước Nước, tế Cá tại đền Trần Nam Định",
+    "thờ": "nhà Trần"
+  },
+  {
+    "name": "Lễ hội Đền Trần tại Nam Định",
+    "thờ": "14 vị vua nhà Trần"
+  },
+  {
+    "name": "Hội chùa Cổ Lễ tại Nam Định",
+    "thờ": "Thiền sư, pháp sư Nguyễn Minh Không"
+  },
+  {
+    "name": "Gần 20 vạn người tham gia lễ hội khai ấn Đền Trần, Nam Định 2010",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Nhiều điểm mới trong lễ khai ấn đền Trần (Nam Định) năm 2011",
+    "thờ": "Trần"
+  },
+  {
+    "name": "Hàng nghìn du khách tham dự khai mạc lễ hội Phủ Dầy",
+    "thờ": "Mẫu Liễu Hạnh"
+  },
+  {
+    "name": "Hội thảo đi tìm mô hình thích hợp cho lễ hội đền Trần",
+    "thờ": "Trần Tử Bình"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 711 năm ngày mất Trần Hưng Đạo tại Nam Định",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ kỷ niệm 700 năm ngày hóa thân Đức phật hoàng Trần Nhân Tông",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Sẵn sàng cho Lễ khai ấn đền Trần 2012",
+    "thờ": "Trần"
+  },
+  {
+    "name": "Lễ Khai ấn đền Trần năm 2012: Không còn cảnh chen lấn cướp ấn",
+    "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Về Nam Định trẩy hội Phủ Giầy tháng ba",
+    "thờ": "Mẫu Liễu Hạnh"
+  },
+  {
+    "name": "Tưng bừng lễ hội Phủ Dầy tại Nam Định năm 2012",
+    "thờ": "Thánh Mẫu Liễu Hạnh"
+  },
+  {
+    "name": "Tăng cường chuẩn bị cho lễ Khai ấn Đền Trần xuân Quý Tỵ 2013 tại Nam Định",
+    "thờ": "Trần"
+  },
+  {
+    "name": "Khai mạc Lễ khai ấn đền Trần Nam Định năm 2013",
+    "thờ": "Quốc Công Tiết Chế Hưng Đạo Đại Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Khai mạc lễ hội Phủ Dầy 2013 tại Nam Định",
+    "thờ": "Mẫu Liễu Hạnh"
+  },
+  {
+    "name": "Điểm mới trong Lễ Khai ấn Đền Trần 2014",
+    "thờ": "nhà Trần"
+  },
+  {
+    "name": "Hàng vạn người đến tham dự Lễ Khai ấn đền Trần",
+    "thờ": "Quốc Công Tiết Chế Hưng Đạo Đại Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Phục dựng nghi lễ rước kiệu Ngọc Lộ tại Lễ khai ấn Đền Trần 2015",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Hội chợ Viềng tại Nam Định",
+    "thờ": "Bà Chúa Liễu Hạnh"
+  },
+  {
+    "name": "Lễ hội chùa Keo Hành Thiện tại Nam Định",
+    "thờ": "Thiền sư Không Lộ"
+  },
+  {
+    "name": "Lễ hội truyền thống hoa- cây cảnh Vị Khê tại Nam Định",
+    "thờ": "Tô Trung Tự"
+  },
+  {
+    "name": "Lễ khai ấn đền Trần tại Nam Định",
+    "thờ": "Thánh Trần"
+  },
+  {
+    "name": "Lễ hội đền Độc Bộ tại Nam Định",
+    "thờ": "Triệu Việt Vương"
+  },
+  {
+    "name": "Khai mạc Lễ hội đền Thượng tại Lào Cai 2012",
+    "thờ": "Hưng Đạo Đại vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội đền Trung Đô tại Lào Cai",
+    "thờ": "Gia Quốc Công Vũ Văn Mật"
+  },
+  {
+    "name": "Tưng bừng Lễ hội đền Bảo Hà 2010 tại Lào Cai",
+    "thờ": "Thần vệ quốc Hoàng Bẩy"
+  },
+  {
+    "name": "Tổ chức Lễ hội Đền Thượng theo phương châm xã hội hoá tại Lào Cai",
+    "thờ": "Quốc công Tiết chế Trần Hưng Đạo"
+  },
+  {
+    "name": "Khai hội đền Phúc Khánh ở Lào Cai",
+    "thờ": "Vũ Văn Uyên và Vũ Văn Mật"
+  },
+  {
+    "name": "Lễ cấp sắc: Điểm nhấn của Lễ hội trên mây Sa Pa",
+    "thờ": "Ông Thái Bá Lợi"
+  },
+  {
+    "name": "Khai hội đền Bắc Hà năm 2013 tại Lào Cai",
+    "thờ": "Gia quốc công Vũ Văn Mật"
+  },
+  {
+    "name": "Lễ hội rước Đất, rước Nước của người Tày ở Bắc Hà tại Lào Cai",
+    "thờ": "Thầy cúng"
+  },
+  {
+    "name": "Lễ hội đền Thượng tại Lào Cai",
+    "thờ": "Quốc công Tiết Chế Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ hội đền Bắc Hà tại Lào Cai",
+    "thờ": "Gia quốc công Vũ Văn Mật"
+  },
+  {
+    "name": "Lễ Hội Rước Cộ Chợ Được ở Quảng Nam",
+    "thờ": "Bà Chúa Thượng Ngàn"
+  },
+  {
+    "name": "Lễ hội Phật đản tại chùa Thạch Khê ở Quảng Nam",
+    "thờ": "Đức Phật Thích Ca Mâu Ni"
+  },
+  {
+    "name": "Lễ vía Bà Thiên Hậu ở Quảng Nam",
+    "thờ": "Bà Thiên Hậu"
+  },
+  {
+    "name": "Hội rước Thần Nông ở Quảng Nam",
+    "thờ": "Thần Nông"
+  },
+  {
+    "name": "Độc đáo Lễ hội Bà Chợ Được tại Quảng Nam",
+    "thờ": "Bà Chợ Được"
+  },
+  {
+    "name": "Tổ chức thành công Lễ hội Văn hóa - thể thao các huyện miền núi 2010 tại Quảng Nam",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Đặc sắc Lễ hội văn hóa truyền thống Cơ Tu 2010 tại Quảng Nam",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Giao lưu văn hóa Hội An-Nhật Bản lần thứ X: Nhiều hoạt động mới lạ và ý nghĩa",
+    "thờ": "Ông Võ Phùng"
+  },
+  {
+    "name": "Lễ hội Bà Thu Bồn tại Quảng Nam",
+    "thờ": "Bô Bô"
+  },
+  {
+    "name": "Lễ rước Thần Nông tại Quảng Nam",
+    "thờ": "Thần Nông"
+  },
+  {
+    "name": "Hội chùa Thanh Mai tỉnh Hải Dương",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội đền Quát (đền Yết Kiêu) tỉnh Hải Dương",
+    "thờ": "Yết Kiêu"
+  },
+  {
+    "name": "Hội đền Gốm tại Hải Dương",
+    "thờ": "Trần Khánh Dư"
+  },
+  {
+    "name": "Lễ hội Xuân - giỗ tổ nghề kim hoàn làng Châu Khê Hải Dương",
+    "thờ": "Phạm Sỹ"
+  },
+  {
+    "name": "Đại lễ tưởng niệm 721 năm ngày mất của Đức Thánh Trần tại lễ hội Côn Sơn-Kiếp Bạc",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Rộn ràng Lễ hội mùa xuân Côn Sơn - Kiếp Bạc 2010",
+    "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội mùa Thu Côn Sơn - Kiếp Bạc đón mừng Đại lễ",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Tưng bừng lễ khai hội mùa thu Kiếp Bạc-Côn Sơn 2010",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Đánh Thó - trò chơi độc đáo trong lễ hội đền Cuối, Hải Dương",
+    "thờ": "Nguyễn Chế Nghĩa"
+  },
+  {
+    "name": "Chuẩn bị đón hàng trăm lượt du khách tham dự lễ hội chùa Minh Khánh tại Hải Dương",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ xin trùm ở đền Cao tại Hải Dương",
+    "thờ": "Vương Đức Minh"
+  },
+  {
+    "name": "Tưng bừng Hội chùa Thánh Quang Tự tại Hải Dương",
+    "thờ": "Thánh tổ Thuỷ Nguyệt"
+  },
+  {
+    "name": "Lễ khai hội mùa thu Côn Sơn - Kiếp Bạc năm 2011",
+    "thờ": "Anh hùng dân tộc Hưng Đạo Đại vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Tưng bừng khai hội mùa xuân Côn Sơn-Kiếp Bạc 2012",
+    "thờ": [
+      "Đệ tam tổ Trúc Lâm Huyền Quang tôn giả",
+      "Trần Hưng Đạo",
+      "Nguyễn Trãi"
+    ]
+  },
+  {
+    "name": "Họp báo công bố thời gian tổ chức Lễ hội Côn Sơn – Kiếp Bạc 2012 tại Hải Dương",
+    "thờ": ["Hưng Đạo Đại Vương Trần Quốc Tuấn", "Nguyễn Trãi"]
+  },
+  {
+    "name": "Quyết tâm thực hiện biện pháp 3 không trong Lễ hội mùa thu, Côn Sơn-Kiếp Bạc 2012",
+    "thờ": ["Nguyễn Trãi", "Hưng Đạo Đại Vương Trần Quốc Tuấn"]
+  },
+  {
+    "name": "Lễ Cáo yết mở đầu các hoạt động cho lễ hội mùa thu Côn Sơn-Kiếp Bạc năm 2012",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội mùa thu Côn Sơn - Kiếp Bạc: Điểm du lịch văn hóa - tâm linh",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Tưng bừng lễ khai hội mùa thu, Côn Sơn – Kiếp Bạc 2012",
+    "thờ": "Nguyễn Trãi"
+  },
+  {
+    "name": "Khai hội mùa Xuân Côn Sơn - Kiếp Bạc 2013 tại Hải Dương",
+    "thờ": "Huyền Quang tôn giả"
+  },
+  {
+    "name": "Lễ hội mùa thu Côn Sơn - Kiếp Bạc năm 2013 tại Hải Dương",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Khai mạc Lễ hội Mùa Thu Côn Sơn – Kiếp Bạc năm 2013",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ hội mùa xuân Côn Sơn – Kiếp Bạc Hải Dương 2015",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Khai hội đình Châu Khê tại Hải Dương",
+    "thờ": "Phạm Sỹ"
+  },
+  {
+    "name": "Lế hội Chùa Muống tại Hải Dương",
+    "thờ": "Tuệ Nhẫn"
+  },
+  {
+    "name": "Lễ hội đền Cuối tại Hải Dương",
+    "thờ": "Nguyễn Chế Nghĩa"
+  },
+  {
+    "name": "Lễ Hội đền Kiếp Bạc tại Hải Dương",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội chùa Bạch Hào tại Hải Dương",
+    "thờ": "Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội truyền thống Văn miếu Mao Điền tại Hải Dương",
+    "thờ": "Khổng Tử"
+  },
+  {
+    "name": "Lễ Xin Trùm ở đền Cao tại Hải Dương",
+    "thờ": "Vương Đức Minh"
+  },
+  {
+    "name": "Lễ hội chùa Trông tại Hải Dương",
+    "thờ": "Nguyễn Minh Không"
+  },
+  {
+    "name": "Lễ hội chùa Nhẫm Dương tại Hải Dương",
+    "thờ": "Thánh tổ Thuỷ Nguyệt"
+  },
+  {
+    "name": "Lễ hội chùa Minh Khánh tại Hải Dương",
+    "thờ": "Phật hoàng Trần Nhân Tông"
+  },
+  {
+    "name": "Lễ hội Đền Bia tại Hải Dương",
+    "thờ": "Tuệ Tĩnh"
+  },
+  {
+    "name": "Lễ hội đền Sượt tại Hải Dương",
+    "thờ": "Vũ Hựu"
+  },
+  {
+    "name": "Lễ hội đình Ngọc Uyên tại Hải Dương",
+    "thờ": "Lê Viết Hưng và Lê Viết Quang"
+  },
+  {
+    "name": "Lễ hội đền An Phụ tại Hải Dương",
+    "thờ": "An sinh vương Trần Liễu"
+  },
+  {
+    "name": "Lễ hội đình Hàn Bơi tại Hải Dương",
+    "thờ": "Thánh Khai Thiên Thể Đạo"
+  },
+  {
+    "name": "Lễ hội Hàn Sơn ở Thanh Hóa",
+    "thờ": "Thái Úy Lê Thọ Vực"
+  },
+  {
+    "name": "Lễ hội Lê Hoàn tại Thanh Hóa",
+    "thờ": "Lê Đại Hành"
+  },
+  {
+    "name": "Hội đền Tép ở Thanh Hóa",
+    "thờ": "Lê Lai"
+  },
+  {
+    "name": "Tưng bừng lễ hội ở ngôi đền cổ nhất xứ Thanh",
+    "thờ": "Lê Đại Hành"
+  },
+  {
+    "name": "Linh thiêng Lễ hội Đền Sòng Sơn – Ba Dội 2010",
+    "thờ": "Thánh Mẫu Liễu Hạnh và Hoàng đế Quang Trung"
+  },
+  {
+    "name": "Long trọng tổ chức Lễ hội Bà Triệu năm 2015 tại Thanh Hóa",
+    "thờ": "Bà Triệu"
+  },
+  {
+    "name": "Lễ hội Cầu phúc mở đầu năm du lịch Sầm Sơn 2010",
+    "thờ": "Bà Triệu"
+  },
+  {
+    "name": "Sôi động các lễ hội văn hóa-du lịch Sầm Sơn năm 2010",
+    "thờ": "Thần Độc Cước"
+  },
+  {
+    "name": "Thanh Hoá tổ chức Lễ hội Lam Kinh chào mừng Đại lễ 1000 năm Thăng Long",
+    "thờ": "Lê Lợi"
+  },
+  {
+    "name": "Hàng vạn người tham dự Lễ hội Lam Kinh năm 2011",
+    "thờ": "Đức Thái Tổ Lê Lợi"
+  },
+  {
+    "name": "Lễ hội đền Lê Trung Giang 2012 tại Thanh Hoá",
+    "thờ": "Lê Trung Giang"
+  },
+  {
+    "name": "Lễ hội đền Bà Triệu 2012 tại Thanh Hóa",
+    "thờ": "Triệu Thị Trinh"
+  },
+  {
+    "name": "Lễ hội Đền Lê Hoàn kỷ niệm 1007 năm ngày mất của vua Lê Đại Hành",
+    "thờ": "Lê Đại Hành"
+  },
+  {
+    "name": "Đặc sắc lễ hội Lam Kinh 2012 tại Thanh Hóa",
+    "thờ": "Lê Lợi"
+  },
+  {
+    "name": "Tưng bừng lễ hội Bà Triệu 2013 tại Thanh Hóa",
+    "thờ": "Triệu Thị Trinh"
+  },
+  {
+    "name": "Khai mạc Lễ hội Mai An Tiêm tại Thanh Hóa 2013",
+    "thờ": "Mai An Tiêm"
+  },
+  {
+    "name": "Sẵn sàng cho Lễ hội Lam Kinh năm 2013",
+    "thờ": "Vua Lê Lợi"
+  },
+  {
+    "name": "Tưng bừng Lễ hội Lam Kinh - Thanh Hóa năm 2013",
+    "thờ": "Đức Thái Tổ Cao Hoàng đế Lê Lợi"
+  },
+  {
+    "name": "Lễ hội Lam Kinh tại Thanh Hóa",
+    "thờ": "vua Lê Thái Tổ"
+  },
+  {
+    "name": "Lễ hội Bà Triệu tại Thanh Hóa",
+    "thờ": "Bà Triệu Thị Trinh"
+  },
+  {
+    "name": "Lễ hội Đền Sòng tại Thanh Hóa",
+    "thờ": "Mẫu Liễu Hạnh"
+  },
+  {
+    "name": "Lễ hội bánh dày - bánh chưng tại Thanh Hóa",
+    "thờ": "Độc Cước"
+  },
+  {
+    "name": "Lễ Hội Mai An Tiêm tại Thanh Hóa",
+    "thờ": "Mai An Tiêm"
+  },
+  {
+    "name": "Hội Xuân Phả tại Thanh Hóa",
+    "thờ": "Đại Hải Long Vương"
+  },
+  {
+    "name": "Lễ hội cửa đặt tại Thanh Hóa",
+    "thờ": "Cầm Bá Thước"
+  },
+  {
+    "name": "Niềm tự hào của người dân xứ Thanh với Lễ hội Lam Kinh",
+    "thờ": "Lê Lợi"
+  },
+  {
+    "name": "Hội đền Dinh Thầy Thím - một trong 7 lễ hội tiêu biểu của tỉnh Bình Thuận",
+    "thờ": "Thầy Thím"
+  },
+  {
+    "name": "Sẵn sàng cho Lễ hội Nghinh Ông Quan Thánh Đế Quân 2012 tại Phan Thiết",
+    "thờ": "Quan Thánh Đế Quân"
+  },
+  {
+    "name": "Lễ hội Nghinh Ông Quan Thánh Đế Quân tại Bình Thuận",
+    "thờ": "Quan Thánh Đế Quân"
+  },
+  {
+    "name": "TP Phan Thiết chuẩn bị cho Lễ hội Nghinh Ông Quan Thánh Đế Quân 2010",
+    "thờ": "Quan Thánh Đế Quân"
+  },
+  {
+    "name": "Tưng bừng Lễ hội Nghinh Ông Quan Thánh Đế Quân 2010 tại Bình Thuận",
+    "thờ": "Quan Thánh Đế Quân"
+  },
+  {
+    "name": "Khai hội Nghinh Ông Quan Thánh Đế Quân 2012 tại Bình Thuận",
+    "thờ": "Quan Công"
+  },
+  {
+    "name": "Nhiều nét mới trong lễ hội Dinh Thầy Thím năm 2013 tại Bình Thuận",
+    "thờ": "Thầy Thím"
+  },
+  {
+    "name": "Lễ hội văn hóa du lịch Dinh Thầy Thím năm 2013",
+    "thờ": "Thầy Thím"
+  },
+  {
+    "name": "Lễ hội Mbăng Katê của người Chăm tại Bình Thuận",
+    "thờ": "Pô Nagar"
+  },
+  {
+    "name": "Hội đền Dinh Thầy Thím tại Bình Thuận",
+    "thờ": "Thầy và Thím"
+  },
+  {
+    "name": "Lễ hội Po Dam tại Bình Thuận",
+    "thờ": "Pô Dam"
+  },
+  {
+    "name": "Lễ hội Đền Mẫu Thác Bà tại Yên Bái",
+    "thờ": "Minh Đạt"
+  },
+  {
+    "name": "Lễ hội đền Nhược Sơn tại Yên Bái",
+    "thờ": "Hà Khắc Chương"
+  },
+  {
+    "name": "Hội Đền Tuần Quán tại Yên Bái",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Tưng bừng Lễ hội Đền Đại Cại năm 2010 tại Yên Bái",
+    "thờ": "Vũ Thị Ngọc Anh"
+  },
+  {
+    "name": "Linh thiêng và đặc sắc Lễ hội đền Đông Cuông (Yên Bái)",
+    "thờ": "Cao Quan Đại Vương"
+  },
+  {
+    "name": "Lễ hội cầu Cơm mới đền Đông Cuông Yên Bái năm 2013",
+    "thờ": "Cao Quan Đại Vương"
+  },
+  {
+    "name": "Hàng nghìn ngọn nến lung linh trong đêm hội hoa đăng Tây Thiên tỉnh Vĩnh Phúc",
+    "thờ": "Quốc Mẫu Lăng Thị Tiêu"
+  },
+  {
+    "name": "Lễ hội đền Ngô Tướng Công",
+    "thờ": "Ngô Tướng Công"
+  },
+  {
+    "name": "Lễ hội đền Thính ở Vĩnh Phúc",
+    "thờ": "Thánh Tản"
+  },
+  {
+    "name": "Lễ hội kéo co truyền thống làng Hoà Loan ở Vĩnh Phúc",
+    "thờ": "Nữ tướng Lê Ngọc Chinh"
+  },
+  {
+    "name": "Hội Xuân làng Thổ Tang ở Vĩnh Phúc",
+    "thờ": "Lâu Hổ Hầu"
+  },
+  {
+    "name": "Không gian văn hóa hội Rưng tại Vĩnh Phúc",
+    "thờ": "Nguyễn Văn Nhượng"
+  },
+  {
+    "name": "Hội làng Bồ Sao tại Vĩnh Phúc",
+    "thờ": "Đông Hải Long Vương"
+  },
+  {
+    "name": "Lễ hội chọi trâu Hải Lựu hấp dẫn hàng nghìn khách du lịch",
+    "thờ": "Lữ Gia"
+  },
+  {
+    "name": "Tưng bừng lễ hội Tây Thiên xuân Ất Mùi tại Vĩnh Phúc",
+    "thờ": "Lăng Thị Tiêu"
+  },
+  {
+    "name": "Tưng bừng khai hội Tây Thiên tại Vĩnh Phúc",
+    "thờ": "Lăng Thị Tiêu"
+  },
+  {
+    "name": "Khai mạc Lễ hội Tây Thiên năm 2010 tại Vĩnh Phúc",
+    "thờ": "Lăng Thị Tiêu"
+  },
+  {
+    "name": "Du khách nô nức trẩy hội Tây Thiên ở Vĩnh Phúc",
+    "thờ": "Năng Thị Tiêu"
+  },
+  {
+    "name": "Đã sẵn sàng cho Lễ hội Tây Thiên 2012 tại Vĩnh Phúc",
+    "thờ": "Quốc Mẫu Tây Thiên"
+  },
+  {
+    "name": "Sẽ tổ chức Đại Lễ Uống nước nhớ nguồn tại Vĩnh Phúc",
+    "thờ": "Trần Nguyên Hãn"
+  },
+  {
+    "name": "Nhiều hoạt động lễ hội trong Tuần Văn hóa - Du lịch Vĩnh Phúc năm 2013",
+    "thờ": "Tả Tướng quốc Trần Nguyên Hãn"
+  },
+  {
+    "name": "Khai hội Tây Thiên năm 2013",
+    "thờ": "Quốc Mẫu Thượng Ngàn (bà Lăng Thị Tiêu)"
+  },
+  {
+    "name": "Náo nhiệt khai hội Tây Thiên 2014",
+    "thờ": "Quốc Mẫu Lăng Thị Tiêu"
+  },
+  {
+    "name": "Hội vật ở làng Hà tại Vĩnh Phúc",
+    "thờ": "Trần Nguyên Hãn"
+  },
+  {
+    "name": "Lễ hội đúc bụt ở Đồng Tĩnh tại Vĩnh Phúc",
+    "thờ": "Hai Bà Trưng"
+  },
+  {
+    "name": "Lễ hội đền thờ Đức Ông tại Vĩnh Phúc",
+    "thờ": "Nguyễn Văn Nhượng"
+  },
+  {
+    "name": "Lễ hội bơi trải Tứ Yên tại Vĩnh Phúc",
+    "thờ": "Lý Bí"
+  },
+  {
+    "name": "Lễ hội làng Phù Liễn tại Vĩnh Phúc",
+    "thờ": "Bà Ngọc Kinh"
+  },
+  {
+    "name": "Hội chùa Đức La xã Trí Yên ở Bắc Giang",
+    "thờ": "Ba Vương tổ"
+  },
+  {
+    "name": "Đầu xuân vui hội Tiên Lục tại Bắc Giang",
+    "thờ": ["Cao Sơn", "Quý Minh"]
+  },
+  {
+    "name": "Hội làng Hựu tỉnh Bắc Giang",
+    "thờ": ["Cao Sơn", "Quý Minh"]
+  },
+  {
+    "name": "Lễ hội kỷ niệm Chiến thắng Xương Giang ở Bắc Giang",
+    "thờ": ["Lam Sơn"]
+  },
+  {
+    "name": "Lễ hội đền Phủ - Bắc Giang",
+    "thờ": ["Bà Chúa Kho"]
+  },
+  {
+    "name": "Lễ hội đền Đa Mai - Bắc Giang",
+    "thờ": ["Bảo Nương", "Ngọc Nương"]
+  },
+  {
+    "name": "Lễ hội Y Sơn tại Bắc Giang",
+    "thờ": "đức thánh Hùng Linh"
+  },
+  {
+    "name": "Hội làng Đại Phú tại Bắc Giang",
+    "thờ": "Thành hoàng Cao Sơn - Quý Minh"
+  },
+  {
+    "name": "Lễ hội làng Thành tại thành phố Bắc Giang",
+    "thờ": "Cao Sơn - Quý Minh"
+  },
+  {
+    "name": "Hội Đả cầu Lương Phong tại Bắc Giang",
+    "thờ": "Trần Đình Ngọc"
+  },
+  {
+    "name": "Lễ hội Yên Thế, Bắc Giang đã có nhiều khởi sắc",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Tổ chức lễ hội kỷ niệm 130 năm khởi nghĩa Yên Thế tại Bắc Giang",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Bắc Giang xây dựng đề án nâng cấp Lễ hội Yên Thế lên tầm quốc gia",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Lễ hội đền Suối Mỡ tại Bắc Giang",
+    "thờ": "Quế Mỵ Nương"
+  },
+  {
+    "name": "Đền Phủ mở hội tại Bắc Giang",
+    "thờ": "Lý Thị Châu"
+  },
+  {
+    "name": "Hội Chùa Thú tại Tân Yên tỉnh Bắc Giang",
+    "thờ": "Thái Bảo và Phán Thú"
+  },
+  {
+    "name": "Không khí tưng bừng của Lễ hội Yên Thế 2010 tại Bắc Giang",
+    "thờ": "Lương Văn Nắm"
+  },
+  {
+    "name": "Nhộn nhịp Lễ hội Suối Mỡ 2010 tại Bắc Giang",
+    "thờ": "Quế Mỵ Nương"
+  },
+  {
+    "name": "Trang nghiêm Lễ hội kỷ niệm chiến thắng Xương Giang, Bắc Giang",
+    "thờ": "Nguyễn Trãi"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 585 năm Chiến thắng Xương Giang",
+    "thờ": ["Lê Lợi", "Nguyễn Trãi"]
+  },
+  {
+    "name": "Lễ hội Yên Thế hướng tới lễ hội cấp quốc gia",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Lễ công nhận Lễ hội Yên Thế là di sản văn hóa phi vật thể quốc gia",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Hoàn tất công tác chuẩn bị Lễ hội kỷ niệm 130 năm khởi nghĩa Yên Thế tại Bắc Giang",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Tưng bừng tham dự lễ khai mạc Lễ hội Yên Thế tại Bắc Giang",
+    "thờ": "Hoàng Hoa Thám"
+  },
+  {
+    "name": "Lễ hội Đền Đa Mai tưởng niệm công chúa Bảo Nương, Ngọc Nương",
+    "thờ": "Bảo Nương và Ngọc Nương"
+  },
+  {
+    "name": "Lễ hội đền Dành ở xã Liên Chung, tỉnh Bắc Giang",
+    "thờ": "Cao Sơn - Quý Minh"
+  },
+  {
+    "name": "Lễ hội đình Hả tại Bắc Giang",
+    "thờ": "Lương Văn Nắm"
+  },
+  {
+    "name": "Lễ hội Từ Hả tại tỉnh Bắc Giang",
+    "thờ": "Thân Cảnh Phúc"
+  },
+  {
+    "name": "Lễ hội Giáng sinh nhà thờ Phát Diệm tại Ninh Bình",
+    "thờ": "Chúa Jesu"
+  },
+  {
+    "name": "Lễ hội động Thiên Tôn ở Ninh Bình",
+    "thờ": "Thần Thiên Tôn"
+  },
+  {
+    "name": "Lễ hội Yên Cư ở Ninh Bình",
+    "thờ": "Đức Thánh Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ Hội Chùa Nhất Trụ tại Ninh Bình",
+    "thờ": "Vua Lê Đại Hành"
+  },
+  {
+    "name": "Lễ Hội Đền Áp Lãng tại Ninh Bình",
+    "thờ": "Vua Lý Thái Tông"
+  },
+  {
+    "name": "Lễ hội đền Thái Vi Ninh Bình",
+    "thờ": "Vua Trần Thái Tông"
+  },
+  {
+    "name": "Lễ hội cố đô Hoa Lư tại Ninh Bình",
+    "thờ": ["Đinh Tiên Hoàng", "Lê Đại Hành"]
+  },
+  {
+    "name": "Lễ hội đền Thái Vi tại Ninh Bình",
+    "thờ": ["Trần Thái Tông"]
+  },
+  {
+    "name": "Lễ hội chùa Bái Đính tại Ninh Bình",
+    "thờ": ["Lý Quốc Sư", "Quang Trung", "Đinh Bộ Lĩnh"]
+  },
+  {
+    "name": "Tổ chức Lễ hội cố đô Hoa Lư quy mô lớn tại Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Độc đáo lễ rước Thánh Quý Minh Đại Vương ở Ninh Bình",
+    "thờ": "Đức Thánh Quý Minh Đại Vương"
+  },
+  {
+    "name": "Mở cửa đền khai hội truyền thống Cố đô Hoa Lư, Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Du khách nô nức trẩy hội Hoa Lư, Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Sôi động lễ hội Thánh Quý Minh Đại Vương tại Ninh Bình",
+    "thờ": "Đức Thánh Quý Minh Đại Vương"
+  },
+  {
+    "name": "Lễ hội chùa Bái Đính năm 2012",
+    "thờ": "Đức Thánh Nguyễn Minh Không"
+  },
+  {
+    "name": "Náo nức khai hội chùa Bái Đính 2012",
+    "thờ": "Vua Đinh Tiên Hoàng"
+  },
+  {
+    "name": "Tưng bừng Lễ hội thánh Cao Sơn ở Tràng An-Bái Đính",
+    "thờ": "Thánh Quý Minh Đại Vương"
+  },
+  {
+    "name": "Lễ hội truyền thống Cố đô Hoa Lư năm 2013 tại Ninh Bình",
+    "thờ": "Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Hàng ngàn du khách tham dự lễ hội Quý Minh Đại Vương 2013",
+    "thờ": "Đức Thánh Quý Minh Đại Vương"
+  },
+  {
+    "name": "Người dân nô nức trảy hội chùa Bái Đính, Ninh Bình",
+    "thờ": "đức Thánh Nguyễn, Quang Trung, Đinh Bộ Lĩnh"
+  },
+  {
+    "name": "Lễ hội đền Nguyễn Công Trứ tại Ninh Bình",
+    "thờ": "Nguyễn Công Trứ"
+  },
+  {
+    "name": "Lễ hội đền La tại Ninh Bình",
+    "thờ": "Giản Định Đế, Trùng Quang Đế"
+  },
+  {
+    "name": "Lễ hội Trường Yên tại Ninh Bình",
+    "thờ": "Đinh Tiên Hoàng"
+  },
+  {
+    "name": "Lễ hội Thánh Quý Minh đại vương tại Ninh Bình",
+    "thờ": "Thánh Quý Minh"
+  },
+  {
+    "name": "Lễ hội Tháp Bà Ponagar ở Nha Trang",
+    "thờ": "Thiên Y A Na Thánh Mẫu"
+  },
+  {
+    "name": "Lễ hội Yến sào Khánh Hòa",
+    "thờ": "Lê Thị Huyền Trâm"
+  },
+  {
+    "name": "Tưng bừng lễ hội Tháp Bà Ponagar tại Khánh Hoà",
+    "thờ": "Thiên Y A Na"
+  },
+  {
+    "name": "Tưng bừng lễ hội Tháp Bà Ponagar tại Khánh Hoà",
+    "thờ": "Harivácman"
+  },
+  {
+    "name": "Lễ hội Yến Sào - Tôn vinh truyền thống lịch sử ngành nghề",
+    "thờ": "Lê Văn Đạt"
+  },
+  {
+    "name": "Khánh Hòa: Khai hội Tháp Bà Ponagar năm 2013",
+    "thờ": "Thiên Y Ana Thánh Mẫu"
+  },
+  {
+    "name": "Lễ hội Tháp Bà tại Khánh Hoà",
+    "thờ": "Bà Mẹ Xứ sở (Thần Mẫu)"
+  },
+  {
+    "name": "Lễ hội Am Chúa tại Khánh Hoà",
+    "thờ": "Bà Mẹ Xứ Sở (Thánh Mẫu)"
+  },
+  {
+    "name": "Lễ cúng đình Kỳ an - Xuân tế tại Khánh Hoà",
+    "thờ": "Thiên Y A Na Diễn Ngọc Phi"
+  },
+  {
+    "name": "Nô nức trảy hội Đền Hà Giang",
+    "thờ": "Đức Thánh Mẫu Thượng Ngàn Công Chúa Liễu Hạnh và Đức Thánh Trần Hưng Đạo Đại Vương"
+  },
+  {
+    "name": "Lễ hội đền Bến Than ở Thái Nguyên",
+    "thờ": "Mẫu Thoải"
+  },
+  {
+    "name": "Rộn ràng Lễ hội Đuổm, Thái Nguyên",
+    "thờ": "Dương Tự Minh"
+  },
+  {
+    "name": "Nô nức Lễ hội xuân đền Đuổm, Thái Nguyên 2010",
+    "thờ": "Dương Tự Minh"
+  },
+  {
+    "name": "Tổ chức Lễ hội đền Đuổm đón xuân Tân Mão tại Thái Nguyên",
+    "thờ": "Dương Tự Minh"
+  },
+  {
+    "name": "Sôi động lễ hội Núi Văn, Núi Võ tại Thái Nguyên",
+    "thờ": "Lưu Nhân Chú"
+  },
+  {
+    "name": "Lễ hội đền Đuổm tại Thái Nguyên",
+    "thờ": "Dương Tự Minh"
+  },
+  {
+    "name": "Lễ hội đền Giá tại Thái Nguyên",
+    "thờ": "Thánh Gióng"
+  },
+  {
+    "name": "Lễ hội xuân Chùa Hang - Định Hoá tại Thái Nguyên",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hội xuân Chùa Hang - Định Hóa đã được khôi phục",
+    "thờ": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hội thác Pongour ở Lâm Đồng",
+    "thờ": "Kanai"
+  },
+  {
+    "name": "Thác Pongour trước ngày lễ hội mùa xuân",
+    "thờ": "Kanai"
+  },
+  {
+    "name": "Lễ túc yết tại An Giang",
+    "thờ": "Đức tả quân Lê Văn Duyệt"
+  },
+  {
+    "name": "Lễ hội đền Phủ Na tại Thanh Hóa",
+    "thờ": "Bà Triệu"
+  },
+  {
+    "name": "Đại lễ Phật Giáo Hòa Hảo 18-5 tỉnh An Giang",
+    "thờ": "Đức Huỳnh Phú Sổ"
+  },
+  {
+    "name": "Linh thiêng Lễ hội Bà Chúa Xứ, An Giang",
+    "thờ": "Thoại Ngọc Hầu"
+  },
+  {
+    "name": "Nhộn nhịp Lễ hội Vía Bà Chúa Xứ Núi Sam năm 2011",
+    "thờ": "Thoại Ngọc Hầu"
+  },
+  {
+    "name": "Sôi động lễ hội Vía Bà Chúa Xứ Núi Sam, An Giang",
+    "thờ": "Bà Chúa Xứ"
+  },
+  {
+    "name": "Công tác chuẩn bị tổ chức Lễ hội vía bà Chúa Xứ núi Sam năm 2013 tại An Giang",
+    "thờ": "Bà Chúa Xứ"
+  },
+  {
+    "name": "Hội đền Nguyễn Trung Trực ở Chợ Mới tỉnh An Giang",
+    "thờ": "Nguyễn Trung Trực"
+  },
+  {
+    "name": "Lễ hội Kỳ An ở đình Châu Phú của An Giang",
+    "thờ": "Nguyễn Hữu Cảnh"
+  },
+  {
+    "name": "Khai mạc Lễ hội cà phê Buôn Ma Thuột lần thứ 4 năm 2013",
+    "thờ": "Trần Đại Quang"
+  },
+  {
+    "name": "Hội đền Côn Giang tỉnh Thái Bình",
+    "thờ": "Quách Hữu Nghiêm"
+  },
+  {
+    "name": "Lễ hội truyền thống đình Lại Trì tỉnh Thái Bình",
+    "thờ": "Quốc sư Dương Không Lộ"
+  },
+  {
+    "name": "Lễ hội A Sào tỉnh Thái Bình",
+    "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Lễ hội đền A Sào tỉnh Thái Bình được công nhận di sản văn hóa Phi vật thể quốc gia",
+    "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội Đền Ngọc Quế tại Thái Bình",
+    "thờ": "Đỗ Huyền"
+  },
+  {
+    "name": "Lễ hội Đền Tiên La",
+    "thờ": "Vũ Thị Thục"
+  },
+  {
+    "name": "Lễ hội Đền Hét tại xã Thái Thượng - Thái Bình",
+    "thờ": "Phạm Ngũ Lão"
+  },
+  {
+    "name": "Hội miếu Ba Thôn tại Thái Thụy - Thái Bình",
+    "thờ": "Nguyễn Quảng Lại"
+  },
+  {
+    "name": "Tưng bừng khai hội đền A Sào thờ Hưng Đạo Vương tại Thái Bình",
+    "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Khai hội đền Trần và đón nhận bằng xếp hạng di tích quốc gia đặc biệt tại Thái Bình",
+    "thờ": "Các vị vua triều Trần"
+  },
+  {
+    "name": "Lễ khai ấn đền Trần năm 2011 được tổ chức ở cả Thái Bình và Nam Định",
+    "thờ": "Nhà Trần"
+  },
+  {
+    "name": "Khai hội đền Trần 2011 tại Thái Bình",
+    "thờ": "Nhà Trần"
+  },
+  {
+    "name": "Thái Thụy gắn quản lý di tích với các hoạt động tổ chức lễ hội",
+    "thờ": "Nam Hải Đại Vương"
+  },
+  {
+    "name": "Truyền hình trực tiếp Lễ hội Đền Trần Thái Bình vào tối ngày 4/2",
+    "thờ": "Trần Thái Tông"
+  },
+  {
+    "name": "Kế hoạch tổ chức Lễ hội đền Trần năm 2013 tại Thái Bình",
+    "thờ": "Các vua Trần"
+  },
+  {
+    "name": "Tưng bừng Lễ hội mùa Xuân tại chùa Keo - Thái Bình",
+    "thờ": "Quốc sư Dương Không Lộ"
+  },
+  {
+    "name": "Tưng bừng trẩy hội đền Trần năm 2013 ở Thái Bình",
+    "thờ": "các vua Trần, Thái sư Trần Thủ Độ và các hoàng thân quốc thích nhà Trần"
+  },
+  {
+    "name": "Lễ hội Chùa Keo tại Thái Bình",
+    "thờ": "Không Lộ Thiền Sư"
+  },
+  {
+    "name": "Lễ hội ông Đùng – bà Đà tại Thái Bình",
+    "thờ": "Bà chúa Muối (Nguyệt Ánh)"
+  },
+  {
+    "name": "Hội làng La Vân tại Thái Bình",
+    "thờ": "Uy Minh đại vương Lý Nhật Quang"
+  },
+  {
+    "name": "Hội đền Đồng Bằng tại Thái Bình",
+    "thờ": "Hưng Đạo Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hội làng Đồng Xâm tại Thái Bình",
+    "thờ": "Triệu Vũ Đế"
+  },
+  {
+    "name": "Thái Bình Khai hội Đền Trần và đón bằng chứng nhận Di sản Văn hóa phi vật thể Quốc gia",
+    "thờ": "Nhà Trần"
+  },
+  {
+    "name": "Nhà vua 90 tuổi xuống đồng làm lễ Tịch Điền 2018 ở Đọi Sơn",
+    "thờ": "Vua Lê Đại Hành"
+  },
+  {
+    "name": "Lễ hội Tịch Điền Đọi Sơn",
+    "thờ": "Vua Lê Đại Hành"
+  },
+  {
+    "name": "Khai hội Tịch Điền tại Hà Nam năm 2015",
+    "thờ": "Vua Lê Đại Hành"
+  },
+  {
+    "name": "Lễ hội Phát lương Đức Thánh Trần tại Hà Nam",
+    "thờ": "Đức Thánh Trần"
+  },
+  {
+    "name": "Sôi động Lễ hội thả diều Hòa Hậu (Hà Nam)",
+    "thờ": "Nam Cao"
+  },
+  {
+    "name": "Tổ chức Lễ hội Đền Trần Thương chào mừng Đại lễ 1000 năm Thăng Long tại Hà Nam",
+    "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Hàng nghìn người tham dự Lễ hội Đền Trần Thương, Hà Nam",
+    "thờ": "Hưng Đạo Đại Vương Trần Quốc Tuấn"
+  },
+  {
+    "name": "Tưng bừng lễ hội Tịch Điền, Hà Nam",
+    "thờ": "Vua Lê Đại Hành"
+  },
+  {
+    "name": "30.000 túi lương đã được phát trong lễ hội Phát lương đền Trần Thương tỉnh Hà nam",
+    "thờ": "Đức Thánh Trần Hưng Đạo"
+  },
+  {
+    "name": "Tưng bừng hội Đền Bà Vũ 2012",
+    "thờ": "Vũ Nương Công Chúa"
+  },
+  {
+    "name": "Khai hội Tịch điền Xuân Quý Tỵ tại Hà Nam",
+    "thờ": "Lê Đại Hành"
+  },
+  {
+    "name": "Tưng bừng Lễ hội phát lương Đền Trần Thương 2013 tại Hà Nam",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "150.000 túi lương chuẩn bị cho Lễ phát lương đền Trần Thương 2015",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Nô nức tham dự lễ hội phát lương Đền Trần Thương - Hà Nam",
+    "thờ": "Trần Quốc Tuấn"
+  },
+  {
+    "name": "Chủ tịch nước Nguyễn Minh Triết dự Lễ hội Tịch điền Đọi Sơn tỉnh Hà Nam",
+    "thờ": "Lê Đại Hành"
+  },
+  {
+    "name": "Lễ hội đền Trúc tại Hà Nam",
+    "thờ": "Lý Thường Kiệt"
+  },
+  {
+    "name": "Lễ hội đền Trần Thương tại Hà Nam",
+    "thờ": "Trần Hưng Đạo"
+  },
+  {
+    "name": "Lễ hội chùa Đọi Sơn tại Hà Nam",
+    "thờ": "Lý Nhân Tông"
+  },
+  {
+    "name": "Lễ hội đình Đá tại Hà Nam",
+    "thờ": "Nguyệt Nga"
+  },
+  {
+    "name": "Lễ hội làng Gừa tại Hà Nam",
+    "thờ": "Trương Nguyên"
+  },
+  {
+    "name": "Lễ hội làng Mỹ Đôi (Làng Dâu) tại Hà Nam",
+    "thờ": "Ả Đào"
+  },
+  {
+    "name": "Lễ hội đình Thọ Chương tại Hà Nam",
+    "thờ": "Vũ Lang Nữu"
+  },
+  {
+    "name": "Lễ hội đình Đinh tại Hà Nam",
+    "thờ": "Đông Hải Đại Vương Đoàn Thương"
+  },
+  {
+    "name": "Lễ hội khai mùa Mường Thàng tỉnh Hòa Bình",
+    "thờ": "Thành Hoàng"
+  },
+  {
+    "name": "Lễ hội đền Chúa Thác Bờ ở Thung Nai - Hòa Bình",
+    "thờ": "Đinh Thị Vân"
+  },
+  {
+    "name": "Tưng bừng lễ Khai hạ Mường Bi, Hòa bình.",
+    "thờ": "Quốc Mẫu Hoàng Bà"
+  },
+  {
+    "name": "Lễ hội chùa Ông Núi",
+    "thờ": "Hòa thượng Thích Trừng Tịnh"
+  },
+  {
+    "name": "Lễ hội Đống Đa Tây Sơn",
+    "thờ": "Nguyễn Huệ"
+  },
+  {
+    "name": "Tưng bừng lễ hội Đô Thị Nước Mặn tại Bình Định",
+    "thờ": "Thần Hoàng"
+  },
+  {
+    "name": "Đặc sắc Lễ hội cầu ngư Nhơn Hải tại Bình Định",
+    "thờ": "Ông Nam Hải"
+  },
+  {
+    "name": "Lễ hội Đống Đa tại Bình Định",
+    "thờ": "vua Quang Trung"
+  },
+  {
+    "name": "Lễ hội đền thờ vua Lê Thái Tông tại Sơn La",
+    "thờ": "Vua Lê Thái Tông"
+  },
+  {
+    "name": "Lễ hội Đền thờ Vua Lê Thái Tông ở Sơn La",
+    "thờ": "Vua Lê Thái Tông"
+  },
+  {
+    "name": "Tưng bừng khai mạc lễ hội Đền thờ Vua Lê Thái Tông - Sơn La",
+    "thờ": "Vua Lê Thái Tông"
+  },
+  {
+    "name": "Độc đáo lễ hội rước Mẫu thành Tuyên",
+    "thờ": "Phương Dung và Ngọc Lân"
+  },
+  {
+    "name": "Lễ hội đình Giếng Tanh tại Tuyên Quang",
+    "thờ": "Đức vua Cả Nghiêm Sơn và Đức vua Ngọc Sơn"
+  },
+  {
+    "name": "Lễ hội Lồng Tông tại Tuyên Quang",
+    "thờ": "Thần Nông"
+  },
+  {
+    "name": "Lễ hội Đền Hạ tại Tuyên Quang",
+    "thờ": "Mẫu Thần"
+  },
+  {
+    "name": "Đặc sắc Lễ hội Lồng tông Bản Cuống tại Tuyên Quang",
+    "thờ": "Ma Doãn Giáo"
+  },
+  {
+    "name": "Lễ giỗ đại vương Lê Khôi tại đền Chiêu Trưng ở Hà Tĩnh",
+    "thờ": "Lê Khôi"
+  },
+  {
+    "name": "Lễ hội tế Lục vị Tổ sư truyền nghề ở Hà Tĩnh",
+    "thờ": "Lục vị Tổ sư"
+  },
+  {
+    "name": "Lễ tế Thánh sư Thợ rèn ở Hà Tĩnh",
+    "thờ": "Thánh sư Thợ rèn"
+  },
+  {
+    "name": "Lễ hội Giỗ tổ Hùng Vương tại chùa Đại Hùng – phường Đậu Liêu ở Hà Tĩnh",
+    "thờ": "Hùng Vương"
+  },
+  {
+    "name": "Lễ Hội Báo Ân Đô Đài Ngự Sử Bùi Cầm Hổ ở Hà Tĩnh",
+    "thờ": "Bùi Cầm Hổ"
+  },
+  {
+    "name": "Lễ Hội Hải Thượng Lãn Ông - Lê Hữu Trác ở Hà Tĩnh",
+    "thờ": "Lê Hữu Trác"
+  },
+  {
+    "name": "Lễ hội ông tổ lò rèn tại Hà Tĩnh",
+    "thờ": "Ông Đùng"
+  },
+  {
+    "name": "Lễ hội Đền Bà Hải tại Hà Tĩnh",
+    "thờ": "Nguyễn Thị Bích Châu"
+  },
+  {
+    "name": "Chuẩn bị cho lễ kỷ niệm năm sinh, năm mất Đại thi hào Nguyễn Du tại Hà Tĩnh",
+    "thờ": "Đại thi hào Nguyễn Du"
+  },
+  {
+    "name": "Linh thiêng Lễ hội rước sắc phong Vua Hàm Nghi tại Hà Tĩnh",
+    "thờ": "Vua Hàm Nghi"
+  },
+  {
+    "name": "Lễ hội Đô Đài và trò Đình Đụn tại Hà Tĩnh",
+    "thờ": "Đô đài Ngự Sử - Bùi Cầm Hổ"
+  },
+  {
+    "name": "Lễ hội rước sắc phong Vua Hàm Nghi tại Hà Tĩnh",
+    "thờ": "Vua Hàm Nghi"
+  },
+  {
+    "name": "Lễ hội đền Chiêu Trưng tại Hà Tĩnh",
+    "thờ": "Lê Khôi"
+  },
+  {
+    "name": "Lễ vía bà Phi Yến tại Côn Đảo",
+    "thờ": "Bà Phi Yến"
+  },
+  {
+    "name": "Lễ hội Nghinh Ông đình Thắng Tam ở Bà Rịa - Vũng Tàu",
+    "thờ": "Thắng Tam"
+  },
+  {
+    "name": "Lễ Hội Trùng Cửu cầu an lành tại Bà Rịa - Vũng Tàu",
+    "thờ": "Ông Trần (Lê Văn Mưu)"
+  },
+  {
+    "name": "Bà Rịa – Vũng Tàu: Nâng cấp Lễ hội Nghinh Ông thành một lễ hội lớn trong năm 2011",
+    "thờ": "Ông Trần Văn Triêm"
+  },
+  {
+    "name": "Hàng nghìn du khách tham dự lễ hội Trùng Cửu ở BR-VT",
+    "thờ": "Trần Văn Mưu"
+  },
+  {
+    "name": "Tấp nập lễ hội Trùng Cửu 2012 tại Vũng tàu",
+    "thờ": "Trần Văn Mưu"
+  },
+  {
+    "name": "Lễ hội Miếu Bà tại Bà Rịa - Vũng Tàu",
+    "thờ": "Thiệu Trị"
+  },
+  {
+    "name": "Hội thôn Thổ Hoàng tỉnh Hưng Yên",
+    "thờ": "Triệu Quang Phục"
+  },
+  {
+    "name": "Nô nức khai hội đền Phù Ủng tại Hưng Yên",
+    "thờ": "Phạm Ngũ Lão"
+  },
+  {
+    "name": "Hưng Yên tổ chức Lễ hội kỷ niệm 599 năm ngày sinh Đào Nương Đào Thị Huệ",
+    "thờ": "Đào Thị Huệ"
+  },
+  {
+    "name": "Lễ hội Hành trình thiên đô tái hiện lịch sử dời đô 1000 năm trước",
+    "thờ": "Lý Công Uẩn (Lý Thái Tổ)"
+  },
+  {
+    "name": "Tổ chức Lễ hội đền Phù Ủng tại Hưng Yên tưởng nhớ tướng quân Phạm Ngũ Lão",
+    "thờ": "Phạm Ngũ Lão"
+  },
+  {
+    "name": "Đặc sắc lễ hội Đào Nương tại Hưng Yên",
+    "thờ": "Đào Thị Huệ"
+  },
+  {
+    "name": "Long trọng tổ chức Lễ khai hội đền Mẫu tại Hưng Yên",
+    "thờ": "Dương Quý Phi"
+  },
+  {
+    "name": "Khai hội đền Phù Ủng tại Hưng Yên",
+    "thờ": "Phạm Ngũ Lão"
+  },
+  {
+    "name": "Lễ hội đền Chử Đồng Tử tại Hưng Yên",
+    "thờ": "Chử Đồng Tử"
+  },
+  {
+    "name": "Lễ hội Đền An Xá tại Hưng Yên",
+    "thờ": "Ngũ Lão tiên ông"
+  },
+  {
+    "name": "Lễ hội đền Ủng tại Hưng Yên",
+    "thờ": "Phạm Ngũ Lão"
+  },
+  {
+    "name": "Lễ hội Đền Thiên Hậu tại Hưng Yên",
+    "thờ": "Lâm Tức Mặc"
+  },
+  {
+    "name": "Tổ chức lễ hội Đào Nương tại Hưng Yên",
+    "thờ": "Đào Thị Huệ"
+  },
+  {
+    "name": "Lễ hội đền Kỳ Cùng – Tả Phủ ở Lạng Sơn",
+    "thờ": "Ông Thân Công Tài"
+  },
+  {
+    "name": "Lễ hội Kỳ Cùng – Tả Phù tại Lạng Sơn",
+    "thờ": "Tuần Tranh"
+  },
+  {
+    "name": "Tấp nập lễ hội truyền thống Đền Kỳ Cùng ở Lạng Sơn",
+    "thờ": "Thân Công Tài"
+  },
+  {
+    "name": "Đặc sắc Lễ hội đền Tả Phủ tại Lạng Sơn",
+    "thờ": "Thân Công Tài"
+  },
+  {
+    "name": "Tưng bừng Lễ hội đền Vua Lê 2013 ở Lạng Sơn",
+    "thờ": "Vua Lê"
+  },
+  {
+    "name": "Nô nức trẩy hội đền Tả Phủ - Kỳ Cùng tại Lạng Sơn",
+    "thờ": "Tuần Tranh"
+  },
+  {
+    "name": "Nô nức trảy hội chùa Tiên - Lạng Sơn",
+    "thờ": "Ông Tiên"
+  },
+  {
+    "name": "Lễ hội đền vua Lê tại Lạng Sơn",
+    "thờ": "Vua Lê Thái Tổ - Lê Lợi"
+  },
+  {
+    "name": "Lễ hội Quỳnh Sơn tại Lạng Sơn",
+    "thờ": "Ông Dương Tự Minh"
+  },
+  {
+    "name": "Lễ hội chùa Ông – Thu Xà tại Quảng Ngãi",
+    "thờ": "Quan Công"
+  },
+  {
+    "name": "Lễ khao lề thế lính Hoàng Sa, Quảng Ngãi",
+    "thờ": "Lí Thường Kiệt"
+  },
+  {
+    "name": "Tổ chức Lễ hội gắn kết cộng đồng các dân tộc tại Quảng Ngãi",
+    "thờ": "Thánh Mẫu Thiên YANA"
+  },
+  {
+    "name": "Đặc sắc Lễ hội điện Trường Bà tại Quảng Ngãi",
+    "thờ": "Thánh Mẫu Thiên Yana"
+  },
+  {
+    "name": "Lễ hội cúng cá Ông tại Quảng Ngãi",
+    "thờ": "Ngư Ông"
+  },
+  {
+    "name": "Lễ hội điện Trường Bà tại Quảng Ngãi",
+    "thờ": "Thánh Mẫu Thiên Yana"
+  },
+  {
+    "name": "Lễ hội Then Kin Pang tại Lai Châu",
+    "thờ": "Vua Trời"
+  },
+  {
+    "name": "Lễ hội Nàng Han ở Phong Thổ tại Lai Châu",
+    "thờ": "Nàng Han"
+  },
+  {
+    "name": "Lễ hội Nàng Han tại Lai Châu",
+    "thờ": "Nàng Han"
+  },
+  {
+    "name": "Tái hiện lịch sử hào hùng của dân tộc qua lễ hội Cần Vương, Quảng Trị 2010",
+    "thờ": "Hàm Nghi"
+  },
+  {
+    "name": "Xúc động Ngày hội Thống nhất non sông tại Quảng Trị",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hành hương La Văng 2012 tại Quảng Trị",
+    "thờ": "Đức Thánh cha Gioan 23"
+  },
+  {
+    "name": "Lễ hội Trường Sơn huyền thoại tại Quảng Trị",
+    "thờ": "các anh hùng liệt sỹ"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 142 năm ngày mất của Anh hùng dân tộc Nguyễn Trung Trực tại Kiên Giang",
+    "thờ": "Nguyễn Trung Trực"
+  },
+  {
+    "name": "Khai mạc tuần lễ Phật đản tại Kiên Giang",
+    "thờ": "Đức Phật"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 143 năm ngày sinh của anh hùng dân tộc Nguyễn Trung Trực",
+    "thờ": "Nguyễn Trung Trực"
+  },
+  {
+    "name": "Chuẩn bị Lễ hội kỷ niệm Ngày mất Anh hùng liệt sĩ Phan Thị Ràng tại Kiên Giang",
+    "thờ": "Phan Thị Ràng"
+  },
+  {
+    "name": "Lễ hội kỷ niệm 145 năm ngày mất của Nguyễn Trung Trực tại Kiên Giang",
+    "thờ": "Nguyễn Trung Trực"
+  },
+  {
+    "name": "Khai mạc lễ hội Chị Sứ năm 2015 tại Kiên Giang",
+    "thờ": "Phan Thị Ràng"
+  },
+  {
+    "name": "Lễ giỗ Đức khai trấn Mạc Cửu tại Kiên Giang",
+    "thờ": "Mạc Cửu"
+  },
+  {
+    "name": "Lễ hội truyền thống Nguyễn Trung Trực tại Kiên Giang",
+    "thờ": "Nguyễn Trung Trực"
+  },
+  {
+    "name": "Lễ hội Quán âm Nam Hải tại Bạc Liêu",
+    "thờ": "Quan Thế Âm Bồ Tát"
+  },
+  {
+    "name": "Lễ hội Dạ cổ hoài lang tại Bạc Liêu",
+    "thờ": "Cao Văn Lầu"
+  },
+  {
+    "name": "Tổ chức long trọng lễ hội Quán âm Nam Hải tại Bạc Liêu",
+    "thờ": "Đức Thích Minh Lành"
+  },
+  {
+    "name": "Tổ chức ''Lễ hội Dạ cổ hoài lang'' qui mô lớn tại Bạc Liêu",
+    "thờ": "Cao Văn Lầu"
+  },
+  {
+    "name": "Hàng ngàn người tham dự Lễ Quán âm Phật đài Nam Hải - Bạc Lie",
+    "thờ": "Quan Thế Âm Bồ Tát"
+  },
+  {
+    "name": "Lễ hội nghinh Ông ở Đông Hải tại Bạc Liêu",
+    "thờ": "Ông Nam Hải"
+  },
+  {
+    "name": "Lễ hội Nguyễn Đình Chiểu tại Bến Tre",
+    "thờ": "Nguyễn Đình Chiểu"
+  },
+  {
+    "name": "Lễ hội tưởng nhớ nhà thơ yêu nước Nguyễn Đình Chiểu tại Bến Tre",
+    "thờ": "Nguyễn Đình Chiểu"
+  },
+  {
+    "name": "Lễ hội truyền thống cách mạng tại Bến Tre",
+    "thờ": "Cách mạng Đồng Khởi"
+  },
+  {
+    "name": "Lễ hội Nghinh Ông tại Bến Tre",
+    "thờ": "Nam Hải"
+  },
+  {
+    "name": "Lễ hội đền Hoàng Công Chất tại Điện Biên",
+    "thờ": "Hoàng Công Chất"
+  },
+  {
+    "name": "Khai hội Đền thờ Hoàng Công Chất - Thành Bản Phủ tại Điện Biên 2013",
+    "thờ": "Hoàng Công Chất"
+  },
+  {
+    "name": "Lễ hội Thành Bàn Phủ tại Điện Biên",
+    "thờ": "Hoàng Công Chất"
+  },
+  {
+    "name": "Lễ hội đền Lê Thành Phương tại Phú Yên",
+    "thờ": "Lê Thành Phương"
+  },
+  {
+    "name": "Lễ hội chùa Từ Quang tại Phú Yên",
+    "thờ": "Trần Cao Vân"
+  },
+  {
+    "name": "13 tỉnh thành sẽ tham gia Ngày hội VHTTDL khu vực miền Trung – Tây Nguyên 2011",
+    "thờ": "Bác Hồ"
+  },
+  {
+    "name": "Lễ rước thần ở đình làng tại Quảng Bình",
+    "thờ": "Thành Hoàng Bổn Thổ"
+  },
+  {
+    "name": "Lễ hội Nam Kỳ khởi nghĩa tỉnh Tiền Giang",
+    "thờ": "Nguyễn Thị Thập"
+  },
+  {
+    "name": "Lễ giỗ anh hùng dân tộc Trương Định tỉnh Tiền Giang",
+    "thờ": "Trương Định"
+  },
+  {
+    "name": "Lễ hội Nghinh Ông Vàm Láng tại Tiền Giang",
+    "thờ": "Thủy Tướng"
+  },
+  {
+    "name": "Tôn nghiêm đêm hội vía Phật Di Đà chùa Đức Hòa, Bình Dương",
+    "thờ": "Phật A Di Đà"
+  },
+  {
+    "name": "Hàng nghìn người dân đổ về Bình Dương tham gia Lễ hội chùa Bà Thiên Hậu năm 2010",
+    "thờ": "Bà Thiên Hậu"
+  },
+  {
+    "name": "Tưng bừng Lễ hội chùa Bà Thiên Hậu, Bình Dương",
+    "thờ": "Bà Thiên Hậu"
+  },
+  {
+    "name": "Lễ vía Quan Thánh Đế tại Cần Thơ",
+    "thờ": "Quan Thánh Đế"
+  },
+  {
+    "name": "Lễ giỗ Cụ Nguyễn Sinh Sắc tại Đồng Tháp",
+    "thờ": "Nguyễn Sinh Sắc"
+  },
+  {
+    "name": "Tưng bừng lễ hội Gò Tháp tại Đồng Tháp",
+    "thờ": ["Thiên Hộ Vương", "Đốc Binh Kiều"]
+  },
+  {
+    "name": "Lễ hội Gò Tháp tại Đồng Tháp",
+    "thờ": ["Đốc Binh Kiều", "Thiên Hộ Dương"]
+  },
+  {
+    "name": "Hội đình Định Yên tại Đồng Tháp",
+    "thờ": ["Phạm Văn An"]
+  },
+  {
+    "name": "Lễ tết Chol Chnăm Thmây tại Bình Phước",
+    "thờ": "Ka Bbưl Maha Brưm"
+  },
+  {
+    "name": "Tổ chức trọng thể Lễ kỷ niệm 70 năm ngày Bác Hồ về nước tại Cao Bằng",
+    "thờ": "Hồ Chí Minh"
+  },
+  {
+    "name": "Lễ hội đền Kỳ Sầm tại Cao Bằng",
+    "thờ": "Nùng Trí Cao"
+  },
+  {
+    "name": "Lễ hội Chùa Phố Cũ tại Cao Bằng",
+    "thờ": "Quan Vân Trường"
+  },
+  {
+    "name": "Lễ hội chùa Sùng Phúc tại Cao Bằng",
+    "thờ": "Nguyễn Thị Duệ"
+  },
+  {
+    "name": "Lễ hội Kỳ Yên Đình Tân Lân tại Đồng Nai",
+    "thờ": "Trần Thượng Xuyên"
+  },
+  {
+    "name": "Lễ cúng biển ở Mỹ Long tại Trà Vinh",
+    "thờ": "Quan Công"
+  },
+  {
+    "name": "Lễ hội Vía Bà Thiên Hậu tại Cà Mau",
+    "thờ": "Bà Thiên Hậu"
+  },
+  {
+    "name": "Lễ hội Lăng Ông ở Trà Ôn tại Vĩnh Long",
+    "thờ": "Nguyễn Văn Tồn"
+  },
+  {
+    "name": "Khai mạc Ngày hội văn hóa - thể thao các dân tộc tỉnh Đắk Nông 2011",
+    "thờ": "Yun Jông"
+  },
+  {
+    "name": "Tây Ninh trong những ngày diễn ra Lễ hội núi Bà Đen – 2010",
+    "thờ": "Đức Phật Mẫu"
+  }
 ]
